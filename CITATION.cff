@@ -17,6 +17,12 @@ authors:
   - family-names: Domínguez Castellano
     given-names: Miguel Ángel
     affiliation: Add4u
+  - family-names: Jiménez
+    given-names: Enrique
+    affiliation: Ayuntamiento de Pozuelo de Alarcón
+  - family-names: García
+    given-names: Roberto
+    affiliation: Ayuntamiento de Pozuelo de Alarcón
 version: "3.0"
 date-released: "2026-09-01"
 license: CC-BY-4.0

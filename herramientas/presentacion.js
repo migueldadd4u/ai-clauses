@@ -139,6 +139,7 @@ module.exports = [
     anchas: true,
     filas: [
       ['El clausulado completo', 'Catálogo, memoria justificativa para la Intervención, circuito del expediente, caso piloto y anexos con todos los modelos.', 'Quien redacta y quien fiscaliza'],
+      ['La guía municipal · 20 páginas', 'Cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer el catálogo entero.', 'Concejalía, Contratación, Intervención y TI'],
       ['El resumen y la guía de uso', 'La primera parte del documento, escrita para quien no sabe nada de contratación ni de tecnología.', 'Alcaldía, concejalías, prensa'],
       ['Esta presentación', 'El problema y la solución, sin que haga falta saber nada previo.', 'Cualquier sala'],
     ],
@@ -147,7 +148,7 @@ module.exports = [
   {
     tipo: 'autores',
     titulo: 'Quién lo ha hecho',
-    intro: 'Un trabajo conjunto de varios meses entre tres personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.',
+    intro: 'Un trabajo conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.',
     autores: [
       {
         nombre: 'Delfina Lafuente Veira',
@@ -167,8 +168,14 @@ module.exports = [
         enlace: 'miguelangeldominguez.info',
         aporte: 'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
       },
+      {
+        nombre: 'Enrique Jiménez y Roberto García',
+        cargo: 'Técnicos del área de contratación · Ayuntamiento de Pozuelo de Alarcón',
+        enlace: '',
+        aporte: 'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
+      },
     ],
-    nota: 'El área de contratación del Ayuntamiento de Pozuelo de Alarcón no figura como autora y sin embargo ha determinado la forma del documento más que ninguna otra aportación: sus tres objeciones son la razón de ser de esta versión.',
+    nota: 'Las tres objeciones formuladas desde el área de contratación son la razón de ser de esta versión y están respondidas en el cuerpo del documento.',
   },
   {
     tipo: 'destacado',

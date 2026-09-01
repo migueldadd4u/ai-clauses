@@ -26,6 +26,8 @@ y de Cláusulas Administrativas Particulares, y para su fiscalización
 
 Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano
 
+Enrique Jiménez · Roberto García — autoría y supervisión técnica
+
 Elaborado con asistencia de sistemas de inteligencia artificial. Véase la declaración
 de la primera sección, conforme al artículo 50 del Reglamento (UE) 2024/1689.
 

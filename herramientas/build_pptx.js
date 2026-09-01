@@ -238,24 +238,25 @@ nueva();
 titulo('Qué hay publicado, y para quién');
 const docs = [
   ['El clausulado completo', 'Catálogo, memoria justificativa para la Intervención, circuito del expediente, caso piloto y anexos con todos los modelos.', 'Quien redacta y quien fiscaliza'],
+  ['La guía municipal · 20 páginas', 'Cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer el catálogo entero.', 'Concejalía, Contratación, Intervención y TI'],
   ['El resumen y la guía de uso', 'La primera parte del documento, escrita para quien no sabe nada de contratación ni de tecnología.', 'Alcaldía, concejalías, prensa'],
   ['Esta presentación', 'El problema y la solución, sin que haga falta saber nada previo.', 'Cualquier sala'],
 ];
 docs.forEach((d, i) => {
-  const y = 1.75 + i * 1.55;
-  tarjeta(0.9, y, 11.5, 1.35, TINTE);
-  s.addText(d[0], { x: 1.2, y: y + 0.15, w: 3.4, h: 1.05, fontFace: F_TIT, fontSize: 18, bold: true, color: AZUL, valign: 'middle' });
-  s.addText(d[1], { x: 4.7, y: y + 0.15, w: 5.4, h: 1.05, fontFace: F_TXT, fontSize: 14, color: CARBON, valign: 'middle' });
-  s.addText(d[2], { x: 10.2, y: y + 0.15, w: 2.0, h: 1.05, fontFace: F_TXT, fontSize: 12.5, italic: true, color: GRIS, valign: 'middle' });
+  const y = 1.55 + i * 1.25;
+  tarjeta(0.9, y, 11.5, 1.08, TINTE);
+  s.addText(d[0], { x: 1.2, y: y + 0.12, w: 3.4, h: 0.84, fontFace: F_TIT, fontSize: 16.5, bold: true, color: AZUL, valign: 'middle' });
+  s.addText(d[1], { x: 4.7, y: y + 0.12, w: 5.4, h: 0.84, fontFace: F_TXT, fontSize: 12.8, color: CARBON, valign: 'middle' });
+  s.addText(d[2], { x: 10.2, y: y + 0.12, w: 2.0, h: 0.84, fontFace: F_TXT, fontSize: 11.2, italic: true, color: GRIS, valign: 'middle' });
 });
 s.addText('Todo en abierto, bajo licencia Creative Commons Attribution 4.0: se puede copiar, adaptar y usar con cualquier finalidad, citando la autoría.', {
-  x: 0.9, y: 6.4, w: 11.5, h: 0.7, fontFace: F_TXT, fontSize: 15, color: CARBON,
+  x: 0.9, y: 6.65, w: 11.5, h: 0.45, fontFace: F_TXT, fontSize: 13.5, color: CARBON,
 });
 
 /* ---------- 12 · créditos ---------- */
 nueva();
 titulo('Quién lo ha hecho');
-s.addText('Un trabajo conjunto de varios meses entre tres personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.', {
+s.addText('Un trabajo conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.', {
   x: 0.9, y: 1.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 16, color: CARBON,
 });
 const autores = [
@@ -271,16 +272,20 @@ const autores = [
    'CEO de Add4u · Presidente de Alastria · Presidente del Clúster de Blockchain de la Comunidad de Madrid',
    'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
    'miguelangeldominguez.info'],
+  ['Enrique Jiménez y Roberto García',
+   'Técnicos del área de contratación · Ayuntamiento de Pozuelo de Alarcón',
+   'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
+   ''],
 ];
 autores.forEach((a, i) => {
-  const y = 2.25 + i * 1.5;
-  s.addShape(p.ShapeType.rect, { x: 0.9, y, w: 0.09, h: 1.28, fill: { color: AZUL }, line: { type: 'none' } });
-  s.addText(a[0], { x: 1.3, y, w: 11.0, h: 0.4, fontFace: F_TIT, fontSize: 18, bold: true, color: AZUL });
-  s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.4, w: 11.0, h: 0.32, fontFace: F_TXT, fontSize: 13, color: GRIS });
-  s.addText(a[2], { x: 1.3, y: y + 0.74, w: 11.0, h: 0.55, fontFace: F_TXT, fontSize: 13.5, color: CARBON });
+  const y = 2.15 + i * 1.06;
+  s.addShape(p.ShapeType.rect, { x: 0.9, y, w: 0.09, h: 0.9, fill: { color: AZUL }, line: { type: 'none' } });
+  s.addText(a[0], { x: 1.3, y, w: 11.0, h: 0.27, fontFace: F_TIT, fontSize: 15.5, bold: true, color: AZUL });
+  s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.27, w: 11.0, h: 0.23, fontFace: F_TXT, fontSize: 10.8, color: GRIS });
+  s.addText(a[2], { x: 1.3, y: y + 0.5, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 11.4, color: CARBON });
 });
-s.addText('El área de contratación del Ayuntamiento de Pozuelo de Alarcón no figura como autora y sin embargo ha determinado la forma del documento más que ninguna otra aportación: sus tres objeciones son la razón de ser de esta versión.', {
-  x: 0.9, y: 6.35, w: 11.5, h: 0.8, fontFace: F_TXT, fontSize: 13.5, italic: true, color: GRIS,
+s.addText('Las tres objeciones formuladas desde el área de contratación son la razón de ser de esta versión y están respondidas en el cuerpo del documento.', {
+  x: 0.9, y: 6.55, w: 11.5, h: 0.45, fontFace: F_TXT, fontSize: 11.8, italic: true, color: GRIS,
 });
 
 /* ---------- 12 bis · uso de IA y condiciones de uso ---------- */

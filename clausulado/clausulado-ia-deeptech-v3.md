@@ -9,6 +9,8 @@ y de Cláusulas Administrativas Particulares, y para su fiscalización
 
 Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano
 
+Enrique Jiménez · Roberto García — autoría y supervisión técnica
+
 Elaborado con asistencia de sistemas de inteligencia artificial. Véase la declaración
 de la primera sección, conforme al artículo 50 del Reglamento (UE) 2024/1689.
 
@@ -35,7 +37,7 @@ que sigue.*
 **Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
 administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
 
-**Qué es:** un trabajo profesional de las tres personas que lo firman, una de las cuales ejerce un
+**Qué es:** un trabajo profesional de las cinco personas que lo firman, una de las cuales ejerce un
 cargo público en ese Ayuntamiento.
 
 **Qué falta para que pueda incorporarse a un expediente:** las tres condiciones suspensivas que la
@@ -62,7 +64,7 @@ publicación.
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo
-conjunto de varios meses entre tres personas, cada una desde su oficio, con el Ayuntamiento de
+conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de
 Pozuelo de Alarcón como banco de pruebas real.
 
 **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
@@ -104,11 +106,12 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**El área de contratación del Ayuntamiento de Pozuelo de Alarcón** no figura como autora y sin
-embargo ha determinado la forma del documento más que ninguna otra aportación. Sus tres objeciones
-—que unas cláusulas que no nacen de una necesidad demandada son artificiosas al contrato, que el
-grado de abstracción era demasiado alto, y que había que probarlo en un contrato real antes de
-generalizarlo— están respondidas en el cuerpo del texto y son la razón de ser de esta versión.
+**Enrique Jiménez y Roberto García** — técnicos del área de contratación del Ayuntamiento de Pozuelo
+de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de la práctica municipal y
+la supervisión técnica de la formulación contractual. Las tres objeciones del área —que unas cláusulas
+que no nacen de una necesidad demandada son artificiosas al contrato, que el grado de abstracción era
+demasiado alto, y que había que probarlo en un contrato real antes de generalizarlo— están respondidas
+en el cuerpo del texto y son la razón de ser de esta versión.
 
 ---
 
@@ -118,7 +121,7 @@ Conviene decirlo antes que nada, y con precisión, porque de ello depende que na
 
 **Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
 aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
-y no expresa la posición de la Corporación. Es un trabajo profesional de las tres personas que lo
+y no expresa la posición de la Corporación. Es un trabajo profesional de las cinco personas que lo
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado se ha construido sobre un caso real de
