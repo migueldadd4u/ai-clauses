@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: >-
+  Cláusulas de Inteligencia Artificial y Deep Tech.
+  Catálogo de cláusulas para pliegos de contratación pública
+message: >-
+  Si utiliza este material, cítelo como se indica. Se publica tal cual (as is)
+  y no es asesoramiento legal.
+type: dataset
+authors:
+  - family-names: Lafuente Veira
+    given-names: Delfina
+    affiliation: Ayuntamiento de Pozuelo de Alarcón
+  - family-names: Ondiviela García
+    given-names: José Antonio
+    name-suffix: Dr.
+    affiliation: Universidad Francisco de Vitoria
+  - family-names: Domínguez Castellano
+    given-names: Miguel Ángel
+    affiliation: Add4u
+version: "3.0"
+date-released: "2026-09-01"
+license: CC-BY-4.0
+keywords:
+  - contratación pública
+  - inteligencia artificial
+  - pliegos
+  - administración local
+  - Reglamento (UE) 2024/1689
+abstract: >-
+  Catálogo de cláusulas tipo de inteligencia artificial y tecnologías deep tech
+  para su incorporación motivada a los pliegos de prescripciones técnicas y de
+  cláusulas administrativas particulares, con la memoria justificativa, el
+  circuito del expediente, un caso piloto resuelto y veinticinco anexos con los
+  modelos. Nace de un caso real del Ayuntamiento de Pozuelo de Alarcón y de las
+  objeciones de su área de contratación. No es un documento oficial de ese
+  Ayuntamiento ni ha sido aprobado por ningún órgano municipal.
