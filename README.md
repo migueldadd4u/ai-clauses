@@ -78,15 +78,15 @@ Las tres objeciones están respondidas dentro del documento, no en una nota al p
 Un trabajo conjunto de varios meses entre tres personas, cada una desde su oficio, con el
 Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.
 
-- **Delfina Lafuente Veira** — Concejal de Administración Digital, Calidad e Innovación del
+- **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
   Ayuntamiento de Pozuelo de Alarcón. De ella nace el proyecto y suya es la primera redacción del
   clausulado. Y suyo es el mérito menos visible: haberlo llevado a los servicios de contratación y
   jurídicos de su propio ayuntamiento y haber traído sus objeciones de vuelta enteras.
-- **Dr. José Antonio Ondiviela García** — Profesor de la Escuela Politécnica Superior e investigador
+- **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e investigador
   de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades Atractivas.
   Aportó la mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará
   que no se presente.
-- **Miguel Ángel Domínguez Castellano** — CEO de Add4u, compañía de transformación digital de la
+- **[Miguel Ángel Domínguez Castellano](https://miguelangeldominguez.info)** — CEO de Add4u, compañía de transformación digital de la
   Administración pública, y presidente de Alastria, el mayor ecosistema blockchain de España, cargo
   para el que fue reelegido por unanimidad en junio de 2025 con mandato hasta 2027. Preside también
   el Clúster de Blockchain de la Comunidad de Madrid e impulsa, desde Alastria, la Infraestructura de

@@ -105,6 +105,7 @@ const CSS = `
   .autor .barra { width: 4px; background: #1F3864; border-radius: 2px; }
   .autor .nom { font-family: Georgia, serif; font-size: 16pt; font-weight: 700; color: #1F3864; }
   .autor .car { font-size: 11.5pt; color: #6E6A63; margin: .03in 0 .06in; }
+  .autor .url { color: #2F5496; }
   .autor .ap { font-size: 12pt; line-height: 1.4; }
   .nota { font-size: 11.5pt; font-style: italic; color: #6E6A63; margin-top: .1in; }
 `;
@@ -186,7 +187,7 @@ const render = s => {
         <p class="intro">${esc(s.intro)}</p>
         ${s.autores.map(a => `<div class="autor"><div class="barra"></div><div>
           <p class="nom">${esc(a.nombre)}</p>
-          <p class="car">${esc(a.cargo)}</p>
+          <p class="car">${esc(a.cargo)}${a.enlace ? ` · <span class="url">${esc(a.enlace)}</span>` : ''}</p>
           <p class="ap">${esc(a.aporte)}</p></div></div>`).join('')}
         <p class="nota">${esc(s.nota)}</p>
       </section>`;

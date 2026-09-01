@@ -152,16 +152,19 @@ module.exports = [
       {
         nombre: 'Delfina Lafuente Veira',
         cargo: 'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón',
+        enlace: 'pozuelodealarcon.org',
         aporte: 'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
       },
       {
         nombre: 'Dr. José Antonio Ondiviela García',
         cargo: 'Profesor e investigador de la Escuela Politécnica Superior · Universidad Francisco de Vitoria',
+        enlace: 'ufv.es',
         aporte: 'La mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará que no se presente. Suya es la idea que resuelve el problema de fondo.',
       },
       {
         nombre: 'Miguel Ángel Domínguez Castellano',
         cargo: 'CEO de Add4u · Presidente de Alastria · Presidente del Clúster de Blockchain de la Comunidad de Madrid',
+        enlace: 'miguelangeldominguez.info',
         aporte: 'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
       },
     ],

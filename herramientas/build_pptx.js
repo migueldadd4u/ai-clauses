@@ -261,19 +261,22 @@ s.addText('Un trabajo conjunto de varios meses entre tres personas, cada una des
 const autores = [
   ['Delfina Lafuente Veira',
    'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón',
-   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.'],
+   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
+   'pozuelodealarcon.org'],
   ['Dr. José Antonio Ondiviela García',
    'Profesor e investigador de la Escuela Politécnica Superior · Universidad Francisco de Vitoria',
-   'La mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará que no se presente. Suya es la idea que resuelve el problema de fondo.'],
+   'La mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará que no se presente. Suya es la idea que resuelve el problema de fondo.',
+   'ufv.es'],
   ['Miguel Ángel Domínguez Castellano',
    'CEO de Add4u · Presidente de Alastria · Presidente del Clúster de Blockchain de la Comunidad de Madrid',
-   'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.'],
+   'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
+   'miguelangeldominguez.info'],
 ];
 autores.forEach((a, i) => {
   const y = 2.25 + i * 1.5;
   s.addShape(p.ShapeType.rect, { x: 0.9, y, w: 0.09, h: 1.28, fill: { color: AZUL }, line: { type: 'none' } });
   s.addText(a[0], { x: 1.3, y, w: 11.0, h: 0.4, fontFace: F_TIT, fontSize: 18, bold: true, color: AZUL });
-  s.addText(a[1], { x: 1.3, y: y + 0.4, w: 11.0, h: 0.32, fontFace: F_TXT, fontSize: 13, color: GRIS });
+  s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.4, w: 11.0, h: 0.32, fontFace: F_TXT, fontSize: 13, color: GRIS });
   s.addText(a[2], { x: 1.3, y: y + 0.74, w: 11.0, h: 0.55, fontFace: F_TXT, fontSize: 13.5, color: CARBON });
 });
 s.addText('El área de contratación del Ayuntamiento de Pozuelo de Alarcón no figura como autora y sin embargo ha determinado la forma del documento más que ninguna otra aportación: sus tres objeciones son la razón de ser de esta versión.', {

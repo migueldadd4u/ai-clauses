@@ -14,9 +14,10 @@ Este documento no es la aportación de un autor a un texto ajeno. Es el resultad
 conjunto de varios meses entre tres personas, cada una desde su oficio, con el Ayuntamiento de
 Pozuelo de Alarcón como banco de pruebas real.
 
-**Delfina Lafuente Veira** — Concejal de Administración Digital, Calidad e Innovación del
+**[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
 Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la Administración General del Estado
 durante casi cuatro décadas antes de asumir la delegación.
+*Trayectoria oficial: https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira*
 
 Es de quien nace el proyecto. Suya es la pregunta de partida —por qué un ayuntamiento tiene que
 comprar dos veces la misma tecnología— y suya es la primera redacción del clausulado. Ha sido además
@@ -24,10 +25,11 @@ quien lo ha sometido al contraste que ningún documento de consultoría recibe: 
 servicios de contratación y jurídicos de su propio ayuntamiento, aguantar sus objeciones sin
 defenderse, y traerlas de vuelta enteras. La versión que se publica existe porque ella hizo eso.
 
-**Dr. José Antonio Ondiviela García** — Profesor de la Escuela Politécnica Superior e investigador de
-la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades Atractivas.
-Casi tres décadas de trayectoria previa en la industria tecnológica internacional en el ámbito del
-sector público.
+**[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e
+investigador de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades
+Atractivas. Casi tres décadas de trayectoria previa en la industria tecnológica internacional en el
+ámbito del sector público.
+*Perfil en la Universidad Francisco de Vitoria: https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/*
 
 Aportó la mirada del mercado, que es la que falta casi siempre en los pliegos: qué se le puede pedir
 de verdad a un fabricante de software y qué hará que sencillamente no se presente. Suyas son dos de
@@ -36,12 +38,13 @@ código fuente y el depósito de código ante insolvencia del proveedor— y suy
 el problema de fondo: dejar de comprar una evolución futura indefinida y pasar a un catálogo de
 exigencias concretas revisado cada año.
 
-**Miguel Ángel Domínguez Castellano** — CEO de Add4u, compañía de transformación digital de la
+**[Miguel Ángel Domínguez Castellano](https://miguelangeldominguez.info)** — CEO de Add4u, compañía de transformación digital de la
 Administración pública, y presidente de Alastria, el mayor ecosistema blockchain de España, cargo
 para el que fue reelegido por unanimidad en junio de 2025 con mandato hasta 2027. Preside también el
 Clúster de Blockchain de la Comunidad de Madrid e impulsa, desde Alastria, la Infraestructura de
 Servicios Blockchain de España (ISBE), que la propia Alastria ejecuta para la Comunidad de Madrid.
 Alastria forma parte del Consejo Asesor de Transformación Digital de la Comunidad de Madrid.
+*Web personal: https://miguelangeldominguez.info*
 
 Ha trabajado en el proyecto desde el lado de quien conoce las dos orillas: la de quien redacta
 pliegos y la de quien se presenta a ellos. De ahí vienen la insistencia en la reversibilidad y en la

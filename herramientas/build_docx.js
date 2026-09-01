@@ -20,6 +20,7 @@ const {
   Document, Packer, Paragraph, TextRun, AlignmentType, HeadingLevel,
   Table, TableRow, TableCell, WidthType, BorderStyle, ShadingType,
   Footer, Header, PageNumber, TableOfContents, PageBreak, convertInchesToTwip,
+  ExternalHyperlink,
 } = require('docx');
 
 const AZUL = '1F3864';
@@ -36,7 +37,10 @@ const out = process.argv[3] || src.replace(/\.md$/, '.docx');
 const md = fs.readFileSync(src, 'utf8');
 const lines = md.split('\n');
 
-/* ---------- inline: **negrita**, *cursiva*, `código`, [texto](url) ---------- */
+/* ---------- inline: **negrita**, *cursiva*, `código`, [texto](url) ----------
+   Es recursivo a propósito: un **[enlace en negrita](url)** es justo el caso de
+   los créditos, y con un parser plano el enlace se perdía dentro de la negrita
+   y salía coloreado pero muerto. */
 function runs(text, base = {}) {
   const out = [];
   const re = /(\*\*[^*]+\*\*|\*[^*\s][^*]*\*|`[^`]+`|\[[^\]]+\]\([^)]+\))/g;
@@ -45,14 +49,17 @@ function runs(text, base = {}) {
     if (m.index > last) out.push(new TextRun({ text: text.slice(last, m.index), ...base }));
     const tok = m[0];
     if (tok.startsWith('**')) {
-      out.push(new TextRun({ text: tok.slice(2, -2), bold: true, ...base }));
+      out.push(...runs(tok.slice(2, -2), { ...base, bold: true }));
     } else if (tok.startsWith('`')) {
       out.push(new TextRun({ text: tok.slice(1, -1), font: MONO, size: (base.size || 22) - 2, ...base, color: base.color || '2F5496' }));
     } else if (tok.startsWith('[')) {
       const mm = /\[([^\]]+)\]\(([^)]+)\)/.exec(tok);
-      out.push(new TextRun({ text: mm[1], color: '2F5496', underline: {}, ...base }));
+      out.push(new ExternalHyperlink({
+        link: mm[2],
+        children: [new TextRun({ ...base, text: mm[1], color: '2F5496', underline: {} })],
+      }));
     } else {
-      out.push(new TextRun({ text: tok.slice(1, -1), italics: true, ...base }));
+      out.push(...runs(tok.slice(1, -1), { ...base, italics: true }));
     }
     last = m.index + tok.length;
   }

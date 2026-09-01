@@ -99,10 +99,10 @@ misma firmeza, no copiarlo sin entenderlo:
 
 ## Quién lo ha hecho
 
-**Delfina Lafuente Veira**, Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento
-de Pozuelo de Alarcón: de ella nace el proyecto y suya es la primera redacción. **Dr. José Antonio
-Ondiviela García**, profesor e investigador de la Universidad Francisco de Vitoria: la mirada del
-mercado y la idea que resuelve el problema de fondo. **Miguel Ángel Domínguez Castellano**, CEO de
+**[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)**, Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento
+de Pozuelo de Alarcón: de ella nace el proyecto y suya es la primera redacción. **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)**,
+profesor e investigador de la Universidad Francisco de Vitoria: la mirada del mercado y la idea que
+resuelve el problema de fondo. **[Miguel Ángel Domínguez Castellano](https://miguelangeldominguez.info)**, CEO de
 Add4u y presidente de Alastria y del Clúster de Blockchain de la Comunidad de Madrid: la perspectiva
 de quien conoce las dos orillas, y la responsabilidad editorial de la publicación.
 
