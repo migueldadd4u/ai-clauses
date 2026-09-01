@@ -61,6 +61,31 @@ generalizarlo— están respondidas en el cuerpo del texto y son la razón de se
 
 ---
 
+### Qué es y qué no es este documento, en términos institucionales
+
+Conviene decirlo antes que nada, y con precisión, porque de ello depende que nadie lo cite mal:
+
+**Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
+aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
+y no expresa la posición de la Corporación. Es un trabajo profesional de las tres personas que lo
+firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
+
+**Lo que sí es cierto, y es lo que le da valor:** el clausulado se ha construido sobre un caso real de
+ese Ayuntamiento, se ha sometido al criterio de su área de contratación, y las objeciones que esa área
+formuló —que constan literalmente en el texto— son las que han dado forma a esta versión. Ese contraste
+con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de un
+clausulado de despacho.
+
+**Y lo que está pendiente, dicho por el propio documento:** la memoria justificativa de la Parte IV
+enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de conflicto de
+interés no están firmadas y que el contraste de mercado no se ha realizado—. Mientras no se cumplan,
+el catálogo es una propuesta técnica publicada para el debate, no un instrumento listo para
+incorporarse a un expediente sin más trámite.
+
+Quien informe sobre este trabajo hará bien en no escribir que un ayuntamiento ha aprobado nada.
+
+---
+
 ### Declaración de uso de inteligencia artificial
 
 **En la elaboración de este documento se han utilizado sistemas de inteligencia artificial.**

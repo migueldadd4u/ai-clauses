@@ -73,6 +73,22 @@ Las tres objeciones están respondidas dentro del documento, no en una nota al p
 5. Si copias el documento en otra administración, lee la regla de reutilización: hay parámetros que
    dependen del régimen de cada entidad y que **hay que cambiar**.
 
+## Un aviso, antes de citarlo
+
+**Este no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido aprobado por
+ningún órgano municipal, no vincula al Ayuntamiento y no expresa la posición de la Corporación. Es un
+trabajo profesional de las tres personas que lo firman, una de las cuales ejerce un cargo público en
+ese Ayuntamiento.
+
+Lo que sí es cierto, y es lo que le da valor: se ha construido sobre un caso real, se ha sometido al
+criterio del área de contratación de ese Ayuntamiento, y las objeciones que esa área formuló son las
+que han dado forma a esta versión.
+
+Y lo que está pendiente, dicho por el propio documento: la memoria justificativa enumera las
+condiciones que aún no se cumplen —entre ellas, que las declaraciones de conflicto de interés no están
+firmadas—. Mientras no se cumplan, esto es una propuesta técnica publicada para el debate, no un
+instrumento listo para meter en un expediente sin más trámite.
+
 ## Quién lo ha hecho
 
 Un trabajo conjunto de varios meses entre tres personas, cada una desde su oficio, con el

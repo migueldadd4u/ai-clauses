@@ -97,6 +97,15 @@ misma firmeza, no copiarlo sin entenderlo:
 - Un parámetro copiado **sin adaptar** puede ser ilegal en otra entidad: categorías de seguridad,
   órganos competentes y umbrales cambian de una administración a otra.
 
+## Un aviso, antes de citarlo
+
+**Este no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**: no ha sido aprobado por
+ningún órgano municipal ni expresa la posición de la Corporación. Es un trabajo profesional de las tres
+personas que lo firman, una de las cuales ejerce un cargo público en ese Ayuntamiento. Y el propio
+documento enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de
+conflicto de interés no están firmadas—: mientras no se cumplan, es una propuesta técnica publicada
+para el debate, no un instrumento listo para meter en un expediente.
+
 ## Quién lo ha hecho
 
 **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)**, Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento
