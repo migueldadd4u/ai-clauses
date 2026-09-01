@@ -1,0 +1,6 @@
+# Material de trabajo interno — NUNCA se publica.
+# Contiene conversaciones privadas, correos y documentos internos del Ayuntamiento.
+_fuentes/
+_trabajo/
+node_modules/
+.DS_Store
