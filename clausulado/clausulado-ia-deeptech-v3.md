@@ -58,7 +58,12 @@ código fuente y el depósito de código ante insolvencia del proveedor— y suy
 el problema de fondo: dejar de comprar una evolución futura indefinida y pasar a un catálogo de
 exigencias concretas revisado cada año.
 
-**Miguel Ángel Domínguez Castellano** — [PENDIENTE-CARGOS]
+**Miguel Ángel Domínguez Castellano** — CEO de Add4u, compañía de transformación digital de la
+Administración pública, y presidente de Alastria, el mayor ecosistema blockchain de España, cargo
+para el que fue reelegido por unanimidad en junio de 2025 con mandato hasta 2027. Preside también el
+Clúster de Blockchain de la Comunidad de Madrid e impulsa, desde Alastria, la Infraestructura de
+Servicios Blockchain de España (ISBE), que la propia Alastria ejecuta para la Comunidad de Madrid.
+Alastria forma parte del Consejo Asesor de Transformación Digital de la Comunidad de Madrid.
 
 Ha trabajado en el proyecto desde el lado de quien conoce las dos orillas: la de quien redacta
 pliegos y la de quien se presenta a ellos. De ahí vienen la insistencia en la reversibilidad y en la

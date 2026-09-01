@@ -41,12 +41,14 @@ Lo que sí está diseñado, y se puede comprobar cláusula por cláusula:
 
 ## Contenido
 
-| Documento | Para quién |
-|---|---|
-| **Clausulado v3.0** (`clausulado/`) | El texto completo: catálogo de cláusulas, memoria justificativa, circuito del expediente, caso piloto resuelto y anexos con los modelos. |
-| **Resumen y guía de uso** (Parte 0 del clausulado) | Alcaldía, concejalías y cualquiera que no sea experto en contratación ni en tecnología. Se lee en veinte minutos. |
-| **Presentación** (`entregables/`) | Para explicarlo en una sala, incluidas salas donde nadie es técnico. |
-| **Versiones .docx y .pdf** (`entregables/`) | Para trabajar sobre ellas y para incorporarlas a un expediente. |
+| Documento | Para quién | Formato |
+|---|---|---|
+| **Resumen en dos páginas** | Lo más que va a leer casi nadie, y por eso lo primero que conviene leer. El problema, la solución, qué se promete y cómo debe usarse. Sin conocimientos previos. | [PDF](docs/descargas/resumen-dos-paginas.pdf) · [Word](docs/descargas/resumen-dos-paginas.docx) |
+| **Clausulado completo v3.0** | El texto entero: catálogo de cláusulas, memoria justificativa para la Intervención, circuito del expediente, caso piloto resuelto y anexos con todos los modelos. | [Web](https://migueldadd4u.github.io/ai-clauses/clausulado/indice.html) · [PDF](docs/descargas/clausulado-ia-deeptech-v3.pdf) · [Word](docs/descargas/clausulado-ia-deeptech-v3.docx) |
+| **Resumen y guía de uso** (Parte 0 del clausulado) | Alcaldía, concejalías y cualquiera que no sea experto en contratación ni en tecnología. Se lee en veinte minutos. | Dentro del clausulado |
+| **Presentación** | Para explicarlo en una sala, incluidas salas donde nadie es técnico. | [PDF](docs/descargas/presentacion-ai-clauses.pdf) · [PowerPoint](docs/descargas/presentacion-ai-clauses.pptx) |
+
+Todo se reconstruye desde el markdown de `clausulado/` con `make`.
 
 ## De dónde sale
 
@@ -71,20 +73,73 @@ Las tres objeciones están respondidas dentro del documento, no en una nota al p
 5. Si copias el documento en otra administración, lee la regla de reutilización: hay parámetros que
    dependen del régimen de cada entidad y que **hay que cambiar**.
 
-## Créditos
+## Quién lo ha hecho
 
-Proyecto elaborado por:
+Un trabajo conjunto de varios meses entre tres personas, cada una desde su oficio, con el
+Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.
 
-- **Delfina Lafuente Veira** — Concejal de Administración Digital, Calidad e Innovación,
-  Ayuntamiento de Pozuelo de Alarcón. Impulsora del proyecto y autora del clausulado original.
+- **Delfina Lafuente Veira** — Concejal de Administración Digital, Calidad e Innovación del
+  Ayuntamiento de Pozuelo de Alarcón. De ella nace el proyecto y suya es la primera redacción del
+  clausulado. Y suyo es el mérito menos visible: haberlo llevado a los servicios de contratación y
+  jurídicos de su propio ayuntamiento y haber traído sus objeciones de vuelta enteras.
 - **Dr. José Antonio Ondiviela García** — Profesor de la Escuela Politécnica Superior e investigador
-  de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades
-  Atractivas. Revisión técnica y de mercado.
+  de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades Atractivas.
+  Aportó la mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará
+  que no se presente.
+- **Miguel Ángel Domínguez Castellano** — CEO de Add4u, compañía de transformación digital de la
+  Administración pública, y presidente de Alastria, el mayor ecosistema blockchain de España, cargo
+  para el que fue reelegido por unanimidad en junio de 2025 con mandato hasta 2027. Preside también
+  el Clúster de Blockchain de la Comunidad de Madrid e impulsa, desde Alastria, la Infraestructura de
+  Servicios Blockchain de España (ISBE).
+  Aportó la perspectiva de quien conoce las dos orillas —la de quien redacta pliegos y la de quien se
+  presenta a ellos—, de donde vienen la insistencia en la reversibilidad y en la propiedad de los
+  datos como cuestión de competencia, la negativa a puntuar la tenencia previa de una tecnología
+  porque premia a quien ya está dentro, y la decisión de publicarlo en abierto en lugar de
+  conservarlo como activo de consultoría. Asume la responsabilidad editorial de esta publicación.
 
-Publicado y firmado por **Miguel Ángel Domínguez Castellano**.
+El **área de contratación del Ayuntamiento de Pozuelo de Alarcón** no figura como autora y sin
+embargo ha determinado la forma del documento más que ninguna otra aportación: sus tres objeciones
+son la razón de ser de esta versión.
 
-El clausulado incorpora las observaciones del área de contratación del Ayuntamiento de Pozuelo de
-Alarcón, que son las que dieron forma a esta versión.
+## Uso de inteligencia artificial
+
+**En la elaboración de este documento se han utilizado sistemas de inteligencia artificial**, en
+concreto el clon digital (*second brain*) de Miguel Ángel Domínguez: un sistema de agentes con
+memoria persistente del contexto de sus proyectos, construido y operado por él. Su aportación ha sido
+determinante en la recuperación del material disperso, la investigación jurídica, la verificación de
+las fuentes, la crítica adversarial del texto y la redacción de los borradores.
+
+Se declara de forma expresa aunque **no sea obligatorio en este caso**: el artículo 50.4 del
+Reglamento (UE) 2024/1689, aplicable desde el 2 de agosto de 2026, exime de divulgarlo cuando el
+contenido ha sido sometido a revisión humana y una persona asume la responsabilidad editorial, que es
+lo que ocurre aquí. Se divulga igualmente porque un documento que exige transparencia de IA a los
+adjudicatarios no puede ocultarla en sí mismo.
+
+Las decisiones, el criterio jurídico y la responsabilidad de lo que aquí se afirma son de las
+personas que lo firman. Toda referencia normativa o de doctrina se ha comprobado en su fuente
+primaria, descargando el documento original y localizando en él la cita literal atribuida. Ese
+control detectó tres errores materiales antes de publicar. Lo que no ha podido verificarse se dice
+expresamente en lugar de omitirse. El detalle completo está en la primera sección del clausulado.
+
+## Cómo debe usarse: no copie sin entender
+
+Este material se publica **tal cual (*as is*)**, sin garantía de ningún tipo. No es asesoramiento
+legal ni sustituye a los informes preceptivos de ninguna administración.
+
+La recomendación va en serio, y no es prudencia formal: copiar sin entender produce exactamente el
+daño que este documento trata de evitar.
+
+- Una cláusula copiada **sin necesidad acreditada** no protege: añade un motivo de recurso. La
+  justificación no vive en este catálogo, vive en la memoria justificativa del expediente — y no se
+  puede completar después, cuando llegue el recurso.
+- Una exigencia copiada **sin contrastar con el mercado** no es más ambiciosa: es más restrictiva.
+- Una obligación copiada **sin nadie que la verifique** es peor que no tenerla.
+- Un parámetro copiado **sin adaptar** puede ser sencillamente ilegal en su entidad: categorías de
+  seguridad, órganos competentes y umbrales cambian de una administración a otra.
+
+Quien tenga prisa, que empiece por la Parte 0: veinte minutos, sin conocimientos previos. Quien vaya
+a redactar un pliego, que lea además la Parte V y rellene la ficha de aplicabilidad antes de copiar
+una sola línea.
 
 ## Licencia
 

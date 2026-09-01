@@ -53,7 +53,7 @@ s.addText('Cláusulas de inteligencia artificial y deep tech para pliegos de con
   x: 0.9, y: 4.6, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 19, color: GRIS_CL,
 });
 s.addShape(p.ShapeType.line, { x: 0.9, y: 5.5, w: 2.2, h: 0, line: { color: GRIS_CL, width: 1.5 } });
-s.addText('Miguel Ángel Domínguez Castellano', { x: 0.9, y: 5.75, w: 11.5, h: 0.4, fontFace: F_TXT, fontSize: 15, color: BLANCO });
+s.addText('Delfina Lafuente Veira  ·  Dr. José Antonio Ondiviela García  ·  Miguel Ángel Domínguez Castellano', { x: 0.9, y: 5.75, w: 11.5, h: 0.4, fontFace: F_TXT, fontSize: 15, color: BLANCO });
 s.addText('Versión 3.0 · septiembre de 2026 · publicado en abierto bajo licencia CC BY 4.0', {
   x: 0.9, y: 6.15, w: 11.5, h: 0.4, fontFace: F_TXT, fontSize: 13, color: GRIS_CL,
 });
@@ -255,21 +255,52 @@ s.addText('Todo en abierto, bajo licencia Creative Commons Attribution 4.0: se p
 /* ---------- 12 · créditos ---------- */
 nueva();
 titulo('Quién lo ha hecho');
+s.addText('Un trabajo conjunto de varios meses entre tres personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.', {
+  x: 0.9, y: 1.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 16, color: CARBON,
+});
 const autores = [
-  ['Delfina Lafuente Veira', 'Concejal de Administración Digital, Calidad e Innovación\nAyuntamiento de Pozuelo de Alarcón', 'Impulsora del proyecto y autora del clausulado original'],
-  ['Dr. José Antonio Ondiviela García', 'Profesor de la Escuela Politécnica Superior e investigador\nUniversidad Francisco de Vitoria', 'Revisión técnica y de mercado'],
+  ['Delfina Lafuente Veira',
+   'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón',
+   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.'],
+  ['Dr. José Antonio Ondiviela García',
+   'Profesor e investigador de la Escuela Politécnica Superior · Universidad Francisco de Vitoria',
+   'La mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará que no se presente. Suya es la idea que resuelve el problema de fondo.'],
+  ['Miguel Ángel Domínguez Castellano',
+   'CEO de Add4u · Presidente de Alastria · Presidente del Clúster de Blockchain de la Comunidad de Madrid',
+   'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.'],
 ];
 autores.forEach((a, i) => {
-  const y = 1.8 + i * 2.0;
-  s.addShape(p.ShapeType.rect, { x: 0.9, y, w: 0.09, h: 1.7, fill: { color: AZUL }, line: { type: 'none' } });
-  s.addText(a[0], { x: 1.3, y, w: 11.0, h: 0.5, fontFace: F_TIT, fontSize: 22, bold: true, color: AZUL });
-  s.addText(a[1], { x: 1.3, y: y + 0.55, w: 11.0, h: 0.75, fontFace: F_TXT, fontSize: 15.5, color: CARBON });
-  s.addText(a[2], { x: 1.3, y: y + 1.25, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 14, italic: true, color: GRIS });
+  const y = 2.25 + i * 1.5;
+  s.addShape(p.ShapeType.rect, { x: 0.9, y, w: 0.09, h: 1.28, fill: { color: AZUL }, line: { type: 'none' } });
+  s.addText(a[0], { x: 1.3, y, w: 11.0, h: 0.4, fontFace: F_TIT, fontSize: 18, bold: true, color: AZUL });
+  s.addText(a[1], { x: 1.3, y: y + 0.4, w: 11.0, h: 0.32, fontFace: F_TXT, fontSize: 13, color: GRIS });
+  s.addText(a[2], { x: 1.3, y: y + 0.74, w: 11.0, h: 0.55, fontFace: F_TXT, fontSize: 13.5, color: CARBON });
 });
-s.addText('El clausulado incorpora las observaciones del área de contratación del Ayuntamiento de Pozuelo de Alarcón, que son las que dieron forma a esta versión.', {
-  x: 0.9, y: 5.95, w: 11.5, h: 0.7, fontFace: F_TXT, fontSize: 15, color: CARBON,
+s.addText('El área de contratación del Ayuntamiento de Pozuelo de Alarcón no figura como autora y sin embargo ha determinado la forma del documento más que ninguna otra aportación: sus tres objeciones son la razón de ser de esta versión.', {
+  x: 0.9, y: 6.35, w: 11.5, h: 0.8, fontFace: F_TXT, fontSize: 13.5, italic: true, color: GRIS,
 });
-pie('Publicado y firmado por Miguel Ángel Domínguez Castellano.');
+
+/* ---------- 12 bis · uso de IA y condiciones de uso ---------- */
+nueva();
+titulo('Uso de inteligencia artificial, y cómo debe usarse esto');
+tarjeta(0.9, 1.55, 11.5, 1.95, TINTE);
+s.addText('En la elaboración de este documento se han utilizado sistemas de inteligencia artificial:', {
+  x: 1.3, y: 1.8, w: 10.7, h: 0.4, fontFace: F_TXT, fontSize: 15, bold: true, color: AZUL,
+});
+s.addText('el clon digital («second brain») de Miguel Ángel Domínguez, determinante en la recuperación del material disperso, la investigación jurídica, la verificación de las fuentes, la crítica adversarial del texto y la redacción de los borradores. Las decisiones, el criterio jurídico y la responsabilidad son de las personas que lo firman.', {
+  x: 1.3, y: 2.2, w: 10.7, h: 1.15, fontFace: F_TXT, fontSize: 14.5, color: CARBON,
+});
+s.addText('Se declara aunque no sea obligatorio: el art. 50.4 del Reglamento (UE) 2024/1689 exime de divulgarlo cuando hay revisión humana y responsabilidad editorial. Se divulga igualmente, porque un documento que exige transparencia de IA no puede ocultarla en sí mismo.', {
+  x: 0.9, y: 3.65, w: 11.5, h: 0.75, fontFace: F_TXT, fontSize: 14, italic: true, color: GRIS,
+});
+tarjeta(0.9, 4.55, 11.5, 1.75, TINTE_A);
+s.addText('Se publica «tal cual» (as is). Se recomienda su lectura y su uso — y con la misma firmeza, NO copiarlo sin entenderlo.', {
+  x: 1.3, y: 4.8, w: 10.7, h: 0.5, fontFace: F_TIT, fontSize: 18, bold: true, color: CARBON,
+});
+s.addText('Una cláusula copiada sin necesidad acreditada no protege: añade un motivo de recurso. Una exigencia copiada sin contrastar con el mercado no es más ambiciosa, es más restrictiva. Una obligación que nadie verifica es peor que no tenerla.', {
+  x: 1.3, y: 5.35, w: 10.7, h: 0.85, fontFace: F_TXT, fontSize: 14.5, color: CARBON,
+});
+pie('No es asesoramiento legal, y no sustituye a los informes preceptivos de ninguna administración.');
 
 /* ---------- 13 · cierre ---------- */
 nueva(AZUL);
