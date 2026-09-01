@@ -13,6 +13,30 @@ lo adapte.
 
 ---
 
+## Estado de este documento a 1 de septiembre de 2026
+
+**Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón: nada.** Este documento no es un acto
+administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación. Es un
+trabajo profesional de las tres personas que lo firman, una de las cuales ejerce un cargo público en
+ese Ayuntamiento.
+
+**Qué falta para que pueda incorporarse a un expediente de contratación**, según su propia memoria
+justificativa (Parte IV, §M11):
+
+| # | Condición | Estado |
+|---|---|---|
+| 1 | Acuerdo del órgano de gobierno que apruebe el plan municipal, el catálogo y el Anexo V del ejercicio | **Pendiente** |
+| 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
+| 3 | Declaraciones de conflicto de interés firmadas e incorporadas (arts. 64 y 70 LCSP) | **Pendiente** |
+
+Son condiciones **de aplicación, no de publicación**: se publica para el debate, y no como modelo
+listo para meter en un expediente. Publicar en abierto y por anticipado es, de hecho, una de las
+medidas del artículo 70 LCSP que el propio documento adopta, porque pone a disposición de todo el
+mercado la misma información de la que dispusieron quienes lo elaboraron.
+
+Esta tabla se actualiza cuando alguna condición se cumpla. Responsable editorial: Miguel Ángel
+Domínguez Castellano.
+
 ## Qué es esto
 
 Un **catálogo de cláusulas tipo** para incorporar a los pliegos —de prescripciones técnicas (PPT) y

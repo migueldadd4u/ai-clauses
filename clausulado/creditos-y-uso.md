@@ -8,6 +8,35 @@ que sigue.*
 
 ---
 
+### Estado de este documento a 1 de septiembre de 2026
+
+**Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
+administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
+
+**Qué es:** un trabajo profesional de las tres personas que lo firman, una de las cuales ejerce un
+cargo público en ese Ayuntamiento.
+
+**Qué falta para que pueda incorporarse a un expediente:** las tres condiciones suspensivas que la
+propia memoria justificativa enumera (Parte IV, §M11, filas 1 a 3).
+
+| # | Condición suspensiva | Estado a 1 de septiembre de 2026 |
+|---|---|---|
+| 1 | Acuerdo del órgano de gobierno que apruebe el plan municipal, el catálogo y el Anexo V del ejercicio | **Pendiente** |
+| 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
+| 3 | Declaraciones de conflicto de interés firmadas e incorporadas al expediente (arts. 64 y 70 LCSP) | **Pendiente** |
+
+Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
+debate: **no debe aplicarse en un expediente que supere el umbral del recurso especial** ni citarse
+como modelo aprobado.
+
+**Orden entre rectificación y publicación:** la Parte VI, VI.7, adopta expresamente la regla de
+ejecutar las correcciones de prioridad P1 del expediente piloto **antes** de publicar el modelo.
+
+**Quién responde de este documento:** Miguel Ángel Domínguez Castellano, responsable editorial de la
+publicación.
+
+---
+
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo

@@ -52,11 +52,9 @@ for (const k of ORDEN) {
   t = t.replace(/^```(?:markdown|md)?\s*\n/, '').replace(/\n```\s*$/, '');
   // normaliza el encabezado de parte: las dos mitades de la Parte III se
   // redactaron por separado y llegaban con títulos distintos
-  const TITULOS = {
-    parte3a: '## PARTE III · CLÁUSULAS ADMINISTRATIVAS (PCAP) · Cláusulas ADM-1 a ADM-6',
-    parte3b: '## PARTE III · CLÁUSULAS ADMINISTRATIVAS (PCAP) · Cláusulas ADM-7 a ADM-14',
-  };
-  if (TITULOS[k]) t = t.replace(/^## .*$/m, TITULOS[k]);
+  // la Parte III se redactó en dos mitades y al corregirla se unificó: 3a abre la
+  // parte y 3b continúa sin encabezado propio. Se normaliza sólo el título de 3a.
+  if (k === 'parte3a') t = t.replace(/^## .*$/m, '## PARTE III · CLÁUSULAS ADMINISTRATIVAS (PCAP)');
   partes.push({ k, t });
   console.log(`  ok      v3_${k}.md  ${(t.length / 1024).toFixed(0)} KB`);
 }
