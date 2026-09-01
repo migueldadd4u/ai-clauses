@@ -69,7 +69,7 @@ Lo que sí está diseñado, y se puede comprobar cláusula por cláusula:
 |---|---|---|
 | **Resumen en dos páginas** | Lo más que va a leer casi nadie, y por eso lo primero que conviene leer. El problema, la solución, qué se promete y cómo debe usarse. Sin conocimientos previos. | [PDF](docs/descargas/resumen-dos-paginas.pdf) · [Word](docs/descargas/resumen-dos-paginas.docx) |
 | **Guía municipal de decisión y aplicación · 20 páginas** | Concejalías, contratación, Intervención y TI. Explica cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer las 289 páginas del catálogo. | [Web](docs/2026-09-01_ai-clauses_guia-municipal-20-paginas.html) · [PDF](docs/descargas/2026-09-01_ai-clauses_guia-municipal-20-paginas.pdf) · [Word](docs/descargas/2026-09-01_ai-clauses_guia-municipal-20-paginas.docx) |
-| **Clausulado completo v3.0** | El texto entero: catálogo de cláusulas, memoria justificativa para la Intervención, circuito del expediente, caso piloto resuelto y anexos con todos los modelos. | [Web](https://migueldadd4u.github.io/ai-clauses/clausulado/indice.html) · [PDF](docs/descargas/clausulado-ia-deeptech-v3.pdf) · [Word](docs/descargas/clausulado-ia-deeptech-v3.docx) |
+| **Clausulado completo v3.0** | El texto entero: catálogo de cláusulas, memoria justificativa para los órganos de control, circuito del expediente, ejemplo completo trabajado y anexos con todos los modelos. | [Web](https://migueldadd4u.github.io/ai-clauses/clausulado/indice.html) · [PDF](docs/descargas/clausulado-ia-deeptech-v3.pdf) · [Word](docs/descargas/clausulado-ia-deeptech-v3.docx) |
 | **Resumen y guía de uso** (Parte 0 del clausulado) | Alcaldía, concejalías y cualquiera que no sea experto en contratación ni en tecnología. Se lee en veinte minutos. | Dentro del clausulado |
 | **Presentación** | Para explicarlo en una sala, incluidas salas donde nadie es técnico. | [PDF](docs/descargas/presentacion-ai-clauses.pdf) · [PowerPoint](docs/descargas/presentacion-ai-clauses.pptx) |
 
@@ -77,14 +77,25 @@ Todo se reconstruye desde el markdown de `clausulado/` con `make`.
 
 ## De dónde sale
 
-De un ayuntamiento real, con un problema real y con las objeciones reales de quienes tienen que
-firmarlo. El clausulado nació en el **Ayuntamiento de Pozuelo de Alarcón** en 2026, se sometió al
-criterio de su área de contratación, y esta versión 3.0 es la respuesta a lo que esa área respondió:
-que unas cláusulas que no nacen de una necesidad demandada son artificiosas al contrato, que el nivel
-de abstracción era demasiado alto, y que había que probarlo en un contrato de verdad antes de
-generalizarlo.
+De un problema real de gestión municipal y de una objeción interna que se puso por escrito. El
+clausulado nació en el **Ayuntamiento de Pozuelo de Alarcón** en 2026 y se sometió por escrito a la
+crítica de quien tendría que aplicarlo. Esta versión 3.0 es la respuesta a esa crítica, que decía
+cuatro cosas:
 
-Las tres objeciones están respondidas dentro del documento, no en una nota al pie.
+1. que unas cláusulas que no nacen de una necesidad demandada por ningún gestor son **artificiosas al
+   contrato**;
+2. que el seguimiento real de los contratos es escaso y se limita al control del gasto, y que quien
+   controla no puede imponer instrumentos pero **sí necesita el dato al mismo rango que quien
+   gestiona**;
+3. que el nivel de **abstracción era demasiado alto** y había que probarlo en un contrato ya previsto
+   y poco complejo, a modo de piloto;
+4. y que en la contratación **hay actores externos** que no han visto antes estas exigencias y habría
+   que ver cómo reaccionan.
+
+Las cuatro están citadas literalmente y respondidas dentro del documento, no en una nota al pie. Y
+han cambiado su arquitectura, no su prólogo: de ahí salen la doble vía de firma de la ficha, la
+exigencia de acuerdo del órgano de gobierno, el subconjunto mínimo de seis cláusulas para un primer
+expediente y el capítulo sobre la reacción del mercado.
 
 ## Cómo se usa
 
@@ -100,10 +111,16 @@ Las tres objeciones están respondidas dentro del documento, no en una nota al p
 
 ## Lo que sí le da valor
 
-Que no es un clausulado de despacho. Se ha construido sobre un caso real, se ha sometido al criterio
-del área de contratación de un ayuntamiento —la gente que tiene que redactar y fiscalizar pliegos de
-verdad— y las objeciones que esa área formuló, que constan literalmente en el texto, son las que han
-dado forma a esta versión.
+Que no es un clausulado de despacho. Nace de un problema real de gestión y se ha sometido por escrito
+a la crítica de quien tiene que redactar y fiscalizar pliegos de verdad; esa objeción consta
+literalmente en el texto —citada sin identificar a su autor, por no ser un informe registrado— y es
+la que ha dado forma a esta versión.
+
+Y una precisión que conviene hacer expresamente: **ningún órgano de contratación, de intervención ni
+de asesoría jurídica se ha pronunciado sobre este catálogo.** Este documento no les atribuye posición
+alguna. El caso trabajado de la Parte VI es un **expediente simulado**, con municipio, objeto y
+cifras construidos para el ejemplo: no corresponde a ninguna licitación real, en curso ni en
+preparación.
 
 ## Quién lo ha hecho
 
@@ -112,8 +129,8 @@ Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.
 
 - **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
   Ayuntamiento de Pozuelo de Alarcón. De ella nace el proyecto y suya es la primera redacción del
-  clausulado. Y suyo es el mérito menos visible: haberlo llevado a los servicios de contratación y
-  jurídicos de su propio ayuntamiento y haber traído sus objeciones de vuelta enteras.
+  clausulado. Y suyo es el mérito menos visible: haberlo puesto delante de quienes tendrían que
+  aplicarlo y haber traído sus objeciones de vuelta enteras.
 - **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e investigador
   de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades Atractivas.
   Aportó la mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará
@@ -128,12 +145,13 @@ Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.
   datos como cuestión de competencia, la negativa a puntuar la tenencia previa de una tecnología
   porque premia a quien ya está dentro, y la decisión de publicarlo en abierto en lugar de
   conservarlo como activo de consultoría. Asume la responsabilidad editorial de esta publicación.
-- **Enrique Jiménez y Roberto García** — técnicos del área de contratación del Ayuntamiento de
-  Pozuelo de Alarcón; autores y supervisores técnicos. Han aportado el contraste de la práctica
-  municipal y la supervisión técnica de la formulación contractual.
+- **Enrique Jiménez** — responsable de los contratos de innovación, y **Roberto García** — jefe de
+  informática, ambos del Ayuntamiento de Pozuelo de Alarcón; autores y supervisores técnicos. Han
+  aportado el contraste de la práctica municipal —qué se puede exigir de verdad en un pliego y qué no
+  llega a ejecutarse— y la supervisión técnica de la formulación contractual.
 
-Las tres objeciones formuladas desde el **área de contratación del Ayuntamiento de Pozuelo de
-Alarcón** son la razón de ser de esta versión y están respondidas en el cuerpo del documento.
+La objeción interna de junio de 2026, con sus cuatro reproches, es la razón de ser de esta versión y
+está citada y respondida en el cuerpo del documento (Parte IV, §M1.5).
 
 ## Uso de inteligencia artificial
 

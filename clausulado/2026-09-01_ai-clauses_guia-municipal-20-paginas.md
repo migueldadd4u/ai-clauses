@@ -11,20 +11,20 @@ Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026*
 
 **Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano · Enrique Jiménez · Roberto García**
 
-**Autores y supervisores técnicos:** Enrique Jiménez y Roberto García, técnicos del área de
-contratación del Ayuntamiento de Pozuelo de Alarcón.
+**Autores y supervisores técnicos:** Enrique Jiménez, responsable de los contratos de innovación, y
+Roberto García, jefe de informática, ambos del Ayuntamiento de Pozuelo de Alarcón.
 
 ### Estado del documento
 
-Este catálogo nace de un caso real del Ayuntamiento de Pozuelo de Alarcón, pero **no es un documento oficial del Ayuntamiento**, no ha sido aprobado por ningún órgano municipal y no expresa la posición de la Corporación. Es una propuesta técnica publicada para el debate y la reutilización.
+Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**, no ha sido aprobado por ningún órgano municipal y no expresa la posición de la Corporación; ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre él. Es una propuesta técnica publicada para el debate y la reutilización. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
 
 Antes de incorporar cualquiera de sus cláusulas a un expediente deben cumplirse tres condiciones que, a la fecha de corte, siguen pendientes: acuerdo del órgano de gobierno que apruebe el plan y el catálogo anual; consulta preliminar del mercado y contraste documentado; y declaraciones de conflicto de interés firmadas. Son condiciones de **aplicación**, no de publicación.
 
 ### Ruta rápida por perfil
 
 - **Concejalía y órgano de contratación:** páginas 2 a 8, 17 a 20.
-- **Contratación y Asesoría Jurídica o Secretaría:** páginas 3 a 13 y 16 a 20.
-- **Intervención:** páginas 3, 5 a 8, 12, 17 a 20.
+- **Quien redacta pliegos, asesoría jurídica o secretaría:** páginas 3 a 13 y 16 a 20.
+- **Control interno:** páginas 3, 5 a 8, 12, 17 a 20.
 - **Servicios técnicos y TI:** páginas 5, 8 a 16, 18 y 19.
 
 **Fuentes completas:** autoría y condiciones de uso; Parte 0, apertura y §§0.1–0.3; Parte IV, §M11; README, «Estado de este documento».
@@ -379,7 +379,7 @@ El catálogo genera coste real: interfaz, entorno de pruebas, reversibilidad, bo
 
 La preparación se estima en unas **21,5 horas** la primera vez y unas **10 horas** en expedientes siguientes del mismo tipo. La consulta de mercado y la revisión del Anexo V son tareas anuales separadas. Durante la ejecución, cada cláusula tiene actor, momento y documento. Si la carga supera 20 horas anuales se revisa la intensidad; por encima de 40 se necesita conformidad expresa del servicio verificador.
 
-## La mirada de Intervención
+## La mirada del control interno
 
 - Crédito suficiente para todos los conceptos incorporados.
 - Estabilidad presupuestaria, sostenibilidad y compromisos plurianuales.
@@ -397,17 +397,25 @@ La regla no es «justificar más» una carga inasumible. Es reducir el número d
 
 **Fuentes completas:** ADM‑4, epígrafe 5; Parte IV, §§M6 y M10; Parte V, §§V.6, V.9 y V.10; Anexo X.
 <!-- PAGINA 18 -->
-# Piloto: contabilidad y patrimonio
+# El piloto: cómo elegirlo y por dónde empezar
 
-El piloto responde a la petición de probar el catálogo en un contrato real y reducir su abstracción. A la fecha de corte el expediente no estaba publicado y sus datos identificativos no eran públicos; por eso la Parte VI trabaja con datos hipotéticos que deben sustituirse antes de citar el caso como expediente real.
+La Parte VI responde a la objeción de que el catálogo es demasiado abstracto. Lo hace en dos piezas: el **método** para elegir el contrato piloto, aplicable por cualquier administración, y un **ejemplo completo trabajado sobre un expediente simulado** —municipio, objeto, cifras y fechas construidos para el ejemplo, que no corresponden a ninguna licitación real, en curso ni en preparación—.
 
-## Decisiones previas
+## Qué contrato sirve de piloto
+
+Cinco condiciones, y si falla alguna conviene esperar al siguiente: hay un usuario del dato distinto del gestor con obligación legal propia de controlarlo; la prestación produce dato estructurado y verificable; el objeto no es crítico en disponibilidad; existe mercado plural para ese objeto; y está en preparación, no en licitación. Lo desaconsejan los contratos menores, los basados en acuerdo marco, las adhesiones a central de compra y las prórrogas.
+
+## El subconjunto mínimo: seis cláusulas, no veinticuatro
+
+Un primer expediente no incorpora el catálogo entero. Incorpora seis cláusulas que se sostienen solas y producen resultado verificable en el primer año: **ADM‑12** (acceso de los órganos de control al dato: empezar dando, no pidiendo), **DT‑0** (equivalencia y prueba: quita barreras, no las pone), **DT‑6** (ENS en la categoría que corresponda: obligación ya existente, bien redactada), **ADM‑8** (propiedad intelectual y licencia mínima: lo que no se pone no se recupera), **ADM‑2 con su Anexo V** (el núcleo, y sólo si el Anexo V está aprobado y publicado antes) y **ADM‑5** en lo que corresponda a las anteriores. Todo lo demás espera al informe de evaluación.
+
+## Decisiones previas del ejemplo trabajado
 
 - Determinar si el borrador está sin aprobar, aprobado pero no anunciado, o ya publicado. Cada situación tiene un cauce distinto de rectificación.
 - Calificar la prestación principal. El catálogo recomienda, para el perfil descrito, servicios con licencias o suscripción accesorias, pero la decisión debe motivarse con los datos reales.
 - Identificar once necesidades y su origen normativo, funcional o institucional.
 - Determinar la categoría ENS. La propuesta del caso es MEDIA, elevable sólo si el análisis firmado sitúa integridad o trazabilidad en ALTA.
-- Transcribir el Anexo V recortado a contabilidad, patrimonio y funciones concretas de interfaz.
+- Transcribir el Anexo V recortado a los módulos alcanzados y a funciones concretas de interfaz.
 
 ## Resultado de la ficha trabajada
 
@@ -415,7 +423,7 @@ De 24 cláusulas, **17 se aplican sin condición**, **3 quedan condicionadas** a
 
 La interfaz para agentes no se presenta como necesidad normativa ni pedida por el gestor. Es institucional y cae si no existe el acuerdo previo. ADM‑11 queda fuera porque la disponibilidad propuesta es MEDIA y sus cuatro condiciones son acumulativas. ADM‑14 queda fuera porque el Anexo V y la bolsa ya cubren la evolución prevista.
 
-El piloto enseña el orden de decisiones; sus conclusiones concretas no son una plantilla para otro contrato.
+El ejemplo enseña el orden de decisiones; sus conclusiones concretas no son una plantilla para otro contrato, y sus cifras no son un dato.
 
 **Fuentes completas:** Parte VI, §§VI.1–VI.4.5; Anexos II, V y XXV.
 <!-- PAGINA 19 -->
@@ -440,7 +448,7 @@ En el caso trabajado, la licitación requiere entre **33 y 53 horas** municipale
 
 ## Rectificar y aprender
 
-La tabla VI.6 identifica defectos P1 que se corrigen conjuntamente antes de aprobar o por el cauce de rectificación que corresponda. No son una fe de erratas.
+La tabla VI.6 sirve a cualquier administración con pliegos ya redactados con la versión 2: identifica defectos P1 que se corrigen conjuntamente antes de aprobar, o por el cauce de rectificación que corresponda. No son una fe de erratas.
 
 El piloto se evalúa con dos informes: a los seis meses de publicar, concurrencia, consultas, recursos, exclusiones y tiempo de tramitación; a los doce meses de formalizar, cumplimiento, pruebas, incidencias, horas reales y uso del acceso de control. El resultado ajusta catálogo, Anexo V y parámetros.
 

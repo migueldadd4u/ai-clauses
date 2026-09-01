@@ -54,7 +54,8 @@ debate: **no debe aplicarse en un expediente que supere el umbral del recurso es
 como modelo aprobado.
 
 **Orden entre rectificación y publicación:** la Parte VI, VI.7, adopta expresamente la regla de
-ejecutar las correcciones de prioridad P1 del expediente piloto **antes** de publicar el modelo.
+que quien adopte este catálogo ejecute las correcciones de prioridad P1 sobre sus pliegos vigentes
+**antes** de publicarlo como modelo propio.
 
 **Quién responde de este documento:** Miguel Ángel Domínguez Castellano, responsable editorial de la
 publicación.
@@ -74,9 +75,9 @@ durante casi cuatro décadas antes de asumir la delegación.
 
 Es de quien nace el proyecto. Suya es la pregunta de partida —por qué un ayuntamiento tiene que
 comprar dos veces la misma tecnología— y suya es la primera redacción del clausulado. Ha sido además
-quien lo ha sometido al contraste que ningún documento de consultoría recibe: llevarlo a los
-servicios de contratación y jurídicos de su propio ayuntamiento, aguantar sus objeciones sin
-defenderse, y traerlas de vuelta enteras. La versión que se publica existe porque ella hizo eso.
+quien lo ha sometido al contraste que ningún documento de consultoría recibe: ponerlo delante de
+quienes tendrían que aplicarlo, aguantar sus objeciones sin defenderse, y traerlas de vuelta
+enteras. La versión que se publica existe porque ella hizo eso.
 
 **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e
 investigador de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades
@@ -106,12 +107,10 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Enrique Jiménez y Roberto García** — técnicos del área de contratación del Ayuntamiento de Pozuelo
-de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de la práctica municipal y
-la supervisión técnica de la formulación contractual. Las tres objeciones del área —que unas cláusulas
-que no nacen de una necesidad demandada son artificiosas al contrato, que el grado de abstracción era
-demasiado alto, y que había que probarlo en un contrato real antes de generalizarlo— están respondidas
-en el cuerpo del texto y son la razón de ser de esta versión.
+**Enrique Jiménez** — responsable de los contratos de innovación, y **Roberto García** — jefe de
+informática, ambos del Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han
+aportado el contraste de la práctica municipal —qué se puede exigir de verdad en un pliego y qué no
+llega a ejecutarse— y la supervisión técnica de la formulación contractual.
 
 ---
 
@@ -124,11 +123,20 @@ aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma par
 y no expresa la posición de la Corporación. Es un trabajo profesional de las cinco personas que lo
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
-**Lo que sí es cierto, y es lo que le da valor:** el clausulado se ha construido sobre un caso real de
-ese Ayuntamiento, se ha sometido al criterio de su área de contratación, y las objeciones que esa área
-formuló —que constan literalmente en el texto— son las que han dado forma a esta versión. Ese contraste
-con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de un
-clausulado de despacho.
+**Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
+municipal y se ha sometido por escrito a la crítica de quien tendría que aplicarlo. Esa objeción
+interna —cuatro reproches concretos, que constan literalmente en el texto, en el §M1.5 de la Parte
+IV, citados sin identificar a su autor por no ser un informe registrado— es la que ha dado forma a
+esta versión: sin ella no existirían ni la doble vía de firma de la ficha, ni la exigencia de acuerdo
+del órgano de gobierno, ni el subconjunto mínimo de seis cláusulas para un primer expediente. Ese
+contraste con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de
+un clausulado de despacho.
+
+**Lo que expresamente no es cierto, y conviene decirlo para que nadie lo deduzca:** ningún órgano de
+contratación, de intervención ni de asesoría jurídica de ese Ayuntamiento —ni de ningún otro— se ha
+pronunciado sobre este catálogo. Este documento no les atribuye posición alguna, ni a favor ni en
+contra, y el ejemplo trabajado de la Parte VI es un **expediente simulado** que no corresponde a
+ninguna licitación real, en curso o en preparación.
 
 **Y lo que está pendiente, dicho por el propio documento:** la memoria justificativa de la Parte IV
 enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de conflicto de
@@ -163,10 +171,10 @@ sobre en qué:
 
 | Tarea | Aportación del sistema |
 |---|---|
-| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluida la objeción del área de contratación, que estaba al final de un documento de trabajo y no en ningún informe. |
+| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluida la objeción interna que estaba al final de un documento de trabajo y no en ningún informe. |
 | **Investigación jurídica** | Localizar y leer la doctrina de los tribunales administrativos de recursos contractuales, los informes de las juntas consultivas y el articulado aplicable, sobre ocho frentes en paralelo. |
 | **Verificación** | Descargar cada resolución citada y comprobar dentro del documento original que dice lo que se le atribuye. |
-| **Crítica adversarial** | Someter cada versión al criterio simulado de un tribunal, del abogado de un licitador excluido, de un interventor, de un técnico de contratación, de un lector no experto y de un periodista, y reescribir con sus objeciones. |
+| **Crítica adversarial** | Someter cada versión al criterio simulado de un tribunal administrativo de recursos contractuales, del abogado de un licitador excluido, de un órgano de control interno, de quien redacta pliegos, de un lector no experto y de un periodista, y reescribir con sus objeciones. |
 | **Redacción** | Producir los borradores de todas las partes del documento a partir de la arquitectura y de las decisiones acordadas. |
 
 **Qué han hecho las personas, y no la máquina.** La pregunta de partida. Las decisiones de diseño y
@@ -347,7 +355,7 @@ Las veinticuatro cláusulas, con el instrumento único que les asigna el Anexo I
 
 **En una frase.** Es un catálogo de cláusulas ya redactadas —con su justificación, su medio de prueba, su forma de verificación y su consecuencia— del que el redactor de un pliego toma únicamente las que la necesidad de *ese* expediente justifica, y deja fuera todas las demás.
 
-Las palabras que importan son **«del que se toma lo que ese expediente necesita»**. Un catálogo no se aplica: se usa. La versión 2.0 de este documento, de junio de 2026, se autodefinía como «clausulado tipo para su incorporación transversal en los pliegos […] de cualquier licitación del Ayuntamiento, con independencia del área gestora». Esa frase ha desaparecido y no vuelve. Era, literalmente, el motivo por el que el área de contratación municipal escribió que las cláusulas «nacen a partir de unas necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo artificioso al contrato».
+Las palabras que importan son **«del que se toma lo que ese expediente necesita»**. Un catálogo no se aplica: se usa. La versión 2.0 de este documento, de junio de 2026, se autodefinía como «clausulado tipo para su incorporación transversal en los pliegos […] de cualquier licitación del Ayuntamiento, con independencia del área gestora». Esa frase ha desaparecido y no vuelve. Era, literalmente, el motivo por el que la objeción interna del §M1.5 escribió que las cláusulas «nacen a partir de unas necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo artificioso al contrato».
 
 #### Lo que este documento NO es
 
@@ -373,7 +381,7 @@ Las palabras que importan son **«del que se toma lo que ese expediente necesita
 
 #### Cómo está construido
 
-Cada cláusula de las Partes II (técnicas, para el PPT) y III (administrativas, para el PCAP) tiene siempre los mismos siete epígrafes, en el mismo orden: **texto para el pliego · dónde va · necesidad y norma que la impone · cómo se acredita · cómo se verifica · consecuencia del incumplimiento · cuándo NO se aplica**. El texto que se copia va dentro de un recuadro delimitado; todo lo demás queda fuera y no debe acabar nunca en un pliego. Esa separación física es la respuesta a la segunda queja del área de contratación municipal: que el grado de abstracción del documento anterior era «muy elevado».
+Cada cláusula de las Partes II (técnicas, para el PPT) y III (administrativas, para el PCAP) tiene siempre los mismos siete epígrafes, en el mismo orden: **texto para el pliego · dónde va · necesidad y norma que la impone · cómo se acredita · cómo se verifica · consecuencia del incumplimiento · cuándo NO se aplica**. El texto que se copia va dentro de un recuadro delimitado; todo lo demás queda fuera y no debe acabar nunca en un pliego. Esa separación física es la respuesta a una de las quejas de la objeción interna del §M1.5: que el grado de abstracción del documento anterior era «muy elevado».
 
 Los códigos de cláusula del documento anterior se conservan cuando la cláusula subsiste, pero **se escriben con versión**: `DT-7·v3`, `ADM-2·v3`. Hay pliegos ya redactados que citan los códigos de la versión 2.0, y su contenido no es el mismo. La equivalencia cláusula a cláusula está en el **Anexo XII**. Qué hacer con un contrato ya formalizado con la versión 2.0 está en el **Anexo XXIV**.
 
@@ -439,7 +447,7 @@ El desarrollo de las tres, con su fundamento y sus límites, está en la Parte I
 
 #### El ejemplo numérico
 
-*(Cifras de ejemplo, construidas para explicar el mecanismo. No proceden de ningún expediente municipal concreto y no deben citarse como dato. El contrato de contabilidad y patrimonio se analiza en la Parte VI; sus cifras son otras y no deben confundirse con éstas.)*
+*(Cifras de ejemplo, construidas para explicar el mecanismo. No proceden de ningún expediente municipal concreto y no deben citarse como dato. El expediente simulado de la Parte VI trabaja con otras cifras, igualmente construidas, y no deben confundirse con éstas.)*
 
 Contrato de servicios de mantenimiento y evolución de la aplicación municipal de gestión tributaria y recaudación:
 
@@ -490,7 +498,7 @@ Este apartado va en la primera parte del documento y no escondido al final, porq
 
 Sobre el alcance de esa afirmación, y vale para todas las que este documento hace en el mismo sentido: es una **afirmación negativa** y no es demostrable de forma exhaustiva. Lo que se afirma es que la búsqueda descrita, en los repositorios enumerados y a la fecha de corte indicada, no ha localizado doctrina sobre estas materias. No se afirma que no exista en ningún repositorio. Quien conozca una resolución en contrario tiene con ello un argumento, y el catálogo tiene una corrección que hacer.
 
-**No se promete capacidad de seguimiento que el Ayuntamiento no tenga.** El área de contratación municipal advirtió que «son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en el control del gasto». La advertencia se ha incorporado como regla: **no se incorpora a un pliego ninguna cláusula cuya verificación no tenga actor municipal designado y periodicidad**, y cada cláusula de este documento declara, en su epígrafe *cómo se verifica*, la carga estimada al año. Crear obligaciones esenciales que después nadie comprueba es peor que no crearlas, y la Intervención lo hará constar.
+**No se promete capacidad de seguimiento que el Ayuntamiento no tenga.** La objeción interna que se reproduce en la Parte IV, §M1.5, advirtió que «son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en el control del gasto». La advertencia se ha incorporado como regla: **no se incorpora a un pliego ninguna cláusula cuya verificación no tenga actor municipal designado y periodicidad**, y cada cláusula de este documento declara, en su epígrafe *cómo se verifica*, la carga estimada al año. Crear obligaciones esenciales que después nadie comprueba es peor que no crearlas, y la Intervención lo hará constar.
 
 #### Lo que sí se promete
 
@@ -540,7 +548,7 @@ Esto no es burocracia añadida: es el eslabón sin el cual el paso 1 no se puede
 
 **1. Informe de necesidad (arts. 28.1 y 116.4 LCSP).** Se escribe primero y se escribe en concreto: qué necesidad municipal existe, por qué el mantenimiento correctivo ordinario no la cubre, qué cuesta no atenderla, y de dónde nace —de una función del servicio, de una norma que obliga al Ayuntamiento, o del acuerdo del paso previo anual—. La relación con el objeto del contrato debe ser **«directa, clara y proporcional»**, que es el literal del artículo 116.4.e) LCSP. Este documento **se publica en el perfil de contratante** (arts. 116.1 y 63.3.a) LCSP): se redacta sabiendo que lo va a leer el eventual recurrente.
 
-**2. Ficha de aplicabilidad (Anexo II).** Ahora, y sólo ahora, se recorre el catálogo marcando cláusula por cláusula. La ficha no es una lista de casillas: por cada cláusula marcada hay que escribir la necesidad concreta, la norma o el instrumento del que nace y por qué su relación con el objeto de *este* contrato es directa, clara y proporcional. **Doble vía de firma**: las cláusulas de necesidad funcional las firma el gestor; las de necesidad normativa o institucional las firma el servicio competente o se remiten al acuerdo del paso previo anual. El gestor de contabilidad no puede firmar la ficha de la seguridad ni la de la Intervención, y pedírselo es la forma más rápida de que esas cláusulas no entren nunca.
+**2. Ficha de aplicabilidad (Anexo II).** Ahora, y sólo ahora, se recorre el catálogo marcando cláusula por cláusula. La ficha no es una lista de casillas: por cada cláusula marcada hay que escribir la necesidad concreta, la norma o el instrumento del que nace y por qué su relación con el objeto de *este* contrato es directa, clara y proporcional. **Doble vía de firma**: las cláusulas de necesidad funcional las firma el gestor; las de necesidad normativa o institucional las firma el servicio competente o se remiten al acuerdo del paso previo anual. El gestor de un servicio no puede firmar la ficha de la seguridad ni la del control interno, y pedírselo es la forma más rápida de que esas cláusulas no entren nunca.
 
 Al marcar una cláusula como NO APLICA hay que consultar la **tabla de dependencias (Anexo VI)**: si se descarta `DT-7·v3`, hay menciones que arrastra en `ADM-5·v3`, `ADM-6·v3`, `ADM-7·v3` y en la declaración responsable del **Anexo VII**, y un pliego con menciones huérfanas es un pliego contradictorio. Los recuadros afectados vienen redactados como lista con casillas de borrado, precisamente para esto.
 
@@ -821,7 +829,7 @@ Una parte del catálogo nace de normas que obligan al Ayuntamiento entero y que 
 
 Otra parte nace del servicio: continuidad, poder cambiar de proveedor, reducir la carga de un procedimiento con volumen. Ahí la objeción opera plenamente y la respuesta es sencilla: si el gestor no la declara, no entra.
 
-Y queda un tercer bloque —el núcleo tecnológico del catálogo: la interfaz normalizada de acceso para agentes, la operación autónoma supervisada, la trazabilidad de agentes— para el que **no hay norma que lo imponga y no habrá gestor que lo pida**. Ninguna norma obliga a un ayuntamiento a exponer su contabilidad a agentes de inteligencia artificial. Sostener que la necesidad existe porque está «desatendida» es una afirmación, no un instrumento: rellenada así, la ficha de cada expediente acabaría reproduciendo el mismo párrafo, que es la definición de justificación estereotipada.
+Y queda un tercer bloque —el núcleo tecnológico del catálogo: la interfaz normalizada de acceso para agentes, la operación autónoma supervisada, la trazabilidad de agentes— para el que **no hay norma que lo imponga y no habrá gestor que lo pida**. Ninguna norma obliga a un ayuntamiento a exponer sus sistemas de gestión a agentes de inteligencia artificial. Sostener que la necesidad existe porque está «desatendida» es una afirmación, no un instrumento: rellenada así, la ficha de cada expediente acabaría reproduciendo el mismo párrafo, que es la definición de justificación estereotipada.
 
 Ese tercer bloque sólo tiene un fundamento válido: **un acto del órgano de gobierno municipal, con rango, publicado y fechado**, que apruebe el plan de digitalización y el catálogo anual de exigencias. Con él, el informe de necesidad de cada expediente no invoca un documento técnico de una concejalía: invoca un acuerdo del órgano de gobierno, y la relación con el objeto pasa a ser derivada de una política municipal aprobada. Sin él, ese bloque no entra en ningún pliego.
 
@@ -909,7 +917,7 @@ Corolarios:
 
 #### 3.7 Doble vía de firma de la ficha
 
-El §1.3 exige ficha firmada; el §3.3 acredita que hay necesidades que ningún gestor puede declarar. La contradicción se resuelve con dos vías de firma. El gestor de contabilidad no puede firmar la ficha del ENS ni la del acceso de la Intervención: no es su necesidad y no le consta.
+El §1.3 exige ficha firmada; el §3.3 acredita que hay necesidades que ningún gestor puede declarar. La contradicción se resuelve con dos vías de firma. El gestor de un servicio no puede firmar la ficha del ENS ni la del acceso de los órganos de control interno: no es su necesidad y no le consta.
 
 | Origen | Quién declara la necesidad | Documento que la acredita | Quién firma la ficha del Anexo II |
 |---|---|---|---|
@@ -1764,7 +1772,7 @@ PPT, apartado de integración e interoperabilidad. El apartado 5, en su segundo 
 - **Interoperabilidad:** Real Decreto 4/2010 (ENI) y sus Normas Técnicas. Sus artículos 16 y 17 fijan además las condiciones de licenciamiento para la cesión entre administraciones y, para lo declarado de fuentes abiertas, la garantía de conocer el código fuente; es la norma que da contenido operativo a la reversibilidad de DT-8·v3.
 - **Reutilización:** el artículo 157.3 de la Ley 40/2015 obliga a reutilizar soluciones disponibles salvo justificación de eficiencia, y el artículo 158 impone mantener directorios de aplicaciones. La consulta previa al directorio general de aplicaciones es un trámite del expediente, no de esta cláusula, y figura en el circuito de la Parte V.
 - **Ubicación de servidores:** artículo 122.2 LCSP, que obliga a que los pliegos de los contratos cuya ejecución requiera el tratamiento por el contratista de datos personales por cuenta del responsable impongan la obligación de indicar la ubicación de los servidores y de comunicar sus cambios, y califica esas obligaciones como esenciales «en todo caso». No hay margen de apreciación: cuando concurre el presupuesto, es obligatorio.
-- **Exportación y diccionario de datos:** son el presupuesto material del control interno. Sin exportación autónoma y sin diccionario, el acceso de la Intervención de ADM-12·v3 existe sobre el papel y no en la práctica.
+- **Exportación y diccionario de datos:** son el presupuesto material del control interno. Sin exportación autónoma y sin diccionario, el acceso de los órganos de control interno de ADM-12·v3 existe sobre el papel y no en la práctica.
 
 **Corrección de sentido, y por qué importa.** El texto anterior enumeraba los servicios comunes y añadía «o servicios equivalentes». Es un error que delata la aplicación mecánica de la cláusula-paraguas de equivalencia a todo el documento: estos servicios **no admiten equivalente**, porque su utilización viene impuesta por norma. Añadirles «o equivalente» debilita la exigencia y permite al adjudicatario ofrecer un sustitutivo propio. La corrección tiene además un valor probatorio ante la Intervención: demuestra que el clausulado distingue lo obligatorio de lo ilustrativo, en lugar de aplicar la misma fórmula a todo.
 
@@ -2005,7 +2013,7 @@ El Model Context Protocol es una especificación privada, bajo gobernanza de la 
 
 **Hasta dónde llega esa salvaguarda, dicho antes de que lo diga el recurso.** El plazo ofertado sí puede reflejar indirectamente la disponibilidad previa: quien ya tiene la capacidad puede ofertar el mínimo. Por eso el criterio B del baremo tiene **suelo** —no se puntúa por debajo de [X; se recomienda 6] meses, de modo que la ventaja del que ya la tiene queda acotada— y **peso bajo**. Lo que se valora es una cualidad de la prestación —cuándo estará disponible para el Ayuntamiento—, no una característica de la empresa. Esta motivación debe reproducirse en la ficha del criterio correspondiente del Anexo IV. Negar por escrito lo que se ve en la tabla siguiente es lo que convierte un criterio defendible en una contradicción.
 
-**Sobre la proporcionalidad de la esencialidad.** Declarar esencial la entrega de esta interfaz en un contrato cuyo objeto principal es otro —una aplicación de contabilidad, por ejemplo— y anudarle la resolución del contrato es desproporcionado, y un tribunal lo verá. Véase el epígrafe 6.
+**Sobre la proporcionalidad de la esencialidad.** Declarar esencial la entrega de esta interfaz en un contrato cuyo objeto principal es otro —una aplicación de gestión de subvenciones, por ejemplo— y anudarle la resolución del contrato es desproporcionado, y un tribunal lo verá. Véase el epígrafe 6.
 
 #### 4. Cómo se acredita
 
@@ -2035,7 +2043,7 @@ El Model Context Protocol es una especificación privada, bajo gobernanza de la 
 1. Que los módulos del Apéndice del apartado 2 constituyan una parte nuclear del objeto del contrato, y no una prestación accesoria.
 2. Que la memoria justifique expresamente la proporcionalidad de anudar la resolución del contrato a esta obligación, ponderando el perjuicio de la resolución frente al del mantenimiento del contrato.
 
-En ese caso, y sólo en ese caso, el incumplimiento del apartado 5 transcurrido el plazo más un mes de subsanación figura en la lista cerrada de ADM-6·v3, bloque B. **En cualquier otro caso, la obligación NO es esencial** y su incumplimiento genera únicamente penalidad. Redactar como esencial la entrega de una interfaz para agentes en un contrato de contabilidad, y resolver el contrato por su falta, es el tipo de desproporción que un tribunal aprecia sin necesidad de entrar en el fondo.
+En ese caso, y sólo en ese caso, el incumplimiento del apartado 5 transcurrido el plazo más un mes de subsanación figura en la lista cerrada de ADM-6·v3, bloque B. **En cualquier otro caso, la obligación NO es esencial** y su incumplimiento genera únicamente penalidad. Redactar como esencial la entrega de una interfaz para agentes en un contrato cuyo objeto principal es otro, y resolver el contrato por su falta, es el tipo de desproporción que un tribunal aprecia sin necesidad de entrar en el fondo.
 
 *Tipificaciones que deben incorporarse, con su código, a la lista cerrada del apartado 3 de ADM-5·v3. El PPT no impone penalidades por sí mismo: un hecho de esta tabla que no figure allí no genera penalidad exigible.*
 
@@ -2211,7 +2219,7 @@ El régimen de consecuencias —condición especial de ejecución, plazos, medio
 
 #### 3. Necesidad y norma que la impone
 
-El problema que esta cláusula resuelve es el que señalaron a la vez el área de contratación y el asesor externo: una obligación de «mantenerse actualizado» remite a una evolución del mercado que hoy se desconoce. El licitador no puede valorarla —o encarece su oferta con una provisión de riesgo, o la ignora y discutirá su alcance en ejecución— y la Administración no puede exigirla, porque acreditar en un procedimiento contradictorio que una determinada tecnología era necesaria es una apreciación técnica que no resiste a un contratista bien asesorado.
+El problema que esta cláusula resuelve es el que señalaron a la vez la objeción interna del §M1.5 y el asesor externo: una obligación de «mantenerse actualizado» remite a una evolución del mercado que hoy se desconoce. El licitador no puede valorarla —o encarece su oferta con una provisión de riesgo, o la ignora y discutirá su alcance en ejecución— y la Administración no puede exigirla, porque acreditar en un procedimiento contradictorio que una determinada tecnología era necesaria es una apreciación técnica que no resiste a un contratista bien asesorado.
 
 El anclaje legal de la solución está en dos preceptos:
 
@@ -2328,7 +2336,7 @@ Estimación orientativa, para un contrato tecnológico de tamaño medio que apli
 
 **Cómo está hecha la suma, porque la base no es la misma en todas las filas.** El total **excluye DT-0·v3**: su carga es de licitación y no de ejecución (6 a 18 horas por licitación que invoque equivalencia), y sumarla a un total anual mezclaría dos magnitudes distintas. Con DT-0·v3 incluida, el primer año sería de 122 a 174 horas.
 
-A esta carga hay que añadir la de las cláusulas administrativas de la Parte III (Comisión de Seguimiento, Plan Anual, verificación del depósito de código, acceso de la Intervención) y la de la preparación del expediente. **Si el servicio no puede comprometer estas horas, la respuesta correcta no es escribir las cláusulas igual: es reducir el número de cláusulas incorporadas hasta lo que se pueda verificar.** Un pliego con cuatro obligaciones comprobadas vale más que uno con doce declaradas.
+A esta carga hay que añadir la de las cláusulas administrativas de la Parte III (Comisión de Seguimiento, Plan Anual, verificación del depósito de código, acceso de los órganos de control interno) y la de la preparación del expediente. **Si el servicio no puede comprometer estas horas, la respuesta correcta no es escribir las cláusulas igual: es reducir el número de cláusulas incorporadas hasta lo que se pueda verificar.** Un pliego con cuatro obligaciones comprobadas vale más que uno con doce declaradas.
 
 ---
 
@@ -3088,7 +3096,7 @@ La redacción correcta es la del apartado 3: **«ninguna otra de las obligacione
 
 **Tercera: la esencialidad se gradúa, o es desproporcionada.**
 
-En este punto la objeción del letrado del licitador es fundada, y procede reconocerla por escrito en la memoria antes de que se formule. **Resolver un contrato de contabilidad y patrimonio municipal porque el contratista no entregó en plazo una interfaz para agentes de inteligencia artificial es desproporcionado en grado manifiesto.** El contrato sirve para llevar la contabilidad del Ayuntamiento; la interfaz es una capacidad accesoria y valiosa, pero accesoria. Resolver por ella deja al Ayuntamiento sin contabilidad para ganar una discusión sobre una interfaz. Ningún tribunal lo va a validar, y bastará con que un licitador lo señale en el recurso contra el pliego para que caiga la calificación entera.
+En este punto la objeción del letrado del licitador es fundada, y procede reconocerla por escrito en la memoria antes de que se formule. **Resolver un contrato de gestión de subvenciones y ayudas municipales porque el contratista no entregó en plazo una interfaz para agentes de inteligencia artificial es desproporcionado en grado manifiesto.** El contrato sirve para tramitar las subvenciones del Ayuntamiento; la interfaz es una capacidad accesoria y valiosa, pero accesoria. Resolver por ella deja al Ayuntamiento sin tramitar sus subvenciones para ganar una discusión sobre una interfaz. Ningún tribunal lo va a validar, y bastará con que un licitador lo señale en el recurso contra el pliego para que caiga la calificación entera.
 
 De ahí la separación en B.1 y B.2, que es la pieza nueva de esta cláusula:
 
@@ -3169,7 +3177,7 @@ Lo que estas seis cláusulas hacen, y lo que no.
 
 **ADM-7.2 · Baremo modelo. Variante A: procedimiento abierto (artículo 156 LCSP).**
 
-Ejemplo completo trabajado sobre un contrato de servicios de mantenimiento, evolución y soporte de la aplicación de contabilidad y patrimonio. **Es el mismo contrato de ejemplo que emplea la aplicación piloto de la Parte VI, con sus mismas cifras**, para que no existan dos baremos modelo distintos para el mismo objeto: presupuesto base de licitación del servicio 240.000 euros (IVA excluido) para dos años, a razón de 120.000 euros anuales, más una bolsa de servicios evolutivos de 12.000 euros —el 5 por ciento de esa misma base, calculada conforme a ADM-3·v3, bloque 2, apartado 5— que está **dentro** del presupuesto base de licitación y lo sitúa en **252.000 euros**; prórroga prevista de dos años en las mismas condiciones, 252.000 euros, con la bolsa dotada en la misma proporción; **valor estimado 504.000 euros**; sin reserva de modificación. Al superar el umbral de regulación armonizada, el contrato se publica en el Diario Oficial de la Unión Europea, los pliegos son directamente recurribles y no cabe el procedimiento abierto simplificado.
+Ejemplo completo trabajado sobre un contrato **simulado** de servicios de mantenimiento, evolución y soporte de una aplicación municipal de gestión de subvenciones y ayudas. **Es el mismo expediente simulado que emplea el ejemplo trabajado de la Parte VI, con sus mismas cifras —construidas para el ejemplo—**, para que no existan dos baremos modelo distintos para el mismo objeto: presupuesto base de licitación del servicio 240.000 euros (IVA excluido) para dos años, a razón de 120.000 euros anuales, más una bolsa de servicios evolutivos de 12.000 euros —el 5 por ciento de esa misma base, calculada conforme a ADM-3·v3, bloque 2, apartado 5— que está **dentro** del presupuesto base de licitación y lo sitúa en **252.000 euros**; prórroga prevista de dos años en las mismas condiciones, 252.000 euros, con la bolsa dotada en la misma proporción; **valor estimado 504.000 euros**; sin reserva de modificación. Al superar el umbral de regulación armonizada, el contrato se publica en el Diario Oficial de la Unión Europea, los pliegos son directamente recurribles y no cabe el procedimiento abierto simplificado.
 
 Los códigos de criterio de este baremo (`P · C1 · C2 · C3 · C4 · A · B · D · E · F · H`) son los que emplean el Cuadro Maestro del Anexo I, la tabla de dependencias del Anexo VI y la aplicación piloto de la Parte VI. Es **la única serie del catálogo**: no existe ninguna otra.
 
@@ -3182,7 +3190,7 @@ Los códigos de criterio de este baremo (`P · C1 · C2 · C3 · C4 · A · B ·
 | **C1** | **Cobertura funcional comprometida** sobre la relación cerrada y numerada del **bloque B · Requisitos funcionales valorables** del **Apéndice técnico 0 · Matriz de requisitos funcionales** del pliego de prescripciones técnicas, aplicando la fórmula de cantidad reproducida íntegramente en el apartado [ ] de este PCAP, correspondiente a la **fórmula E del Anexo XVII** de este catálogo, con **Cmín = 0** y **Ctecho = número total de requisitos del bloque B**. Se cuentan únicamente los requisitos que el licitador se compromete a tener operativos en el plazo fijado en el PPT. **Es indiferente que el requisito lo cubra la solución ofertada desde su entrega inicial o que se cubra mediante desarrollo dentro de ese plazo**: se valora el compromiso, no la disponibilidad a la fecha de la oferta (apartado 2 de la cláusula anterior). Los requisitos del bloque A, «mínimos obligatorios», no puntúan. | **8** | Fórmula | Declaración del licitador sobre el bloque B del **Apéndice técnico 0 · Matriz de requisitos funcionales**, presentada en el sobre de criterios evaluables mediante fórmulas, acompañada de la documentación técnica del fabricante o del propio licitador que identifique, función por función, la versión y el módulo que la soporta o, cuando se comprometa a desarrollarla, el hito del plan de implantación en que se entregará. Cuando este pliego incorpore la cláusula [ADM-9], la exactitud de la declaración se comprobará además conforme al trámite de su apartado 5. La cobertura comprometida se incorpora al contrato |
 | **C2** | **Plan de implantación y migración de datos**: migración de los ejercicios históricos, plan de pruebas y plan de vuelta atrás, valorados conforme a la rúbrica con descriptores por tramos publicada en el Anexo [ ] de este pliego. El plan es obligatorio conforme al pliego de prescripciones técnicas; se valora únicamente su contenido por encima de ese mínimo. | **8** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego |
 | **C3** | **Niveles de servicio ofertados por encima del mínimo del pliego de prescripciones técnicas**: tiempo máximo de respuesta y tiempo máximo de resolución de incidencias críticas, en horas por debajo del máximo exigido. | **6** | Fórmula | Oferta técnica; los niveles ofertados se incorporan al contrato y se penalizan conforme a la cláusula [ADM-5] |
-| **C4** | **Plan de formación y acompañamiento** al personal de los servicios de Intervención, Tesorería y Contabilidad, valorado conforme a la rúbrica con descriptores por tramos publicada en el Anexo [ ] de este pliego, y por encima de las horas mínimas exigidas en el pliego de prescripciones técnicas. | **4** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego |
+| **C4** | **Plan de formación y acompañamiento** al personal del servicio gestor y de los órganos de control interno, valorado conforme a la rúbrica con descriptores por tramos publicada en el Anexo [ ] de este pliego, y por encima de las horas mínimas exigidas en el pliego de prescripciones técnicas. | **4** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego |
 | **A** | **Alcance funcional adicional de la interfaz normalizada de acceso programático**, sobre la relación cerrada y numerada de módulos y funciones contenida en el **Apéndice técnico 2 · Exigencias tecnológicas determinadas** del pliego de prescripciones técnicas, contando únicamente las funciones y conjuntos de datos del bloque de **funciones adicionales ofertables** que el licitador se compromete a exponer por encima de las **funciones mínimas** relacionadas en ese mismo bloque. No se computa ninguna función que no figure en esa relación, que es la única del pliego sobre esta interfaz. | **8** | Fórmula | Declaración del licitador sobre esa relación numerada, presentada en el sobre de criterios evaluables mediante fórmulas, acompañada de la documentación técnica del fabricante o del propio licitador que identifique, función por función, la versión y el módulo que la soporta o, cuando se comprometa a desarrollarla, el hito del plan de implantación en que se entregará. Cuando este pliego incorpore la cláusula [ADM-9], la exactitud de la declaración se comprobará además conforme al trámite de su apartado 5. El alcance comprometido se incorpora al contrato |
 | **B** | **Plazo ofertado de puesta en producción de la interfaz**, en meses por debajo del máximo de **[X; se recomienda 12] meses** fijado en el pliego de prescripciones técnicas, con **suelo en [X; se recomienda 6] meses**: por debajo de ese suelo no se atribuye puntuación adicional. | **5** | Fórmula | Oferta técnica; el plazo ofertado se incorpora al contrato |
 | **D** | **Tratamiento del caso de uso municipal publicado.** Descripción, en la memoria técnica presentada en plazo, de cómo la solución ofertada resuelve las tareas del caso de uso único publicado en este pliego, valorada conforme a la rúbrica del Anexo [ ] de este pliego. **Se valora lo descrito por escrito, no el desempeño en sala.** La demostración funcional de la cláusula [ADM-9] confirma o retira estos puntos; no puede añadir ninguno. | **7** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego, y acta de la sesión de comprobación de la cláusula [ADM-9] |
@@ -3299,7 +3307,7 @@ No es una obligación del contratista, sino una regla de construcción del plieg
 
 Es la cláusula con más riesgo de todo el catálogo. Los tres defectos del modelo anterior se corrigen a la vez, y los tres son de construcción, no de motivación:
 
-1. **El baremo anterior sumaba 100 puntos y ninguno valoraba la prestación.** Adjudicar un sistema de contabilidad sin puntuar la contabilidad no se motiva: se anula, por el art. 145.5.b) y por el art. 145.6 LCSP. El bloque de innovación es **un bloque dentro del baremo del contrato**, nunca el baremo entero. ADM-7.2 entrega el ejemplo completo trabajado, con el precio y los criterios funcionales dentro.
+1. **El baremo anterior sumaba 100 puntos y ninguno valoraba la prestación.** Adjudicar un sistema de gestión de subvenciones sin puntuar la gestión de subvenciones no se motiva: se anula, por el art. 145.5.b) y por el art. 145.6 LCSP. El bloque de innovación es **un bloque dentro del baremo del contrato**, nunca el baremo entero. ADM-7.2 entrega el ejemplo completo trabajado, con el precio y los criterios funcionales dentro.
 2. **Doble cómputo.** No puede puntuarse el cumplimiento de lo que el pliego ya impone. La regla de separación prohíbe expresamente las **tres** combinaciones, no sólo la clásica.
 3. **Encaje procedimental.** El baremo tiene que caber en el procedimiento que el órgano va a tramitar. Se entregan **tres variantes** —abierto ordinario, abierto simplificado y abreviado— y una hoja de comprobación que suma el baremo entero, precio incluido, y avisa.
 
@@ -3718,7 +3726,7 @@ PCAP, cláusula de condiciones especiales de ejecución, **y en el anuncio de li
 
 **Bloque complementario y acotado — art. 33.4.d) del RD 424/2017**, exclusivamente para la información sobre operaciones, saldos contables y costes del tercero en actuaciones de auditoría pública, supuesto en el que la potestad frente al contratista sólo existe si el contrato la prevé. Ese es el contenido del apartado 5, y sólo ese.
 
-**Por qué la necesidad no es artificiosa.** El art. 28.1 LCSP no dice que la necesidad la formule un gestor: dice que la naturaleza y extensión de las necesidades «deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria». Quien las determina es el órgano de contratación. Aquí, además, la necesidad la declaró por escrito el propio órgano municipal competente en materia de contratación, en su comentario de 18 de junio de 2026 al clausulado de la versión 2.0. **Ese comentario no es un informe**: es un comentario incorporado al final de un documento de trabajo. Se cita como lo que es, y **entero**, incluida la parte que juega en contra: «Siendo este seguimiento parte de las obligaciones de control de la Intervención no podemos pedir que se implementen estos instrumentos; lo que sí entraría dentro de nuestro ámbito sería la explotación de los datos al mismo rango que el gestor, al objeto de cumplir con nuestras obligaciones legales». Antes de aprobar el catálogo debe recabarse un **informe firmado y fechado** que sustituya a ese comentario; mientras no exista, la memoria no puede referirse a él como informe.
+**Por qué la necesidad no es artificiosa.** El art. 28.1 LCSP no dice que la necesidad la formule un gestor: dice que la naturaleza y extensión de las necesidades «deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria». Quien las determina es el órgano de contratación. Aquí, además, la necesidad se declaró por escrito desde dentro de la propia Administración municipal, en el comentario interno de junio de 2026 al clausulado de la versión 2.0. **Ese comentario no es un informe**: es un comentario incorporado al final de un documento de trabajo, y se cita sin identificar a su autor ni al órgano del que procede. Se cita como lo que es, y **entero**, incluida la parte que juega en contra: «Siendo este seguimiento parte de las obligaciones de control [del órgano de control interno] no podemos pedir que se implementen estos instrumentos; lo que sí entraría dentro de [su] ámbito sería la explotación de los datos al mismo rango que el gestor, al objeto de cumplir con [sus] obligaciones legales». Antes de aplicar el catálogo a un expediente debe recabarse un **informe firmado y fechado** que sustituya a ese comentario; mientras no exista, la memoria no puede referirse a él como informe.
 
 **Relación directa, clara y proporcional (art. 116.4.e LCSP):** directa, porque los datos cuyo acceso se exige son los generados por la propia prestación contratada; clara, porque su contenido queda determinado en la cláusula y su número acotado; proporcional, porque no impone al adjudicatario desarrollo alguno distinto de exponer, en formato reutilizable, información que ya produce y almacena para prestar el servicio.
 
@@ -4016,7 +4024,7 @@ Tres consecuencias, y las tres gobiernan todo lo que sigue.
 
 #### M1.1 · El problema real, dicho sin rodeos
 
-La objeción más seria que ha recibido este catálogo no viene de un licitador. Viene de dentro. En el comentario que el área de contratación municipal incorporó al final del clausulado de junio de 2026 se escribió:
+La objeción más seria que ha recibido este catálogo no viene de un licitador. Viene de dentro. En el comentario interno que se incorporó al final del clausulado de junio de 2026 se escribió:
 
 > «La mayor de las pegas que veo para poder aplicar estas cláusulas es que nacen a partir de unas necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo artificioso al contrato. Primero siempre surge la necesidad y las cláusulas del contrato es la forma de obligar al contratista para que satisfaga esa necesidad.»
 
@@ -4036,9 +4044,9 @@ La premisa «primero surge la necesidad [del gestor] y luego la cláusula» es c
 - **Titularidad de derechos para poder ceder la aplicación a otra Administración.** El art. 157.1 de la Ley 40/2015 sólo permite ceder aquellas aplicaciones de cuyos derechos se sea titular. Sin la cláusula de propiedad intelectual correctamente redactada, el Ayuntamiento no puede cumplir ese precepto años después.
 - **Actuación administrativa automatizada.** El art. 41.2 de la Ley 40/2015 exige establecer previamente los órganos competentes para la definición de especificaciones, programación, mantenimiento, supervisión, control de calidad y auditoría del sistema de información y de su código fuente.
 
-**(b) Necesidad funcional declarada por el gestor.** Es el caso ordinario y el que el comentario de contratación describe bien. La firma la cabeza del servicio gestor en la Ficha de Aplicabilidad.
+**(b) Necesidad funcional declarada por el gestor.** Es el caso ordinario y el que la objeción describe bien. La firma la cabeza del servicio gestor en la Ficha de Aplicabilidad.
 
-**(c) Necesidad institucional aprobada por el órgano de gobierno.** Es el eslabón que faltaba, y sin él el catálogo no se sostiene en su núcleo. Ninguna norma obliga hoy a un ayuntamiento a que su sistema de contabilidad exponga una interfaz de acceso programático para agentes de IA. Y el gestor de contabilidad no lo va a pedir. Si esa necesidad no está en la norma ni en el gestor, **tiene que estar en un acto del órgano de gobierno municipal con rango suficiente**: un plan o estrategia municipal de digitalización y automatización aprobado por el órgano de gobierno (en Pozuelo de Alarcón, la Junta de Gobierno Local, por su régimen de municipio de gran población del Título X de la Ley 7/1985; en el régimen común, el órgano que corresponda), que fije objetivos, alcance y calendario, y que apruebe el catálogo y su Anexo V anual.
+**(c) Necesidad institucional aprobada por el órgano de gobierno.** Es el eslabón que faltaba, y sin él el catálogo no se sostiene en su núcleo. Ninguna norma obliga hoy a un ayuntamiento a que sus sistemas de gestión expongan una interfaz de acceso programático para agentes de IA. Y el gestor del servicio no lo va a pedir. Si esa necesidad no está en la norma ni en el gestor, **tiene que estar en un acto del órgano de gobierno municipal con rango suficiente**: un plan o estrategia municipal de digitalización y automatización aprobado por el órgano de gobierno (en Pozuelo de Alarcón, la Junta de Gobierno Local, por su régimen de municipio de gran población del Título X de la Ley 7/1985; en el régimen común, el órgano que corresponda), que fije objetivos, alcance y calendario, y que apruebe el catálogo y su Anexo V anual.
 
 Con ese acuerdo, el Informe de Necesidad de cada expediente no invoca un documento técnico de una concejalía: invoca una política municipal aprobada, y la relación con el objeto del contrato pasa a ser derivada de ella. **Sin ese acuerdo, el Anexo V describe lo que el mercado vende, no lo que el Ayuntamiento necesita**, y la ficha de cada expediente se acabará rellenando con el mismo párrafo, que es la definición de justificación estereotipada. El modelo de acuerdo figura en el **Anexo VIII**, y el modelo de resolución de aprobación anual del Anexo V del ejercicio, en el **Anexo XV**.
 
@@ -4066,21 +4074,129 @@ Es el ejemplo trabajado de necesidad de origen normativo, y sostiene la cláusul
 
 **Advertencia de rigor, para que la cláusula no se caiga por exceso de fundamento:** el art. 33.4.d) del RD 424/2017 regula la ejecución de actuaciones de **auditoría pública** frente a **entidades auditadas** y ampara información sobre operaciones, saldos y costes del tercero. No es, por sí solo, título para exigir acceso funcional permanente a la aplicación. Por eso ADM-12·v3 se ancla en el bloque de control interno (arts. 4.3, 6.3, 6.4, 6.7, 20.3, 30.1 y 30.3 del RD 424/2017, arts. 214 y 220 a 222 TRLRHL, y DA 3.ª.3 LCSP) y cita el art. 33.4.d) sólo para lo que ese precepto ampara.
 
-#### M1.5 · El comentario del área de contratación de 18 de junio de 2026: qué es y cómo se cita
+#### M1.5 · La objeción interna de junio de 2026: qué es, cómo se cita y qué dice entera
 
-**No es un informe.** Es un comentario incorporado al final de un documento de trabajo. Este catálogo no puede citarlo como «informe de la Intervención» ni como «informe del área de contratación», ni atribuirlo a dos órganos distintos en dos apartados distintos. Se cita como lo que es, con su naturaleza expresada, y **entero**, incluida la parte que juega en contra:
+**Qué es, con precisión, y cómo debe citarse.** Es un **comentario interno de trabajo**, incorporado
+al final del clausulado de la versión 2.0 de junio de 2026 y completado después por escrito. **No es
+un informe**: no está registrado, no está firmado como tal y no ha seguido el circuito de un informe
+preceptivo. En consecuencia:
 
-> «Son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en el control del gasto, ni eficiencia, ni eficacia. Siendo este seguimiento parte de las obligaciones de control de la Intervención **no podemos pedir que se implementen estos instrumentos**; lo que sí entraría dentro de nuestro ámbito sería la explotación de los datos al mismo rango que el gestor, al objeto de cumplir con nuestras obligaciones legales.»
+- **No se cita como informe de ningún órgano**, ni se le atribuye a uno en un apartado y a otro en
+  otro, que es lo que hacían las versiones anteriores de esta memoria.
+- **Se cita sin identificar a su autor ni al órgano del que procede.** No es una cautela de cortesía:
+  un comentario de trabajo no registrado no compromete a nadie, y atribuirlo públicamente a un
+  servicio municipal le daría un valor institucional que no tiene. Las menciones a órganos concretos
+  que aparecían en el texto original se sustituyen por su denominación funcional entre corchetes.
+- **No procede de la unidad de contratación del Ayuntamiento**, que a la fecha de corte de este
+  documento **no se ha pronunciado** sobre este catálogo. Este documento no le atribuye posición
+  alguna, ni a favor ni en contra.
+- Y se cita **entera**, incluida la parte que juega en contra de este catálogo. Es la regla que se
+  aplica a sí mismo: la memoria no puede escoger de una objeción los trozos que le convienen.
 
-Leído entero dice dos cosas, y las dos se han incorporado: que hay una necesidad real de explotación de datos por el órgano de control (de ahí ADM-12·v3) y que el propio comentarista duda de que corresponda al Ayuntamiento imponer al contratista los instrumentos de seguimiento (de ahí la regla de verificabilidad municipal del §M4.4 y la degradación de ADM-10·v3, que deja de ser fuente autónoma de obligaciones esenciales).
+Ésta es, por tanto, la única sede de su cita completa. Todo el resto del documento remite aquí.
 
-**Recomendación vinculante para el expediente de aprobación:** antes de publicar este catálogo, solicítese al área de contratación y a la Intervención un **informe firmado y fechado**, y sustitúyase en esta memoria la cita del comentario por la cita del informe. Mientras no exista, la necesidad declarada por el órgano de control se apoya en un comentario de trabajo, y así debe constar.
+**Primer bloque · el origen de la necesidad** (respondido en §M1.2 a §M1.6):
+
+> «La mayor de las pegas que veo para poder aplicar estas cláusulas es que nacen a partir de unas
+> necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo
+> artificioso al contrato. Primero siempre surge la necesidad y las cláusulas del contrato es la
+> forma de obligar al contratista para que satisfaga esa necesidad.»
+
+**Segundo bloque · el seguimiento real y el acceso al dato** (respondido en §M4.4 y en ADM-12·v3):
+
+> «Son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en
+> el control del gasto, ni eficiencia, ni eficacia, es en ese ámbito en que la explotación de los
+> datos sería sumamente útil, pero siendo este seguimiento parte de las obligaciones de control
+> [del órgano de control interno] **no podemos pedir que se implementen estos instrumentos**; lo que
+> sí entraría dentro de [su] ámbito sería la explotación de los datos **al mismo rango que el
+> gestor**, al objeto de cumplir con [sus] obligaciones legales.»
+
+**Tercer bloque · la abstracción y la petición de un piloto** (respondido en toda la Parte VI):
+
+> «Me gustaría ponerlo a funcionar en algún contrato municipal a modo de experimento piloto, ya que
+> el grado de abstracción lo veo muy elevado. Y si yo lo veo así y no lejos de oponerme me gustaría
+> verlo funcionar […]. A modo de conclusión, las veo demasiado abstractas quizás porque son
+> demasiado innovadoras y creo que la mejor opción para quitarnos dudas de su aplicabilidad real
+> sería intentar incluirlas en alguna contratación de las que ahora tengamos previstas y en las que
+> su aplicación no fuera excesivamente compleja.»
+
+**Cuarto bloque · los demás actores** (respondido en el §M1.7, que se añade por esta razón):
+
+> «En la contratación hay muchos actores y no solo propios y tendría que ver cómo reaccionar ante
+> unas exigencias que casi seguro no han visto antes.»
+
+**Cómo se ha tratado esta objeción, y por qué importa decirlo.** Las cuatro partes se han incorporado
+al documento, y tres de ellas han cambiado su contenido, no su prólogo:
+
+| Bloque | Qué dice | Qué ha cambiado en el catálogo |
+|---|---|---|
+| 1 · Origen de la necesidad | Sin necesidad previa del gestor, la cláusula es artificiosa | Los tres orígenes de necesidad del §M1.2, la **doble vía de firma** del §M1.3 y la regla de cierre: cláusula sin ficha firmada, NO APLICA. El núcleo del catálogo pasa a exigir **acuerdo del órgano de gobierno** (Anexo VIII), sin el cual no se sostiene |
+| 2 · Seguimiento y dato | El seguimiento real es escaso; el órgano de control no puede imponer instrumentos, pero sí necesita el dato **al mismo rango que el gestor** | **ADM-12·v3** se redacta exactamente sobre esa frase: paridad de acceso con el gestor, sin tarificación, con diccionario de datos, en formato abierto y sostenida en prórrogas y reversión. Y **ADM-10·v3 se degrada**: deja de ser fuente autónoma de obligaciones esenciales, porque el propio objetor duda de que corresponda imponerlas |
+| 3 · Abstracción | Demasiado abstracto; pruébese en un contrato previsto y poco complejo | **Parte VI entera**: método de elección del contrato piloto (§VI.2.1), **subconjunto mínimo de seis cláusulas** para el primer expediente (§VI.2.2), ejemplo completo trabajado y compromiso de evaluación con dos informes (§VI.8) |
+| 4 · Los demás actores | Hay actores externos que no han visto antes estas exigencias | **§M1.7**, nuevo: consulta preliminar previa, plazos, aviso al mercado y regla de gradualidad |
+
+**Lo que esta objeción tiene de valioso, y conviene no maquillar.** Es la única aportación de todo el
+proyecto que ha obligado a cambiar la arquitectura del catálogo y no sólo su redacción. Un catálogo
+que sólo hubiera pasado por sus autores no tendría ni la doble vía de firma, ni el acuerdo del órgano
+de gobierno, ni el subconjunto mínimo, ni la degradación de ADM-10. Los tiene porque alguien que
+tenía que aplicarlo dijo por escrito por qué no podría.
+
+**Recomendación vinculante antes de aplicar el catálogo a un expediente:** solicítese a los servicios
+competentes un **informe firmado y fechado**, y sustitúyase en la memoria del expediente la cita de
+este comentario por la cita de ese informe. Mientras no exista, la necesidad declarada se apoya en un
+comentario de trabajo, y así debe constar.
 
 #### M1.6 · Lo que el art. 28.1 LCSP obliga a hacer, y a quién
 
 Art. 28.1 LCSP: *«la naturaleza y extensión de las necesidades que pretenden cubrirse mediante el contrato proyectado, así como la idoneidad de su objeto y contenido para satisfacerlas […] deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria, antes de iniciar el procedimiento encaminado a su adjudicación.»*
 
 El precepto no dice que la necesidad la formule un gestor. Dice que el **órgano de contratación** la determine con precisión y deje constancia. Que ningún gestor haya demandado una necesidad de origen normativo no la hace artificiosa. Pero —y esto es lo que separa un argumento de un instrumento— **la frase anterior no sustituye a la ficha, ni al informe de necesidad, ni al acuerdo del órgano de gobierno**. Es una regla de interpretación; la prueba la aporta el expediente.
+
+#### M1.7 · Los demás actores: exigencias que el mercado no ha visto antes
+
+El cuarto bloque de la objeción del §M1.5 es el que menos se responde en documentos de este tipo, y
+es el que decide si el catálogo funciona: *«en la contratación hay muchos actores y no solo propios
+y tendría que ver cómo reaccionar ante unas exigencias que casi seguro no han visto antes»*.
+
+Es exacto, y no tiene respuesta retórica. Un catálogo cuyas exigencias el mercado ve por primera vez
+en el anuncio de licitación produce una de estas tres cosas, todas malas: **desierto** (nadie
+concurre), **concurrencia aparente** (concurren dos y ninguno cumplirá), o **recurso** (un licitador
+alega restricción de la concurrencia y, si el pliego no acredita el contraste de mercado, tiene
+razón). Ninguna de las tres se arregla en la fase de ejecución.
+
+Los instrumentos que el catálogo prevé para esto son cuatro, y **los cuatro son previos a la
+licitación**:
+
+**1. Consulta preliminar del mercado, una vez al año y no por expediente (art. 115 LCSP).** Es la
+regla ya establecida en §M7 y en la Parte V: el contraste de mercado que exige el Anexo V y la
+consulta preliminar del art. 115 son el mismo trabajo, se hacen juntos, se documentan una vez y se
+reutilizan en todos los expedientes del ejercicio. La consulta debe preguntar exactamente lo que
+importa: **qué exigencias del Anexo V puede cumplir hoy el mercado, en qué plazo y a qué coste**, y
+su resultado se publica con el anuncio, incluidas las respuestas que digan que no se puede.
+
+**2. Aviso anticipado al mercado.** El catálogo y su Anexo V del ejercicio se publican en el perfil
+de contratante **antes** de incorporarse a ningún pliego (Anexo VIII, punto Octavo, y §VI.2.2). Un
+operador que descubre la exigencia en el anuncio la vive como una barrera; el que la conoce con
+meses de antelación tiene tiempo de prepararla, y ésa es la diferencia entre una exigencia
+restrictiva y una exigencia exigente. **Publicar en abierto no es generosidad: es la medida que
+elimina la asimetría informativa** entre el proveedor incumbente y el resto, y por eso el §M7.3 la
+identifica como la más eficaz de las medidas de concurrencia del art. 70 LCSP.
+
+**3. Plazo de presentación por encima del mínimo legal.** Cuando el expediente incorpore por primera
+vez exigencias del Anexo V, el plazo de presentación se fija **por encima del mínimo** del art. 156
+LCSP, y la ampliación se motiva en la memoria precisamente por esa causa. Es el instrumento más
+barato de todos y el que menos se usa.
+
+**4. Gradualidad: el subconjunto mínimo, y no el catálogo entero.** Un primer expediente incorpora
+las seis cláusulas del §VI.2.2, no las veintitantas del catálogo. Una exigencia acotada que el
+mercado cumple construye la credibilidad del catálogo; una exigencia amplia que nadie cumple la
+destruye en el primer año, y con ella la de todo lo demás.
+
+**Y una regla de cierre, que es la que el objetor pide sin decirlo.** Si la consulta preliminar
+acredita que el mercado no puede cumplir una exigencia del Anexo V en el plazo previsto, **la
+exigencia no entra en el pliego**: se retira del Anexo V del ejercicio o se traslada al siguiente,
+con constancia motivada. El catálogo no se aplica contra la evidencia de mercado, y quien lo intente
+tendrá primero un desierto y después un recurso.
 
 ---
 
@@ -4153,7 +4269,7 @@ La neutralidad se acredita con dos piezas, ambas de expediente y ambas reproduci
 
 **La consulta preliminar y el contraste de mercado se hacen una sola vez al año, de forma centralizada, al aprobar el catálogo y su Anexo V**, y su resultado se reutiliza en todos los expedientes del ejercicio por incorporación del informe.
 
-Hacerlo por expediente sería inasumible y no se haría: ningún área de contratación municipal puede realizar un estudio de mercado de protocolos de agentes cada vez que redacta un pliego, y exigirlo garantizaría que el trámite se cumplimente con un párrafo vacío. Centralizarlo tiene además una ventaja de defensa: cuando el recurrente alegue restricción, el expediente no responde con la opinión del redactor, sino con un informe de consulta pública anterior a la licitación, abierto a todo el mercado y publicado.
+Hacerlo por expediente sería inasumible y no se haría: ningún servicio municipal puede realizar un estudio de mercado de protocolos de agentes cada vez que redacta un pliego, y exigirlo garantizaría que el trámite se cumplimente con un párrafo vacío. Centralizarlo tiene además una ventaja de defensa: cuando el recurrente alegue restricción, el expediente no responde con la opinión del redactor, sino con un informe de consulta pública anterior a la licitación, abierto a todo el mercado y publicado.
 
 **Efecto sobre la aprobación.** Mientras la consulta del art. 115 y el contraste del Anexo V no consten en el expediente, este apartado M3 sigue afirmando la neutralidad sin probarla, y así debe hacerse constar en el informe jurídico y en la nota de fiscalización. Es una de las tres condiciones suspensivas del §M11.
 
@@ -4280,7 +4396,7 @@ Este catálogo genera gasto real. Depósito de código, bolsa de servicios evolu
 
 #### M6.3 · Carga de trabajo municipal, dimensionada
 
-Es la respuesta al corolario del área de contratación («son pocos los contratos en los que se haga un seguimiento real»). No se resuelve declarando que ahora sí se hará: se resuelve contando las horas y asignándolas.
+Es la respuesta al corolario de la objeción («son pocos los contratos en los que se haga un seguimiento real»). No se resuelve declarando que ahora sí se hará: se resuelve contando las horas y asignándolas.
 
 **El recuento no se hace aquí.** La tabla única de carga de verificación del catálogo —construida por suma de los epígrafes «Cómo se verifica» de cada cláusula, con las filas de la Parte II y de la Parte III separadas, un total de preparación por expediente y un total recurrente por contrato y año— es la del **epígrafe 5 de ADM-4·v3**. Esta memoria no estima por su cuenta y no reproduce cifras propias: rige la misma regla de precedencia del §M4.2, y cualquier discrepancia se resuelve a favor de aquella tabla. El desglose por actor, documento y horas por acto está allí, y allí es donde debe consultarlo el órgano de contratación al dimensionar un expediente.
 
@@ -4463,7 +4579,7 @@ Extremos a comprobar en fiscalización previa, además de los ordinarios:
 6. Que la bolsa de evolutivos, si se incorpora, dice expresamente que **no se abonan horas no consumidas** y que las peticiones son de servicio y no de dirección de personal (art. 308.2 y 308.3 LCSP).
 7. Que el coste del depósito de código está en el presupuesto base de licitación y no en la oferta económica (art. 100.2 LCSP).
 8. Que existe **actor municipal designado y periodicidad** para la verificación de cada obligación que el pliego califique como esencial. Si no lo hay, procede reparo por creación de obligaciones inverificables.
-9. Que el acceso de la Intervención de ADM-12·v3, cuando se incorpore, incluye número de accesos en el precio, diccionario de datos, exportación en formato abierto y permanencia en prórrogas y reversión.
+9. Que el acceso de los órganos de control interno de ADM-12·v3, cuando se incorpore, incluye número de accesos en el precio, diccionario de datos, exportación en formato abierto y permanencia en prórrogas y reversión.
 
 #### M10.3 · Para el órgano de contratación y para la Concejalía promotora
 
@@ -4512,14 +4628,14 @@ primera página y actualizado cuando cambie, y no como modelo listo para incorpo
 | 1 | **Acuerdo del órgano de gobierno** que apruebe el plan municipal del que nace la necesidad institucional, el catálogo y el Anexo V del ejercicio, con fecha, versión y órgano | Arts. 28.1 y 116.4.e) LCSP; art. 122.4 LCSP, conforme al cual «*los contratos se ajustarán al contenido de los pliegos de cláusulas administrativas particulares, cuyas cláusulas se consideran parte integrante de los mismos*», que es lo que hace del Anexo V transcrito *lex contractus* | **Pendiente. Condición suspensiva** |
 | 2 | **Consulta preliminar del mercado publicada y contraste documentado del Anexo V** | Art. 115 LCSP; §M3 | **Pendiente. Condición suspensiva.** Sin ella, M3 afirma la neutralidad sin probarla |
 | 3 | **Declaraciones de conflicto de interés firmadas**, con nombres, incorporadas al expediente antes de la aprobación | Arts. 64 y 70 LCSP; §M7 | **Pendiente. Condición suspensiva** |
-| 4 | **Informe firmado y fechado** del área de contratación y de la Intervención que sustituya al comentario de trabajo de 18/06/2026 | §M1.5 | Pendiente. Solicitar antes de publicar |
+| 4 | **Informe firmado y fechado** de los servicios competentes que sustituya al comentario interno de trabajo de junio de 2026 | §M1.5 | Pendiente. Solicitar antes de aplicar el catálogo a un expediente |
 | 5 | **Copia de cada resolución, informe y guía citada**, incorporada al expediente | §M8.3 | Pendiente. Lo que no se incorpore, se retira del texto |
 | 6 | **Cifras reales de coste** por presupuesto solicitado o consulta de mercado, sustituyendo los órdenes de magnitud del §M6.2 | Art. 100.2 LCSP | Pendiente por expediente |
 | 7 | **Certificado de crédito, fiscalización previa e informe de estabilidad presupuestaria** de cada expediente | Art. 116.3 y DA 3.ª.3 LCSP | Por expediente |
 | 8 | **Determinación de la categoría ENS y análisis de riesgos** de cada sistema | Arts. 2.3, 38.1 y 40 RD 311/2022 | Por expediente |
 | 9 | **Consulta al directorio general de aplicaciones** | Art. 157.3 Ley 40/2015 | Por expediente |
 | 10 | **Informe de insuficiencia de medios** en los contratos de servicios | Art. 116.4.f) LCSP | Por expediente |
-| 11 | **Estado del expediente piloto** redactado con el clausulado anterior: si está aprobado, procede rectificación previa a licitar, no simple revisión | §M10.3.5 | Pendiente de comprobación |
+| 11 | **Estado de los expedientes que ya se hayan redactado con el clausulado anterior**: si están aprobados, procede rectificación previa a licitar, no simple revisión (tabla VI.6) | §M10.3.5 | A comprobar por cada administración que adopte el catálogo |
 | 12 | **Comprobación, antes de cada expediente, de que sigue vigente la designación de las normas técnicas citadas** —la designación está fijada en ADM-1·v3 y las equivalencias admisibles, en el Anexo XXI— y de que ninguna afirmación sobre presunción de conformidad se hace sin fuente | Art. 93.2 LCSP; Anexo XI, apartado XI.3; Anexo XXI | Por expediente |
 | 13 | **Verificación de la fecha e instrumento** por el que el municipio se rige por el régimen de gran población, tomada del expediente municipal y no de fuentes secundarias | §M10.1 | Pendiente |
 | 14 | **Pliegos-tipo ensamblados** (PPT-tipo y PCAP-tipo) para los perfiles de contrato frecuentes, con los corchetes marcados y las fichas prerrellenadas | §M10.3.4; nota de alcance de la Parte VII | Pendiente. Compromiso abierto: sin ellos el catálogo se lee y no se aplica |
@@ -4983,7 +5099,7 @@ El propio art. 70.1, párrafo último, dispone que «las medidas adoptadas se co
 
 **Los dos límites que no se pueden cruzar** (art. 115.2): de las consultas no puede resultar «un objeto contractual tan concreto y delimitado que únicamente se ajuste a las características técnicas de uno de los consultados»; y las consultas no pueden comportar ventaja alguna respecto de la adjudicación para las empresas participantes.
 
-**Regla operativa de este catálogo: la consulta se hace centralizada y una vez al año, no por expediente.** El contraste de mercado que exige el Anexo V y la consulta preliminar del art. 115 son el mismo trabajo. Hacerlos por expediente es inasumible para un área de contratación y, además, nadie de contratación puede hacer por su cuenta un estudio de mercado de tecnologías emergentes. Se hacen **al aprobar el Anexo V del ejercicio**, con alcance suficiente para cubrir los perfiles de contrato previstos, y el informe resultante se invoca en cada expediente del año.
+**Regla operativa de este catálogo: la consulta se hace centralizada y una vez al año, no por expediente.** El contraste de mercado que exige el Anexo V y la consulta preliminar del art. 115 son el mismo trabajo. Hacerlos por expediente es inasumible para el servicio que redacta los pliegos y, además, nadie puede hacer por su cuenta un estudio de mercado de tecnologías emergentes cada vez que redacta uno. Se hacen **al aprobar el Anexo V del ejercicio**, con alcance suficiente para cubrir los perfiles de contrato previstos, y el informe resultante se invoca en cada expediente del año.
 
 Carga estimada: **40 a 60 horas al año** para la consulta centralizada, frente a un mínimo de 15 horas por expediente si se hiciera contrato a contrato. La comparación es el argumento para pedir el recurso.
 
@@ -5458,32 +5574,106 @@ Todas verificadas en fuente primaria a fecha de corte **1 de septiembre de 2026*
 
 ---
 
-## PARTE VI · APLICACIÓN PILOTO: EL CONTRATO DE CONTABILIDAD Y PATRIMONIO
+## PARTE VI · EJEMPLO COMPLETO TRABAJADO SOBRE UN EXPEDIENTE SIMULADO
+
+> ### ⚠ Advertencia previa, y es la más importante de todo el documento
+>
+> **Todo lo que sigue es una simulación.** El municipio, el objeto del contrato, las cifras, las
+> fechas, los módulos, los plazos y las conclusiones han sido **construidos para este ejemplo**, con
+> el único fin de mostrar el catálogo funcionando de principio a fin sobre un caso completo.
+>
+> **No corresponden a ningún expediente real** —adjudicado, licitado, anunciado o en preparación—
+> de ningún ayuntamiento, y **no deben citarse como dato**. Ningún número de esta parte procede de
+> un expediente municipal; ninguna conclusión de esta parte prejuzga la que corresponda a un
+> expediente real, que dependerá de sus propios datos.
+>
+> Esta advertencia no es una cautela de estilo: la preparación de un contrato **es información no
+> pública hasta su publicación en el perfil de contratante**, y un documento como éste no puede
+> anticiparla. Por eso el ejemplo es simulado y por eso lo dice aquí, en la primera línea.
 
 ### VI.1 Qué es esta parte y por qué existe
 
-El área de contratación del Ayuntamiento formuló, junto a la objeción principal sobre el origen de la necesidad, una petición concreta: **ponerlo a funcionar en un contrato municipal a modo de experimento piloto, por resultar demasiado elevado el grado de abstracción del documento**. La petición consta en un comentario interno del área de contratación, sin firma ni fecha de registro, que se reproduce íntegro y con identificación de su naturaleza en la Parte IV, M1.5, único lugar del documento donde se cita completo. Todo uso de ese comentario, aquí y en el resto del documento, se hace por remisión a esa cita.
+La objeción interna que abre la Parte IV no terminaba en el origen de la necesidad. Terminaba con
+una petición concreta, y la petición era ésta: **las cláusulas se ven demasiado abstractas —quizá
+por demasiado innovadoras— y la forma de quitarse las dudas sobre su aplicabilidad real es ponerlas
+a funcionar en algún contrato de los ya previstos, en el que su aplicación no resulte excesivamente
+compleja, a modo de experimento piloto.** La cita completa y su naturaleza están en la Parte IV,
+**§M1.5**, único lugar del documento donde se reproduce entera; aquí y en el resto del catálogo se
+usa por remisión a esa cita.
 
-Esta parte es la respuesta. No describe cómo se aplicaría el catálogo: lo aplica a un expediente real, con las casillas marcadas, las cláusulas descartadas con su motivo, la categoría de seguridad razonada, el baremo completo —con el precio dentro— y la lista de documentos que el expediente debe contener. Y termina con lo que ningún documento de este tipo suele incluir: la tabla de lo que hay que rectificar en unos pliegos que ya están escritos.
+Esta parte es la respuesta a esa petición, y la da en dos piezas que conviene no confundir:
 
-Regla de lectura para otra administración que reutilice el documento (R-5): lo que sigue es un caso, no una plantilla. Lo reutilizable es **el orden de las decisiones** —origen de la necesidad, aplicabilidad, categoría de seguridad, instrumento, baremo, valor estimado, documentos—, no las conclusiones concretas de este contrato, que dependen de sus datos.
+1. **El método para elegir el contrato piloto** (§VI.2): qué condiciones hace falta que reúna un
+   expediente para ser un buen primer caso, y cuáles lo desaconsejan. Esto sí es directamente
+   aplicable por cualquier administración a sus propios contratos.
+2. **Un ejemplo completo trabajado sobre un expediente simulado** (§VI.3 y siguientes): el catálogo
+   recorrido entero sobre un caso construido, con las casillas marcadas, las cláusulas descartadas
+   con su motivo, la categoría de seguridad razonada, el baremo completo —con el precio dentro— y la
+   lista de documentos que el expediente debe contener. Y con lo que ningún documento de este tipo
+   suele incluir: la tabla de lo que habría que rectificar en unos pliegos ya redactados con la
+   versión anterior.
+
+Es deliberado que el ejemplo sea simulado y no un expediente real. Un catálogo que se publica en
+abierto no puede sostenerse sobre la preparación de un contrato concreto: ni jurídicamente —esa
+información no es pública hasta el perfil de contratante—, ni prácticamente, porque las conclusiones
+de un expediente no son trasladables a otro. Lo que sí es trasladable, y es lo que se entrega aquí,
+es **el orden de las decisiones**: origen de la necesidad, aplicabilidad, categoría de seguridad,
+instrumento, baremo, valor estimado, documentos.
+
+Regla de lectura para otra administración que reutilice el documento (R-5): lo que sigue es un caso
+construido, no una plantilla. Reutilícese el orden; no las conclusiones.
 
 ---
 
-### VI.2 Estado real del expediente a la fecha de corte (01/09/2026) y regla de tramitación
+### VI.2 Cómo elegir el contrato piloto, y el cauce si los pliegos ya están escritos
 
-Hecho que condiciona todo lo demás: **las cláusulas de inteligencia artificial del PPT y del PCAP de este contrato se redactaron el 24 de agosto de 2026 con el texto de la versión 2**, es decir, con los defectos que la versión 3 corrige. Así consta en la documentación de preparación del proyecto.
+#### VI.2.1 Qué condiciones debe reunir el primer contrato
 
-**Identificación del expediente.** A la fecha de corte, el expediente **no ha sido publicado en el perfil de contratante** y sus datos identificativos no son información pública. Este apartado se completará con el número de expediente, el objeto formal, el valor estimado real y la situación procedimental en el momento de su publicación, y **hasta entonces toda la Parte VI debe leerse como caso trabajado sobre datos hipotéticos**, no como la reproducción de un expediente en curso.
+El objetor pedía un contrato «en el que su aplicación no fuera excesivamente compleja». La condición
+es acertada y merece traducirse a criterios comprobables. Un expediente es buen candidato a piloto
+cuando reúne **las cinco** siguientes; si falla alguna, es mejor esperar al siguiente:
 
-| Dato | Contenido | Estado a 01/09/2026 |
+| # | Condición | Por qué |
 |---|---|---|
-| Número de expediente | ……………………… | Pendiente de publicación |
-| Objeto formal | ……………………… | Pendiente de publicación |
-| Valor estimado real | ……………………… € | Pendiente de publicación |
-| Situación procedimental (A, B o C de la tabla siguiente) | ……… | Pendiente de consignar |
+| 1 | **Hay un usuario del dato distinto del gestor**, con obligación legal propia de controlarlo | Es lo que permite empezar el piloto *dando* acceso —ADM-12·v3— en vez de *pidiendo* exigencias nuevas al contratista. El primer contacto del mercado con el catálogo no debería ser una imposición |
+| 2 | **La prestación produce dato estructurado y verificable** | Todo lo que el catálogo exige —interfaz de consulta, registro de auditoría, exportación en formato abierto, diccionario de datos— se comprueba entonces con una prueba de aceptación, no con una opinión. Un piloto que se evalúa por opinión no prueba nada |
+| 3 | **El objeto no es crítico en disponibilidad** | Si el análisis de riesgos sitúa el sistema en categoría ALTA, el expediente arrastra depósito de código, requisitos reforzados y coste; y el piloto pasa a discutirse por lo que no era. Elíjase un contrato de categoría BÁSICA o MEDIA |
+| 4 | **Existe mercado plural para ese objeto** | Un objeto con un solo proveedor real convierte cualquier exigencia nueva en una barrera, y el piloto acabará discutiéndose como restricción de la concurrencia en lugar de como prueba del catálogo |
+| 5 | **Está en fase de preparación, no de licitación** | Sobre un pliego ya publicado no se «corrige»: se rectifica con nueva aprobación y publicación, o se desiste (§VI.2.2). Un piloto no debería nacer con ese lastre |
 
-Antes de continuar, el órgano de contratación debe consignar en el expediente en cuál de estas tres situaciones se encuentra, porque de ella depende el cauce de la corrección:
+Lo desaconsejan, por el contrario: los contratos menores (no hay pliego donde poner el catálogo),
+los basados en acuerdo marco y las adhesiones a central de compra (las condiciones vienen dadas), y
+las prórrogas de contratos vivos (la prórroga continúa el contrato, no lo reescribe). Para esos tres
+supuestos rigen las reglas específicas de la Parte I.
+
+Y una recomendación que vale por las cinco condiciones juntas: **el primer piloto no debe incorporar
+el catálogo entero.** El §VI.2.2 identifica el subconjunto mínimo con el que empezar.
+
+#### VI.2.2 El subconjunto mínimo para el primer piloto
+
+Ésta es la respuesta directa al reproche de abstracción, y conviene darla en forma de lista corta. Un
+primer expediente no necesita las veintitantas cláusulas del catálogo: necesita **seis**, que son las
+que se sostienen solas, no dependen unas de otras y producen resultado verificable en el primer año.
+
+| Orden | Cláusula | Por qué está en el mínimo |
+|---|---|---|
+| 1 | **ADM-12·v3** · Acceso de los órganos de control a los datos de ejecución | Es la única cláusula del catálogo que responde a una necesidad declarada por escrito, y no impone al contratista una tecnología: le impone no tarifar, documentar y exportar. Empezar por ella es empezar dando |
+| 2 | **DT-0·v3** · Equivalencia y trámite de prueba | No añade exigencias: quita barreras. Es la cláusula que protege la concurrencia y la primera que un licitador echa en falta |
+| 3 | **DT-6·v3** · Seguridad conforme al ENS en la categoría que corresponda | Es obligación legal preexistente (art. 2.3 RD 311/2022): no se está pidiendo nada nuevo, se está redactando bien lo que ya había que pedir |
+| 4 | **ADM-8·v3** · Propiedad intelectual y licencia mínima | Lo que se pierde por no ponerla no se recupera después. Es la cláusula con más consecuencia y menos coste |
+| 5 | **ADM-2·v3** + **Anexo V** · Exigencias tecnológicas del ejercicio, con alcance cerrado | Es el núcleo del catálogo, y sólo funciona si el Anexo V está aprobado y publicado antes. Sin Anexo V, no entra |
+| 6 | **ADM-5·v3** · Penalidades tipificadas, en su parte correspondiente a lo anterior | Sin consecuencia tipificada, las cinco anteriores son recomendaciones |
+
+Todo lo demás —operación autónoma supervisada, gobernanza certificada, depósito de código,
+preparación criptográfica— **se deja fuera del primer piloto** y se incorpora, si procede, cuando el
+informe de evaluación del §VI.8 acredite que el circuito funciona. Es preferible una exigencia
+acotada que se cumple a una amplia que se incumple desde el primer año.
+
+#### VI.2.3 Si los pliegos ya están escritos: cuál es el cauce
+
+Cuestión distinta del piloto, y que se plantea en cuanto una administración adopta el catálogo
+teniendo expedientes en marcha. Antes de tocar nada, el órgano de contratación debe consignar en el
+expediente en cuál de estas tres situaciones se encuentra, porque de ella depende el cauce:
 
 | Situación | Qué es la revisión de VI.6 | Cauce |
 |---|---|---|
@@ -5493,20 +5683,45 @@ Antes de continuar, el órgano de contratación debe consignar en el expediente 
 
 Advertencia expresa, porque es la que se olvida: en las situaciones B y C **esto no es un ajuste de redacción**. Es la rectificación de un pliego que ya ha pasado por el circuito de aprobación, y por eso vuelve a pasar entero por él. Un pliego rectificado por vía de fe de erratas es un pliego rectificado por el cauce equivocado.
 
-Segunda advertencia, sobre el origen material del borrador: consta en la preparación del expediente que el pliego se elaboró tomando como referencia el de otro ayuntamiento que tiene implantada una solución determinada. Si eso se confirma, obliga a un barrido específico antes de aprobar: **un pliego heredado de un municipio con un producto ya implantado tiende a describir ese producto**, y esa descripción sobrevive a la traducción a «requisitos funcionales». El barrido consiste en localizar toda especificación que sólo pueda cumplir un fabricante concreto y reescribirla en términos de función, con la admisión de equivalentes y la prueba en la oferta (DT-0·v3).
+Segunda advertencia, sobre el origen material del borrador. Es frecuente, y perfectamente legítimo, que un pliego se redacte tomando como referencia el de otro ayuntamiento. Cuando ese ayuntamiento tiene ya implantada una solución determinada, la herencia obliga a un barrido específico antes de aprobar: **un pliego heredado de un municipio con un producto ya implantado tiende a describir ese producto**, y esa descripción sobrevive a la traducción a «requisitos funcionales». El barrido consiste en localizar toda especificación que sólo pueda cumplir un fabricante concreto y reescribirla en términos de función, con la admisión de equivalentes y la prueba en la oferta (DT-0·v3). Hágase siempre, y déjese constancia de que se ha hecho.
 
 ---
 
-### VI.3 Por qué este contrato es el piloto adecuado
+### VI.3 El expediente simulado sobre el que se trabaja
 
-Cuatro razones, y ninguna es que sea el contrato más grande:
+Recordatorio, porque a partir de aquí empiezan las cifras: **el expediente que sigue es construido**
+(véase la advertencia que abre esta parte). Se ha elegido un objeto que cumple las cinco condiciones
+del §VI.2.1 y que, por su perfil, permite ver operar la mayor parte del catálogo:
 
-1. **La primera cláusula que se aplica es la del objetor.** La necesidad de acceso de los órganos de control a los datos de ejecución (ADM-12·v3) es la única necesidad de todo este proyecto declarada por escrito por un órgano municipal, y la contabilidad y el patrimonio son exactamente la materia sobre la que ese órgano ejerce sus funciones de control (art. 214 TRLRHL; arts. 4.3, 6.3, 6.7, 20 y 30 del RD 424/2017). El piloto empieza dando, no pidiendo.
-2. **Es un contrato con dato estructurado y verificable.** Todo lo que el catálogo exige —interfaz de consulta, registro de auditoría, exportación en formato abierto, diccionario de datos— se comprueba aquí con una prueba de aceptación, no con una opinión.
-3. **Tiene gestor identificado y usuario natural del dato distinto del gestor.** Es el caso que obliga a usar las dos vías de firma de la ficha de aplicabilidad (Anexo II) y, por tanto, el que prueba si el circuito funciona.
-4. **Ya está escrito con la versión anterior.** Es un piloto y a la vez un caso de rectificación: enseña las dos cosas que hay que saber hacer.
+> **Expediente simulado.** Ayuntamiento de [MUNICIPIO]. Contrato de **servicios de mantenimiento,
+> evolución y soporte de la plataforma municipal de gestión de subvenciones y ayudas**, con la
+> licencia o suscripción de la solución estándar sobre la que se presta. Dos años, con prórroga
+> prevista de otros dos.
 
-Lo que el piloto **no** demuestra: no demuestra que el catálogo funcione en contratos menores, en contratos basados en acuerdo marco o en adhesiones a centrales de compra, ni en prórrogas de contratos vivos. Para esos tres supuestos rigen las reglas específicas de la Parte I y no hay experiencia todavía.
+Por qué este objeto ilustra bien el catálogo —y son, punto por punto, las condiciones del §VI.2.1:
+
+1. **La primera cláusula que se aplica es la del objetor.** La necesidad de acceso de los órganos de
+   control a los datos de ejecución (ADM-12·v3) es la única necesidad de todo este catálogo que
+   aparece declarada por escrito, y la ejecución del gasto en subvenciones es materia sobre la que
+   esos órganos ejercen por ley funciones de control (art. 214 TRLRHL; arts. 4.3, 6.3, 6.7, 20 y 30
+   del RD 424/2017; y, en el ámbito específico de las subvenciones, el control financiero de los
+   arts. 44 y siguientes de la Ley 38/2003, General de Subvenciones). El piloto empieza dando, no
+   pidiendo: es la mejor forma de que el catálogo no se lea como una imposición al mercado.
+2. **Es un contrato con dato estructurado y verificable.** Convocatoria, solicitud, valoración,
+   concesión, pago, justificación y reintegro son estados con fecha y con importe. Todo lo que el
+   catálogo exige —interfaz de consulta, registro de auditoría, exportación en formato abierto,
+   diccionario de datos— se comprueba con una prueba de aceptación, no con una opinión.
+3. **Tiene gestor identificado y usuario natural del dato distinto del gestor.** Es el caso que
+   obliga a usar las dos vías de firma de la ficha de aplicabilidad (Anexo II) y, por tanto, el que
+   prueba si el circuito funciona.
+4. **No es crítico en disponibilidad y tiene mercado plural.** Permite razonar una categoría ENS
+   MEDIA sin forzarla, y deja fuera del ejemplo el depósito de código, que habría desplazado la
+   discusión.
+
+Lo que un piloto así **no** demuestra, y conviene decirlo antes de que lo diga otro: no demuestra
+que el catálogo funcione en contratos menores, en contratos basados en acuerdo marco o en
+adhesiones a centrales de compra, ni en prórrogas de contratos vivos. Para esos tres supuestos rigen
+las reglas específicas de la Parte I y no hay experiencia todavía.
 
 ---
 
@@ -5518,7 +5733,7 @@ Antes de aplicar ninguna cláusula hay que decidir qué contrato es, porque de l
 
 | Componente de la prestación | Calificación | Consecuencia en el catálogo |
 |---|---|---|
-| Licencia o suscripción de una solución estándar de contabilidad y patrimonio | Suministro | ADM-8·v3 **no** ampara exigencias de titularidad sobre el producto base: el art. 308.1 LCSP opera en el contrato de servicios. Sí operan la licencia mínima supletoria dimensionada para el uso municipal y la delimitación del código; la transferencia del producto base sólo opera si se pacta expresamente con el licenciante |
+| Licencia o suscripción de una solución estándar de gestión de subvenciones y ayudas | Suministro | ADM-8·v3 **no** ampara exigencias de titularidad sobre el producto base: el art. 308.1 LCSP opera en el contrato de servicios. Sí operan la licencia mínima supletoria dimensionada para el uso municipal y la delimitación del código; la transferencia del producto base sólo opera si se pacta expresamente con el licenciante |
 | Implantación, parametrización, migración de datos y formación | Servicios | Aquí sí nace la titularidad municipal sobre desarrollos específicos, configuraciones, parametrizaciones y bases de conocimiento |
 | Soporte y mantenimiento correctivo, adaptativo y evolutivo | Servicios de mantenimiento de aplicaciones informáticas | Es el único supuesto en que cabe la bolsa de servicios evolutivos del art. 308.3 LCSP |
 
@@ -5542,7 +5757,7 @@ Necesidades identificadas en este contrato:
 
 | # | Necesidad | Origen | Fundamento | Cláusula que la satisface |
 |---|---|---|---|---|
-| 1 | Llevanza de la contabilidad municipal y del inventario de bienes y derechos conforme a la normativa presupuestaria y contable local | F | Necesidad del servicio gestor y del órgano contable | Prescripciones funcionales del PPT (fuera de este catálogo) |
+| 1 | Tramitación, seguimiento y justificación de las subvenciones y ayudas municipales conforme a la Ley 38/2003, General de Subvenciones, y a las bases reguladoras municipales | F | Necesidad del servicio gestor | Prescripciones funcionales del PPT (fuera de este catálogo) |
 | 2 | Conformidad con el Esquema Nacional de Seguridad del sistema del contratista y de su cadena de suministro | N | Art. 2.3 RD 311/2022: los pliegos «contemplarán todos aquellos requisitos necesarios para asegurar la conformidad con el ENS», cautela que se extiende a la cadena de suministro | DT-6·v3 |
 | 3 | Interoperabilidad con los servicios comunes de obligada utilización y con el resto de sistemas municipales | N | RD 4/2010 (ENI) y Ley 39/2015 | DT-5·v3 |
 | 4 | Tratamiento de datos personales por cuenta del Ayuntamiento (terceros, proveedores, personal) | N | Art. 28 RGPD; arts. 122.2 y 202.1 párr. 3.º LCSP cuando concurren sus supuestos | ADM-6·v3 bloque A; cláusulas de protección de datos del PCAP |
@@ -5554,7 +5769,7 @@ Necesidades identificadas en este contrato:
 | 10 | Control del uso de sistemas de IA de terceros sobre información municipal no pública | N/F | Art. 28 RGPD y deber de confidencialidad del contratista | ADM-13·v3 |
 | 11 | Evolución determinada de la solución durante la vigencia, valorable por el licitador | I/F | Acuerdo del órgano de gobierno + necesidad del servicio de no quedar con una versión congelada | ADM-2·v3 sobre el Anexo V |
 
-**Lo que hay que decir en voz alta sobre la fila 9**, porque es el punto que el área de contratación señaló y el que un recurrente atacará: la necesidad de agentización **no es normativa ni funcional**. Si el expediente la justifica con un párrafo general sobre la transformación digital, es justificación estereotipada y cae. Si la justifica por remisión a un acuerdo del órgano de gobierno que aprueba un plan con objetivos y calendario, y el informe de necesidad explica por qué **este** contrato entra en ese plan, la relación con el objeto pasa a ser derivada de una política municipal aprobada. **Sin ese acuerdo previo, la recomendación de este documento es marcar la fila 9 como NO APLICA en este expediente** y contratar la solución sin ella. Es preferible un piloto que aplique nueve cláusulas bien fundadas que uno que aplique once con una sostenida por una frase.
+**Lo que hay que decir en voz alta sobre la fila 9**, porque es el punto que la objeción interna del §M1.5 señaló y el que un recurrente atacará: la necesidad de agentización **no es normativa ni funcional**. Si el expediente la justifica con un párrafo general sobre la transformación digital, es justificación estereotipada y cae. Si la justifica por remisión a un acuerdo del órgano de gobierno que aprueba un plan con objetivos y calendario, y el informe de necesidad explica por qué **este** contrato entra en ese plan, la relación con el objeto pasa a ser derivada de una política municipal aprobada. **Sin ese acuerdo previo, la recomendación de este documento es marcar la fila 9 como NO APLICA en este expediente** y contratar la solución sin ella. Es preferible un piloto que aplique nueve cláusulas bien fundadas que uno que aplique once con una sostenida por una frase.
 
 #### VI.4.3 Qué cláusulas aplican y cuáles no
 
@@ -5563,7 +5778,7 @@ Ficha de aplicabilidad cumplimentada. Instrumentos: **P** prescripción técnica
 | Cláusula v3 | Instrumento | Origen | Motivación de la decisión |
 |---|---|---|---|
 | **DT-0·v3** Equivalencia y acreditación | P | N | Obligatoria siempre que el pliego cite cualquier producto, protocolo, norma o red. Nunca puede marcarse NA en un pliego tecnológico |
-| **DT-1·v3** IA, IA generativa y agentes | P | N/I | Aplica en su bloque de reparto de papeles y decisiones automatizadas. La contabilidad no es hoy actuación administrativa automatizada, pero el sistema soportará propuestas asistidas: la cláusula fija que ninguna decisión con efecto jurídico o económico se ejecute sin validación humana |
+| **DT-1·v3** IA, IA generativa y agentes | P | N/I | Aplica en su bloque de reparto de papeles y decisiones automatizadas. La tramitación de subvenciones no está configurada en el ejemplo como actuación administrativa automatizada del art. 41 de la Ley 40/2015, pero el sistema soportará propuestas asistidas: la cláusula fija que ninguna decisión con efecto jurídico o económico se ejecute sin validación humana |
 | **DT-2·v3** Capa de confianza (anclaje de evidencias, identidad verificable) | **NA** | — | No hay necesidad identificada: la integridad de los asientos y del inventario se resuelve con el registro de auditoría del sistema y con el ENS. Añadir anclaje distribuido sería exigencia sin necesidad. **Arrastra: se suprime el criterio de adjudicación que, en su caso, hubiera valorado esa capacidad, si el órgano de contratación lo hubiera añadido al baremo** (Anexo VI) |
 | **DT-3·v3** Criptoagilidad y transición post-cuántica | **NA** | — | La cláusula se activa en sistemas con datos de conservación prolongada o especialmente protegidos. Los datos contables tienen conservación larga, pero no son datos de categoría especial y su confidencialidad no es el riesgo dominante. Decisión: NA, con revisión en la licitación siguiente. Si el análisis de riesgos del expediente concluyera lo contrario, se activa sólo el inventario criptográfico y el plan de transición, nunca un algoritmo nominado |
 | **DT-4·v3** Automatización de procesos identificados — **procesos mínimos** de la lista cerrada | P | F | Aplica sobre **lista cerrada y numerada de procesos** publicada en el PPT (conciliación bancaria, contabilización de facturas de la plataforma de facturación electrónica, propuestas de amortización, cierre del ejercicio, altas y bajas de inventario, generación de rendiciones). Los procesos marcados como mínimos son prescripción y no puntúan |
@@ -5574,7 +5789,7 @@ Ficha de aplicabilidad cumplimentada. Instrumentos: **P** prescripción técnica
 | **DT-8·v3** Reversibilidad, inventario de componentes y dossier | P | N/F | Aplica íntegra. Es la cláusula con más valor real en un sistema contable: el día que se cambia de proveedor, el problema no es el software, son veinte ejercicios de datos |
 | **DT-9·v3** Exigencias tecnológicas determinadas del ejercicio | P | I | Aplica con DT-7·v3 y con la misma condición. El Anexo V se **transcribe físicamente** en el PPT, recortado a este objeto (VI.4.5) |
 | **ADM-1·v3** Solvencia técnica y profesional | S | N | Solvencia técnica ordinaria por experiencia y medios, en los términos de los arts. 90 y 93 LCSP |
-| **ADM-1·v3** Sistema de gestión de la IA (gobernanza) | CEE | I | La gobernanza de IA (UNE-EN ISO/IEC 42001:2026 o equivalente) **no se exige como solvencia** en este contrato. No porque el contrato no esté sujeto a regulación armonizada —lo está, según VI.4.7—, sino porque **falta el segundo requisito acumulativo de la modalidad A** de ADM-1·v3: el sistema de inteligencia artificial no constituye elemento determinante de la prestación, que es la llevanza de la contabilidad y del inventario. Se configura, por tanto, como condición especial de ejecución (modalidad B), con compromiso de obtención |
+| **ADM-1·v3** Sistema de gestión de la IA (gobernanza) | CEE | I | La gobernanza de IA (UNE-EN ISO/IEC 42001:2026 o equivalente) **no se exige como solvencia** en este contrato. No porque el contrato no esté sujeto a regulación armonizada —lo está, según VI.4.7—, sino porque **falta el segundo requisito acumulativo de la modalidad A** de ADM-1·v3: el sistema de inteligencia artificial no constituye elemento determinante de la prestación, que es la tramitación y el seguimiento de las subvenciones. Se configura, por tanto, como condición especial de ejecución (modalidad B), con compromiso de obtención |
 | **ADM-2·v3** Compromiso de evolución tecnológica determinada | CEE | I/F | Aplica, con alcance cerrado al Anexo V. Si el Anexo V no se incorpora, esta cláusula decae entera. **No se califica de esencial en este expediente**: su esencialidad depende del bloque B.2 de ADM-6·v3, que aquí no se marca por no superarse el test de relevancia (párrafo siguiente a esta tabla). El incumplimiento queda en penalidad conforme a ADM-5·v3 (tipos G2, M1 y M2) |
 | **ADM-3·v3** Plazos, Plan Anual y bolsa de servicios evolutivos | CEE | F | Aplica. La bolsa se incorpora al amparo del art. 308.3 LCSP, con precio por unidades de actividad del Cuadro de Precios Unitarios y **peticiones de servicio del responsable del contrato**, nunca dirección de personal (art. 308.2 LCSP) |
 | **ADM-4·v3** Seguimiento, responsable del contrato y Comisión | CEE | F | Aplica, con periodicidad y carga dimensionadas (VI.4.8) |
@@ -5591,11 +5806,11 @@ Ficha de aplicabilidad cumplimentada. Instrumentos: **P** prescripción técnica
 
 **El test de relevancia del bloque B.2 de ADM-6·v3, resuelto para este contrato.** ADM-6·v3 no permite marcar ninguna letra del bloque B.2 sin superar antes su test de relevancia, y obliga a que la conclusión conste en la memoria justificativa. Las únicas letras que este expediente podría marcar son la **e)** —falta de implantación de una exigencia del Anexo V transcrito en el PPT— y la **g)** —falta de entrega de la interfaz normalizada en el plazo máximo del PPT—. Resuelto sobre ellas:
 
-- **(i) ¿Capacidad identificada en el Informe de Necesidad como determinante de la finalidad del contrato?** **No.** La finalidad es la llevanza de la contabilidad municipal y del inventario de bienes y derechos: es la necesidad 1 de VI.4.2, de origen funcional. La capacidad de ser operada y auditada por agentes es la necesidad 9, de origen **institucional**, y su propia fila declara que «ninguna norma lo impone y el gestor no lo ha pedido». El informe de necesidad no puede calificarla de determinante de la finalidad sin contradecir esa ficha.
+- **(i) ¿Capacidad identificada en el Informe de Necesidad como determinante de la finalidad del contrato?** **No.** La finalidad es la tramitación, el seguimiento y la justificación de las subvenciones municipales: es la necesidad 1 de VI.4.2, de origen funcional. La capacidad de ser operada y auditada por agentes es la necesidad 9, de origen **institucional**, y su propia fila declara que «ninguna norma lo impone y el gestor no lo ha pedido». El informe de necesidad no puede calificarla de determinante de la finalidad sin contradecir esa ficha.
 - **(ii) ¿Peso económico en la oferta igual o superior al [X; se recomienda 10] por ciento del precio del contrato?** **No consta.** El expediente no imputa a esta capacidad un coste de esa magnitud. Su peso en el baremo es de 13 puntos sobre 100 —criterios A (8) y B (5)—, que es medida de puntuación y no de precio. Si el estudio económico del expediente cifrara ese coste por encima del umbral, el test se rehace y se hace constar.
-- **(iii) ¿Su falta impide el uso de la solución para la finalidad contratada, o impide al Ayuntamiento cumplir una obligación legal propia?** **No.** Sin la interfaz normalizada el Ayuntamiento lleva su contabilidad, gestiona su inventario y rinde sus cuentas exactamente igual.
+- **(iii) ¿Su falta impide el uso de la solución para la finalidad contratada, o impide al Ayuntamiento cumplir una obligación legal propia?** **No.** Sin la interfaz normalizada el Ayuntamiento convoca, concede, paga y justifica sus subvenciones exactamente igual.
 
-**Conclusión: no concurre ninguno de los tres supuestos, la casilla no se marca y ADM-2·v3 no se califica de esencial en este contrato.** Es la conclusión que la nota al redactor de ADM-6·v3 anticipa con este mismo ejemplo: resolver un contrato de contabilidad y patrimonio municipal porque el contratista no entregó en plazo una interfaz para agentes de inteligencia artificial es desproporcionado en grado manifiesto. La consecuencia del incumplimiento queda en penalidad grave o muy grave —tipos G2 y M1 de ADM-5·v3 para las exigencias del Anexo V, y G19 y M15 para la interfaz normalizada—, con los límites del art. 192.1 LCSP; no es consecuencia simbólica. **Esta conclusión se transcribe en la memoria justificativa del expediente**, que es donde ADM-6·v3 exige que conste.
+**Conclusión: no concurre ninguno de los tres supuestos, la casilla no se marca y ADM-2·v3 no se califica de esencial en este contrato.** Es la conclusión que la nota al redactor de ADM-6·v3 anticipa con este mismo ejemplo: resolver un contrato de gestión de subvenciones y ayudas municipales porque el contratista no entregó en plazo una interfaz para agentes de inteligencia artificial es desproporcionado en grado manifiesto. La consecuencia del incumplimiento queda en penalidad grave o muy grave —tipos G2 y M1 de ADM-5·v3 para las exigencias del Anexo V, y G19 y M15 para la interfaz normalizada—, con los límites del art. 192.1 LCSP; no es consecuencia simbólica. **Esta conclusión se transcribe en la memoria justificativa del expediente**, que es donde ADM-6·v3 exige que conste.
 
 **Nota sobre las filas desdobladas.** Una cláusula que exige un mínimo y puntúa el exceso ocupa **dos filas** de la ficha, nunca una con dos instrumentos. Es lo que hace el Anexo I con DT-4·v3 (filas 13 y 14) y con ADM-1·v3 (filas 16 y 18), y lo que esta ficha reproduce. Una fila con dos instrumentos no supera la primera comprobación de cierre del Anexo II.
 
@@ -5617,7 +5832,7 @@ Análisis para este contrato, que el expediente debe recoger firmado por el resp
 | Autenticidad | La imputación de un asiento a un usuario determinado es determinante de responsabilidad | MEDIO |
 | Trazabilidad | Sostiene la función interventora y la auditoría posterior | MEDIO / ALTO |
 
-**Categoría propuesta: [MEDIA; elévese a ALTA sólo si el análisis de riesgos sitúa integridad o trazabilidad en nivel alto].** Consecuencias directas: en categoría MEDIA o ALTA la conformidad se acredita mediante **certificación**; en BÁSICA, mediante declaración de conformidad basada en autoevaluación (art. 38.1 RD 311/2022). Y el umbral de activación del depósito de código de ADM-11·v3 está anudado a la **concurrencia acumulativa de las cuatro circunstancias de su apartado 1**, entre ellas la categoría ALTA en la dimensión de disponibilidad. Con la categorización propuesta (MEDIA), **ADM-11·v3 se marca NO APLICA en este expediente** y así debe decirlo la ficha. Que la contabilidad figure en la lista tasada de servicios no basta: la lista es una de las cuatro circunstancias, no una vía alternativa. Sólo si el análisis de riesgos firmado sitúa la disponibilidad en ALTA, y concurren además las otras tres, procede su incorporación, con su coste consignado como partida independiente del presupuesto base de licitación.
+**Categoría propuesta: [MEDIA; elévese a ALTA sólo si el análisis de riesgos sitúa integridad o trazabilidad en nivel alto].** Consecuencias directas: en categoría MEDIA o ALTA la conformidad se acredita mediante **certificación**; en BÁSICA, mediante declaración de conformidad basada en autoevaluación (art. 38.1 RD 311/2022). Y el umbral de activación del depósito de código de ADM-11·v3 está anudado a la **concurrencia acumulativa de las cuatro circunstancias de su apartado 1**, entre ellas la categoría ALTA en la dimensión de disponibilidad. Con la categorización propuesta (MEDIA), **ADM-11·v3 se marca NO APLICA en este expediente** y así debe decirlo la ficha. En este ejemplo fallan además otras circunstancias del apartado 1 —entre ellas la de la lista tasada de servicios, en la que la gestión de subvenciones no figura—, y conviene subrayar la regla: la lista es una de las cuatro circunstancias, no una vía alternativa, de modo que su concurrencia sola tampoco bastaría. Sólo si el análisis de riesgos firmado sitúa la disponibilidad en ALTA, y concurren además las otras tres, procede su incorporación, con su coste consignado como partida independiente del presupuesto base de licitación.
 
 #### VI.4.5 El Anexo V recortado a este objeto
 
@@ -5630,7 +5845,7 @@ El apéndice que lo contiene es el **Apéndice técnico 2 · Exigencias tecnoló
 
 **1. Módulos y funciones de la interfaz normalizada.** Este apartado es la **única** relación de este pliego sobre los módulos y las funciones de la interfaz normalizada. Ningún otro documento del pliego contiene una relación distinta sobre la misma interfaz, y el exceso que valora el criterio A del pliego de cláusulas administrativas particulares se mide exclusivamente sobre el bloque B.
 
-Módulos alcanzados por la exigencia ET-1: (i) contabilidad presupuestaria y financiera; (ii) gestión patrimonial e inventario de bienes y derechos; (iii) terceros y endosos. Quedan excluidos los módulos [relación de módulos excluidos].
+Módulos alcanzados por la exigencia ET-1: (i) convocatorias y bases reguladoras; (ii) solicitudes, valoración y resolución de concesión; (iii) pagos, justificación y reintegros. Quedan excluidos los módulos [relación de módulos excluidos].
 
 **Bloque A · Funciones mínimas** que la interfaz debe exponer sobre los módulos anteriores, todas ellas **de consulta**. Son prescripción técnica obligatoria y **no puntúan**:
 a) Consulta de saldos y movimientos por aplicación presupuestaria, ejercicio y fecha.
@@ -5680,7 +5895,7 @@ Es el baremo modelo de ADM-7·v3, apartado 2, aplicado a este expediente: mismos
 | **C1. Cobertura funcional comprometida** | 8 | Fórmula E del Anexo XVII | Número de requisitos funcionales del **bloque B · Requisitos funcionales valorables** del **Apéndice técnico 0 · Matriz de requisitos funcionales** que el licitador **se compromete** a tener operativos en el plazo del PPT, sea porque la solución los cubre desde su entrega inicial, sea porque los desarrolla dentro de ese plazo. **Cmín = 0** y **Ctecho = número total de requisitos del bloque B**. La disponibilidad a la fecha de la oferta no se valora ni se exige | Los requisitos mínimos obligatorios del bloque A del mismo apéndice, que no puntúan |
 | **C2. Plan de implantación y migración de datos** | 8 | Juicio de valor | Calidad del plan de migración de los ejercicios históricos, plan de pruebas y plan de vuelta atrás | Existencia de plan, exigida por el PPT |
 | **C3. Niveles de servicio ofertados** | 6 | Fórmula | Tiempos de respuesta y resolución ofertados **por debajo** de los máximos del PPT, en horas | Los niveles de servicio máximos del PPT |
-| **C4. Plan de formación y acompañamiento** | 4 | Juicio de valor | Adecuación a los perfiles municipales reales (gestor contable, patrimonio, control interno) | Horas mínimas de formación del PPT |
+| **C4. Plan de formación y acompañamiento** | 4 | Juicio de valor | Adecuación a los perfiles municipales reales (servicio gestor de subvenciones, órganos de control interno) | Horas mínimas de formación del PPT |
 | **A. Alcance funcional adicional de la interfaz normalizada** | 8 | Fórmula | Número de funciones del **bloque B · Funciones adicionales ofertables** del apartado 1 del **Apéndice técnico 2 · Exigencias tecnológicas determinadas** del PPT (ocho funciones) que el licitador se compromete a exponer **por encima** de las cinco del bloque A. Es indiferente que se entreguen de origen o mediante desarrollo dentro del plazo de ET-1 | Las cinco funciones mínimas del bloque A del mismo apartado (ET-1) |
 | **B. Plazo ofertado de puesta en producción de ET-1** | 5 | Fórmula | Meses ofertados por debajo del máximo de 12, con puntuación proporcional y suelo en [X; se recomienda 6] meses | 12 meses |
 | **D. Tratamiento del caso de uso municipal publicado** | 7 | Juicio de valor con rúbrica | **Descripción, en la memoria técnica presentada en plazo**, de cómo la solución ofertada resuelve las cinco tareas del caso de uso publicado en el PCAP, valorada conforme a la rúbrica de VI.5. La demostración funcional de ADM-9·v3 **confirma o retira** estos puntos; no puede añadir ninguno | — |
@@ -5795,7 +6010,7 @@ Comprobación de los **cuatro umbrales** de la Parte V, V.4.10, con ese resultad
 
 #### VI.4.8 Quién verifica, cuándo y cuánto cuesta
 
-El área de contratación advirtió, en el comentario interno que se reproduce íntegro en la Parte IV, M1.5, que el seguimiento real de los contratos es escaso y se limita al control del gasto. La respuesta no es prometer más seguimiento: es dimensionarlo y decir quién lo hace. **Ninguna cláusula se incorpora si su verificación no tiene actor municipal designado y periodicidad**, conforme a la regla de verificabilidad municipal enunciada en la Parte I, §7.9.
+El comentario interno que se reproduce íntegro en la Parte IV, §M1.5, advirtió que el seguimiento real de los contratos es escaso y se limita al control del gasto. La respuesta no es prometer más seguimiento: es dimensionarlo y decir quién lo hace. **Ninguna cláusula se incorpora si su verificación no tiene actor municipal designado y periodicidad**, conforme a la regla de verificabilidad municipal enunciada en la Parte I, §7.9.
 
 **Fuente única de la cuantificación: la tabla de ADM-4·v3, epígrafe 5.** Este apartado no estima por su cuenta y no añade ninguna fila a aquélla: **reproduce sus filas literalmente**, con su misma numeración, y se limita a suprimir las que VI.4.3 marca NO APLICA en este expediente. Si una cifra de aquí divergiera de la de allí, prevalece aquélla y ésta se corrige.
 
@@ -5918,18 +6133,22 @@ En consecuencia, **la sesión de este apartado versa exclusivamente sobre el cri
 
 ---
 
-### VI.6 Revisión de lo ya redactado el 24/08/2026
+### VI.6 Tabla de rectificación de un pliego redactado con la versión 2
+
+Este apartado no depende del ejemplo: sirve a cualquier administración que tenga pliegos ya
+redactados con el clausulado de la versión 2.0 y quiera saber, cláusula por cláusula, qué hay que
+cambiar y con qué urgencia. Es también el mejor resumen de por qué existe la versión 3.
 
 Tabla de rectificación, cláusula por cláusula. **Prioridad P1**: defecto que bloquea la aprobación o produce un motivo de recurso directo; se corrige antes de aprobar. **P2**: defecto que debilita la posición del Ayuntamiento; se corrige antes de publicar. **P3**: mejora de claridad.
 
-| Cláusula en los pliegos del 24/08/2026 (texto v2) | Defecto | Qué se pone en su lugar | P |
+| Cláusula redactada con el texto de la versión 2 | Defecto | Qué se pone en su lugar | P |
 |---|---|---|---|
 | Rúbrica «DT-6. Seguridad (**ENS Nivel Alto**)» | Fija la categoría antes del análisis y sin justificación en la memoria. Es el supuesto exacto de la Res. TACP Madrid 383/2024 (Parla) | **DT-6·v3**: «Seguridad conforme al ENS en la categoría que corresponda». Categoría del anexo I del RD 311/2022 consignada en el expediente **y justificada en la memoria**, con certificación en MEDIA/ALTA y autoevaluación en BÁSICA | **P1** |
 | «DT-7. **Servidor MCP** por cada plataforma y ERP», con ámbito «la totalidad de las aplicaciones municipales» | Obligación definida por el nombre de un protocolo privado, sin admisión de equivalentes, y ámbito universal desvinculado del objeto | **DT-7·v3**: obligación funcional (qué debe hacer la interfaz), ámbito modulado a los módulos del Anexo V, y el protocolo citado sólo fuera del articulado como referencia del estado del arte | **P1** |
 | Inciso de DT-7 v2 «obteniendo mayor puntuación conforme a la cláusula ADM-7» | Mezcla prescripción y criterio en la misma cláusula: doble cómputo | Se suprime el inciso. La prescripción impone el mínimo; el criterio A del baremo valora sólo lo que excede de ese mínimo | **P1** |
 | ADM-7 v2, criterio A: «Servidor MCP **operativo a fecha de licitación**», 15 puntos automáticos | Puntúa la tenencia previa: ventaja indirecta al contratista previo (art. 40.b LCSP) | **ADM-7·v3**, criterios A y B: alcance funcional **comprometido** y plazo **ofertado**. Nada puntúa por estar ya disponible | **P1** |
 | ADM-7 v2, criterio E: ISO/IEC 42001 vigente y «cumplimiento del AI Act», 13 puntos, tipo «Mixto» | Puntúa una certificación de empresa y el cumplimiento de una obligación legal; la categoría «Mixto» no existe en la LCSP y obliga a adivinar el sobre | La gobernanza de IA sale del baremo y vive en **ADM-1·v3** como condición especial de ejecución. El baremo valora, en su caso, el **plan aplicado a este contrato**. Cada criterio se clasifica como fórmula o juicio de valor, sin tercera categoría | **P1** |
-| ADM-7 v2: baremo de 100 puntos íntegramente de innovación | Ningún punto valora la contabilidad en el contrato de contabilidad (art. 145.6 LCSP). Además, 57 de 100 por juicio de valor | Baremo completo de VI.4.6, con precio y criterios funcionales dentro, 24 % de juicio de valor y comprobación del art. 146.2 | **P1** |
+| ADM-7 v2: baremo de 100 puntos íntegramente de innovación | Ningún punto valora la prestación principal en el contrato que la tiene por objeto (art. 145.6 LCSP). Además, 57 de 100 por juicio de valor | Baremo completo de VI.4.6, con precio y criterios funcionales dentro, 24 % de juicio de valor y comprobación del art. 146.2 | **P1** |
 | ADM-2 v2: «las tecnologías que el Ayuntamiento determine como necesarias **o convenientes**» | Obligación de contenido indeterminado: el licitador no puede valorarla y el Ayuntamiento no puede exigirla | **ADM-2·v3**: alcance cerrado al Anexo V, con hechos desencadenantes tasados y regla de agotamiento | **P1** |
 | ADM-6 v2: se califican como esenciales «el compromiso de evolución», «el cumplimiento del Plan» y «el mantenimiento de las certificaciones» | Califica conceptos y un plan redactado por el propio adjudicatario. El art. 211.1.f).2.º exige enumeración precisa, clara e inequívoca y declara inadmisibles las cláusulas de tipo general | **ADM-6·v3**: incumplimientos tasados en lista cerrada, con el bloque *ex lege* **condicionado** a que concurran los supuestos de los arts. 202.1 párr. 3.º y 122.2 LCSP, y cláusula de cierre redactada como «ninguna otra de las obligaciones incorporadas en virtud del catálogo [denominación y versión]…», con identificación expresa del catálogo y no con la fórmula «de este clausulado» | **P1** |
 | ADM-6 v2: «resolución del contrato **como penalidad por obsolescencia tecnológica**» | La obsolescencia así definida no es un hecho verificable; y la resolución no es una penalidad | Se suprime. La resolución opera sobre los incumplimientos tasados de ADM-6·v3, previa audiencia y requerimiento de subsanación, y sólo cuando el perjuicio de resolver no supere el de mantener el contrato | **P1** |
@@ -5937,8 +6156,8 @@ Tabla de rectificación, cláusula por cláusula. **Prioridad P1**: defecto que 
 | Si el requerimiento de adaptación de 12 meses o la previsión de modificación quedaron en el **PPT** | Pliego equivocado: las condiciones especiales de ejecución y la modificación prevista van siempre al PCAP; su reproducción en el PPT carece de efectos | Se trasladan al PCAP y se elimina la reproducción | **P1** |
 | ADM-5 v2: penalidad por «falta de la demostración exigida» | Es una conducta de la fase de licitación, no de ejecución del contrato | Se suprime esa fila del cuadro de penalidades. Su único efecto es cero puntos en el criterio correspondiente | **P2** |
 | ADM-8 v2: titularidad «de los desarrollos, configuraciones… corresponderá al Ayuntamiento», sin tiempo, territorio ni modalidades | Sin esas menciones, la cesión queda limitada a cinco años y al territorio de la cesión (art. 43.2 TRLPI), y sin licencia mínima dimensionada no queda garantizado el uso municipal durante la vigencia y la reversión | **ADM-8·v3**: cesión con carácter exclusivo, todas las modalidades, todo el plazo de protección y todos los países; mención expresa del código fuente **y del código objeto**; reserva de derechos morales; licencia mínima supletoria dimensionada; reutilización limitada a los elementos de titularidad municipal, salvo pacto expreso sobre el producto base; y delimitación de lo que **no** se cede | **P1** |
-| DT-2 v2: preferencia por una red nominada con motivación territorial y el inciso «salvo justificación motivada en el expediente» | Preferencia sin fundamento funcional y puerta abierta a convertirla en excluyente | En este expediente, **NO APLICA**. En general, **DT-2·v3** reformulada por capacidades funcionales, con prohibición de puntuar la pertenencia a una red determinada | **P1** |
-| DT-3 v2: preparación cuántica con algoritmos nominados | Referencias a normas de un organismo nacional no europeo sin «o equivalente» ni orden de prelación | En este expediente, **NO APLICA**. En general, **DT-3·v3** con prelación de normas europeas e internacionales y guías del centro criptológico nacional | **P2** |
+| DT-2 v2: preferencia por una red nominada con motivación territorial y el inciso «salvo justificación motivada en el expediente» | Preferencia sin fundamento funcional y puerta abierta a convertirla en excluyente | En el expediente del ejemplo, **NO APLICA**. En general, **DT-2·v3** reformulada por capacidades funcionales, con prohibición de puntuar la pertenencia a una red determinada | **P1** |
+| DT-3 v2: preparación cuántica con algoritmos nominados | Referencias a normas de un organismo nacional no europeo sin «o equivalente» ni orden de prelación | En el expediente del ejemplo, **NO APLICA**. En general, **DT-3·v3** con prelación de normas europeas e internacionales y guías del centro criptológico nacional | **P2** |
 | DT-4 v2: «hiperautomatización», «Loop Engineering», «skills, harness, loops» | Vocabulario sin definición normalizada: no sostiene criterio, ni penalidad, ni resolución en un procedimiento contradictorio | **DT-4·v3**: lista cerrada y numerada de procesos automatizables publicada en el PPT. Los términos pasan al glosario descriptivo, sin efectos | **P1** |
 | DT-5 v2: «o servicios equivalentes» aplicado también a los servicios comunes | Debilita una exigencia obligatoria: permite ofrecer un sustitutivo propio de un servicio de obligada utilización | **DT-5·v3**, con la excepción expresa del régimen de equivalencia para los servicios comunes de obligada utilización **relacionados en DT-5·v3, apartado 2** | **P2** |
 | DT-1 v2: facultad de requerir lo «necesario o **conveniente**» | Mismo vicio que ADM-2 v2 | **DT-1·v3**, con remisión al Anexo V o al régimen de modificación del contrato, y con el reparto de papeles proveedor / responsable del despliegue | **P1** |
@@ -5959,13 +6178,13 @@ Tabla de rectificación, cláusula por cláusula. **Prioridad P1**: defecto que 
 
 Fundamento, en una línea: **la credibilidad del modelo depende de que su primera aplicación lo cumpla.** Un catálogo cuyo primer expediente arrastra los defectos que el propio catálogo corrige no es un catálogo defectuoso; es un catálogo que nadie copia.
 
-Cauces admisibles, según la situación de VI.2: rectificar y publicar después (regla general); o aprobar los pliegos rectificados y publicar el modelo en el mismo acto, cuando el expediente esté en las situaciones A o B y la coordinación entre el área promotora y el área de contratación lo permita. Publicar el modelo con el piloto sin rectificar **no es un cauce previsto en este catálogo**; si el órgano competente decidiera hacerlo, debe consignarlo expresamente como decisión propia y motivada, con el análisis de sus consecuencias en la nota de elevación del expediente, que no forma parte de este documento.
+Cauces admisibles, según la situación de VI.2.3: rectificar y publicar después (regla general); o aprobar los pliegos rectificados y publicar el modelo en el mismo acto, cuando el expediente esté en las situaciones A o B y la coordinación entre los servicios intervinientes lo permita. Publicar el modelo con el piloto sin rectificar **no es un cauce previsto en este catálogo**; si el órgano competente decidiera hacerlo, debe consignarlo expresamente como decisión propia y motivada, con el análisis de sus consecuencias en la nota de elevación del expediente, que no forma parte de este documento.
 
 ---
 
 ### VI.8 Compromiso de evaluación del piloto
 
-Para que el piloto sea lo que el área de contratación pidió —un experimento— tiene que producir datos. El servicio promotor emitirá dos informes, dirigidos al órgano de contratación y al órgano de control interno:
+Para que el piloto sea lo que el objetor pidió —un experimento, y no una declaración de intenciones— tiene que producir datos. El servicio promotor emitirá dos informes, dirigidos al órgano de contratación y al órgano de control interno:
 
 **Informe a los 6 meses de la publicación de la licitación**, con: número de ofertas presentadas y comparación con licitaciones equivalentes anteriores del mismo objeto; consultas y aclaraciones recibidas, clasificadas por cláusula; recursos interpuestos, motivos alegados y resultado; exclusiones producidas y su causa; y tiempo real de tramitación frente al de expedientes comparables.
 
@@ -6748,7 +6967,7 @@ Función: que quien ya haya redactado pliegos con la versión 2 sepa exactamente
 | Anexo IV v2 · Ficha de Aplicabilidad (casillas) | **Anexo II** | Pasa de tabla de casillas a **formulario de motivación con doble vía de firma y regla de cierre** | Una casilla marcada no es una justificación | Sustituir la ficha y firmarla |
 | Anexo V v2 · Glosario Deep Tech | **Anexo XIII** | Se mantiene como glosario **descriptivo, sin efectos jurídicos**, y recoge los términos expulsados del articulado | Un glosario no puede crear obligaciones por la puerta de atrás | Sustituirlo y añadir la advertencia de ausencia de efectos |
 | Parte IV v2 · Memoria justificativa | Parte IV v3 | Se reescribe entera: armazón de la necesidad, encaje legal con precepto en todas las filas, neutralidad **acreditada** y no afirmada, conflicto de interés y estado real de la doctrina | La memoria es lo primero que lee el recurrente | Rehacerla |
-| *(Inexistente en v2)* | Partes 0, V, VI y anexos I a XXV | Resumen para legos, circuito del expediente, piloto resuelto e instrumentos | Es lo que un habilitado nacional busca y no encontraba | Incorporarlos al circuito de trabajo. **Los pliegos-tipo ensamblados y el expediente piloto completo no se entregan en esta versión: véase la nota de alcance que cierra esta parte** |
+| *(Inexistente en v2)* | Partes 0, V, VI y anexos I a XXV | Resumen para legos, circuito del expediente, ejemplo completo trabajado e instrumentos | Es lo que un habilitado nacional busca y no encontraba | Incorporarlos al circuito de trabajo. **Los pliegos-tipo ensamblados y el ejemplo trabajado sobre un expediente de una administración concreta no se entregan en esta versión: véase la nota de alcance que cierra esta parte** |
 
 #### XII.2 Dónde ha aterrizado cada una de las ocho modificaciones propuestas en agosto de 2026
 
@@ -7699,7 +7918,7 @@ Función: entregar la matriz funcional que sirve de base al criterio C1 y evitar
 
 Este catálogo se ha comprometido a no afirmar lo que no ha comprobado. La misma regla obliga a no anunciar lo que no entrega. **Dos instrumentos que este documento invoca no se incluyen en la versión 3.0, y se dice aquí para que ningún índice, ninguna remisión y ninguna memoria los den por disponibles.**
 
-**1. Pliegos-tipo ensamblados (PPT-tipo y PCAP-tipo).** El área de contratación lo pidió con estas palabras: lo que se usa un martes por la mañana no es el documento doctrinal, son los pliegos-tipo ensamblados para los perfiles de contrato frecuentes. Es una petición fundada y este documento la asume. **No se entrega en esta versión.** Mientras no se entregue, el redactor compone el pliego a partir de los bloques `:::pliego` de las Partes I a III y de los apéndices del Anexo XXV, siguiendo el circuito de la Parte V. Se deja constancia de que el catálogo, sin los pliegos-tipo, exige del redactor un trabajo de ensamblado que los pliegos-tipo eliminarían, y de que ese trabajo es la causa principal de que un catálogo bien construido se lea y no se aplique.
+**1. Pliegos-tipo ensamblados (PPT-tipo y PCAP-tipo).** La necesidad se formuló con estas palabras: lo que se usa un martes por la mañana no es el documento doctrinal, son los pliegos-tipo ensamblados para los perfiles de contrato frecuentes. Es una petición fundada y este documento la asume. **No se entrega en esta versión.** Mientras no se entregue, el redactor compone el pliego a partir de los bloques `:::pliego` de las Partes I a III y de los apéndices del Anexo XXV, siguiendo el circuito de la Parte V. Se deja constancia de que el catálogo, sin los pliegos-tipo, exige del redactor un trabajo de ensamblado que los pliegos-tipo eliminarían, y de que ese trabajo es la causa principal de que un catálogo bien construido se lea y no se aplique.
 
 **2. Expediente piloto completo.** La Parte VI resuelve el caso —calificación, categoría de seguridad, cláusulas aplicables y no aplicables, catálogo recortado, baremo, umbrales, verificadores y carga— pero **no entrega el expediente documento a documento**. Los documentos del circuito figuran enumerados en la Parte V, y buena parte de ellos está modelizada en los anexos II, III, IV, XIV, XV, XVIII, XX y XXII de esta parte; lo que falta es el juego completo, cumplimentado con los datos del contrato piloto, y el modelo de los documentos del circuito que ningún anexo cubre. **No se entrega en esta versión.**
 

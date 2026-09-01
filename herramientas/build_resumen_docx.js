@@ -32,7 +32,13 @@ const {
 const RAIZ = path.resolve(__dirname, '..');
 const SRC = path.join(RAIZ, 'clausulado', 'resumen-dos-paginas.md');
 const OUT = path.join(RAIZ, 'docs', 'descargas', 'resumen-dos-paginas.docx');
-const SOFFICE = execFileSync('which', ['soffice'], { encoding: 'utf8' }).trim();
+// LibreOffice sólo se usa para COMPROBAR que el Word cabe en dos páginas.
+// Si no está instalado, el Word se genera igual y se avisa en voz alta de que
+// la comprobación no ha podido correr: es un aviso, no un verde.
+const SOFFICE = (() => {
+  try { return execFileSync('which', ['soffice'], { encoding: 'utf8' }).trim(); }
+  catch (_) { return ''; }
+})();
 const AZUL = '1F3864';
 const GRIS = '5D6573';
 const TINTA = '22201D';
@@ -40,7 +46,7 @@ const SANS = 'Calibri';
 const SERIF = 'Georgia';
 
 if (!fs.existsSync(SRC)) throw new Error(`Falta la fuente: ${SRC}`);
-if (!SOFFICE || !fs.existsSync(SOFFICE)) throw new Error('No se encuentra LibreOffice/soffice en PATH');
+const PUEDE_COMPROBAR = Boolean(SOFFICE) && fs.existsSync(SOFFICE);
 
 const md = fs.readFileSync(SRC, 'utf8');
 const lineas = md.split('\n');
@@ -215,6 +221,17 @@ function crearDocumento(bodySize) {
 
 async function main() {
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
+  if (!PUEDE_COMPROBAR) {
+    // Sin LibreOffice no se puede medir el paginado del .docx. Se genera con el
+    // cuerpo que la última comprobación dejó por bueno (18) y se avisa.
+    const buffer = await Packer.toBuffer(crearDocumento(18));
+    fs.writeFileSync(OUT, buffer);
+    console.log(`OK  docs/descargas/resumen-dos-paginas.docx  ${(fs.statSync(OUT).size / 1024).toFixed(0)} KB`);
+    console.warn('AVISO  No se encuentra LibreOffice/soffice: NO se ha comprobado que el Word ocupe dos páginas.');
+    console.warn('AVISO  El PDF del resumen sí está comprobado (build_resumen.js). Instala LibreOffice para recuperar la comprobación del Word.');
+    return;
+  }
+
   const temporal = fs.mkdtempSync(path.join(os.tmpdir(), 'ai-clauses-resumen-docx-'));
   let elegido = null;
   let paginas = null;

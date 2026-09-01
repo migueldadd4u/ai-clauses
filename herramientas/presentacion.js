@@ -102,15 +102,16 @@ module.exports = [
   },
   {
     tipo: 'filas',
-    titulo: 'De dónde sale: un ayuntamiento y tres objeciones',
-    intro: 'El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026 y se sometió al criterio de su área de contratación. Lo que esa área respondió es lo que da forma a esta versión.',
+    titulo: 'De dónde sale: un problema real y cuatro objeciones',
+    intro: 'El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026 y se sometió por escrito a la crítica de quien tendría que aplicarlo. Lo que esa crítica dijo es lo que da forma a esta versión.',
     alternas: true,
     filas: [
       ['«Artificioso al contrato»', 'Cada cláusula lleva ahora el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
-      ['«Demasiado abstracto»', 'Cada cláusula tiene siete epígrafes fijos, y el texto que se copia va dentro de un recuadro. Fuera del recuadro no se copia nada.'],
-      ['«Pruébalo primero»', 'El documento incluye el caso piloto resuelto entero, con su expediente y con lo que hay que rectificar de lo ya redactado.'],
+      ['«El seguimiento real es escaso»', 'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí sale ADM-12: paridad de acceso, sin tarificar, en formato abierto y con diccionario de datos.'],
+      ['«Demasiado abstracto»', 'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
+      ['«Hay actores que no lo han visto antes»', 'Consulta preliminar anual, publicación del Anexo V antes de licitar, plazo por encima del mínimo y gradualidad. Si el mercado no puede cumplirlo, la exigencia no entra en el pliego.'],
     ],
-    pie: 'Las tres objeciones se responden dentro del documento, no en una nota al pie.',
+    pie: 'Las cuatro objeciones se citan enteras y se responden dentro del documento, no en una nota al pie.',
   },
   {
     tipo: 'doscol',
@@ -120,7 +121,7 @@ module.exports = [
       puntos: [
         'Un catálogo de cláusulas ya redactadas, con su justificación y su medio de prueba.',
         'Un manual de expediente: qué documento hace falta, quién lo firma y en qué orden.',
-        'Un caso piloto resuelto de principio a fin.',
+        'Un ejemplo completo trabajado, de principio a fin, sobre un expediente simulado.',
       ],
     },
     derecha: {
@@ -138,7 +139,7 @@ module.exports = [
     titulo: 'Qué hay publicado, y para quién',
     anchas: true,
     filas: [
-      ['El clausulado completo', 'Catálogo, memoria justificativa para la Intervención, circuito del expediente, caso piloto y anexos con todos los modelos.', 'Quien redacta y quien fiscaliza'],
+      ['El clausulado completo', 'Catálogo, memoria justificativa para los órganos de control, circuito del expediente, ejemplo trabajado y anexos con todos los modelos.', 'Quien redacta y quien fiscaliza'],
       ['La guía municipal · 20 páginas', 'Cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer el catálogo entero.', 'Concejalía, Contratación, Intervención y TI'],
       ['El resumen y la guía de uso', 'La primera parte del documento, escrita para quien no sabe nada de contratación ni de tecnología.', 'Alcaldía, concejalías, prensa'],
       ['Esta presentación', 'El problema y la solución, sin que haga falta saber nada previo.', 'Cualquier sala'],
@@ -170,12 +171,12 @@ module.exports = [
       },
       {
         nombre: 'Enrique Jiménez y Roberto García',
-        cargo: 'Técnicos del área de contratación · Ayuntamiento de Pozuelo de Alarcón',
+        cargo: 'Responsable de los contratos de innovación · Jefe de informática — Ayuntamiento de Pozuelo de Alarcón',
         enlace: '',
         aporte: 'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
       },
     ],
-    nota: 'Las tres objeciones formuladas desde el área de contratación son la razón de ser de esta versión y están respondidas en el cuerpo del documento.',
+    nota: 'La objeción interna de junio de 2026, con sus cuatro reproches, es la razón de ser de esta versión y está citada y respondida en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
   },
   {
     tipo: 'destacado',

@@ -79,10 +79,14 @@ del 1 de septiembre de 2026. Lo que no ha podido verificarse se dice expresament
 
 ## De dónde sale
 
-Del **Ayuntamiento de Pozuelo de Alarcón**, y de las objeciones de su propia área de contratación:
-que unas cláusulas que no nacen de una necesidad demandada por nadie son artificiosas al contrato,
-que el nivel de abstracción era demasiado alto para quien redacta pliegos, y que había que probarlo
-en un contrato real antes de generalizarlo. Las tres están respondidas dentro del documento.
+De un problema real de gestión municipal, y de una objeción interna que se puso por escrito y que
+no se maquilló: que unas cláusulas que no nacen de una necesidad demandada por nadie son artificiosas
+al contrato; que el seguimiento real de los contratos es escaso y quien controla necesita el dato al
+mismo rango que quien gestiona; que el nivel de abstracción era demasiado alto y había que probarlo
+en un piloto poco complejo; y que en la contratación hay actores externos que no han visto antes
+estas exigencias. **Las cuatro están citadas literalmente y respondidas dentro del documento**, y son
+la razón de que esta versión tenga doble vía de firma, acuerdo del órgano de gobierno, un
+subconjunto mínimo de seis cláusulas para empezar y un capítulo sobre la reacción del mercado.
 
 ## Cómo debe usarse: no copie sin entender
 
@@ -100,7 +104,9 @@ misma firmeza, no copiarlo sin entenderlo:
 ## Un aviso, antes de citarlo
 
 **Este no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**: no ha sido aprobado por
-ningún órgano municipal ni expresa la posición de la Corporación. Es un trabajo profesional de las cinco
+ningún órgano municipal ni expresa la posición de la Corporación, y ningún órgano de contratación,
+intervención o asesoría jurídica se ha pronunciado sobre él. El caso trabajado del documento extenso
+es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación. Es un trabajo profesional de las cinco
 personas que lo firman, una de las cuales ejerce un cargo público en ese Ayuntamiento. Y el propio
 documento enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de
 conflicto de interés no están firmadas—: mientras no se cumplan, es una propuesta técnica publicada
@@ -115,9 +121,9 @@ resuelve el problema de fondo. **[Miguel Ángel Domínguez Castellano](https://m
 Add4u y presidente de Alastria y del Clúster de Blockchain de la Comunidad de Madrid: la perspectiva
 de quien conoce las dos orillas, y la responsabilidad editorial de la publicación.
 
-**Autores y supervisores técnicos:** **Enrique Jiménez** y **Roberto García**, técnicos del área de
-contratación del Ayuntamiento de Pozuelo de Alarcón. Han aportado el contraste de la práctica municipal
-y la supervisión técnica de la formulación contractual.
+**Autores y supervisores técnicos:** **Enrique Jiménez**, responsable de los contratos de innovación,
+y **Roberto García**, jefe de informática, ambos del Ayuntamiento de Pozuelo de Alarcón. Han aportado
+el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.
 
 **Uso de inteligencia artificial.** En la elaboración de este trabajo se han utilizado sistemas de
 IA: el clon digital (*second brain*) de Miguel Ángel Domínguez, determinante en la recuperación del

@@ -30,7 +30,8 @@ debate: **no debe aplicarse en un expediente que supere el umbral del recurso es
 como modelo aprobado.
 
 **Orden entre rectificación y publicación:** la Parte VI, VI.7, adopta expresamente la regla de
-ejecutar las correcciones de prioridad P1 del expediente piloto **antes** de publicar el modelo.
+que quien adopte este catálogo ejecute las correcciones de prioridad P1 sobre sus pliegos vigentes
+**antes** de publicarlo como modelo propio.
 
 **Quién responde de este documento:** Miguel Ángel Domínguez Castellano, responsable editorial de la
 publicación.
@@ -50,9 +51,9 @@ durante casi cuatro décadas antes de asumir la delegación.
 
 Es de quien nace el proyecto. Suya es la pregunta de partida —por qué un ayuntamiento tiene que
 comprar dos veces la misma tecnología— y suya es la primera redacción del clausulado. Ha sido además
-quien lo ha sometido al contraste que ningún documento de consultoría recibe: llevarlo a los
-servicios de contratación y jurídicos de su propio ayuntamiento, aguantar sus objeciones sin
-defenderse, y traerlas de vuelta enteras. La versión que se publica existe porque ella hizo eso.
+quien lo ha sometido al contraste que ningún documento de consultoría recibe: ponerlo delante de
+quienes tendrían que aplicarlo, aguantar sus objeciones sin defenderse, y traerlas de vuelta
+enteras. La versión que se publica existe porque ella hizo eso.
 
 **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e
 investigador de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades
@@ -82,12 +83,10 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Enrique Jiménez y Roberto García** — técnicos del área de contratación del Ayuntamiento de Pozuelo
-de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de la práctica municipal y
-la supervisión técnica de la formulación contractual. Las tres objeciones del área —que unas cláusulas
-que no nacen de una necesidad demandada son artificiosas al contrato, que el grado de abstracción era
-demasiado alto, y que había que probarlo en un contrato real antes de generalizarlo— están respondidas
-en el cuerpo del texto y son la razón de ser de esta versión.
+**Enrique Jiménez** — responsable de los contratos de innovación, y **Roberto García** — jefe de
+informática, ambos del Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han
+aportado el contraste de la práctica municipal —qué se puede exigir de verdad en un pliego y qué no
+llega a ejecutarse— y la supervisión técnica de la formulación contractual.
 
 ---
 
@@ -100,11 +99,20 @@ aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma par
 y no expresa la posición de la Corporación. Es un trabajo profesional de las cinco personas que lo
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
-**Lo que sí es cierto, y es lo que le da valor:** el clausulado se ha construido sobre un caso real de
-ese Ayuntamiento, se ha sometido al criterio de su área de contratación, y las objeciones que esa área
-formuló —que constan literalmente en el texto— son las que han dado forma a esta versión. Ese contraste
-con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de un
-clausulado de despacho.
+**Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
+municipal y se ha sometido por escrito a la crítica de quien tendría que aplicarlo. Esa objeción
+interna —cuatro reproches concretos, que constan literalmente en el texto, en el §M1.5 de la Parte
+IV, citados sin identificar a su autor por no ser un informe registrado— es la que ha dado forma a
+esta versión: sin ella no existirían ni la doble vía de firma de la ficha, ni la exigencia de acuerdo
+del órgano de gobierno, ni el subconjunto mínimo de seis cláusulas para un primer expediente. Ese
+contraste con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de
+un clausulado de despacho.
+
+**Lo que expresamente no es cierto, y conviene decirlo para que nadie lo deduzca:** ningún órgano de
+contratación, de intervención ni de asesoría jurídica de ese Ayuntamiento —ni de ningún otro— se ha
+pronunciado sobre este catálogo. Este documento no les atribuye posición alguna, ni a favor ni en
+contra, y el ejemplo trabajado de la Parte VI es un **expediente simulado** que no corresponde a
+ninguna licitación real, en curso o en preparación.
 
 **Y lo que está pendiente, dicho por el propio documento:** la memoria justificativa de la Parte IV
 enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de conflicto de
@@ -139,10 +147,10 @@ sobre en qué:
 
 | Tarea | Aportación del sistema |
 |---|---|
-| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluida la objeción del área de contratación, que estaba al final de un documento de trabajo y no en ningún informe. |
+| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluida la objeción interna que estaba al final de un documento de trabajo y no en ningún informe. |
 | **Investigación jurídica** | Localizar y leer la doctrina de los tribunales administrativos de recursos contractuales, los informes de las juntas consultivas y el articulado aplicable, sobre ocho frentes en paralelo. |
 | **Verificación** | Descargar cada resolución citada y comprobar dentro del documento original que dice lo que se le atribuye. |
-| **Crítica adversarial** | Someter cada versión al criterio simulado de un tribunal, del abogado de un licitador excluido, de un interventor, de un técnico de contratación, de un lector no experto y de un periodista, y reescribir con sus objeciones. |
+| **Crítica adversarial** | Someter cada versión al criterio simulado de un tribunal administrativo de recursos contractuales, del abogado de un licitador excluido, de un órgano de control interno, de quien redacta pliegos, de un lector no experto y de un periodista, y reescribir con sus objeciones. |
 | **Redacción** | Producir los borradores de todas las partes del documento a partir de la arquitectura y de las decisiones acordadas. |
 
 **Qué han hecho las personas, y no la máquina.** La pregunta de partida. Las decisiones de diseño y
