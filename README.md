@@ -192,3 +192,19 @@ antes de usar el material.
 
 Si detecta un error, una cita mal traída o una cláusula que su tribunal ha anulado, abra una *issue*.
 Este documento mejora con los recursos que pierda.
+
+## Reconstruir este material
+
+Todo sale de los ficheros markdown de `clausulado/`. Para regenerar el Word, el PDF, el resumen, la
+presentación y la web:
+
+```bash
+make
+```
+
+Necesita Node con los paquetes `docx`, `pptxgenjs` y `marked`, y Google Chrome (los PDF se generan
+desde HTML con Chrome headless, no convirtiendo el Word: las conversiones de Word, Pages y Keynote
+rompían los recuadros y el texto extraíble).
+
+Los generadores están en `herramientas/` y cada uno explica en su cabecera qué hace y por qué está
+escrito así.
