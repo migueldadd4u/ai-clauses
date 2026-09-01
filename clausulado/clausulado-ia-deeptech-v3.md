@@ -210,9 +210,12 @@ evitar:
   seguridad, órganos competentes, umbrales económicos y régimen aplicable cambian de una
   administración a otra.
 
-Quien tenga prisa, que empiece por la Parte 0, que está escrita para leerse en veinte minutos y para
-entenderse sin conocimientos previos de contratación ni de tecnología. Quien vaya a redactar un
-pliego, que lea además la Parte V y rellene la ficha de aplicabilidad antes de copiar una sola línea.
+Quien tenga veinte minutos, que lea el **resumen en dos páginas** que se publica junto a este
+documento: es el texto escrito para leerse en ese tiempo. Quien tenga una hora,
+que lea la **Parte 0** entera, que está escrita para entenderse sin conocimientos previos de
+contratación ni de tecnología; y si sólo dispone de la mitad de ese tiempo, sus apartados 0.1, 0.2 y
+0.3. Quien vaya a redactar un pliego, que lea además la Parte V y rellene la ficha de aplicabilidad
+antes de copiar una sola línea.
 
 Y una petición, que es lo único que se pide a cambio: si su administración usa este material, lo
 mejora, o pierde un recurso con él, cuéntelo. Este documento mejorará con los recursos que pierda,
@@ -229,9 +232,11 @@ Esta Parte 0 se escribe para cuatro lectores distintos y se puede leer por trozo
 - Quien tiene que **redactar un pliego con él** un martes por la mañana: apartados 0.4, 0.5 y 0.6, y después directamente las Partes II y III.
 - Quien **no trabaja en un ayuntamiento** y quiere saber en qué le afecta esto: el apartado 0.2, y dentro de él el epígrafe «Para el vecino, esto se ve así».
 
+Quien no disponga de tiempo ni para esta Parte 0 tiene el **resumen en dos páginas** que se publica junto a este documento. Esta Parte 0 completa pide una hora larga de lectura; sus apartados 0.1, 0.2 y 0.3, cerca de media.
+
 En toda esta Parte 0 no hay ni un solo **recuadro de texto copiable al pliego**. Los recuadros aparecen a partir de la Parte II y van marcados: lo que va dentro se copia al pliego; lo que va fuera, nunca. Nada de lo que aquí se escribe se copia a un pliego: es la explicación del catálogo, no el catálogo.
 
-**Palabras que aquí no se explican.** Este documento emplea vocabulario de contratación pública y vocabulario técnico. Ambos están definidos en el **Anexo XIII (Glosario)**, que incluye un bloque específico de términos de contratación escrito para quien no es del oficio. Los cinco imprescindibles para leer esta Parte 0 se definen en el recuadro que abre el apartado 0.1. Dos siglas se usan desde la primera tabla: **LCSP** es la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, y **ENS** es el Esquema Nacional de Seguridad, regulado por el Real Decreto (RD) 311/2022.
+**Palabras que aquí no se explican.** Este documento emplea vocabulario de contratación pública y vocabulario técnico. Ambos están definidos en el **Anexo XIII (Glosario)**, que incluye un bloque específico de términos de contratación escrito para quien no es del oficio. Los cinco imprescindibles para leer esta Parte 0 se definen en el recuadro que abre el apartado 0.1. Las siglas que aparecen desde las primeras tablas se dejan escritas aquí: **LCSP** es la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público; **ENS** es el Esquema Nacional de Seguridad, regulado por el Real Decreto (RD) 311/2022; **IA** es inteligencia artificial; y **PPT** y **PCAP** son los dos pliegos de un contrato, el técnico y el administrativo, que se explican en el recuadro del apartado 0.1.
 
 **Convención de modelos.** Los formularios y modelos que este documento entrega —en la Parte V y en los anexos— van delimitados así:
 
@@ -247,7 +252,7 @@ Se declara una sola vez, aquí, y rige en todo el documento: lo que está entre 
 
 ### 0.0 Qué hay dentro de este documento
 
-#### Las siete partes
+#### Las ocho partes: la Parte 0 y las siete numeradas
 
 | Parte | Qué contiene | Apartados |
 |---|---|---|
@@ -256,7 +261,7 @@ Se declara una sola vez, aquí, y rige en todo el documento: lo que está entre 
 | **Parte II · Cláusulas técnicas**, para el Pliego de Prescripciones Técnicas (**PPT**: lo que hay que hacer) | Las diez cláusulas `DT-0·v3` a `DT-9·v3`, con su texto copiable, más la tabla de dependencias, la carga de verificación y el cuadro de parámetros | II.0 a II.14 |
 | **Parte III · Cláusulas administrativas**, para el Pliego de Cláusulas Administrativas Particulares (**PCAP**: con qué reglas y con qué consecuencias) | Las catorce cláusulas `ADM-1·v3` a `ADM-14·v3`, con su texto copiable | III.1 a III.14 |
 | **Parte IV · Memoria justificativa del catálogo** | Por qué cada instrumento es legal y proporcionado, el estado real de la doctrina, el coste, el conflicto de interés y lo que esta memoria no acredita | IV.0 y M1 a M11 |
-| **Parte V · Circuito del expediente y documentos exigibles** | El circuito operativo completo: los dieciocho documentos, quién firma cada uno, qué se publica, el régimen de recursos, la carpeta de defensa, los circuitos abreviados y la lista de comprobación final | V.1 a V.11 |
+| **Parte V · Circuito del expediente y documentos exigibles** | El circuito operativo completo: los veintiún documentos, quién firma cada uno, qué se publica, el régimen de recursos, la carpeta de defensa, los circuitos abreviados y la lista de comprobación final | V.1 a V.11 |
 | **Parte VI · Aplicación piloto** | El catálogo aplicado de principio a fin a un contrato municipal real, con su ficha, su baremo y sus cifras | VI.1 a VI.8 |
 | **Parte VII · Anexos e instrumentos** | Los veinticinco anexos | I a XXV |
 
@@ -292,7 +297,7 @@ Se declara una sola vez, aquí, y rige en todo el documento: lo que está entre 
 
 Cierra la Parte VII una **nota de alcance** que enumera, con nombre, los instrumentos que esta versión **no** entrega.
 
-#### Índice de la cláusula
+#### Índice de las cláusulas
 
 Las veinticuatro cláusulas, con el instrumento único que les asigna el Anexo I y su punto de partida en el cuadro de intensidad de la Parte I §2.2. Resuelve la mayor parte de las consultas del redactor sin abrir el articulado.
 
@@ -349,7 +354,7 @@ Las palabras que importan son **«del que se toma lo que ese expediente necesita
 
 **No es un pliego, ni un pliego-tipo.** El pliego lo redacta y lo aprueba cada órgano de contratación. Este documento le da el texto y el andamiaje justificativo; no le da la decisión.
 
-**No sustituye a la memoria justificativa de ningún expediente.** Esto es lo primero que va a mirar quien tiene que informar jurídicamente el expediente y quien tiene que fiscalizarlo —el secretario y el interventor municipales, funcionarios de habilitación nacional—, y conviene decirlo con un precedente real y del tribunal competente:
+**No sustituye a la memoria justificativa de ningún expediente.** Esto es lo primero que va a mirar quien tiene que informar jurídicamente el expediente y quien tiene que fiscalizarlo —el secretario y el interventor municipales, que son funcionarios de habilitación nacional: se seleccionan por el Estado y no por cada ayuntamiento, de modo que su informe no depende de quien gobierna la Corporación—, y conviene decirlo con un precedente real y del tribunal competente:
 
 > El Tribunal Administrativo de Contratación Pública de la Comunidad de Madrid (en adelante, **TACP Madrid**), en su **Resolución 383/2024, de 3 de octubre de 2024 (expediente y recurso 383/2024)**, estimó el recurso de TECNOLOGÍAS VIALES APLICADAS TEVA, S.L. contra los pliegos del contrato del sistema de gestión de la zona de bajas emisiones del **Ayuntamiento de Parla** (valor estimado 1.657.922,40 euros, 30 meses), porque exigían certificaciones de conformidad con el Esquema Nacional de Seguridad de nivel ALTO sin justificarlo en el expediente. El razonamiento, literal: *«analizada la memoria justificativa publicada en la plataforma, en su apartado 13, consta exclusivamente la exigencia de la habilitación empresarial sin que aparezca la más mínima justificación de tal exigencia, como establece el artículo 116.2 de la LCSP. Esta justificación debe realizarse en la memoria justificativa de la contratación, sin que sea admisible la justificación realizada en sede de recurso»*.
 >
@@ -413,11 +418,19 @@ Dicho de otro modo: **el Ayuntamiento deja de comprar «lo que hay hoy» y pasa 
 
 #### Y contra la posición del proveedor atrincherado
 
-Tres reglas del catálogo actúan directamente sobre la causa de que en estos contratos se presente casi siempre el mismo:
+**Cómo se cava la trinchera.** Conviene ver primero el mecanismo, porque para que funcione no hace falta que nadie actúe de mala fe:
+
+- El pliego lo escribe alguien que muchas veces sólo conoce a fondo el producto que ya está instalado —y a veces partiendo del pliego de otro ayuntamiento que tiene ese mismo producto—, de modo que acaba describiéndolo sin proponérselo.
+- Basta con pedir un detalle que sólo cumple un fabricante para que el concurso tenga un único candidato posible, aunque se presenten cinco empresas. Y esa descripción sobrevive a la traducción a «requisitos funcionales»: se cambian las palabras y sigue señalando al mismo producto.
+- Quien ya está dentro conoce el sistema, los datos y sus fallos; los demás tienen que suponerlos. O lo cobran, o no se presentan.
+
+Contra esa causa —y no contra la empresa que ocupa la posición— actúan tres reglas del catálogo:
 
 1. **No se puede pedir un producto por su nombre.** Quien ofrezca otro que haga lo mismo tiene derecho a demostrarlo, y el Ayuntamiento tiene que motivar por escrito el rechazo (`DT-0·v3`).
 2. **No se puntúa lo que una empresa ya tiene** el día de la licitación —certificaciones, experiencia o medios ya disponibles—, porque eso premia a quien ya está dentro (véase la segunda de las cuatro correcciones que cierran este apartado).
 3. **Al terminar el contrato hay que entregar los datos** en formato abierto, con su diccionario y sin coste por la extracción, para que el siguiente pueda entrar (`DT-8·v3` y `ADM-12·v3`).
+
+**Estas reglas no garantizan que la trinchera no exista: obligan a buscarla.** El propio contrato con el que la Parte VI aplica el catálogo puede tener ese origen: consta en su preparación que el borrador se elaboró tomando como referencia el pliego de otro ayuntamiento que tiene implantada una solución determinada. Por eso la Parte VI, VI.2, no lo da por bueno y ordena, si eso se confirma y antes de aprobarlo, un barrido para localizar toda especificación que sólo pueda cumplir un fabricante concreto y reescribirla en términos de función, con admisión de equivalentes. Las tres reglas dan la obligación de mirar y la herramienta para corregir lo que se encuentre; el trabajo de mirar hay que hacerlo en cada expediente. Un documento que prometiera lo contrario sería el mismo problema con otro nombre.
 
 El desarrollo de las tres, con su fundamento y sus límites, está en la Parte IV, M3 y M7.
 
@@ -438,14 +451,14 @@ Contrato de servicios de mantenimiento y evolución de la aplicación municipal 
 **Camino A — el contrato tal como se firma hoy, sin este catálogo.** En el mes 20 de ejecución, la Intervención necesita explotar por su cuenta los datos de ejecución y el área gestora quiere que la aplicación pueda ser consultada por asistentes de IA del propio Ayuntamiento. Nada de eso está en el pliego. Las opciones son:
 
 - Negociarlo con el adjudicatario, **sin competencia y sin referencia de precio**, porque nadie más puede hacerlo sobre ese sistema.
-- Tramitar una modificación. Si no se previó en el pliego con la precisión que exigen los artículos 203 y 204 LCSP, no cabe por esa vía; y si se hubiera previsto con el máximo del **20 %** que fija el artículo 204, esa reserva —**72.000 €**, porque el 20 % se calcula sobre el precio inicial del contrato (360.000 €) y no sobre el valor estimado con prórrogas— habría computado en el valor estimado desde el primer día, elevándolo a **792.000 €**, con las consecuencias de umbral que se explican abajo. *Base del cálculo: [Junta Consultiva de Contratación Pública del Estado, Informe 18/2025, «Cálculo de los límites aplicables a las modificaciones de los artículos 204 y 205 de la LCSP», aprobado por la Comisión Permanente el 23 de abril de 2026](https://www.hacienda.gob.es/dgpatrimonio/junta%20consultiva/informes/informes2026/informe202518modificaciones204y205delalcsp.pdf) («el límite del 20 por 100 del precio inicial previsto en el artículo 204 de la LCSP […] ha de calcularse sobre el precio de adjudicación del contrato»), y [Junta Consultiva de Contratación Administrativa de la Comunidad de Madrid, Informe 4/2025, de 19 de diciembre de 2025, conclusión 6](https://contratos-publicos.comunidad.madrid/media/827829/download) («en el cálculo del VEC el porcentaje máximo de modificación debe aplicarse sobre el PBL, sin IVA, no sobre este más las prórrogas previstas»). Se citan como criterio consultivo, no vinculante. Adviértase que la base no es la misma en preparación —presupuesto base de licitación— que en ejecución —precio de adjudicación—: la advertencia completa está en `ADM-14·v3`.
+- Tramitar una modificación. Si no se previó en el pliego con la precisión que exigen los artículos 203 y 204 LCSP, no cabe por esa vía; y si se hubiera previsto con el máximo del **20 %** que fija el artículo 204, esa reserva —**72.000 €**, porque el 20 % se calcula sobre el precio inicial del contrato (360.000 €) y no sobre el valor estimado con prórrogas— habría computado en el valor estimado desde el primer día, elevándolo a **792.000 €**, con las consecuencias de umbral que se explican abajo. *Base del cálculo: [Junta Consultiva de Contratación Pública del Estado, Informe 18/2025, «Cálculo de los límites aplicables a las modificaciones de los artículos 204 y 205 de la LCSP», aprobado por la Comisión Permanente el 23 de abril de 2026](https://www.hacienda.gob.es/dgpatrimonio/junta%20consultiva/informes/informes2026/informe202518modificaciones204y205delalcsp.pdf) («el límite del 20 por 100 del precio inicial previsto en el artículo 204 de la LCSP […] ha de calcularse sobre el precio de adjudicación del contrato»), y [Junta Consultiva de Contratación Administrativa de la Comunidad de Madrid, Informe 4/2025, de 19 de diciembre de 2025, conclusión 6](https://contratos-publicos.comunidad.madrid/media/827829/download) («en el cálculo del VEC el porcentaje máximo de modificación debe aplicarse sobre el PBL, sin IVA, no sobre este más las prórrogas previstas»); en esa cita, **VEC** es el valor estimado del contrato y **PBL**, el presupuesto base de licitación. Ambos informes se citan como criterio consultivo, no vinculante. Adviértase que la base no es la misma en preparación —presupuesto base de licitación— que en ejecución —precio de adjudicación—: la advertencia completa está en `ADM-14·v3`.
 - Esperar a la licitación siguiente, en el año 4, y volver a pagar la implantación y la migración completas.
 
 **Camino B — el mismo contrato con el catálogo aplicado.** Las tres capacidades del Anexo V están transcritas en el pliego de prescripciones técnicas, con sus criterios de aceptación y su plazo. Forman parte del alcance ordinario y se retribuyen con el precio ofertado. Si a los 12 meses no están, hay penalidad tipificada; si el incumplimiento es de los tasados en `ADM-6·v3`, hay causa de resolución. El acceso de la Intervención a los datos, sin tarificar y en formato abierto, es una condición especial de ejecución del contrato desde el día uno (`ADM-12·v3`).
 
 **Qué cuesta el camino B.** Cuesta lo que los licitadores repercutan en su oferta, que es un importe **visible, comparado entre varios y sometido a competencia** el día de la licitación. Esa es la diferencia honesta, y es toda la diferencia: no es que salga gratis, es que el precio se forma en un concurso en vez de en una negociación bilateral a mitad de contrato con el único proveedor que puede hacerlo.
 
-**El efecto umbral, que hay que mirar siempre.** Un contrato de servicios de 90.000 € de valor estimado al que se le añade una reserva de modificación de 12.000 € pasa a 102.000 € y cruza los **100.000 €** de valor estimado a partir de los cuales sus pliegos son directamente recurribles en recurso especial (artículo 44.1.a) y 2.a) LCSP). Puede además expulsarlo del procedimiento abierto simplificado (artículo 159.1 LCSP; cuantías vigentes en el **Anexo X, apartado X.2**). Es decir: mal calculado, el instrumento que se introduce para protegerse abre la puerta que se quería cerrar. Por eso la vía preferente de este catálogo es el Anexo V dentro del precio (Nivel 1) y no la modificación prevista (Nivel 2), que se ofrece redactada pero **por defecto no se usa**.
+**El efecto umbral, que hay que mirar siempre.** Un contrato de servicios de 90.000 € de valor estimado al que se le añade una reserva de modificación de 12.000 € pasa a 102.000 € y cruza los **100.000 €** de valor estimado a partir de los cuales sus pliegos son directamente recurribles en **recurso especial** —la impugnación de los pliegos o de la adjudicación ante un tribunal administrativo especializado, con plazos muy breves y sin coste de tasas— (artículo 44.1.a) y 2.a) LCSP). Puede además expulsarlo del procedimiento abierto simplificado (artículo 159.1 LCSP; cuantías vigentes en el **Anexo X, apartado X.2**). Es decir: mal calculado, el instrumento que se introduce para protegerse abre la puerta que se quería cerrar. Por eso la vía preferente de este catálogo es el Anexo V dentro del precio (Nivel 1) y no la modificación prevista (Nivel 2), que se ofrece redactada pero **por defecto no se usa**.
 
 #### Las cuatro correcciones al resumen ejecutivo anterior
 
@@ -455,7 +468,7 @@ El resumen ejecutivo v1 (el que circuló para presentación en Alcaldía) contie
 |---|---|---|
 | «Se exige el nivel más alto del Esquema Nacional de Seguridad cuando corresponda» | La categoría del ENS **no se elige**: resulta del análisis del propio sistema conforme al anexo I del RD 311/2022, y puede ser BÁSICA, MEDIA o ALTA. El motivo por el que se anularon los pliegos de Parla fue, literalmente, **la falta de justificación de esa exigencia en la memoria justificativa** (art. 116.2 LCSP), tratando la certificación del ENS como habilitación empresarial del art. 65.2 LCSP: el Tribunal no la calificó de desproporcionada (Res. TACP Madrid 383/2024, citada arriba). Que exigir ALTA sin ese análisis sea además una restricción desproporcionada es valoración de este documento, no de la resolución. | El expediente **consigna la categoría que resulte del análisis, antes de aprobar el pliego**, y sólo entonces se exige la forma de acreditación que corresponda: certificación en categorías MEDIA y ALTA, declaración de conformidad por autoevaluación en BÁSICA (art. 38.1 RD 311/2022). La rúbrica «ENS Nivel Alto» desaparece del título de la cláusula (`DT-6·v3`). |
 | «Puntúa quien ya tiene la tecnología, hoy» | Puntuar lo que un licitador **ya posee** el día de la licitación valora una característica de la empresa y no una cualidad de la prestación, y otorga ventaja indirecta al contratista previo. El artículo 40.b) LCSP declara anulables, con ese alcance preciso y no otro más amplio, «todas aquellas disposiciones, resoluciones, cláusulas o actos […] que otorguen, de forma directa o indirecta, ventajas a las empresas que hayan contratado previamente con cualquier Administración». | Se elimina toda puntuación de la tenencia previa —certificaciones, experiencia o medios ya disponibles—. Se puntúa el **alcance funcional comprometido y el plazo ofertado**, verificables, y la disponibilidad efectiva se asegura por compromiso de adscripción de medios acreditado por el propuesto adjudicatario (art. 150.2 LCSP). |
-| «Alineado con el Reglamento (UE) 2024/1689» (describiendo su calendario original) | El calendario cambió. El **Reglamento (UE) 2026/1744 del Parlamento Europeo y del Consejo, de 8 de julio de 2026** (DOUE de 24 de julio de 2026; referencia BOE DOUE-L-2026-81147), que modifica el Reglamento (UE) 2024/1689, fija la aplicación del capítulo III, secciones 1, 2 y 3 el **2 de diciembre de 2027** para los sistemas de alto riesgo del artículo 6.2 y el anexo III, y el **2 de agosto de 2028** para los del artículo 6.1 y el anexo I. Los artículos 26 y 27 (obligaciones del responsable del despliegue y evaluación de impacto en derechos fundamentales) están en esa sección 3: **hoy no son exigibles**. | Toda cita se hace como «Reglamento (UE) 2024/1689, **en su redacción vigente**», sin fechas en el articulado. El **Anexo XI** separa en dos columnas, con fecha de corte expresa, lo que es **obligación legal ya exigible** de lo que es **exigencia contractual anticipada voluntariamente por el Ayuntamiento**; el extracto que se transcribe al pliego técnico es el **Anexo XIX**. Confundir ambas cosas es un problema de proporcionalidad, no una virtud. |
+| «Alineado con el Reglamento (UE) 2024/1689» (describiendo su calendario original) | El calendario cambió. El **Reglamento (UE) 2026/1744 del Parlamento Europeo y del Consejo, de 8 de julio de 2026** (publicado en el Diario Oficial de la Unión Europea el 24 de julio de 2026; referencia del Boletín Oficial del Estado DOUE-L-2026-81147), que modifica el Reglamento (UE) 2024/1689, fija la aplicación del capítulo III, secciones 1, 2 y 3 el **2 de diciembre de 2027** para los sistemas de alto riesgo del artículo 6.2 y el anexo III, y el **2 de agosto de 2028** para los del artículo 6.1 y el anexo I. Los artículos 26 y 27 (obligaciones del responsable del despliegue y evaluación de impacto en derechos fundamentales) están en esa sección 3: **hoy no son exigibles**. | Toda cita se hace como «Reglamento (UE) 2024/1689, **en su redacción vigente**», sin fechas en el articulado. El **Anexo XI** separa en dos columnas, con fecha de corte expresa, lo que es **obligación legal ya exigible** de lo que es **exigencia contractual anticipada voluntariamente por el Ayuntamiento**; el extracto que se transcribe al pliego técnico es el **Anexo XIX**. Confundir ambas cosas es un problema de proporcionalidad, no una virtud. |
 | «Sin coste añadido para el Ayuntamiento» | No es cierto tal cual, y la Intervención lo detecta en la primera lectura. El catálogo genera gasto real y previsible: el entorno de pruebas, las horas de seguimiento y de comisión técnica, el ensayo de reversibilidad y, si se activa, el depósito de código. | El coste se dimensiona en el expediente y se traslada al presupuesto base de licitación, con certificado de existencia de crédito (art. 116.3 LCSP). Lo que sí es cierto —y es lo defendible— es que **el Anexo V se retribuye con el precio ofertado y no requiere expediente de modificación**: es alcance ordinario, no gasto sobrevenido. |
 
 ---
@@ -470,7 +483,7 @@ Este apartado va en la primera parte del documento y no escondido al final, porq
 
 **No se promete que no haya recursos.** Los pliegos de un contrato de servicios con valor estimado superior a 100.000 € son directamente recurribles (art. 44.1.a) y 2.a) LCSP), y estas materias son nuevas. Es razonable esperar que alguno de los primeros pliegos que apliquen este catálogo sea recurrido.
 
-**No se promete que exista doctrina que ampare estas cláusulas.** No la hay. A fecha de corte de **1 de septiembre de 2026**, y tras búsqueda en los repositorios de resoluciones de los tribunales administrativos de recursos contractuales y de las juntas consultivas de contratación, **no consta** resolución ni informe sobre condiciones especiales de ejecución de contenido tecnológico-evolutivo, sobre interfaces de acceso para agentes de inteligencia artificial, sobre la norma ISO/IEC 42001 como criterio de adjudicación, ni sobre demostraciones funcionales de software. Todas las resoluciones que este documento cita se citan **como doctrina general trasladada por analogía, y así se dice en cada caso**: hablan de justificación en el expediente, de equivalencia, de precisión en las obligaciones esenciales o de criterios de adjudicación, no de inteligencia artificial.
+**No se promete que exista doctrina que ampare estas cláusulas.** Doctrina, aquí, son las resoluciones de los tribunales administrativos de contratación y los informes de las juntas consultivas que ya han resuelto un caso parecido y orientan cómo se aplica la ley. No la hay. A fecha de corte de **1 de septiembre de 2026**, y tras búsqueda en los repositorios de resoluciones de los tribunales administrativos de recursos contractuales y de las juntas consultivas de contratación, **no consta** resolución ni informe sobre condiciones especiales de ejecución de contenido tecnológico-evolutivo, sobre interfaces de acceso para agentes de inteligencia artificial, sobre la norma ISO/IEC 42001 —la norma internacional de sistemas de gestión de la inteligencia artificial— como criterio de adjudicación, ni sobre demostraciones funcionales de software. Todas las resoluciones que este documento cita se citan **como doctrina general trasladada por analogía, y así se dice en cada caso**: hablan de justificación en el expediente, de equivalencia, de precisión en las obligaciones esenciales o de criterios de adjudicación, no de inteligencia artificial.
 
 Sobre el alcance de esa afirmación, y vale para todas las que este documento hace en el mismo sentido: es una **afirmación negativa** y no es demostrable de forma exhaustiva. Lo que se afirma es que la búsqueda descrita, en los repositorios enumerados y a la fecha de corte indicada, no ha localizado doctrina sobre estas materias. No se afirma que no exista en ningún repositorio. Quien conozca una resolución en contrario tiene con ello un argumento, y el catálogo tiene una corrección que hacer.
 
@@ -494,7 +507,7 @@ Y una promesa de método, que es la que sostiene todo lo anterior: **sólo se ci
 
 Dirigido a quien tiene que redactar un pliego. El orden importa: **primero la necesidad, después la ficha**. La ficha de aplicabilidad es la consecuencia de la necesidad, no su sustituto; hacerlo al revés produce exactamente lo que hay que evitar, que es rellenar la necesidad para justificar una casilla ya marcada.
 
-**Qué es este apartado y qué no es.** Es el **resumen ejecutivo** del circuito. El circuito operativo, con sus dieciocho documentos, quién firma cada uno y cuál se publica, es la **Parte V, V.2.1**, y manda sobre este resumen en caso de discrepancia. Este apartado **no cubre** dos decisiones del expediente que sí están allí: la división en lotes y su motivación (art. 116.4.g LCSP) y la elección del procedimiento (art. 116.4.a). Quien redacta un pliego pasa por V.2.1; quien sólo necesita entender el recorrido se queda aquí.
+**Qué es este apartado y qué no es.** Es el **resumen ejecutivo** del circuito. El circuito operativo, con sus veintiún documentos, quién firma cada uno y cuál se publica, es la **Parte V, V.2.1**, y manda sobre este resumen en caso de discrepancia. Este apartado **no cubre** dos decisiones del expediente que sí están allí: la división en lotes y su motivación (art. 116.4.g LCSP) y la elección del procedimiento (art. 116.4.a). Quien redacta un pliego pasa por V.2.1; quien sólo necesita entender el recorrido se queda aquí.
 
 Antes de los pasos del expediente hay un **paso previo anual**, que no es de ningún expediente sino del Ayuntamiento entero.
 
@@ -550,9 +563,18 @@ Al marcar una cláusula como NO APLICA hay que consultar la **tabla de dependenc
 
 ---
 
-### 0.5 Los dieciocho documentos del circuito (V.2.1), agrupados según los imponga la norma o los añada este catálogo
+### 0.5 Los veintiún documentos del circuito (V.2.1), agrupados según los imponga la norma o los añada este catálogo
 
-El circuito del expediente y su recuento son los de la **Parte V, V.2.1**, que es la fuente única: allí están los dieciocho documentos con su tramo, quién los firma y cuáles se publican, y cinco de ellos son condicionales. Este cuadro los reagrupa por su origen, que es lo que pregunta quien tiene que informar o fiscalizar: **el primer bloque son documentos que la norma exige en cualquier expediente** y que este catálogo no inventa —lo que hace es decir qué debe decir cada uno cuando hay componente tecnológico—; **el segundo son los que añade este catálogo**, que no son preceptivos por sí mismos pero son el soporte de la justificación que sí lo es. La columna de la derecha da el código de V.2.1 de cada uno.
+El circuito del expediente y su recuento son los de la **Parte V, V.2.1**, que es la fuente única: allí están sus veinte pasos, que producen **veintiún documentos** —el paso B-7 produce dos, el pliego técnico y el administrativo—, con su tramo, quién los firma y cuáles se publican; cinco de esos pasos son condicionales. Este cuadro los reagrupa por su origen, que es lo que pregunta quien tiene que informar o fiscalizar: **el primer bloque son documentos que la norma exige en cualquier expediente** y que este catálogo no inventa —lo que hace es decir qué debe decir cada uno cuando hay componente tecnológico—; **el segundo son los que añade este catálogo**, que no son preceptivos por sí mismos pero son el soporte de la justificación que sí lo es. La columna de la derecha da el código de V.2.1 de cada uno.
+
+**Cómo cuadran los dos bloques, porque las filas no se suman sin más.** El bloque A tiene **dieciocho** filas y el bloque B, **ocho**; veintiséis filas para veintiún documentos. La diferencia no es un error de cuenta y conviene tenerla clara antes de armar el índice del expediente:
+
+- **Dieciocho** documentos los impone la norma: son las dieciocho filas del bloque A.
+- **Tres** los añade este catálogo como documentos propios, y son los que faltan hasta veintiuno: la Ficha de Aplicabilidad (A-3), la conformidad del servicio verificador (A-6) y la carpeta de defensa (C-6).
+- **Otras tres** filas del bloque B no son documentos nuevos, sino contenido que este catálogo mete dentro de un documento que la norma ya exige, y por eso comparten código con una fila del bloque A: el informe de necesidad tecnológica va dentro de A-1, la ficha por criterio dentro de B-5 y el Anexo V transcrito dentro de B-7.
+- **Las dos restantes** del bloque B no son pasos de ningún expediente: el acuerdo anual del órgano de gobierno es previo a todos ellos, y la lista de comprobación de V.10 se pasa antes de recabar el informe jurídico (C-1).
+
+Dieciocho más tres son los veintiún documentos del expediente. Las otras cinco filas del bloque B se cuentan aparte porque no añaden entradas al índice.
 
 #### A · Documentos que exige la norma
 
@@ -596,13 +618,13 @@ La **publicación en el perfil de contratante** de la motivación de la necesida
 
 ### 0.6 Los tres casos que este catálogo NO cubre
 
-Este apartado no es un descargo: es una parte esencial de la guía. La mayor parte de los expedientes que firma un ayuntamiento no son procedimientos abiertos con pliegos propios, y si no se dice qué hacer en los otros casos, el catálogo sólo sirve para una minoría del trabajo real. Aquí se dice, caso por caso, por qué no cabe y qué se puede hacer en su lugar. **La regla, con su lista cerrada, está en la Parte I §2.4 y en la Parte V, V.7; este apartado la explica y no la sustituye.**
+Este apartado no es un descargo: es una parte esencial de la guía. La mayor parte de los expedientes que firma un ayuntamiento no son procedimientos abiertos con pliegos propios, y si no se dice qué hacer en los otros casos, el catálogo sólo sirve para una minoría del trabajo real. Aquí se dice, caso por caso, por qué no cabe y qué se puede hacer en su lugar. **La regla está en la Parte I §2.4 y en la Parte V, V.7; la lista cerrada del contrato menor está sólo en la Parte V, V.7.1. Este apartado los explica y no los sustituye.**
 
 #### Caso 1 · Contratos menores
 
 **Por qué no cabe.** El contrato menor se tramita sin pliego de cláusulas administrativas particulares y sin pliego de prescripciones técnicas particulares. Este catálogo es, íntegramente, un catálogo de cláusulas de pliego: no hay documento donde copiarlas. Y aunque lo hubiera, un régimen de evolución tecnológica con comisión de seguimiento, plan anual, actas de aceptación y ensayo de reversibilidad es manifiestamente desproporcionado para un gasto de esa cuantía y duración.
 
-**Qué SÍ se puede hacer.** La lista es cerrada y está en la **Parte V, V.7.1**: son seis elementos que caben en el encargo o en la aceptación de la oferta, y ninguno más. No se reproduce aquí para que no haya dos versiones de la misma lista. Además, y fuera de ella, cabe usar el contrato menor como **prueba de concepto** para preparar la licitación siguiente, documentando lo aprendido: eso alimenta el contraste de mercado del paso previo anual.
+**Qué SÍ se puede hacer.** Hay una lista cerrada de exigencias que sí caben en el encargo o en la aceptación de la oferta, y ninguna más. Está en la **Parte V, V.7.1**, escrita con letras, y ése es el único sitio del documento donde está: aquí no se reproduce ni se cuenta, para que no puedan existir dos versiones ni dos recuentos de la misma lista. **La razón de que esas exigencias sí quepan sin pliego, y de que las demás no, es una sola: las de V.7.1 obligan porque las impone una norma que se aplica también al contrato menor; las cláusulas de este catálogo obligan porque están escritas en un pliego, y aquí no hay pliego.** Además, y fuera de esa lista, cabe usar el contrato menor como **prueba de concepto** para preparar la licitación siguiente, documentando lo aprendido: eso alimenta el contraste de mercado del paso previo anual.
 
 **Qué NO se puede hacer.**
 - Introducir condiciones especiales de ejecución, penalidades tipificadas, obligaciones esenciales con efecto resolutorio ni criterios de adjudicación: son instrumentos que presuponen pliegos y un procedimiento de adjudicación que aquí no existe.
@@ -723,7 +745,7 @@ La intensidad de aplicación se gradúa por el valor estimado del contrato, por 
 | Nivel | Cuándo se aplica (valores recomendados) | Qué se incorpora |
 |---|---|---|
 | **A · Mínimo** | Valor estimado inferior a **[X; se recomienda 50.000] €**; o contrato sin sistema de información municipal. **Los contratos sin pliego —el contrato menor— no se rigen por este cuadro: véase el apartado V.7.1** | Sólo lo impuesto por norma: DT-6·v3 (ENS); DT-1·v3, siempre que intervengan sistemas de inteligencia artificial; bloque A de ADM-6·v3 (esencialidades *ex lege*, cuando concurra su presupuesto) y ADM-13·v3 si el contratista va a tratar información municipal no pública |
-| **B · Estándar** | Valor estimado entre **[50.000]** € y el umbral de contratos sujetos a regulación armonizada; contrato con sistema de información municipal | Nivel A + DT-0·v3, DT-5·v3, DT-8·v3, ADM-1·v3, ADM-4·v3, ADM-5·v3, ADM-6·v3, ADM-8·v3, ADM-10·v3 (cuando se haya incorporado DT-9·v3 y su Anexo V, del que depende) y ADM-12·v3 |
+| **B · Estándar** | Valor estimado entre **[50.000; se recomienda 50.000]** € y el umbral de contratos sujetos a regulación armonizada; contrato con sistema de información municipal | Nivel A + DT-0·v3, DT-5·v3, DT-8·v3, ADM-1·v3, ADM-4·v3, ADM-5·v3, ADM-6·v3, ADM-8·v3, ADM-10·v3 (cuando se haya incorporado DT-9·v3 y su Anexo V, del que depende) y ADM-12·v3 |
 | **C · Reforzado** | Valor estimado igual o superior al umbral de contratos sujetos a regulación armonizada (**216.000 €** en servicios y suministros para 2026-2027, conforme al [Reglamento Delegado (UE) 2025/2152](https://www.boe.es/buscar/doc.php?id=DOUE-L-2025-81543), incorporado a los artículos 21.1.b) y 22.1.b) LCSP por la Orden HAC/1517/2025, de 18 de diciembre; es un umbral legal, no un parámetro del órgano de contratación, y caduca el 31/12/2027); o sistema de categoría ENS **MEDIA** o **ALTA**; o servicio de los relacionados en la cláusula ADM-11·v3, apartado 1, letra c) | Nivel B + DT-7·v3, DT-9·v3 y Anexo V, ADM-2·v3 y ADM-7·v3; DT-4·v3 sólo cuando exista lista cerrada y numerada de procesos cumplimentada con datos reales; ADM-3·v3 sólo en contratos de servicios que impliquen desarrollo o mantenimiento de aplicaciones (art. 308.3 LCSP); ADM-9·v3 sólo desde **200.000 €** de valor estimado (ADM-9·v3, apartado 10); ADM-11·v3 sólo si concurren **todas** sus condiciones de incorporación (ADM-11·v3, apartado 1, y Anexo X, parámetro 21); ADM-14·v3 sólo si se cumplen sus condiciones de incorporación |
 
 Notas de uso del cuadro, todas ellas de aplicación obligatoria:
@@ -1141,7 +1163,7 @@ Las reglas de esta Parte I no producen efectos frente al contratista si no está
 
 **Se transcribe obligatoriamente al PPT**: el bloque de referencias técnicas no normativas del §4.2; las definiciones del §5.2 que resulten aplicables a las cláusulas incorporadas; y el **extracto de vigencia normativa del Anexo XIX** que afecte a esas cláusulas, con su fecha de corte. Este último es el «anexo de vigencia normativa de este pliego» al que remite DT-1·v3: sin transcribirlo, esas remisiones apuntan a un documento que el pliego no contiene.
 
-**Composición de los apéndices técnicos del PPT.** DT-4·v3, DT-7·v3 y DT-9·v3 exigen cada una un apéndice distinto del PPT. Su número, su rótulo y su orden se rigen por el **Anexo XXV**; el redactor no los numera a su criterio.
+**Composición de los apéndices técnicos del PPT.** DT-4·v3 exige un apéndice propio del PPT, y DT-7·v3 y DT-9·v3 comparten uno solo, porque ambas versan sobre la misma interfaz. Su número, su rótulo y su orden se rigen por el **Anexo XXV**; el redactor no los numera a su criterio.
 
 **No se transcriben**, por ser reglas internas del expediente: la regla de ubicación (§7.1), la regla de motivación (§7.6) y la regla de verificabilidad (§7.9), cuyo reflejo en el pliego es la designación del responsable del contrato y el régimen de seguimiento de ADM-4·v3.
 
@@ -1250,7 +1272,7 @@ Todo lo que queda fuera del bloque —motivo, norma, riesgo, advertencias, carga
 
 **Los modelos de acta.** Los epígrafes 4 y 5 convierten el acta en el medio de acreditación tasado de casi todas estas obligaciones. Los modelos que esta Parte emplea —aceptación, ensayo de reversibilidad, reversión y diligencia de acceso de los órganos de control y exportación— están en el **Anexo XVIII** y se cumplimentan sin alterar sus columnas. Un acta que no recoja el resultado de todos los extremos comprobados no acredita nada.
 
-**Los apéndices técnicos del PPT.** Las cláusulas DT-4·v3, DT-7·v3 y DT-9·v3 exigen cada una un apéndice distinto, que se transcribe físicamente dentro del PPT y al que remiten como «Apéndice [núm.]». La regla de composición, rotulación y numeración de esos apéndices está en el **Anexo XXV**; se aplica antes de rellenar ningún corchete de numeración, para que el mismo pliego no tenga dos apéndices con el mismo número.
+**Los apéndices técnicos del PPT.** Las cláusulas DT-4·v3, DT-7·v3 y DT-9·v3 exigen apéndices que se transcriben físicamente dentro del PPT: DT-4·v3 el suyo propio, y DT-7·v3 y DT-9·v3 **uno común**, porque ambas versan sobre la misma interfaz y dos listas cerradas sobre el mismo elemento dejan indeterminado el criterio de adjudicación que mide el exceso. La regla de composición, rotulación y numeración de esos apéndices está en el **Anexo XXV**; se aplica antes de rellenar ningún corchete de numeración, para que el mismo pliego no tenga dos apéndices con el mismo número.
 
 **Reutilización por otra administración.** Las cláusulas están escritas en regla general, y Pozuelo aparece, cuando aparece, como ejemplo entre paréntesis. Lo que otra administración debe adaptar obligatoriamente antes de usar esta Parte es: la categoría de seguridad del sistema, el órgano competente en cada trámite, los umbrales económicos, el Anexo V del ejercicio y todos los corchetes. Copiar el texto sin la ficha de necesidad no traslada la protección: traslada el vicio.
 
@@ -1588,7 +1610,7 @@ La criptografía de la solución no es materia libre: es una medida del Esquema 
 #### 5. Cómo se verifica
 
 **Quién:** responsable de seguridad de la información del Ayuntamiento o, en su defecto, el servicio de informática.
-**Cuándo:** entrega inicial del plan a los [6] meses; revisión anual coincidiendo con la del ENS.
+**Cuándo:** entrega inicial del plan a los [6; se recomienda 6] meses; revisión anual coincidiendo con la del ENS.
 **Con qué documento:** informe anual de revisión del inventario y del plan, incorporado al expediente de seguimiento.
 **Carga estimada al año** *(orientativa)*: 4 horas de revisión anual, aprovechando la revisión de seguridad ya prevista en DT-6·v3. **4 horas al año.**
 
@@ -1601,7 +1623,7 @@ La criptografía de la solución no es materia libre: es una medida del Esquema 
 | Tipificación | Hecho verificable |
 |---|---|
 | Leve | Retraso no superior a [X; se recomienda 30] días en la entrega o actualización del inventario o del plan |
-| Grave | Falta de entrega del plan de transición transcurrido el plazo más [30] días desde requerimiento |
+| Grave | Falta de entrega del plan de transición transcurrido el plazo más [30; se recomienda 30] días desde requerimiento |
 | Muy grave | Empleo de algoritmos expresamente desaconsejados por las guías CCN-STIC aplicables, no subsanado tras requerimiento |
 
 #### 7. Cuándo NO se aplica
@@ -1891,11 +1913,11 @@ La categoría no se elige por ambición: resulta del anexo I del Real Decreto 31
 
 **1. Objeto.** El adjudicatario entregará una interfaz normalizada de acceso programático que exponga, de forma segura, controlada y trazable, los datos y las funciones de los módulos objeto de este contrato, de modo que puedan ser consultados y operados por sistemas y agentes de inteligencia artificial autorizados por el Ayuntamiento, bajo supervisión humana.
 
-**2. Ámbito.** La exigencia se aplica exclusivamente a los módulos y funcionalidades relacionados en el **Apéndice [núm.] de este pliego**, atendiendo a la relación directa, clara y proporcional con el objeto del contrato exigida por el artículo 116.4.e) LCSP. No se extiende a otras aplicaciones municipales, ni a prestaciones ajenas al objeto de este contrato.
+**2. Ámbito.** La exigencia se aplica exclusivamente a los módulos y funcionalidades relacionados en el **Apéndice técnico 2 · Exigencias tecnológicas determinadas** de este pliego, apartado de módulos y funciones de la interfaz normalizada, atendiendo a la relación directa, clara y proporcional con el objeto del contrato exigida por el artículo 116.4.e) LCSP. No se extiende a otras aplicaciones municipales, ni a prestaciones ajenas al objeto de este contrato. **Ese apartado del Apéndice técnico 2 es la única relación de este pliego sobre los módulos y las funciones de la interfaz**; ningún otro documento del pliego contiene una relación distinta sobre la misma interfaz.
 
 **3. Exigencias funcionales.** La interfaz cumplirá, como mínimo:
 
-a) **Inventario de funciones.** Expone las funciones de consulta correspondientes a los módulos del Apéndice [núm.] y, cuando el Apéndice lo indique, las funciones de escritura que en él se relacionen. El adjudicatario entregará el inventario de funciones expuestas, con su descripción y sus parámetros.
+a) **Inventario de funciones.** Expone, como mínimo, las **funciones mínimas** relacionadas en el apartado de módulos y funciones del Apéndice técnico 2 sobre los módulos allí identificados y, cuando ese apartado lo indique, las funciones de escritura que en él se relacionen; además, las **funciones adicionales** de ese mismo apartado que el adjudicatario haya comprometido en su oferta. El adjudicatario entregará el inventario de funciones expuestas, con su descripción y sus parámetros.
 
 b) **Autenticación y autorización.** Integradas con el directorio corporativo del Ayuntamiento, con control de acceso diferenciado por módulo, por operación y por ámbito de datos, y con distinción efectiva entre operaciones de consulta y de escritura.
 
@@ -1920,15 +1942,25 @@ h) **Titularidad y portabilidad.** La interfaz entregada, su documentación y su
 **7. Disponibilidad previa.** La disponibilidad de una interfaz de estas características con anterioridad a la licitación **no será objeto de valoración**. Lo que se valora, en su caso, es el alcance funcional comprometido para este contrato y el plazo ofertado, conforme al pliego de cláusulas administrativas particulares.
 :::
 
-Además, el PPT debe incorporar el Apéndice al que remite el apartado 2, con esta estructura mínima:
+Además, el PPT debe incorporar, **al comienzo del Apéndice técnico 2 · Exigencias tecnológicas determinadas** y antes de la transcripción del Catálogo del ejercicio, el apartado de módulos y funciones al que remite el apartado 2, con esta estructura mínima y con sus **dos bloques separados**, porque del segundo depende que el criterio de adjudicación A tenga término de comparación cerrado:
+
+**Bloque A · Módulos y funciones mínimas exigidas** (prescripción técnica; no puntúan)
 
 | Nº | Módulo | Funciones de consulta exigidas | Funciones de escritura exigidas | Conjuntos de datos accesibles |
 |---|---|---|---|---|
 | 1 | | | | |
 
+**Bloque B · Funciones adicionales ofertables** (relación cerrada y numerada; es la única base sobre la que se mide el exceso del criterio A de ADM-7·v3)
+
+| Nº | Módulo | Función adicional ofertable | Conjunto de datos al que da acceso |
+|---|---|---|---|
+| 1 | | | |
+
+**Una sola sede.** Los módulos y las funciones de la interfaz se relacionan **exclusivamente aquí**. No se abre un apéndice propio para esta cláusula: hacerlo produciría dos listas cerradas sobre la misma interfaz y el criterio A dejaría de decir respecto de cuál se mide el exceso, que es el vicio que la regla V.A.1.7 del Anexo V declara inadmisible.
+
 #### 2. Dónde va
 
-PPT, apartado de requisitos de integración, a continuación de DT-5·v3. El Apéndice del apartado 2 se transcribe físicamente dentro del PPT.
+PPT, apartado de requisitos de integración, a continuación de DT-5·v3. El apartado de módulos y funciones al que remite el apartado 2 se transcribe físicamente dentro del PPT, dentro del **Apéndice técnico 2 · Exigencias tecnológicas determinadas**, que es el mismo apéndice en que se transcribe el Catálogo del ejercicio (DT-9·v3 y Anexo V). Cuando DT-9·v3 se marque NO APLICA y esta cláusula sí se incorpore, el Apéndice técnico 2 conserva su rótulo y contiene únicamente el apartado de módulos y funciones. La regla de composición está en el Anexo XXV.
 
 El apartado 5, en cuanto al plazo ofertado, y el apartado 7 tienen reflejo en el PCAP: el plazo ofertado es criterio de adjudicación automático en ADM-7·v3, y la exclusión de la disponibilidad previa es una regla del baremo.
 
@@ -2086,7 +2118,7 @@ Los modelos de las dos actas —ensayo de reversibilidad y reversión— son los
 #### 5. Cómo se verifica
 
 **Quién:** responsable del contrato, con el servicio de informática; el ensayo del apartado 3 lo presencia personal municipal.
-**Cuándo:** Inventario, en cada puesta en producción; Plan, a los [3] meses y anualmente; ensayo, según el apartado 3; entrega y acta, en el período de reversión.
+**Cuándo:** Inventario, en cada puesta en producción; Plan, a los [3; se recomienda 3] meses y anualmente; ensayo, según el apartado 3; entrega y acta, en el período de reversión.
 **Con qué documento:** acta de ensayo de reversibilidad y acta de reversión. Son los dos documentos que convierten esta cláusula en exigible; sin ellos, no hay nada que reclamar.
 **Carga estimada al año** *(orientativa)*: 4 horas de revisión anual del Plan y del Inventario; 8 a 16 horas por ensayo de reversibilidad; 16 a 24 horas en el período de reversión, una sola vez por contrato. **En régimen ordinario, 4 a 12 horas al año.**
 
@@ -2353,7 +2385,7 @@ Tres reglas de uso que gobiernan toda la Parte III:
 
 3. **Regla de verificabilidad municipal.** No se incorpora ninguna cláusula cuya verificación no tenga actor municipal designado, periodicidad y horas disponibles (Parte I, §7.9). La cuantificación de esa carga está en ADM-4·v3, epígrafe 5, que es la tabla única de horas de todo el catálogo.
 
-**Sobre los parámetros.** Todo valor que fija el órgano de contratación se escribe entre corchetes y **con valor recomendado por defecto**, en la forma `[X; se recomienda N]`. El valor recomendado es el que debe usarse salvo que concurra la circunstancia que se indica a continuación de cada uno. La tabla consolidada de todos los corchetes está en el Anexo X.
+**Sobre los parámetros.** Todo valor que fija el órgano de contratación se escribe entre corchetes y **con valor recomendado por defecto**, en la forma `[X; se recomienda N]`. El valor recomendado es el que debe usarse salvo que concurra la circunstancia que se indica a continuación de cada uno. La tabla consolidada de los corchetes de **decisión económica, de calendario y de configuración del expediente** está en el Anexo X. Cuatro **plazos y umbrales de trámite interno** no se consolidan allí y se quedan en el texto de pliego de la cláusula que los fija, que es su sede: la audiencia previa a la penalidad y el umbral de penalidades acumuladas (ADM-5·v3), la audiencia previa a la liberación del depósito (ADM-11·v3) y los umbrales de no constitución de la Comisión de Seguimiento (ADM-4·v3). El Anexo X cierra su apartado X.1 con esa misma relación.
 
 **Sobre la reutilización por otras administraciones.** Cada regla se escribe primero en general y después se ejemplifica con el régimen de Pozuelo de Alarcón entre paréntesis. Donde se lee «el órgano al que corresponda el informe jurídico preceptivo», el redactor debe sustituir por el suyo: la **Asesoría Jurídica** en los municipios de gran población del Título X de la Ley 7/1985 (es el caso de Pozuelo de Alarcón, por la disposición adicional 3.ª.8 LCSP en relación con la disposición adicional 8.ª LBRL), y la **Secretaría** en el régimen común.
 
@@ -2448,7 +2480,7 @@ Regla común de acreditación: **la carga de probar la equivalencia corresponde 
 
 | Qué se comprueba | Actor municipal | Cuándo | Documento | Horas/año |
 |---|---|---|---|---|
-| Vigencia del certificado o suficiencia de la documentación equivalente | Responsable del contrato | Anual, y al mes [12] si hay compromiso de obtención | Nota de comprobación incorporada al expediente de ejecución | 2 |
+| Vigencia del certificado o suficiencia de la documentación equivalente | Responsable del contrato | Anual, y al mes [12; se recomienda 12] si hay compromiso de obtención | Nota de comprobación incorporada al expediente de ejecución | 2 |
 | Actualización del inventario de sistemas de IA y del registro de incidencias | Responsable del contrato, con apoyo del servicio de informática | Anual, y en cada cambio comunicado | Diligencia en el acta de la Comisión (ADM-4·v3) | 1 |
 | Formación acreditada del personal que opera los sistemas | Responsable del contrato | Anual | Relación nominal aportada por el contratista | 0,5 |
 
@@ -2637,7 +2669,7 @@ Los plazos de implantación de las exigencias del Anexo de Exigencias Tecnológi
 
 4. **Procedimiento.** Cada trabajo se solicitará mediante **petición de servicio** escrita del responsable del contrato, que identificará el resultado a obtener, los criterios de aceptación y el plazo. El contratista presentará estimación de horas por perfil en el plazo de [X; se recomienda 5] días hábiles. Aceptada la estimación por el responsable del contrato, el contratista ejecutará el trabajo con **su propio personal, bajo su exclusiva dirección y organización**. La recepción se documentará en acta con verificación de los criterios de aceptación. **El Ayuntamiento no dirige ni organiza al personal del contratista, no le asigna tareas individuales, no controla su jornada y no interviene en su régimen laboral.**
 
-5. **Límite.** El importe máximo de esta bolsa **no excederá del [X; se recomienda 5] por ciento del importe del contrato, sin superar en ningún caso el 10 por ciento**. Se consigna en el cuadro de características y forma parte del presupuesto base de licitación y del valor estimado del contrato.
+5. **Límite y base de cálculo.** El importe máximo de esta bolsa **no excederá del [X; se recomienda 5] por ciento del presupuesto base de licitación correspondiente a la duración inicial del contrato, sin impuesto sobre el valor añadido, ni en ningún caso del 10 por ciento de esa misma base**. Cuando el contrato prevea prórrogas, el cuadro de características indicará **expresamente si la bolsa se dota también para cada anualidad prorrogada y por qué importe**, calculado sobre la misma base y con el mismo porcentaje; el importe correspondiente a las prórrogas sólo se autoriza cuando la prórroga se acuerde. La suma de los importes máximos de todas las anualidades se consigna en el cuadro de características, **forma parte del presupuesto base de licitación** —y, con él, del crédito que se autoriza— y **se computa en el valor estimado del contrato**.
 :::
 
 #### 2. Dónde va
@@ -2878,7 +2910,7 @@ A lo anterior se añaden entre **20 y 40 horas** en el último año, por la reve
  **Muy graves**
  M1. Falta de implantación de una exigencia del Anexo de Exigencias Tecnológicas Determinadas, transcurrido su plazo y un plazo adicional de subsanación de un mes desde requerimiento fehaciente.
  M2. Negativa a poner a disposición del Ayuntamiento una versión sucesora publicada por el fabricante y a la que el contratista tenga acceso.
- M3. Negativa a liberar el depósito de código concurriendo un supuesto tasado de liberación, o entrega de material incompleto o no verificable.
+ M3. Negativa a constituir el depósito de código o el plan de continuidad equivalente por la vía de cumplimiento elegida; negativa a liberar el depósito concurriendo un supuesto tasado de liberación; o entrega de material incompleto o no verificable.
  M4. Negativa a entregar la reversibilidad, entrega incompleta del Dossier de Reversibilidad no subsanada en el plazo requerido, o negativa a mantener la licencia de continuidad del producto base en los términos de este pliego.
  M5. Introducción de información municipal no pública en un sistema de inteligencia artificial no autorizado.
  M6. Denegación o supresión del acceso de los órganos de control.
@@ -2972,7 +3004,7 @@ Es la propia cláusula. Dos precisiones que evitan errores frecuentes:
 
  **B.1 — Respecto de las cláusulas de este pliego que efectivamente se hayan incorporado:**
  a) *[Sólo si este pliego incorpora la cláusula de reversibilidad.]* La negativa a entregar el material de titularidad municipal, el Dossier de Reversibilidad y el Inventario de Componentes, o su entrega incompleta no subsanada en el plazo de [X; se recomienda 1] mes desde requerimiento fehaciente.
- b) *[Sólo si este pliego incorpora la cláusula de depósito de código.]* La negativa a constituir el depósito de código, o la negativa a liberarlo concurriendo un supuesto tasado de liberación, o la entrega de material incompleto o no verificable no subsanada en el plazo de [X; se recomienda 1] mes desde requerimiento fehaciente.
+ b) *[Sólo si este pliego incorpora la cláusula de depósito de código.]* La negativa a constituir el depósito de código **o el plan de continuidad equivalente, por la vía de cumplimiento elegida conforme a la cláusula [ADM-11], apartado 3**, la negativa a liberar el depósito concurriendo un supuesto tasado de liberación, o la entrega de material incompleto o no verificable, no subsanadas en el plazo de [X; se recomienda 1] mes desde requerimiento fehaciente.
  c) *[Sólo si este pliego incorpora la cláusula de acceso de los órganos de control.]* La denegación o supresión del acceso de los órganos municipales de control a los datos de ejecución del contrato, no restablecido en el plazo de [X; se recomienda 15] días naturales desde requerimiento fehaciente.
  d) *[Sólo si este pliego incorpora la cláusula de uso de sistemas de inteligencia artificial sobre información municipal.]* La introducción de información municipal no pública en sistemas de inteligencia artificial no autorizados en este contrato, cuando conste su incorporación efectiva.
 
@@ -3090,7 +3122,9 @@ Lo que estas seis cláusulas hacen, y lo que no.
 
    c) valorar como criterio de adjudicación el contenido de una condición especial de ejecución de este contrato. Cuando una prestación se configure como condición especial de ejecución, no se puntúa; cuando se puntúe, no se configura además como condición especial de ejecución sobre el mismo contenido.
 
-2. **Regla de no valoración de la tenencia previa.** No se configurarán como criterios de adjudicación: la mera tenencia de certificaciones que acrediten sistemas de gestión de la empresa; la experiencia previa del licitador; ni la disponibilidad, a la fecha de finalización del plazo de presentación de ofertas, de instalaciones, desarrollos, productos o infraestructuras anteriores a la licitación. Estas circunstancias se sitúan, cuando proceda y esté justificado en el expediente, en la solvencia, en el compromiso de adscripción de medios del artículo 76 LCSP —acreditable por el licitador propuesto como adjudicatario en el trámite del artículo 150.2 LCSP— o en una condición especial de ejecución.
+2. **Regla de no valoración de la tenencia previa.** No se configurarán como criterios de adjudicación las circunstancias que describen a la empresa licitadora y no a la prestación que se contrata. En particular, no se valorarán: la mera tenencia de certificaciones que acrediten sistemas de gestión de la empresa; la experiencia previa del licitador; la disponibilidad, a la fecha de finalización del plazo de presentación de ofertas, de medios personales, medios materiales o instalaciones; ni la titularidad o disponibilidad, a esa misma fecha, de desarrollos, productos o infraestructuras **ajenos al objeto de este contrato**. Estas circunstancias se sitúan, cuando proceda y esté justificado en el expediente, en la solvencia, en el compromiso de adscripción de medios del artículo 76 LCSP —acreditable por el licitador propuesto como adjudicatario en el trámite del artículo 150.2 LCSP— o en una condición especial de ejecución.
+
+   **Lo que sí se valora: la prestación comprometida.** El alcance funcional que el licitador se compromete a entregar sobre las relaciones cerradas y numeradas publicadas en el pliego de prescripciones técnicas y en sus apéndices es contenido de la prestación contratada, y se valora **con independencia de que la solución ofertada lo cubra desde su entrega inicial o de que el licitador deba desarrollarlo dentro del plazo de ejecución fijado en el pliego**. En consecuencia, ningún criterio de adjudicación podrá condicionar la puntuación a que la funcionalidad esté disponible a la fecha de finalización del plazo de presentación de ofertas, ni excluir de la puntuación lo que el licitador se comprometa a desarrollar dentro de plazo. El alcance comprometido se incorpora al contrato como obligación contractual exigible, en los términos del criterio que lo valore.
 
 3. **Regla de correspondencia con el pliego técnico.** No se incorporará ningún criterio de adjudicación que valore una capacidad, prestación o integración que el pliego de prescripciones técnicas no exija ni describa. Si una cláusula técnica se marca como NO APLICA en la Ficha de Aplicabilidad, se suprime el criterio de adjudicación que la valoraba y **se recompone el baremo antes de publicar el anuncio de licitación, sin que quepa redistribución alguna una vez iniciada la licitación (apartado 6)**.
 
@@ -3111,11 +3145,13 @@ Lo que estas seis cláusulas hacen, y lo que no.
 5. **Verificabilidad.** Cada criterio va acompañado en este pliego de la especificación del medio por el que se comprobará de manera efectiva la información facilitada por los licitadores (artículo 145.5.c LCSP). El criterio que no pueda comprobarse de manera efectiva no se incorpora al baremo.
 
 6. **Ponderaciones.** Las ponderaciones publicadas en este pliego no serán objeto de reescalado ni de redistribución una vez publicado el anuncio de licitación.
+
+7. **Ofertas anormalmente bajas.** Este pliego publica, en el apartado [ ], los **parámetros objetivos** con arreglo a los cuales se identificará la oferta presuntamente anormalmente baja, referidos a **[la oferta en su conjunto / el criterio de precio]**, sin remisión a parámetros supletorios de normas de desarrollo. Identificada una oferta como presuntamente anormal, se requerirá al licitador para que la justifique, se recabará el informe técnico y se resolverá de forma motivada conforme al artículo 149 de la LCSP **con anterioridad a la aplicación de las fórmulas de valoración**. **La oferta excluida no se computará como referencia de cálculo en ninguna fórmula de este pliego.**
 :::
 
 **ADM-7.2 · Baremo modelo. Variante A: procedimiento abierto (artículo 156 LCSP).**
 
-Ejemplo completo trabajado sobre un contrato de servicios de mantenimiento, evolución y soporte de la aplicación de contabilidad y patrimonio. **Es el mismo contrato de ejemplo que emplea la aplicación piloto de la Parte VI, con sus mismas cifras**, para que no existan dos baremos modelo distintos para el mismo objeto: presupuesto base de licitación 240.000 euros (IVA excluido) para dos años, a razón de 120.000 euros anuales; prórroga prevista de dos años por 240.000 euros; bolsa de servicios evolutivos de 24.000 euros; **valor estimado 504.000 euros**; sin reserva de modificación. Al superar el umbral de regulación armonizada, el contrato se publica en el Diario Oficial de la Unión Europea, los pliegos son directamente recurribles y no cabe el procedimiento abierto simplificado.
+Ejemplo completo trabajado sobre un contrato de servicios de mantenimiento, evolución y soporte de la aplicación de contabilidad y patrimonio. **Es el mismo contrato de ejemplo que emplea la aplicación piloto de la Parte VI, con sus mismas cifras**, para que no existan dos baremos modelo distintos para el mismo objeto: presupuesto base de licitación del servicio 240.000 euros (IVA excluido) para dos años, a razón de 120.000 euros anuales, más una bolsa de servicios evolutivos de 12.000 euros —el 5 por ciento de esa misma base, calculada conforme a ADM-3·v3, bloque 2, apartado 5— que está **dentro** del presupuesto base de licitación y lo sitúa en **252.000 euros**; prórroga prevista de dos años en las mismas condiciones, 252.000 euros, con la bolsa dotada en la misma proporción; **valor estimado 504.000 euros**; sin reserva de modificación. Al superar el umbral de regulación armonizada, el contrato se publica en el Diario Oficial de la Unión Europea, los pliegos son directamente recurribles y no cabe el procedimiento abierto simplificado.
 
 Los códigos de criterio de este baremo (`P · C1 · C2 · C3 · C4 · A · B · D · E · F · H`) son los que emplean el Cuadro Maestro del Anexo I, la tabla de dependencias del Anexo VI y la aplicación piloto de la Parte VI. Es **la única serie del catálogo**: no existe ninguna otra.
 
@@ -3125,25 +3161,27 @@ Los códigos de criterio de este baremo (`P · C1 · C2 · C3 · C4 · A · B ·
 | # | Criterio | Puntos | Tipo | Medio de comprobación efectiva (art. 145.5.c LCSP) |
 |---|---|---|---|---|
 | **P** | **Precio del servicio.** Baja sobre el presupuesto base de licitación, con la fórmula publicada en el apartado [ ] de este pliego y el tratamiento de las ofertas anormalmente bajas del artículo 149 de la LCSP y del apartado [ ]. | **40** | Fórmula | Oferta económica, modelo del Anexo [ ] de este pliego |
-| **C1** | **Cobertura funcional acreditada** sobre la relación cerrada de requisitos del pliego de prescripciones técnicas, contando únicamente los requisitos identificados como «valorables» en dicha relación. Los requisitos identificados como «mínimos obligatorios» no puntúan. Umbrales publicados en el apartado [ ]. | **8** | Fórmula | Declaración del licitador sobre la matriz de requisitos del Anexo [ ] de este pliego, verificable conforme a la cláusula [ADM-9]; la declaración se presenta en el sobre de criterios sujetos a juicio de valor (cláusula [ADM-9], apartado 2) |
+| **C1** | **Cobertura funcional comprometida** sobre la relación cerrada de requisitos del pliego de prescripciones técnicas, contando únicamente los requisitos identificados como «valorables» en dicha relación que el licitador se compromete a tener operativos en el plazo fijado en dicho pliego. **Es indiferente que el requisito lo cubra la solución ofertada desde su entrega inicial o que se cubra mediante desarrollo dentro de ese plazo**: se valora el compromiso, no la disponibilidad a la fecha de la oferta (apartado 2 de la cláusula anterior). Los requisitos identificados como «mínimos obligatorios» no puntúan. Umbrales publicados en el apartado [ ]. | **8** | Fórmula | Declaración del licitador sobre la matriz de requisitos del Anexo [ ] de este pliego, presentada en el sobre de criterios evaluables mediante fórmulas y verificable conforme a la cláusula [ADM-9], apartado 5, párrafo segundo; la cobertura comprometida se incorpora al contrato |
 | **C2** | **Plan de implantación y migración de datos**: migración de los ejercicios históricos, plan de pruebas y plan de vuelta atrás, valorados conforme a la rúbrica con descriptores por tramos publicada en el Anexo [ ] de este pliego. El plan es obligatorio conforme al pliego de prescripciones técnicas; se valora únicamente su contenido por encima de ese mínimo. | **8** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego |
 | **C3** | **Niveles de servicio ofertados por encima del mínimo del pliego de prescripciones técnicas**: tiempo máximo de respuesta y tiempo máximo de resolución de incidencias críticas, en horas por debajo del máximo exigido. | **6** | Fórmula | Oferta técnica; los niveles ofertados se incorporan al contrato y se penalizan conforme a la cláusula [ADM-5] |
 | **C4** | **Plan de formación y acompañamiento** al personal de los servicios de Intervención, Tesorería y Contabilidad, valorado conforme a la rúbrica con descriptores por tramos publicada en el Anexo [ ] de este pliego, y por encima de las horas mínimas exigidas en el pliego de prescripciones técnicas. | **4** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego |
-| **A** | **Alcance funcional adicional de la interfaz normalizada de acceso programático**, sobre la relación cerrada y numerada del Anexo de Exigencias Tecnológicas Determinadas incorporado a este contrato, contando únicamente las funciones y conjuntos de datos que excedan del mínimo obligatorio allí fijado. | **8** | Fórmula | Declaración del licitador sobre esa relación numerada, verificable conforme a la cláusula [ADM-9] y presentada en el sobre de criterios sujetos a juicio de valor (cláusula [ADM-9], apartado 2); el alcance ofertado se incorpora al contrato |
+| **A** | **Alcance funcional adicional de la interfaz normalizada de acceso programático**, sobre la relación cerrada y numerada de módulos y funciones contenida en el **Apéndice técnico 2 · Exigencias tecnológicas determinadas** del pliego de prescripciones técnicas, contando únicamente las funciones y conjuntos de datos del bloque de **funciones adicionales ofertables** que el licitador se compromete a exponer por encima de las **funciones mínimas** relacionadas en ese mismo bloque. No se computa ninguna función que no figure en esa relación, que es la única del pliego sobre esta interfaz. | **8** | Fórmula | Declaración del licitador sobre esa relación numerada, presentada en el sobre de criterios evaluables mediante fórmulas y verificable conforme a la cláusula [ADM-9], apartado 5, párrafo segundo; el alcance comprometido se incorpora al contrato |
 | **B** | **Plazo ofertado de puesta en producción de la interfaz**, en meses por debajo del máximo de **[X; se recomienda 12] meses** fijado en el pliego de prescripciones técnicas, con **suelo en [X; se recomienda 6] meses**: por debajo de ese suelo no se atribuye puntuación adicional. | **5** | Fórmula | Oferta técnica; el plazo ofertado se incorpora al contrato |
 | **D** | **Tratamiento del caso de uso municipal publicado.** Descripción, en la memoria técnica presentada en plazo, de cómo la solución ofertada resuelve las tareas del caso de uso único publicado en este pliego, valorada conforme a la rúbrica del Anexo [ ] de este pliego. **Se valora lo descrito por escrito, no el desempeño en sala.** La demostración funcional de la cláusula [ADM-9] confirma o retira estos puntos; no puede añadir ninguno. | **7** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego, y acta de la sesión de comprobación de la cláusula [ADM-9] |
 | **E** | **Plan de gobernanza de la inteligencia artificial aplicado a este contrato**: supervisión humana sobre las operaciones que afecten a derechos, gestión de riesgos sobre los datos municipales tratados, registro y trazabilidad, e información periódica al Ayuntamiento y al órgano interventor. No se valora la tenencia de certificación alguna ni el cumplimiento del Reglamento (UE) 2024/1689 en su redacción vigente, que es obligación legal exigida en el pliego de prescripciones técnicas. | **5** | Juicio de valor | Memoria técnica; rúbrica del Anexo [ ] de este pliego |
 | **F** | **Precio unitario ponderado del Cuadro de Precios Unitarios.** Precio/hora ofertado por cada uno de los **[X; se recomienda 5]** perfiles profesionales de la relación cerrada del Anexo [ ] de este pliego, ponderados según la cesta de consumo publicada. | **5** | Fórmula | Cuadro de Precios Unitarios del Anexo [ ] de este pliego |
-| **H** | **Procesos automatizados adicionales**, sobre la relación cerrada y numerada de procesos del pliego de prescripciones técnicas, contando únicamente los que excedan del mínimo obligatorio. | **4** | Fórmula | Declaración del licitador sobre esa relación numerada, verificable conforme a la cláusula [ADM-9] y presentada en el sobre de criterios sujetos a juicio de valor (cláusula [ADM-9], apartado 2) |
+| **H** | **Procesos automatizados adicionales**, sobre la relación cerrada y numerada de procesos del **Apéndice técnico 1 · Procesos automatizables** del pliego de prescripciones técnicas, contando únicamente los que excedan del mínimo obligatorio allí fijado. | **4** | Fórmula | Declaración del licitador sobre esa relación numerada, presentada en el sobre de criterios evaluables mediante fórmulas y verificable conforme a la cláusula [ADM-9], apartado 5, párrafo segundo; los procesos comprometidos se incorporan al contrato |
 | | **TOTAL** | **100** | | |
 :::
 
 Reparto resultante, que es el que la hoja de comprobación de ADM-7.5 verifica: criterios evaluables mediante fórmula, **76 puntos (76 %)**; criterios sujetos a juicio de valor, **24 puntos (24 %)**, luego no procede el comité de expertos del art. 146.2.a) LCSP y el baremo cabe en el procedimiento abierto simplificado si el valor estimado lo permite. Bloque «Innovación y tecnología» (A, B, E y H): **22 puntos (22 %)**. Criterios relacionados con la calidad —todos salvo **P** y **F**, que son criterios de precio—: **55 puntos (55 %)**, con lo que se cumple el 51 por ciento del art. 145.4 LCSP tanto si el contrato se califica de prestación de carácter intelectual como si no.
 
-**Tres advertencias que acompañan siempre a esta tabla:**
+**Cuatro advertencias que acompañan siempre a esta tabla:**
+
+- **Ofertas anormalmente bajas: 45 de los 100 puntos son precio (P 40 + F 5), y sin ellas el baremo queda indefenso.** El apartado 7 de ADM-7.1 obliga a publicar los parámetros objetivos, a resolver el trámite del art. 149 LCSP antes de puntuar y a excluir la oferta rechazada de la referencia de cálculo. **El desarrollo completo —con las tres reglas de redacción y la advertencia sobre los parámetros supletorios— está en el Anexo XVII, apartado 5, y es el que se copia al pliego.** No se redacta este baremo sin pasar por él: es el único punto en que una fórmula bien construida puede adjudicar a una oferta inviable.
 
 - **Incompatibilidad con las esencialidades del bloque B.2 de ADM-6·v3.** Si se marcan los criterios **A** o **B**, no se marcan las letras e) y g) del bloque B de la cláusula ADM-6·v3 sobre el alcance o el plazo **ofertados**: acumular sobre el mismo elemento un premio en el baremo y una causa de resolución es lo que la propia ADM-6·v3 declara incompatible. La esencialidad, si se conserva, se acota al **mínimo fijado en el pliego de prescripciones técnicas**, nunca al exceso ofertado.
-- **El criterio B refleja indirectamente la disponibilidad previa**, y conviene decirlo por escrito en lugar de negarlo: quien ya tiene la interfaz puede ofertar el mínimo. Por eso lleva **suelo** —por debajo de [6] meses no se puntúa más— y **peso bajo** (5 sobre 100). Lo que se valora es una cualidad de la prestación (cuándo estará disponible para el Ayuntamiento), no una característica de la empresa. Esta motivación se reproduce en la ficha del criterio B del Anexo IV.
+- **Los criterios B, C1 y A reflejan indirectamente la disponibilidad previa**, y conviene decirlo por escrito en lugar de negarlo. En el criterio **B**, quien ya tiene la interfaz puede ofertar el plazo mínimo; por eso lleva **suelo** —por debajo de **[X; se recomienda 6] meses** no se puntúa más— y **peso bajo** (5 sobre 100). En los criterios **C1** y **A**, quien ya trae la funcionalidad hecha la compromete sin asumir coste de desarrollo; la acotación aquí es distinta y opera en el enunciado del propio criterio: se valora **cobertura comprometida dentro del plazo del contrato**, no cobertura disponible el día de ofertar, de modo que el licitador que se obligue a desarrollarla puntúa igual, y el compromiso se incorpora al contrato y se penaliza si no se cumple. En los tres casos lo valorado es una cualidad de la prestación —qué hará el sistema y cuándo estará disponible para el Ayuntamiento—, no una característica de la empresa, que es el terreno del artículo 40.b) LCSP. Esta motivación se reproduce en la casilla 5 de las fichas de los criterios B, C1 y A del Anexo IV.
 - **Criterios A y H como mejoras.** Ambos valoran prestaciones adicionales sobre una relación cerrada y numerada publicada en el pliego de prescripciones técnicas y **se valoran por fórmula**. Si el órgano de contratación decidiera valorarlos mediante juicio de valor, les sería aplicable el tope del 2,5 por ciento del art. 145.7 LCSP.
 
 **ADM-7.3 · Variante B: procedimiento abierto simplificado (artículo 159.1 LCSP).**
@@ -3201,7 +3239,7 @@ PCAP, cuadro-resumen (letra correspondiente a criterios de adjudicación) y clá
 
 #### 3. Necesidad y norma que la impone
 
-Art. 145 LCSP (adjudicación a la mejor relación calidad-precio y requisitos de todo criterio: vinculación al objeto, objetividad, prohibición de libertad de decisión ilimitada y comprobabilidad efectiva, art. 145.5); art. 146.2 LCSP (preponderancia de las fórmulas y comité de expertos); art. 145.4 y 145.7 LCSP (51 por ciento de calidad en prestaciones intelectuales; tope del 2,5 por ciento de las mejoras por juicio de valor); art. 159.1.b) y 159.6.c) LCSP (topes de juicio de valor por procedimiento); art. 40.b) LCSP, que declara anulables las cláusulas que otorguen «de forma directa o indirecta, ventajas a las empresas que hayan contratado previamente con cualquier Administración»; art. 116.4.c) y e) LCSP (justificación en el expediente de los criterios elegidos y relación directa, clara y proporcional con el objeto).
+Art. 145 LCSP (adjudicación a la mejor relación calidad-precio y requisitos de todo criterio: vinculación al objeto, objetividad, prohibición de libertad de decisión ilimitada y comprobabilidad efectiva, art. 145.5); art. 146.2 LCSP (preponderancia de las fórmulas y comité de expertos); art. 145.4 y 145.7 LCSP (51 por ciento de calidad en prestaciones intelectuales; tope del 2,5 por ciento de las mejoras por juicio de valor); art. 159.1.b) y 159.6.c) LCSP (topes de juicio de valor por procedimiento); art. 40.b) LCSP, que declara anulables las cláusulas que otorguen «de forma directa o indirecta, ventajas a las empresas que hayan contratado previamente con cualquier Administración»; art. 116.4.c) y e) LCSP (justificación en el expediente de los criterios elegidos y relación directa, clara y proporcional con el objeto); y **art. 149 LCSP** (parámetros objetivos de identificación de la oferta anormalmente baja y trámite contradictorio previo a la valoración), del que nace el apartado 7 del texto de pliego y cuyo desarrollo está en el Anexo XVII, apartado 5.
 
 Doctrina, citada como doctrina general trasladada por analogía: la frontera entre solvencia y adjudicación está fijada en la STJUE de 24 de enero de 2008, *Lianakis*, asunto C-532/06, apartados 30 y 31 —donde se excluyen como criterios de adjudicación los que versan sobre la aptitud del licitador— (<https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:62006CJ0532>), con la matización de la STJUE de 26 de marzo de 2015, *Ambisig*, asunto C-601/13, que sí admite valorar el equipo concreto propuesto para ejecutar el contrato (<https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:62013CJ0601>). Adviértase que en *Lianakis* el fallo formal versa sobre la fijación *a posteriori* de subcriterios; lo que se traslada es la ratio de esos apartados, no el fallo.
 
@@ -3342,13 +3380,17 @@ Y delimita lo que **no** se exige: el código fuente del producto base o estánd
 
 2. **Objeto acotado.** Únicamente se verificarán los elementos que figuren en la **relación cerrada y numerada** publicada en el Anexo [ ] de este pliego, y sólo en la medida en que el licitador los haya descrito por escrito en su oferta, presentada en plazo. Las capacidades mostradas durante la sesión que no consten descritas en la oferta **no se valorarán en ningún caso**. Las capacidades descritas en la oferta y no acreditadas en la sesión se puntuarán con cero en el subcriterio correspondiente.
 
-   Las declaraciones del licitador sobre los elementos de la relación cerrada que hayan de verificarse en la sesión —matriz de requisitos funcionales, relación de funciones expuestas por la interfaz y relación de procesos automatizados— **se presentarán en el sobre de criterios sujetos a juicio de valor, aunque el criterio que las valore sea evaluable mediante la mera aplicación de fórmulas**. En caso contrario, esta cláusula no se aplica sobre ellas.
+   **Sobre en que se presenta cada declaración.** Cada declaración del licitador se presenta en el sobre que corresponde al criterio al que sirve, sin excepción. Las que sirven a criterios sujetos a juicio de valor se presentan en el sobre de criterios sujetos a juicio de valor. Las que sirven a criterios evaluables mediante la mera aplicación de fórmulas —matriz de requisitos funcionales, relación de funciones expuestas por la interfaz y relación de procesos automatizados— **se presentan en el sobre de criterios evaluables mediante fórmulas**, junto con el resto de la proposición sometida a ese régimen (artículos 26 y 30.2 del Real Decreto 817/2009, de 8 de mayo, y artículo 146.2 de la LCSP).
+
+   **Objeto de la sesión.** La sesión regulada en el apartado 5 versa **exclusivamente sobre los elementos de la relación cerrada que sirven a criterios sujetos a juicio de valor**. La exactitud de las declaraciones que sirven a criterios evaluables mediante fórmulas no se comprueba en esa sesión, sino en el trámite previsto en el párrafo segundo del apartado 5.
 
 3. **La demostración no integra la oferta.** No se admitirá, ni se hará constar en acta a efectos de valoración, manifestación oral alguna que amplíe, aclare, rectifique o complete la oferta escrita. La oferta es, a todos los efectos, el documento presentado dentro del plazo de presentación.
 
 4. **Prohibición de valorar la disponibilidad previa.** No se asignará puntuación alguna por la disponibilidad de la solución, de sus módulos o de sus integraciones a la fecha de finalización del plazo de presentación de ofertas, ni por el resultado de la demostración considerado en sí mismo.
 
 5. **Momento.** La demostración se celebrará una vez abierto el sobre de criterios sujetos a juicio de valor y, en todo caso, **antes de la apertura del sobre que contenga los criterios evaluables mediante la mera aplicación de fórmulas**, dejándose constancia documental de la valoración con carácter previo a dicha apertura (artículos 139.2 y 146.2 de la LCSP y artículos 26, 27.2 y 30.2 del Real Decreto 817/2009, de 8 de mayo). El calendario y el orden de intervención se determinarán por sorteo ante la mesa de contratación y se comunicarán a todos los licitadores con una antelación mínima de **[X; se recomienda 5] días hábiles**. Este momento no podrá alterarse una vez publicados los pliegos.
+
+   **Comprobación de las declaraciones que sirven a criterios evaluables mediante fórmulas.** Abierto el sobre de criterios evaluables mediante fórmulas y practicada su valoración, se comprobará la exactitud de las declaraciones que hayan servido de base a esos criterios **respecto del licitador propuesto como adjudicatario**, en el trámite del artículo 150.2 de la LCSP. La comprobación se practicará por medios documentales sobre la relación cerrada del Anexo [ ] y, únicamente cuando el órgano de contratación motive que la documentación no permite resolver la duda, mediante una sesión celebrada con el guion, la relación cerrada y el modelo de acta de los apartados 6 a 8. Si la comprobación acredita que una declaración no es exacta, la puntuación se rectificará aplicando la fórmula publicada sobre los elementos efectivamente acreditados; si la rectificación altera el orden de clasificación, se formulará nueva propuesta de adjudicación a favor del licitador que resulte, sobre el que se practicará la misma comprobación. Esta comprobación no atribuye puntuación adicional y **no puede fundar por sí sola la exclusión**.
 
 6. **Igualdad de condiciones.** La sesión se regirá por el guion único publicado en el Anexo [ ], con la relación cerrada de elementos a verificar. Todos los licitadores dispondrán de idéntica duración máxima, del mismo entorno de referencia y de los mismos evaluadores. Cada sesión se celebrará sin presencia de los restantes licitadores y sin que se facilite información alguna sobre las demás ofertas. Ante una incidencia técnica no imputable al licitador se admitirá una única repetición, dejando constancia en acta.
 
@@ -3369,6 +3411,10 @@ PCAP, cláusula de valoración de las ofertas, inmediatamente después de la cl�
 
 Art. 145.5.c) LCSP, que exige que los criterios vayan acompañados de «especificaciones que permitan comprobar de manera efectiva la información facilitada por los licitadores» y que, «en caso de duda», se compruebe efectivamente dicha exactitud. Es este precepto —y no el art. 139, que regula las proposiciones— el que legitima una demostración. Art. 145.5.b) LCSP, que prohíbe conferir al órgano una libertad de decisión ilimitada, y que obliga a la rúbrica con descriptores. Arts. 26, 27.2 y 30.2 del RD 817/2009 y art. 146.2 LCSP, para el orden imperativo de valoración. Disposición adicional 15.ª.2 LCSP, para la documentación de la comunicación oral. Arts. 159.1.b) y 159.6.c) LCSP, para el ámbito.
 
+**La objeción del artículo 146.2 LCSP, y por qué la solución adoptada no contamina la valoración subjetiva.** La objeción hay que enunciarla entera antes de contestarla, porque es la primera que un licitador formulará y la primera que un secretario opondrá. El artículo 26 del Real Decreto 817/2009 exige que la documentación relativa a los criterios cuya ponderación depende de un juicio de valor se presente «en sobre independiente del resto de la proposición, con objeto de evitar el conocimiento de esta última antes de que se haya efectuado la valoración de aquéllos», y el artículo 146.2 de la LCSP ordena valorar primero lo subjetivo y documentarlo antes de conocer lo automático. Una regla que obligase a introducir en el sobre de juicio de valor las declaraciones que alimentan criterios evaluables por fórmula haría exactamente lo contrario: quien valora los criterios subjetivos conocería, antes de cerrar su valoración, una parte de la puntuación automática de cada licitador. El orden del artículo 146.2 es imperativo y su infracción se produce en el trámite de la mesa, donde el vicio no se retrotrae: obliga a repetir la licitación.
+
+Por eso esta cláusula **no traslada ninguna declaración de sobre**. Cada declaración viaja en el sobre del criterio al que sirve (apartado 2), lo que deja intacta la separación del artículo 26 y el orden del artículo 146.2, y deja además el tratamiento de estas declaraciones alineado con el que el catálogo ya da al Cuadro de Precios Unitarios, que se presenta en el sobre de fórmulas (Anexo X.3). La consecuencia es que la sesión previa a la apertura del sobre de fórmulas sólo puede versar sobre lo que ya obra en el sobre de juicio de valor, y la exactitud de lo declarado para los criterios automáticos se comprueba después, frente al licitador propuesto como adjudicatario, en el trámite del artículo 150.2 de la LCSP (apartado 5, párrafo segundo). Esa comprobación diferida no altera el orden de valoración, porque los criterios evaluables por fórmula son reglados: su puntuación no depende de una apreciación que pueda verse influida por lo conocido, sino de aplicar la fórmula publicada a los elementos acreditados. Y es la misma vía que ADM-7·v3.1.2 emplea para el compromiso de adscripción de medios, que también se acredita en ese trámite y por la misma razón.
+
 Doctrina, trasladada por analogía y con la advertencia de que versa sobre muestras y demostraciones de suministros, no sobre software:
 
 - **TACRC, Resolución 62/2023, de 2 de febrero de 2023, recurso 1634/2022 C** (NIPRO MEDICAL SPAIN, S.L.U., contra el Servei de Salut de les Illes Balears), **estimatoria**. Es el único pronunciamiento localizado que aborda de frente las demostraciones de producto. Declara que «aunque la realización de demostraciones con carácter previo a la apertura de los sobres no suponga ninguna ilegalidad, sí que lleva razón el recurrente cuando denuncia que en las mismas no se pusieron de manifiesto los defectos que, casi un mes después, han motivado la exclusión», y aprecia como vicio que «en los pliegos no aparece claramente especificados los motivos de su exigencia, ni las consecuencias o efectos de la demostración». Es exactamente el defecto que los apartados 1, 2, 8 y 9 de esta cláusula corrigen. **Se cita a partir de una reproducción secundaria**: el texto íntegro está en <https://www.acobur.es/recursos-especiales-36562-resolucion-n-622023-del-tribunal-administrativo-central-de-recursos-contractuales-de-02-de-febrero-de-2023recurso-n-16342022-c>, y el PDF oficial no ha sido localizable en el repositorio del Ministerio de Hacienda a fecha de corte de 1 de septiembre de 2026. Se cita con esa limitación expresa.
@@ -3380,17 +3426,18 @@ Doctrina, trasladada por analogía y con la advertencia de que versa sobre muest
 
 #### 4. Cómo se acredita
 
-Lo que se acredita no es la demostración, sino lo declarado por escrito. Medios tasados: memoria técnica presentada en plazo, con la matriz de elementos declarados del anexo del PCAP cumplimentada —modelo en el Anexo XX de este catálogo—; y acta de la sesión, que consigna elemento por elemento «declarado / acreditado / no acreditado / evidencia observada». No se admite documentación adicional aportada durante la sesión ni con posterioridad.
+Lo que se acredita no es la demostración, sino lo declarado por escrito. Medios tasados: memoria técnica presentada en plazo, con la matriz de elementos declarados del anexo del PCAP cumplimentada —modelo en el Anexo XX de este catálogo—; y acta de la sesión, que consigna elemento por elemento «declarado / acreditado / no acreditado / evidencia observada». **La matriz se cumplimenta y se presenta desdoblada por sobres**: los elementos que sirven a criterios sujetos a juicio de valor, en el sobre de juicio de valor; los que sirven a criterios evaluables mediante fórmulas, en el sobre de fórmulas (apartado 2). No se admite documentación adicional aportada durante la sesión ni con posterioridad.
 
 #### 5. Cómo se verifica
 
 | Quién | Cuándo | Con qué documento |
 |---|---|---|
-| Mesa de contratación, o comité de expertos del art. 146.2.a) cuando proceda | Tras la apertura del sobre de juicio de valor y antes de la apertura del sobre de fórmulas | Acta escrita detallada por licitador, con la matriz de elementos |
+| Mesa de contratación, o comité de expertos del art. 146.2.a) cuando proceda | Tras la apertura del sobre de juicio de valor y antes de la apertura del sobre de fórmulas | Acta escrita detallada por licitador, con la matriz de elementos que sirven a criterios de juicio de valor |
 | Secretario de la mesa | En el mismo acto de cada sesión | Acta firmada, con constancia de las observaciones y defectos apreciados |
 | Órgano de contratación | Antes de la apertura del sobre de fórmulas | Informe de valoración con la evidencia por subcriterio |
+| Mesa de contratación | Tras la valoración del sobre de fórmulas, en el trámite del art. 150.2 LCSP y sólo respecto del licitador propuesto como adjudicatario | Comprobación documental de la matriz de elementos que sirven a criterios evaluables por fórmula y, en su caso, acta de la sesión adicional motivada (apartado 5, párrafo segundo) |
 
-**Carga estimada.** Entre 3 y 4 horas por licitador (preparación del entorno de datos ficticios, sesión de 90 minutos y acta), más 4 horas de preparación única del guion y del juego de datos. Con cinco licitadores, entre 19 y 24 horas por expediente. **Es la cláusula más cara del catálogo en horas municipales**: si el expediente no puede asumir esa carga, se marca NO APLICA y no pasa nada, porque no reparte puntos.
+**Carga estimada.** Entre 3 y 4 horas por licitador (preparación del entorno de datos ficticios, sesión de 90 minutos y acta), más 4 horas de preparación única del guion y del juego de datos. Con cinco licitadores, entre 19 y 24 horas por expediente. A esa carga se añade la comprobación del apartado 5, párrafo segundo, que se practica **sobre un solo licitador** y por medios documentales; sólo si el órgano de contratación motiva que la documentación no resuelve la duda se celebra una sesión adicional, que se computa como una sesión más. **Es la cláusula más cara del catálogo en horas municipales**: si el expediente no puede asumir esa carga, se marca NO APLICA y no pasa nada, porque no reparte puntos.
 
 #### 6. Consecuencia del incumplimiento
 
@@ -3406,7 +3453,7 @@ No genera obligación contractual del adjudicatario y, por tanto, **no genera pe
 - Contratos con valor estimado igual o inferior a [X; se recomienda 200.000] euros.
 - Contratos menores, basados en acuerdo marco y prórrogas.
 
-**Si esta cláusula se marca NO APLICA, arrastra:** el anexo del PCAP que contiene el guion y la relación cerrada de elementos verificables, la mención «verificable conforme a la cláusula [ADM-9]» en la columna de medios de comprobación del baremo de ADM-7·v3, la regla de presentación en el sobre de juicio de valor del apartado 2, la nota del criterio D sobre confirmación o retirada de puntos, y la mención de la demostración en el Anexo VII (declaración responsable).
+**Si esta cláusula se marca NO APLICA, arrastra:** el anexo del PCAP que contiene el guion y la relación cerrada de elementos verificables, la mención «verificable conforme a la cláusula [ADM-9]» en la columna de medios de comprobación del baremo de ADM-7·v3, la comprobación diferida del apartado 5, párrafo segundo, la nota del criterio D sobre confirmación o retirada de puntos, y la mención de la demostración en el Anexo VII (declaración responsable). **No arrastra la regla de presentación por sobres del apartado 2**, que no es propia de esta cláusula: cada declaración se presenta en el sobre del criterio al que sirve por aplicación del artículo 26 del Real Decreto 817/2009 y del artículo 146.2 de la LCSP, se aplique o no esta cláusula.
 
 #### Nota al redactor · Por qué la degradación de la cláusula es la solución, y no una renuncia
 
@@ -3564,7 +3611,7 @@ Deja de ser fuente autónoma de obligaciones esenciales y se convierte en un ins
 
 #### 2. Dónde va
 
-PCAP, cláusula de condiciones especiales de ejecución, y cuadro-resumen (casilla de condiciones especiales de ejecución de carácter esencial). El importe del apartado 8 se traslada al desglose del presupuesto base de licitación.
+PCAP, cláusula de condiciones especiales de ejecución, **y en el anuncio de licitación** (art. 202.1 LCSP: las condiciones especiales de ejecución se indican en el anuncio y en los pliegos, y su omisión en el anuncio es un defecto que no se subsana después), y cuadro-resumen (casilla de condiciones especiales de ejecución de carácter esencial). El importe del apartado 8 se traslada al desglose del presupuesto base de licitación.
 
 #### 3. Necesidad y norma que la impone
 
@@ -3591,9 +3638,9 @@ Medios tasados, según la vía elegida: (a) escritura o contrato de depósito co
 
 #### 6. Consecuencia del incumplimiento
 
-- **Falta de actualización o de verificación del depósito o del plan equivalente:** infracción **grave** del cuadro de ADM-5·v3. **No es obligación esencial**: la falta de actualización documental de un depósito vigente no supera el juicio comparativo de perjuicios de ADM-6·v3, apartado 4.d).
-- **Negativa a liberar el depósito, o entrega de material incompleto o no verificable:** infracción **muy grave**.
-- **Obligación esencial: SÍ**, exclusivamente respecto de los incumplimientos que enumera ADM-6·v3, bloque B —negativa a constituir el depósito o el plan equivalente, negativa a liberarlo y entrega de material incompleto o no verificable—, y no respecto de ningún otro apartado de esta cláusula. La resolución se acordará previa audiencia y requerimiento de subsanación, y sólo cuando el perjuicio derivado de ella no sea superior al de mantener el contrato.
+- **Falta de actualización o de verificación del depósito o del plan equivalente:** infracción **grave** del cuadro de ADM-5·v3. **No es obligación esencial y no figura en la lista cerrada de ADM-6·v3, bloque B**: la falta de actualización documental de un depósito vigente no supera el juicio comparativo de perjuicios de ADM-6·v3, apartado 4.d). La regla del apartado 4 de esta cláusula —el depósito sin certificado de verificación vigente se tiene por no constituido— opera en el plano de la acreditación y de la penalidad; **no convierte esa falta en negativa a constituir** a los efectos del artículo 211.1.f) de la Ley 9/2017.
+- **Negativa a constituir el depósito o el plan de continuidad equivalente por la vía elegida, negativa a liberar el depósito, o entrega de material incompleto o no verificable:** infracción **muy grave** (tipo M3 de ADM-5·v3).
+- **Obligación esencial: SÍ**, exclusivamente respecto de los incumplimientos que enumera **ADM-6·v3, bloque B, letra b)**, y no respecto de ningún otro apartado de esta cláusula. La enumeración **no se reproduce aquí**: la lista cerrada vive en ADM-6·v3, que es el texto que va al pliego, y cualquier discrepancia entre ambas sedes se resuelve a favor de aquélla. La resolución se acordará previa audiencia y requerimiento de subsanación, y sólo cuando el perjuicio derivado de ella no sea superior al de mantener el contrato.
 
 #### 7. Cuándo NO se aplica
 
@@ -3623,7 +3670,7 @@ Dos cautelas más, que condicionan la redacción entera:
 
 :::pliego
 **Cláusula [n]. Acceso de los órganos de control interno a los datos de ejecución del contrato.**
-*(Condición especial de ejecución, artículo 202.1 de la LCSP, con el alcance esencial que resulta de la cláusula [ADM-6], bloque B)*
+*(Condición especial de ejecución, artículo 202.1 de la LCSP. Su carácter de obligación contractual esencial alcanza **únicamente** a los incumplimientos que enumera la cláusula [ADM-6], bloque B)*
 
 1. **Accesos de control incluidos en el precio.** El adjudicatario habilitará, sin coste adicional alguno y con cargo al precio del contrato, **[X; se recomienda 3] accesos nominativos de consulta** para el personal que designen el órgano interventor y el responsable del contrato. Estos accesos permitirán consultar los datos de ejecución del contrato con el detalle funcional que el pliego de prescripciones técnicas defina en su apartado [ ], y estarán operativos en el plazo de **[X; se recomienda 30] días naturales** desde la formalización y durante toda la vigencia del contrato y de sus prórrogas. El Ayuntamiento podrá contratar accesos adicionales a los precios unitarios ofertados.
 
@@ -3639,12 +3686,12 @@ Dos cautelas más, que condicionan la redacción entera:
 
 7. **Finalidad y límites.** El acceso se otorga exclusivamente para el ejercicio de las funciones de control interno de los artículos 213 y siguientes del texto refundido de la Ley reguladora de las Haciendas Locales y del Real Decreto 424/2017, y queda sujeto al deber de sigilo del artículo 5.1 de dicho reglamento. No comprende facultad alguna de explotación comercial ni de cesión a terceros. Cuando el tratamiento comprenda datos personales, esta previsión se entiende sin perjuicio y en refuerzo de la obligación del artículo 28.3.h) del Reglamento (UE) 2016/679.
 
-8. **Naturaleza.** Esta condición especial de ejecución se establece al amparo del artículo 202.1 de la LCSP, está vinculada al objeto del contrato en el sentido del artículo 145 de la LCSP —por referirse a la ejecución y a la fase de explotación de su ciclo de vida— y tiene el carácter de obligación contractual esencial a los efectos del artículo 211.1.f) de la LCSP, en los términos de la cláusula [ADM-6], bloque B.
+8. **Naturaleza y carácter esencial.** Esta condición especial de ejecución se establece al amparo del artículo 202.1 de la LCSP y está vinculada al objeto del contrato en el sentido del artículo 145 de la LCSP, por referirse a la ejecución y a la fase de explotación de su ciclo de vida. Tienen el carácter de obligación contractual esencial a los efectos del artículo 211.1.f) de la Ley 9/2017, **exclusivamente**, los incumplimientos relativos a esta cláusula que enumera la cláusula [ADM-6], bloque B. Los demás incumplimientos de esta cláusula generan las penalidades que correspondan conforme a la cláusula [ADM-5].
 :::
 
 #### 2. Dónde va
 
-PCAP, cláusula de condiciones especiales de ejecución, y cuadro-resumen (casilla de condiciones especiales de ejecución de carácter esencial). El detalle funcional del acceso del apartado 1 y el plazo de conservación del apartado 4 se fijan en el PPT, por remisión.
+PCAP, cláusula de condiciones especiales de ejecución, **y en el anuncio de licitación** (art. 202.1 LCSP: las condiciones especiales de ejecución se indican en el anuncio y en los pliegos, y su omisión en el anuncio es un defecto que no se subsana después), y cuadro-resumen (casilla de condiciones especiales de ejecución de carácter esencial). El detalle funcional del acceso del apartado 1 y el plazo de conservación del apartado 4 se fijan en el PPT, por remisión.
 
 #### 3. Necesidad y norma que la impone
 
@@ -3664,7 +3711,7 @@ Medios tasados: (a) acta de habilitación de los accesos, firmada por el respons
 
 | Quién | Cuándo | Con qué documento |
 |---|---|---|
-| Responsable del contrato | A los [30] días de la formalización | Acta de habilitación de accesos |
+| Responsable del contrato | A los [30; se recomienda 30] días de la formalización | Acta de habilitación de accesos |
 | Personal designado por el órgano interventor | Una vez al año | Acta de prueba de extracción efectiva en formato abierto |
 | Servicio municipal de informática | Con cada versión mayor puesta en producción | Constancia de entrega del diccionario de datos actualizado |
 | Responsable del contrato | Al iniciarse cada prórroga y en la reversión | Constancia de que los accesos siguen operativos |
@@ -3676,7 +3723,7 @@ Medios tasados: (a) acta de habilitación de los accesos, firmada por el respons
 - **Falta de habilitación de los accesos en plazo, o tarificación de los accesos incluidos en el precio:** infracción **grave**.
 - **Falta de entrega del diccionario de datos, o entrega insuficiente para interpretar los datos sin asistencia del adjudicatario:** infracción **grave**.
 - **Negativa a permitir la extracción en formato abierto, o supresión del acceso durante la vigencia o las prórrogas:** infracción **muy grave**.
-- **Obligación esencial: SÍ**, por remisión a ADM-6·v3, bloque B, con la cautela de proporcionalidad allí prevista.
+- **Obligación esencial: SÍ**, exclusivamente respecto de los incumplimientos que enumera **ADM-6·v3, bloque B, letra c)**, y no respecto de los demás apartados de esta cláusula, cuyo incumplimiento queda en penalidad conforme al cuadro de ADM-5·v3. La enumeración **no se reproduce ni se amplía aquí**: la lista cerrada vive en ADM-6·v3, con la cautela de proporcionalidad allí prevista.
 
 #### 7. Cuándo NO se aplica
 
@@ -3738,7 +3785,7 @@ La cláusula se conserva, porque es útil y porque su necesidad es real. Pero:
 
 #### 2. Dónde va
 
-PCAP, cláusula de condiciones especiales de ejecución (niveles 1 y 2) y cláusula de confidencialidad y protección de datos, por la remisión del apartado 2 al art. 28 RGPD. El modelo de declaración del apartado 4 va al Anexo VII. La política interna del apartado 7 **no es cláusula del pliego**: es un acto propio del Ayuntamiento que se aprueba por resolución y se anexa al pliego; su modelo es el **Anexo XVI** de este catálogo.
+PCAP, cláusula de condiciones especiales de ejecución (niveles 1 y 2), **y en el anuncio de licitación** (art. 202.1 LCSP: las condiciones especiales de ejecución se indican en el anuncio y en los pliegos, y su omisión en el anuncio es un defecto que no se subsana después), y cláusula de confidencialidad y protección de datos, por la remisión del apartado 2 al art. 28 RGPD. El modelo de declaración del apartado 4 va al Anexo VII. La política interna del apartado 7 **no es cláusula del pliego**: es un acto propio del Ayuntamiento que se aprueba por resolución y se anexa al pliego; su modelo es el **Anexo XVI** de este catálogo.
 
 #### 3. Necesidad y norma que la impone
 
@@ -4033,7 +4080,7 @@ El cuadro identifica, para cada cláusula del catálogo, el **instrumento contra
 | **DT-4·v3** Automatización de procesos municipales identificados | Prescripción técnica | Arts. 99.1 y 126.5.a) LCSP; arts. 41.2 Ley 40/2015 y normas de procedimiento administrativo | Lista cerrada y numerada de procesos publicada en el PPT, sobre la que el licitador se compromete. Se elimina del articulado todo vocabulario sin definición normalizada, por inverificable en procedimiento contradictorio |
 | **DT-5·v3** Interoperabilidad, servicios comunes y soberanía del dato | Prescripción técnica | Arts. 16 y 17 RD 4/2010 (ENI); RD 203/2021; Ley 39/2015; art. 126.5.a) LCSP | Distingue lo obligatorio de lo ilustrativo: los servicios comunes de obligada utilización quedan **excepcionados** del «o equivalente» (DT-0.6), porque admitir sustitutivos ahí debilita la exigencia en lugar de abrir el mercado |
 | **DT-6·v3** Seguridad conforme al ENS en la categoría que corresponda | Prescripción técnica (y, en su caso, solvencia) | **Art. 2.3 RD 311/2022** (literal); arts. 38.1 y 40 y Anexo I del mismo RD | La categoría no la elige el pliego: resulta del Anexo I del RD 311/2022 y se consigna en el expediente **antes** de aprobarlo. Certificación sólo en categorías MEDIA y ALTA; declaración por autoevaluación en BÁSICA. **Es la cláusula del supuesto de la Resolución 383/2024: sin justificación de la categoría en la memoria del expediente, el pliego cae** |
-| **DT-7·v3** Interfaz normalizada de acceso programático para agentes de IA | Prescripción técnica | Arts. 99.1, 126.2 y 126.5.a) LCSP; art. 16 RD 4/2010 | La obligación se define por lo que la interfaz debe hacer, no por el protocolo que use; el protocolo concreto se cita fuera del articulado, como referencia técnica no normativa. Ámbito modulado a los módulos identificados en el Anexo V (art. 116.4.e). No se puntúa la tenencia previa |
+| **DT-7·v3** Interfaz normalizada de acceso programático para agentes de IA | Prescripción técnica | Arts. 99.1, 126.2 y 126.5.a) LCSP; art. 16 RD 4/2010 | La obligación se define por lo que la interfaz debe hacer, no por el protocolo que use; el protocolo concreto se cita fuera del articulado, como referencia técnica no normativa. Ámbito modulado a los módulos, funciones mínimas y funciones adicionales ofertables relacionados en el apartado 1 del **Apéndice técnico 2 · Exigencias tecnológicas determinadas** del PPT, que es su **sede única** en el pliego (art. 116.4.e; Anexo XXV). No se puntúa la tenencia previa: lo que se valora es el alcance comprometido, se entregue de origen o mediante desarrollo en plazo |
 | **DT-8·v3** Reversibilidad, Inventario de Componentes y Dossier de Reversibilidad | Prescripción técnica + obligación de ejecución | Arts. 34.1, 111.1 y 126.2 LCSP; art. 28.3.g) RGPD; arts. 16 y 17 RD 4/2010 | Es una cláusula intrínsecamente pro-competitiva: elimina la dependencia tecnológica y entrega al siguiente procedimiento un Dossier depurado que reduce la ventaja del contratista saliente |
 | **DT-9·v3** Exigencias Tecnológicas Determinadas del ejercicio (Anexo V) | Prescripción técnica, transcrita físicamente en el PPT | Arts. 99.1, 122.4 y 126.2 LCSP | El alcance de la evolución exigible está determinado y fechado antes de licitar, de modo que el licitador puede presupuestarlo. La invariabilidad durante la vigencia impide la remisión a versiones futuras del Anexo |
 
@@ -4118,12 +4165,12 @@ Los valores que siguen son **recomendados**. El órgano de contratación puede a
 | DT-4·v3 | El PPT publica una lista cerrada y numerada de procesos automatizables | VE ≥ [X; se recomienda 100.000] € | A la baja si el objeto es intensivo en tramitación |
 | DT-5·v3 | El sistema interopera con servicios comunes o intercambia datos con otras Administraciones | Siempre que concurra | — |
 | DT-6·v3 | Siempre (art. 2.3 RD 311/2022), en la **categoría resultante del Anexo I del RD 311/2022** | Siempre | La categoría no es opcional ni elegible |
-| DT-7·v3 | Módulos identificados en el Anexo V del ejercicio | VE ≥ [X; se recomienda 100.000] € | A la baja sólo si el contrato es de desarrollo del propio sistema |
+| DT-7·v3 | Módulos identificados en el apartado 1 del Apéndice técnico 2 · Exigencias tecnológicas determinadas del PPT, que transcribe recortado el Anexo V del ejercicio | VE ≥ [X; se recomienda 100.000] € | A la baja sólo si el contrato es de desarrollo del propio sistema |
 | DT-8·v3 | Existe dato municipal o desarrollo específico | Siempre que concurra | — |
 | DT-9·v3 | VE y duración suficientes para que la evolución tenga sentido económico | VE ≥ [X; se recomienda 100.000] € **y** duración ≥ [X; se recomienda 24] meses | A la baja sólo con acuerdo del órgano de gobierno |
 | ADM-1·v3 | Certificación de sistema de gestión de IA como **solvencia** sólo en contratos sujetos a regulación armonizada; en el resto, compromiso de obtención como CEE | Solvencia sólo por encima del umbral de regulación armonizada vigente en la fecha de la licitación (Anexo X.2) | Nunca como criterio de adjudicación |
 | ADM-2·v3 | Sólo si se aplica DT-9·v3 | Vinculado a DT-9 | — |
-| ADM-3·v3, bloque 2 (bolsa) | Sólo contratos de **desarrollo o mantenimiento de aplicaciones** (art. 308.3 LCSP) | VE ≥ [X; se recomienda 100.000] €; bolsa [X; se recomienda 5] % del importe del contrato | Al alza sólo con Cuadro de Precios Unitarios ofertado, y **nunca por encima del 10 % del importe del contrato** |
+| ADM-3·v3, bloque 2 (bolsa) | Sólo contratos de **desarrollo o mantenimiento de aplicaciones** (art. 308.3 LCSP) | VE ≥ [X; se recomienda 100.000] €; bolsa [X; se recomienda 5] % del presupuesto base de licitación correspondiente a la duración inicial, sin IVA | Al alza sólo con Cuadro de Precios Unitarios ofertado, y **nunca por encima del 10 % de esa misma base** |
 | ADM-4·v3 | Responsable del contrato: siempre (art. 62). Comisión de seguimiento: contratos de cierta entidad | Comisión si VE ≥ [X; se recomienda 60.000] €; [X; se recomienda 2] sesiones/año, [X; se recomienda 4] en el primer año | Al alza en contratos con Anexo V exigente |
 | ADM-5·v3 | Siempre | Máximos legales: 10 % por penalidad, 50 % acumulado, IVA excluido | Nunca al alza |
 | ADM-6·v3 | Siempre, con el bloque *ex lege* **condicionado** a que concurra su presupuesto | Lista cerrada | Nunca ampliar por analogía |
@@ -4203,7 +4250,7 @@ Este catálogo genera gasto real. Depósito de código, bolsa de servicios evolu
 | 1 | **Constitución del depósito de código** (notaría o entidad depositaria especializada) | ADM-11·v3 | Presupuesto base de licitación (art. 100.2) | Unidad de millar: [1.500–3.000] € una vez | — |
 | 2 | **Custodia anual del depósito** | ADM-11·v3 | PBL | [1.200–3.000] € por año | — |
 | 3 | **Verificación técnica de cada depósito** (certificado de que compila y despliega) | ADM-11·v3 | PBL | [800–2.500] € por verificación · [X; se recomienda 1] depósito inicial y [1] actualización al año | Al alza si hay versiones mayores frecuentes |
-| 4 | **Bolsa de servicios evolutivos** | ADM-3·v3, bloque 2 | PBL y valor estimado | [X; se recomienda 200] horas/año al precio unitario ofertado. Con precios unitarios de mercado del orden de decenas de euros por hora, la magnitud es de **cinco cifras bajas al año** | Bolsa [X; se recomienda 5] % del importe del contrato, nunca superior al 10 % (§M4.2) |
+| 4 | **Bolsa de servicios evolutivos** | ADM-3·v3, bloque 2 | PBL y valor estimado | [X; se recomienda 200] horas/año al precio unitario ofertado. Con precios unitarios de mercado del orden de decenas de euros por hora, la magnitud es de **cinco cifras bajas al año** | Bolsa [X; se recomienda 5] % del presupuesto base de licitación de la duración inicial, sin IVA; nunca superior al 10 % de esa misma base (§M4.2) |
 | 5 | **Entorno de pruebas / preproducción** | DT-7·v3, DT-9·v3 | Se exige **incluido en el precio**; si el mercado lo tarifica aparte, incremento del orden del [5–15] % sobre el servicio anual | PBL | Exigirlo incluido es la opción por defecto |
 | 6 | **Interfaz normalizada de acceso programático**, cuando no forma parte del producto base | DT-7·v3 | PBL | Orden del [3–8] % del PBL del contrato, o cifra de cinco cifras por plataforma si es desarrollo a medida | Si supera el [X; se recomienda 10] % del PBL, replantear el alcance o el plazo |
 | 7 | **Conformidad y certificación ENS de la solución** en categorías MEDIA o ALTA | DT-6·v3 | Coste del contratista, repercutido en el precio | Cuatro a cinco cifras por ciclo de certificación | No es opcional: resulta del Anexo I del RD 311/2022 |
@@ -4383,6 +4430,7 @@ Extremos a verificar antes de informar favorablemente un expediente que aplique 
 8. Que la cláusula de reversibilidad fija plazo de garantía cierto y respeta el art. 111 LCSP (§M5.4).
 9. Que si se ha marcado alguna cláusula como NO APLICA, se han eliminado todas las menciones que arrastra en el resto del pliego (tabla de dependencias del **Anexo VI**). Un pliego que penaliza el incumplimiento de una cláusula que no ha incorporado es un pliego contradictorio.
 10. Que las declaraciones de conflicto de interés están firmadas e incorporadas.
+11. Que **todas** las condiciones especiales de ejecución incorporadas —incluidas las de ADM-11·v3, ADM-12·v3 y ADM-13·v3— figuran indicadas **una por una en el anuncio de licitación**, además de en los pliegos (art. 202.1 LCSP). Su omisión en el anuncio no se subsana después y arrastra la esencialidad de las que el pliego haya calificado como tales.
 
 #### M10.2 · Para la Intervención
 
@@ -4543,7 +4591,9 @@ El circuito tiene tres tramos. El primero decide **si se contrata y qué**; el s
 | C-5 | Publicación del anuncio de licitación | Anuncio | Órgano de contratación | **Sí** |
 | C-6 | Se cierra la carpeta de defensa | Índice y carpeta (V.6) | Contratación | No |
 
-Son **dieciocho documentos**, no doce. Cinco de ellos son condicionales: A-2 sólo si el objeto comprende adquisición, desarrollo o mantenimiento de una aplicación; A-5 sólo si hay consulta; A-6 sólo cuando la carga estimada de verificación supere el umbral del §7.9.2; B-2 sólo si el procedimiento no es abierto ni restringido, a efectos de publicidad; B-4 sólo en contratos de servicios.
+Son **veinte pasos**, que producen **veintiún documentos** —el paso B-7 produce dos, el PPT y el PCAP—, no doce. **Dieciocho de esos veintiún documentos los impone la norma** con independencia de este catálogo; los tres restantes los añade este catálogo, y son la Ficha de Aplicabilidad (A-3), la conformidad del servicio verificador (A-6) y la carpeta de defensa (C-6). Cinco pasos son condicionales: A-2 sólo si el objeto comprende adquisición, desarrollo o mantenimiento de una aplicación; A-5 sólo si hay consulta; A-6 sólo cuando la carga estimada de verificación supere el umbral del §7.9.2; B-2 sólo si el procedimiento no es abierto ni restringido, a efectos de publicidad; B-4 sólo en contratos de servicios.
+
+Este recuento es el del expediente y manda sobre cualquier otro del documento. Quedan **fuera** de él, por no ser pasos de un expediente concreto, dos piezas que sí aparecen en la Parte 0, §0.5: el acuerdo anual del órgano de gobierno, que es previo a todo expediente, y la lista de comprobación de V.10, que se pasa antes de recabar el informe jurídico (C-1).
 
 #### V.2.2 · Por qué el informe de necesidad va antes que la ficha
 
@@ -5164,12 +5214,18 @@ El catálogo sólo sirve para una minoría de expedientes si no dice nada de los
 **Qué se aplica de este catálogo.** Casi nada, y por una razón sencilla: en un contrato menor no hay pliegos, y sin pliegos no hay lugar donde poner condiciones especiales de ejecución ni obligaciones esenciales. Regla:
 
 - **No se incorporan** cláusulas del catálogo que exijan verificación periódica, comisión de seguimiento, planes anuales, depósito de código o demostraciones. Al no haber pliego, no caben condiciones especiales de ejecución, penalidades tipificadas, obligaciones esenciales con efecto resolutorio ni criterios de adjudicación.
-- **Sí se hacen constar en el encargo o en la aceptación de la oferta** las cuatro exigencias siguientes, y sólo ellas. Ésta es la **relación cerrada** a la que remite la Parte I, §2.4.a), que la tiene por fuente única; no derivan del catálogo sino de la norma, y por eso caben sin pliego:
-  1. Sometimiento a la normativa de protección de datos y, cuando haya tratamiento por cuenta del Ayuntamiento, encargo de tratamiento en los términos del art. 28 del Reglamento (UE) 2016/679.
-  2. Ubicación de los servidores y lugar desde el que se prestan los servicios asociados, cuando haya tratamiento por cuenta del Ayuntamiento.
-  3. Conformidad con el ENS que corresponda a la categoría del sistema, en los términos del art. 2.3 del RD 311/2022.
-  4. Entrega de los datos municipales y de su diccionario al finalizar, en formato abierto y sin coste por la extracción.
-- **La consulta al directorio general de aplicaciones se hace igualmente** si el objeto es una aplicación: el art. 157.3 de la Ley 40/2015 no tiene umbral.
+- **Sí se hacen constar en el encargo o en la aceptación de la oferta** las exigencias de las letras a) a f) que siguen, y sólo ésas.
+
+**La relación cerrada del contrato menor.** Ésta es la **relación cerrada y la fuente única** de todo el catálogo para este supuesto: a ella remiten la Parte 0, §0.6, la Parte I, §2.4.a), las cláusulas de la Parte II en su epígrafe *cuándo NO se aplica* y la Parte IV. La memoria justificativa reproduce estas mismas letras en su §M4.3: si se modifica aquí, hay que modificarlas allí. Ninguna de las seis deriva del catálogo: todas derivan de una norma que se aplica al contrato menor igual que a cualquier otro contrato, y por eso caben sin pliego.
+
+- **a) Conformidad con el ENS** en la categoría que corresponda al sistema, en los términos del art. 2.3 del RD 311/2022.
+- **b) Protección de datos**: sometimiento a su normativa y, cuando el contratista trate datos personales por cuenta del Ayuntamiento, encargo de tratamiento en los términos del art. 28 del Reglamento (UE) 2016/679.
+- **c) Ubicación de los servidores** y lugar desde el que se prestan los servicios asociados, en ese mismo supuesto.
+- **d) Entrega de los datos municipales y de su diccionario** al finalizar, en formato abierto y sin coste por la extracción.
+- **e) Mención «o equivalente» y trámite de prueba** (`DT-0·v3`), si el encargo cita un producto, un protocolo o una norma por su nombre.
+- **f) Consulta previa al directorio general de aplicaciones** y, si no se reutiliza una aplicación existente, justificación en términos de eficiencia (art. 157.3 de la Ley 40/2015), que no tiene umbral. Esta letra es trámite del expediente del encargo, no cláusula que se traslade al contratista.
+
+**Regla de lectura, para el técnico que tiene un menor sobre la mesa.** Lo que se puede incorporar son las seis letras anteriores. Lo que no se puede incorporar es todo lo demás de este catálogo. Y el porqué es uno solo y sirve para las dos respuestas: **las seis letras obligan por norma propia, y las cláusulas del catálogo obligan porque están en un pliego que aquí no existe**. Si un encargo necesita más de esas seis letras, lo que hay que revisar no es la lista: es si ese objeto era un contrato menor.
 
 **Advertencia.** Trocear en menores lo que es una necesidad única para evitar el pliego está prohibido por el propio art. 118.2 y por el art. 101.4. Si el catálogo empuja a hacerlo, el problema es el diseño del contrato, no el catálogo.
 
@@ -5354,6 +5410,7 @@ Una página. Se recorre antes de elevar a aprobación. Cada casilla remite al ap
 
 - [ ] Comprobado qué documentos se publican y que todos ellos están redactados sabiendo que se publican (V.3).
 - [ ] Anuncio de licitación con indicación expresa de la forma de acceso a los pliegos (V.4.17 y art. 50.1.b).
+- [ ] Todas las condiciones especiales de ejecución incorporadas figuran indicadas en el anuncio de licitación (art. 202.1 LCSP), **enumeradas una por una** y cotejadas contra la Ficha de Aplicabilidad. Su omisión en el anuncio no se subsana después, y de ella pende además la esencialidad de las que el pliego haya calificado como tales.
 - [ ] Versión del catálogo y del Anexo V identificadas en el pliego, y Anexo V transcrito, no remitido (V.8.4 y V.8.5).
 - [ ] Carpeta de defensa cerrada, con índice, responsable y suplente designados y dirección electrónica habilitada verificada (V.6).
 - [ ] Registro de uso actualizado: expediente, versión aplicada y cláusulas incorporadas (V.8.4).
@@ -5499,11 +5556,11 @@ Ficha de aplicabilidad cumplimentada. Instrumentos: **P** prescripción técnica
 | **DT-9·v3** Exigencias tecnológicas determinadas del ejercicio | P | I | Aplica con DT-7·v3 y con la misma condición. El Anexo V se **transcribe físicamente** en el PPT, recortado a este objeto (VI.4.5) |
 | **ADM-1·v3** Solvencia técnica y profesional | S | N | Solvencia técnica ordinaria por experiencia y medios, en los términos de los arts. 90 y 93 LCSP |
 | **ADM-1·v3** Sistema de gestión de la IA (gobernanza) | CEE | I | La gobernanza de IA (UNE-EN ISO/IEC 42001:2026 o equivalente) **no se exige como solvencia** en este contrato. No porque el contrato no esté sujeto a regulación armonizada —lo está, según VI.4.7—, sino porque **falta el segundo requisito acumulativo de la modalidad A** de ADM-1·v3: el sistema de inteligencia artificial no constituye elemento determinante de la prestación, que es la llevanza de la contabilidad y del inventario. Se configura, por tanto, como condición especial de ejecución (modalidad B), con compromiso de obtención |
-| **ADM-2·v3** CEE esencial: evolución tecnológica determinada | CEE-E | I/F | Aplica, con alcance cerrado al Anexo V. Si el Anexo V no se incorpora, esta cláusula decae entera |
+| **ADM-2·v3** Compromiso de evolución tecnológica determinada | CEE | I/F | Aplica, con alcance cerrado al Anexo V. Si el Anexo V no se incorpora, esta cláusula decae entera. **No se califica de esencial en este expediente**: su esencialidad depende del bloque B.2 de ADM-6·v3, que aquí no se marca por no superarse el test de relevancia (párrafo siguiente a esta tabla). El incumplimiento queda en penalidad conforme a ADM-5·v3 (tipos G2, M1 y M2) |
 | **ADM-3·v3** Plazos, Plan Anual y bolsa de servicios evolutivos | CEE | F | Aplica. La bolsa se incorpora al amparo del art. 308.3 LCSP, con precio por unidades de actividad del Cuadro de Precios Unitarios y **peticiones de servicio del responsable del contrato**, nunca dirección de personal (art. 308.2 LCSP) |
 | **ADM-4·v3** Seguimiento, responsable del contrato y Comisión | CEE | F | Aplica, con periodicidad y carga dimensionadas (VI.4.8) |
 | **ADM-5·v3** Penalidades | Cláusula del PCAP | N | Aplica, depurada de las penalidades cuyas cláusulas se han marcado NA (Anexo VI) |
-| **ADM-6·v3** Obligaciones esenciales y resolución | Cláusula del PCAP | N | Aplica. Bloque A **condicionado**: sólo si el contrato implica cesión de datos por el Ayuntamiento al contratista (art. 202.1 párr. 3.º) o tratamiento de datos personales por cuenta del responsable (art. 122.2). En este contrato ambos supuestos concurren y deben declararse expresamente en el PCAP |
+| **ADM-6·v3** Obligaciones esenciales y resolución | Cláusula del PCAP | N | Aplica. **Bloque A condicionado**: sólo si el contrato implica cesión de datos por el Ayuntamiento al contratista (art. 202.1 párr. 3.º) o tratamiento de datos personales por cuenta del responsable (art. 122.2). En este contrato ambos supuestos concurren y deben declararse expresamente en el PCAP. **Bloque B.1**: se conservan las letras a) —reversibilidad, DT-8·v3—, c) —acceso de los órganos de control, ADM-12·v3— y d) —uso de sistemas de IA sobre información municipal, ADM-13·v3—, y **se borra la letra b)** por estar ADM-11·v3 marcada NO APLICA (Anexo VI). **Bloque B.2: no se marca ninguna letra en el cuadro de características**, por el test de relevancia resuelto tras esta tabla |
 | **ADM-7·v3** Criterios de adjudicación | CA | F/I | Aplica el baremo de VI.4.6, con precio y criterios funcionales dentro |
 | **ADM-8·v3** Propiedad intelectual, titularidad y no dependencia | Cláusula del PCAP | N | Aplica con la delimitación de VI.4.1: nada sobre el producto base salvo licencia y delimitación; todo sobre desarrollos específicos, parametrizaciones, lógica y datos |
 | **ADM-9·v3** Verificación mediante demostración funcional | Medio de comprobación de un criterio (art. 145.5.c) | F | Aplica como medio de comprobación de la exactitud de lo declarado por escrito en el criterio D y, en lo que proceda, en los criterios C1, A y H, **sin atribuir puntuación alguna**. La demostración sólo confirma o retira puntos ya asignados a la memoria técnica. Momento procedimental fijado en el PCAP y relación cerrada de elementos verificables publicada (VI.5) |
@@ -5512,6 +5569,14 @@ Ficha de aplicabilidad cumplimentada. Instrumentos: **P** prescripción técnica
 | **ADM-12·v3** Acceso de los órganos de control a los datos de ejecución | CEE-E | **N** | Aplica. Es la cláusula que estrena el piloto (VI.4.9) |
 | **ADM-13·v3** Uso de sistemas de IA sobre información municipal | CEE-E | N/F | Aplica. La declaración de sistemas se presenta con la oferta pero **no puntúa** |
 | **ADM-14·v3** Modificación prevista y valor estimado | **NA** por defecto | — | No se incorpora: la evolución exigible está determinada en el Anexo V y retribuida con el precio, y cada euro de reserva sube el valor estimado (VI.4.7). Si el expediente decidiera incorporarla, se motiva y se recalcula el valor estimado antes de aprobar |
+
+**El test de relevancia del bloque B.2 de ADM-6·v3, resuelto para este contrato.** ADM-6·v3 no permite marcar ninguna letra del bloque B.2 sin superar antes su test de relevancia, y obliga a que la conclusión conste en la memoria justificativa. Las únicas letras que este expediente podría marcar son la **e)** —falta de implantación de una exigencia del Anexo V transcrito en el PPT— y la **g)** —falta de entrega de la interfaz normalizada en el plazo máximo del PPT—. Resuelto sobre ellas:
+
+- **(i) ¿Capacidad identificada en el Informe de Necesidad como determinante de la finalidad del contrato?** **No.** La finalidad es la llevanza de la contabilidad municipal y del inventario de bienes y derechos: es la necesidad 1 de VI.4.2, de origen funcional. La capacidad de ser operada y auditada por agentes es la necesidad 9, de origen **institucional**, y su propia fila declara que «ninguna norma lo impone y el gestor no lo ha pedido». El informe de necesidad no puede calificarla de determinante de la finalidad sin contradecir esa ficha.
+- **(ii) ¿Peso económico en la oferta igual o superior al [X; se recomienda 10] por ciento del precio del contrato?** **No consta.** El expediente no imputa a esta capacidad un coste de esa magnitud. Su peso en el baremo es de 13 puntos sobre 100 —criterios A (8) y B (5)—, que es medida de puntuación y no de precio. Si el estudio económico del expediente cifrara ese coste por encima del umbral, el test se rehace y se hace constar.
+- **(iii) ¿Su falta impide el uso de la solución para la finalidad contratada, o impide al Ayuntamiento cumplir una obligación legal propia?** **No.** Sin la interfaz normalizada el Ayuntamiento lleva su contabilidad, gestiona su inventario y rinde sus cuentas exactamente igual.
+
+**Conclusión: no concurre ninguno de los tres supuestos, la casilla no se marca y ADM-2·v3 no se califica de esencial en este contrato.** Es la conclusión que la nota al redactor de ADM-6·v3 anticipa con este mismo ejemplo: resolver un contrato de contabilidad y patrimonio municipal porque el contratista no entregó en plazo una interfaz para agentes de inteligencia artificial es desproporcionado en grado manifiesto. La consecuencia del incumplimiento queda en penalidad grave o muy grave —tipos G2 y M1 de ADM-5·v3 para las exigencias del Anexo V, y G19 y M15 para la interfaz normalizada—, con los límites del art. 192.1 LCSP; no es consecuencia simbólica. **Esta conclusión se transcribe en la memoria justificativa del expediente**, que es donde ADM-6·v3 exige que conste.
 
 **Nota sobre las filas desdobladas.** Una cláusula que exige un mínimo y puntúa el exceso ocupa **dos filas** de la ficha, nunca una con dos instrumentos. Es lo que hace el Anexo I con DT-4·v3 (filas 13 y 14) y con ADM-1·v3 (filas 16 y 18), y lo que esta ficha reproduce. Una fila con dos instrumentos no supera la primera comprobación de cierre del Anexo II.
 
@@ -5539,19 +5604,33 @@ Análisis para este contrato, que el expediente debe recoger firmado por el resp
 
 El Anexo V del ejercicio (Anexo V de este documento, apartado V.A.2) se **transcribe físicamente en el PPT**, recortado a los módulos de este contrato. No se incorpora por remisión: un pliego que remita a un documento municipal revisable cada año es un pliego con obligación indeterminada.
 
-:::pliego
-**ANEXO TÉCNICO [N]. EXIGENCIAS TECNOLÓGICAS DETERMINADAS APLICABLES A ESTE CONTRATO**
+El apéndice que lo contiene es el **Apéndice técnico 2 · Exigencias tecnológicas determinadas** (Anexo XXV), y lleva delante, en su apartado 1, la relación cerrada y numerada de módulos y funciones de la interfaz. **Es la sede única de esa relación**: este pliego no abre un apéndice separado para DT-7·v3, porque dos listas cerradas sobre la misma interfaz dejarían sin término de comparación al criterio A del baremo.
 
-Se transcriben a continuación las exigencias tecnológicas ET-1, ET-2 y ET-3 del Catálogo de Exigencias Tecnológicas Determinadas del ejercicio 2026-2027, versión [1.0], aprobado por [órgano competente] con fecha [fecha], en su redacción vigente en la fecha de aprobación del presente pliego. Las revisiones posteriores del Catálogo **no** afectan a este contrato.
+:::pliego
+**APÉNDICE TÉCNICO 2 · EXIGENCIAS TECNOLÓGICAS DETERMINADAS APLICABLES A ESTE CONTRATO**
+
+**1. Módulos y funciones de la interfaz normalizada.** Este apartado es la **única** relación de este pliego sobre los módulos y las funciones de la interfaz normalizada. Ningún otro documento del pliego contiene una relación distinta sobre la misma interfaz, y el exceso que valora el criterio A del pliego de cláusulas administrativas particulares se mide exclusivamente sobre el bloque B.
 
 Módulos alcanzados por la exigencia ET-1: (i) contabilidad presupuestaria y financiera; (ii) gestión patrimonial e inventario de bienes y derechos; (iii) terceros y endosos. Quedan excluidos los módulos [relación de módulos excluidos].
 
-Funciones mínimas que la interfaz debe exponer sobre los módulos anteriores, todas ellas **de consulta**:
+**Bloque A · Funciones mínimas** que la interfaz debe exponer sobre los módulos anteriores, todas ellas **de consulta**. Son prescripción técnica obligatoria y **no puntúan**:
 a) Consulta de saldos y movimientos por aplicación presupuestaria, ejercicio y fecha.
 b) Consulta del estado de tramitación de un documento contable identificado.
 c) Consulta de obligaciones reconocidas y pagos por tercero y por período.
 d) Consulta de la ficha de un bien del inventario y de su histórico de movimientos.
 e) Consulta del diccionario de datos y del catálogo de funciones expuestas.
+
+**Bloque B · Funciones adicionales ofertables** sobre esos mismos módulos, todas ellas **de consulta**. Relación cerrada y numerada: es la única base del criterio A del pliego de cláusulas administrativas particulares, que cuenta las funciones de este bloque que el licitador se compromete a exponer por encima de las cinco del bloque A. **Se valora el compromiso**, con independencia de que la función se entregue desde la puesta en producción inicial o mediante desarrollo dentro del plazo de entrega fijado más abajo:
+B.1) Consulta de la ejecución del presupuesto de gastos y de ingresos por programa y por clasificación orgánica, con detalle por fases del gasto.
+B.2) Consulta de las obligaciones pendientes de pago y del período medio de pago a proveedores.
+B.3) Consulta de las facturas registradas y de su estado de tramitación, por proveedor y por período.
+B.4) Consulta de proyectos de gasto con financiación afectada y de sus desviaciones.
+B.5) Consulta de los movimientos del inventario por tipo de bien, epígrafe y período, con la amortización acumulada.
+B.6) Consulta de los datos de terceros y de los endosos asociados a una obligación reconocida.
+B.7) Consulta de los asientos del registro de auditoría por persona usuaria, agente, fecha y módulo, con exportación en formato abierto.
+B.8) Suscripción a avisos de cambio de estado sobre un documento contable identificado.
+
+**2. Transcripción del Catálogo de Exigencias Tecnológicas Determinadas.** Se transcriben a continuación las exigencias tecnológicas ET-1, ET-2 y ET-3 del Catálogo de Exigencias Tecnológicas Determinadas del ejercicio 2026-2027, versión [1.0], aprobado por [órgano competente] con fecha [fecha], en su redacción vigente en la fecha de aprobación del presente pliego. Las revisiones posteriores del Catálogo **no** afectan a este contrato.
 
 Operaciones de escritura habilitables al amparo de la exigencia ET-2 en este contrato: **ninguna con efecto contable**. Se habilitan exclusivamente operaciones sin efecto jurídico ni económico: creación de borradores de documento contable no contabilizado y generación de informes. Toda operación con efecto jurídico o económico requiere validación expresa de la persona competente, sin posibilidad de configuración en sentido contrario.
 
@@ -5579,15 +5658,15 @@ Es el baremo modelo de ADM-7·v3, apartado 2, aplicado a este expediente: mismos
 | Criterio | Puntos | Tipo | Qué valora exactamente | Mínimo obligatorio de referencia |
 |---|---|---|---|---|
 | **P. Precio** | 40 | Fórmula | Baja sobre el presupuesto base de licitación, con la fórmula del Anexo XVII y el tratamiento de ofertas anormalmente bajas allí previsto | — |
-| **C1. Cobertura funcional acreditada** | 8 | Fórmula | Número de requisitos funcionales de la lista cerrada «deseables» del PPT que la solución cubre sin desarrollo específico | Los requisitos «obligatorios» del PPT, que no puntúan |
+| **C1. Cobertura funcional comprometida** | 8 | Fórmula | Número de requisitos funcionales de la lista cerrada «deseables» del PPT que el licitador **se compromete** a tener operativos en el plazo del PPT, sea porque la solución los cubre desde su entrega inicial, sea porque los desarrolla dentro de ese plazo. La disponibilidad a la fecha de la oferta no se valora ni se exige | Los requisitos «obligatorios» del PPT, que no puntúan |
 | **C2. Plan de implantación y migración de datos** | 8 | Juicio de valor | Calidad del plan de migración de los ejercicios históricos, plan de pruebas y plan de vuelta atrás | Existencia de plan, exigida por el PPT |
 | **C3. Niveles de servicio ofertados** | 6 | Fórmula | Tiempos de respuesta y resolución ofertados **por debajo** de los máximos del PPT, en horas | Los niveles de servicio máximos del PPT |
 | **C4. Plan de formación y acompañamiento** | 4 | Juicio de valor | Adecuación a los perfiles municipales reales (gestor contable, patrimonio, control interno) | Horas mínimas de formación del PPT |
-| **A. Alcance funcional adicional de la interfaz normalizada** | 8 | Fórmula | Número de funciones de la **lista cerrada publicada en el PPT** que el licitador se compromete a exponer **por encima** de las cinco funciones mínimas | Las cinco funciones mínimas de ET-1 |
+| **A. Alcance funcional adicional de la interfaz normalizada** | 8 | Fórmula | Número de funciones del **bloque B · Funciones adicionales ofertables** del apartado 1 del **Apéndice técnico 2 · Exigencias tecnológicas determinadas** del PPT (ocho funciones) que el licitador se compromete a exponer **por encima** de las cinco del bloque A. Es indiferente que se entreguen de origen o mediante desarrollo dentro del plazo de ET-1 | Las cinco funciones mínimas del bloque A del mismo apartado (ET-1) |
 | **B. Plazo ofertado de puesta en producción de ET-1** | 5 | Fórmula | Meses ofertados por debajo del máximo de 12, con puntuación proporcional y suelo en [X; se recomienda 6] meses | 12 meses |
 | **D. Tratamiento del caso de uso municipal publicado** | 7 | Juicio de valor con rúbrica | **Descripción, en la memoria técnica presentada en plazo**, de cómo la solución ofertada resuelve las cinco tareas del caso de uso publicado en el PCAP, valorada conforme a la rúbrica de VI.5. La demostración funcional de ADM-9·v3 **confirma o retira** estos puntos; no puede añadir ninguno | — |
 | **E. Plan de gobernanza de IA aplicado a este contrato** | 5 | Juicio de valor | Supervisión humana, registro y trazabilidad de decisiones, gestión de sesgos y plan de retirada, **referidos a este contrato** | — |
-| **H. Procesos automatizados adicionales** | 4 | Fórmula | Número de procesos de la **lista cerrada y numerada del PPT** que el licitador se compromete a automatizar por encima de los mínimos exigidos | Los procesos mínimos de DT-4·v3 |
+| **H. Procesos automatizados adicionales** | 4 | Fórmula | Número de procesos de la lista cerrada y numerada del **Apéndice técnico 1 · Procesos automatizables** del PPT que el licitador se compromete a automatizar por encima de los mínimos exigidos | Los procesos mínimos de DT-4·v3, relacionados en el mismo apéndice |
 | **F. Precio unitario ponderado del Cuadro de Precios Unitarios** | 5 | Fórmula | Precio/hora ponderado de los perfiles de la bolsa de servicios evolutivos | — |
 | **TOTAL** | **100** | | | |
 
@@ -5596,10 +5675,10 @@ Comprobaciones obligatorias sobre este baremo, que son las que la hoja del Anexo
 - **Juicio de valor: 24 puntos (24 %)** —C2, C4, D y E—. Criterios evaluables por fórmula: 76 %. Hay preponderancia clara de los criterios automáticos, luego **no procede el comité de expertos** del art. 146.2.a) LCSP.
 - **Criterios relacionados con la calidad: 55 puntos (55 %)**, todos salvo **P** y **F**, que son criterios de precio. Se cumple el 51 % del art. 145.4 LCSP tanto si el contrato se califica de prestación intelectual como si no.
 - **Mejoras:** los criterios A y H de la lista cerrada son prestaciones adicionales a las definidas en el PPT y, por tanto, mejoras en el sentido del art. 145.7 LCSP. Por eso el PPT publica la lista cerrada, sus límites y su vinculación al objeto, y **se valoran por fórmula**: si el órgano de contratación decidiera valorarlas por juicio de valor, les sería aplicable el tope del 2,5 %.
-- **Doble cómputo:** ningún criterio retribuye una obligación del PPT. A valora funciones adicionales; H, procesos adicionales de la misma lista cerrada; B, plazo inferior al máximo; C3, niveles de servicio mejores que los exigidos; E, un plan que el PPT no exige. Si el PPT llegara a exigir el plan de gobernanza del contrato, **el criterio E decae** (Anexo I). Y ninguna capacidad valorada por el baremo figura además entre las obligaciones calificadas de esenciales del bloque B.2 de ADM-6·v3: acumular sobre el mismo elemento un premio y una pena de máxima intensidad está prohibido (Anexo IV).
+- **Doble cómputo:** ningún criterio retribuye una obligación del PPT. A valora funciones adicionales; H, procesos adicionales de la misma lista cerrada; B, plazo inferior al máximo; C3, niveles de servicio mejores que los exigidos; E, un plan que el PPT no exige. Si el PPT llegara a exigir el plan de gobernanza del contrato, **el criterio E decae** (Anexo I). Y ninguna capacidad valorada por el baremo figura además entre las obligaciones esenciales del bloque B.2 de ADM-6·v3, **porque en este expediente no se marca ninguna letra de ese bloque**: el test de relevancia se resuelve en VI.4.3 y su conclusión es negativa. La regla que hay que respetar el día que se marque alguna letra es la del Anexo IV: **ninguna capacidad puede figurar a la vez como criterio del baremo y como obligación esencial sobre el mismo nivel de exigencia**. Si un expediente marcara las letras e) o g), la esencialidad quedaría acotada al mínimo del PPT —nunca al alcance ofertado por encima de él, como la propia letra e) advierte— y los criterios A y B seguirían valorando exclusivamente el exceso. Acumular sobre el mismo elemento, y sobre el mismo nivel de exigencia, un premio y una pena de máxima intensidad está prohibido.
 - **Criterio suprimido:** no figura ningún criterio sobre capacidades de infraestructuras de servicios de confianza, porque DT-2·v3 está marcada NO APLICA. Puntuar una capacidad cuya cláusula técnica se ha declarado innecesaria no se motiva: se suprime el criterio y **se recompone el baremo antes de publicar el anuncio** (Anexo VI).
-- **Nada puntúa la tenencia previa:** ni certificaciones (ENS, 27001, 27701, 42001), ni experiencia, ni medios ya disponibles a fecha de licitación. **Una precisión que conviene hacer antes de que la haga otro:** el criterio B puntúa un plazo, y un plazo puede reflejar de forma indirecta la disponibilidad previa, porque quien ya tiene la capacidad puede ofertar el mínimo. Por eso el criterio B tiene **suelo** —no se puntúa por debajo de [X; se recomienda 6] meses, de modo que esa ventaja queda acotada— y **peso bajo** (5 sobre 100). Lo que se valora es una cualidad de la prestación —cuándo estará disponible para el Ayuntamiento—, no una característica de la empresa. Esta motivación se reproduce en la ficha del criterio B del Anexo IV.
-- **Ofertas anormalmente bajas:** con 45 puntos de precio entre P y F, el PCAP debe fijar los parámetros objetivos de identificación de la oferta anormalmente baja y el trámite del art. 149 LCSP. Se emplean los del Anexo XVII.
+- **Nada puntúa la tenencia previa:** ni certificaciones (ENS, 27001, 27701, 42001), ni experiencia, ni medios, instalaciones o desarrollos ajenos al objeto ya disponibles a fecha de licitación. Lo que sí se valora es la **prestación comprometida**, que es cosa distinta: los criterios C1 y A cuentan lo que el licitador se obliga a entregar dentro del plazo del contrato, **sin exigir que esté disponible el día de ofertar y sin penalizar a quien lo desarrolle**, de modo que el licitador que se compromete a desarrollar la funcionalidad puntúa igual que el que ya la trae hecha (ADM-7·v3.1.2). **Una precisión que conviene hacer antes de que la haga otro:** el criterio B puntúa un plazo, y un plazo refleja de forma indirecta la disponibilidad previa, porque quien ya tiene la capacidad puede ofertar el mínimo. Por eso el criterio B tiene **suelo** —no se puntúa por debajo de [X; se recomienda 6] meses, de modo que esa ventaja queda acotada— y **peso bajo** (5 sobre 100). En C1 y en A la acotación es distinta y opera en el propio enunciado del criterio: se valora compromiso, no tenencia. En los tres casos lo valorado es una cualidad de la prestación —qué hará el sistema y cuándo estará disponible para el Ayuntamiento—, no una característica de la empresa. Esta motivación se reproduce en la casilla 5 de las fichas de los criterios B, C1 y A del Anexo IV.
+- **Ofertas anormalmente bajas, que con 45 puntos de precio entre P y F son la principal defensa de este contrato y no un trámite.** El PCAP de este expediente hace tres cosas, que son las tres reglas del **Anexo XVII, apartado 5**, y se copian de allí: (1) **publica antes de licitar los parámetros objetivos** de identificación de la oferta presuntamente anormal, referidos a la oferta en su conjunto o al criterio de precio, según decida el expediente; (2) tramita el requerimiento de justificación al licitador, el informe técnico y la resolución motivada del **art. 149 LCSP antes de puntuar**, no después; y (3) hace constar expresamente que **la oferta excluida no forma parte de la referencia de cálculo de ninguna fórmula**. Este expediente **no se remite a parámetros supletorios** de ninguna norma de desarrollo: publica los suyos, que es la recomendación del propio Anexo XVII.
 
 **Variante B — procedimiento abierto simplificado (art. 159 LCSP)**
 
@@ -5614,7 +5693,7 @@ Sin criterios de juicio de valor y sin demostración funcional. Se suprimen C2, 
 | Criterio | Puntos | Tipo |
 |---|---|---|
 | P. Precio | 45 | Fórmula |
-| C1. Cobertura funcional acreditada | 16 | Fórmula |
+| C1. Cobertura funcional comprometida | 16 | Fórmula |
 | C3. Niveles de servicio ofertados | 10 | Fórmula |
 | A. Alcance funcional adicional de la interfaz | 12 | Fórmula |
 | B. Plazo ofertado de ET-1 | 8 | Fórmula |
@@ -5631,17 +5710,19 @@ Comprobación previa: el procedimiento abreviado no está disponible para presta
 Método de cálculo, que debe figurar en el PCAP (art. 101.5 LCSP):
 
 ```
-VE = (importe anual sin IVA × años de duración inicial)
-   + (importe anual sin IVA × años de prórrogas previstas)
-   + importe máximo de la bolsa de servicios evolutivos
+VE = (presupuesto base de licitación anual del servicio, sin IVA × años de duración inicial)
+   + (presupuesto base de licitación anual del servicio, sin IVA × años de prórrogas previstas)
+   + importe máximo de la bolsa de servicios evolutivos de todas esas anualidades
    + importe máximo de las modificaciones al alza previstas (art. 101.2.c)
    + primas o pagos a los licitadores, si los hubiera
 ```
 
+Los tres primeros sumandos no se solapan: los dos primeros recogen el servicio y el tercero la bolsa. La bolsa está **dentro** del presupuesto base de licitación, y por eso se separa aquí sólo a efectos de cálculo, nunca para dejarla fuera de él.
+
 Tres reglas que se olvidan y cuestan el expediente:
 
 1. **Las prórrogas previstas computan aunque no se ejerzan.**
-2. **La bolsa de servicios evolutivos computa.** Está en el presupuesto base de licitación, luego está en el valor estimado. Escribir que no lo infla es un error de cálculo del valor estimado, y el valor estimado determina la publicidad armonizada y el acceso al recurso especial.
+2. **La bolsa de servicios evolutivos computa, y su base de cálculo se escribe.** Está dentro del presupuesto base de licitación, luego está en el valor estimado. Escribir que no lo infla es un error de cálculo del valor estimado, y el valor estimado determina la publicidad armonizada y el acceso al recurso especial. El porcentaje de la bolsa se aplica sobre el **presupuesto base de licitación del servicio correspondiente a la duración inicial, sin IVA** (ADM-3·v3, bloque 2, apartado 5), y el pliego dice expresamente si la bolsa se dota además en las anualidades de prórroga y por qué importe. «Importe del contrato» no es término de la Ley 9/2017 y no se emplea como base.
 3. **El porcentaje de la modificación prevista se calcula sobre el presupuesto base de licitación a efectos del valor estimado, y sobre el precio de adjudicación a efectos de ejecución.** Una baja del 15 % en la licitación se lleva por delante el 15 % de la reserva.
 
 Ilustración numérica —**cifras hipotéticas**, sustitúyanse por las del expediente; mientras el expediente no se publique, ninguna cifra de este apartado debe citarse como dato real—.
@@ -5654,23 +5735,28 @@ Ilustración numérica —**cifras hipotéticas**, sustitúyanse por las del exp
 | Otros costes directos (licencias, suscripción, entorno de pruebas, migración) | ……… € |
 | Gastos generales de estructura | ……… € |
 | Beneficio industrial | ……… € |
-| **Presupuesto base de licitación anual** | **120.000 €** |
+| **Presupuesto base de licitación anual del servicio** | **120.000 €** |
+| Bolsa de servicios evolutivos imputada a la anualidad (ADM-3·v3, bloque 2) | 6.000 € |
+| **Presupuesto base de licitación anual, bolsa incluida** | **126.000 €** |
 | IVA (21 %) | ……… € |
 
 | Concepto | Importe |
 |---|---|
-| Importe anual (IVA excluido) | 120.000 € |
-| Duración inicial: 2 años | 240.000 € |
-| Prórrogas previstas: 2 años | 240.000 € |
-| Bolsa de servicios evolutivos: [X; se recomienda 5] % del importe del contrato | 24.000 € |
+| Presupuesto base de licitación anual del servicio (IVA excluido) | 120.000 € |
+| Bolsa de servicios evolutivos anual: [X; se recomienda 5] % del presupuesto base de licitación del servicio de la duración inicial (240.000 €), imputado por anualidades | 6.000 € |
+| **Presupuesto base de licitación anual, bolsa incluida** | **126.000 €** |
+| **Duración inicial: 2 años — presupuesto base de licitación del contrato** | **252.000 €** (240.000 de servicio + 12.000 de bolsa) |
+| Prórrogas previstas: 2 años, con la bolsa dotada en la misma proporción | 252.000 € (240.000 de servicio + 12.000 de bolsa) |
 | Modificación prevista (ADM-14·v3 marcada NO APLICA) | 0 € |
 | **Valor estimado** | **504.000 €** |
+
+**Base de cálculo de la bolsa y crédito que hay que autorizar.** El 5 % se aplica sobre el presupuesto base de licitación del servicio de la **duración inicial**, sin IVA —240.000 €—, y arroja **12.000 €** para los dos años iniciales, la mitad del techo del 10 % que ADM-3·v3 se impone. La bolsa se dota **también** en las dos anualidades de prórroga, en la misma proporción y por otros 12.000 €, que sólo se autorizan si la prórroga se acuerda. De ahí la consecuencia que el expediente debe escribir y no deducir: el presupuesto base de licitación de la duración inicial es **252.000 €** (IVA excluido), y ése —no 240.000 €— es el importe del desglose del art. 100.2 LCSP, del certificado de existencia de crédito del art. 116.3 LCSP y del compromiso de gasto plurianual del art. 174 TRLRHL. El valor estimado no varía por escribirlo bien: 252.000 + 252.000 = **504.000 €**, exactamente lo que resultaba de sumar la bolsa como línea aparte. Una precisión que el PCAP debe recoger para que la bolsa dentro del presupuesto base no confunda al licitador: **la baja del criterio P se oferta sobre el presupuesto base de licitación del servicio —240.000 €—**, porque la bolsa no se retribuye a tanto alzado, sino a los precios unitarios que el criterio F valora y sólo por las horas efectivamente ejecutadas y recibidas de conformidad (ADM-3·v3, bloque 2, apartado 3).
 
 **Coste de las cláusulas del catálogo efectivamente activadas**, cumplimentando la tabla de la Parte V, V.4.16. Un expediente que incorpora estas cláusulas y no cifra su coste no se fiscaliza de conformidad.
 
 | Cláusula activada | Coste imputado | Dónde se consigna |
 |---|---|---|
-| ADM-3·v3, bloque 2 — bolsa de servicios evolutivos | 24.000 € | Presupuesto base y valor estimado |
+| ADM-3·v3, bloque 2 — bolsa de servicios evolutivos | 12.000 € en la duración inicial (24.000 € si se ejercen las dos prórrogas) | Dentro del presupuesto base de licitación; computada en el valor estimado |
 | DT-8·v3 — entorno de pruebas y ensayo de reversibilidad | ……… € | Presupuesto base, dentro de otros costes directos |
 | ADM-11·v3 — depósito de código y su verificación | **0 €**, por marcarse NO APLICA (VI.4.3) | — |
 | ADM-12·v3 — [X; se recomienda 3] accesos de control incluidos en el precio | Sin coste adicional: incluidos en el precio ofertado | PCAP, cláusula de acceso |
@@ -5692,39 +5778,44 @@ Comprobación de los **cuatro umbrales** de la Parte V, V.4.10, con ese resultad
 
 El área de contratación advirtió, en el comentario interno que se reproduce íntegro en la Parte IV, M1.5, que el seguimiento real de los contratos es escaso y se limita al control del gasto. La respuesta no es prometer más seguimiento: es dimensionarlo y decir quién lo hace. **Ninguna cláusula se incorpora si su verificación no tiene actor municipal designado y periodicidad**, conforme a la regla de verificabilidad municipal enunciada en la Parte I, §7.9.
 
-**Fuente única de la cuantificación: la tabla de ADM-4·v3, epígrafe 5.** Este apartado no estima por su cuenta: toma de allí las horas por acto y las periodicidades, y las ajusta a las cláusulas que VI.4.3 marca aplicables en este expediente. Hay una fila por cada una de ellas, sin excepción.
+**Fuente única de la cuantificación: la tabla de ADM-4·v3, epígrafe 5.** Este apartado no estima por su cuenta y no añade ninguna fila a aquélla: **reproduce sus filas literalmente**, con su misma numeración, y se limita a suprimir las que VI.4.3 marca NO APLICA en este expediente. Si una cifra de aquí divergiera de la de allí, prevalece aquélla y ésta se corrige.
 
 | # en ADM-4·v3.5 | Qué se verifica | Quién | Cuándo | Documento | h/año ordinario | h año 1 |
 |---|---|---|---|---|---|---|
-| 1 | Sesiones de la Comisión de Seguimiento (ADM-4·v3) | Responsable del contrato + gestor + informática (+ control interno como invitado) | Semestral | Acta | 12 | 12 |
-| 2 | Prueba de aceptación de ET-1, ET-2 y ET-3 (DT-7·v3, DT-9·v3) | Servicio de informática + gestor | Una vez, al vencer el plazo de 12 meses | Acta de aceptación | — | 30 |
-| 3 | Comprobación anual del mantenimiento de las capacidades aceptadas | Servicio de informática | Anual | Nota de comprobación | 4 | 4 |
-| 4 | Seguimiento de versiones sucesoras y fines de soporte (ADM-2·v3) | Responsable del contrato | Continuo, balance anual | Registro + acta | 4 | 4 |
-| 5 | Informe anual de ejecución (ADM-4·v3.3) | Responsable del contrato | Anual | Informe | 6 | 6 |
-| 6 | Revisión del Plan Anual de Evolución Tecnológica y aprobación de hitos (ADM-10·v3) | Responsable + órgano de contratación | Anual | Acta + acuerdo | 7 | 7 |
-| 7 | Comprobación del sistema de gestión de IA (ADM-1·v3, modalidad B) | Responsable del contrato | Anual | Nota | 3,5 | 4,5 |
-| 8 | Tramitación y recepción de peticiones de la bolsa (ADM-3·v3, bloque 2) | Responsable del contrato | Por petición ([X; se recomienda 20]/año) | Petición + acta | 20 | 20 |
-| 9 | Cierre anual de la bolsa | Responsable + unidad gestora | Anual | Cuadro acumulado | 3 | 3 |
-| 10 | Depósito de código (ADM-11·v3) | — | — | — | **0**, por marcarse NO APLICA | **0** |
-| 11 | Comprobación del acceso de los órganos de control (ADM-12·v3) | Órgano interventor | Anual | Diligencia | 2 | 2 |
-| 12 | Autorización de altas y declaración de sistemas de IA (ADM-13·v3) | Responsable del contrato | Anual y por alta | Autorización escrita | 2 | 3 |
-| 13 | Ensayo de reversibilidad (DT-8·v3) | Servicio de informática + gestor | Una vez cada [X; se recomienda 24] meses, y uno en el último año | Acta de ensayo | — | — |
-| *(añadida)* | Reparto de papeles y régimen de decisiones automatizadas (DT-1·v3) | Responsable del contrato | Anual | Nota de comprobación | 2 | 2 |
-| *(añadida)* | Procesos de la lista cerrada efectivamente automatizados (DT-4·v3) | Gestor | Aceptación y comprobación anual | Acta y nota | 4 | 8 |
-| *(añadida)* | Uso de los servicios comunes de obligada utilización e interfaces documentadas (DT-5·v3) | Servicio de informática | Aceptación y comprobación anual | Acta y nota | 3 | 6 |
-| *(añadida)* | Conformidad con el ENS y extensión a la cadena de suministro (DT-6·v3) | Responsable de la seguridad | Anual | Certificación y nota | 4 | 6 |
-| *(añadida)* | Cotejo del Inventario de Componentes (DT-8·v3.2) | Servicio de informática | Con cada versión puesta en producción | Registro del contrato | 2 | 2 |
-| | **Total del contrato** | | | | **≈ 78,5 h/año** | **≈ 119,5 h** |
+| B1 | Aceptación de funcionalidades de IA y revisión anual del inventario (DT-1·v3) | Responsable del contrato + informática + delegado de protección de datos | Aceptación y revisión anual | Acta de aceptación por funcionalidad | 12–20 | 16–28 |
+| B2 | Aceptación de automatizaciones e indicadores trimestrales (DT-4·v3) | Gestor del proceso + responsable del contrato | Aceptación y trimestral | Acta de aceptación; informe trimestral | 20 | 26 |
+| B3 | Pruebas de integración y de exportación autónoma (DT-5·v3) | Servicio de informática, con el órgano interventor en la exportación | Aceptación y comprobación anual | Acta de integración; acta de exportación | 4 | 12 |
+| B4 | Revisión de seguridad, vulnerabilidades y prueba de continuidad (DT-6·v3) | Responsable de la seguridad de la información | Anual | Informe anual de seguimiento de seguridad | 10–14 | 10–14 |
+| B5 | Aceptación y verificación anual de la interfaz normalizada (DT-7·v3) | Servicio de informática + responsable del contrato | Al vencer el plazo de 12 meses y, después, anual | Acta de prueba de aceptación de la interfaz | 4 | 12–16 |
+| B6 | Revisión del Plan y del Inventario de Componentes y ensayo de reversibilidad (DT-8·v3) | Responsable del contrato + informática | Cotejo con cada versión en producción; ensayo cada [X; se recomienda 24] meses y uno en el último año | Registro del contrato; acta de ensayo | 4–12 | 12–20 |
+| B7 | Prueba de aceptación de cada exigencia del Anexo V y comprobación anual de las capacidades aceptadas (DT-9·v3) | Servicio de informática, con el órgano interventor cuando afecte a información económico-financiera | Al vencer el plazo de cada exigencia y, después, anual | Acta de aceptación por exigencia | 4–8 | 28–40 |
+| | **Subtotal de las cláusulas técnicas** | | | | **58–82** | **116–156** |
+| C1 | Sesiones de la Comisión de Seguimiento (ADM-4·v3.2) | Responsable del contrato + gestor + informática (+ control interno como invitado) | Semestral | Acta | 12 | 12 |
+| C2 | Informe anual de ejecución (ADM-4·v3.3) | Responsable del contrato | Anual | Informe | 6 | 6 |
+| C3 | Comprobación del sistema de gestión de IA (ADM-1·v3, modalidad B) | Responsable del contrato | Anual | Nota de comprobación | 3,5 | 4,5 |
+| C4 | Seguimiento de versiones sucesoras y fines de soporte (ADM-2·v3.6) | Responsable del contrato | Continuo, balance anual | Registro + acta | 4 | 4 |
+| C5 | Revisión del Plan Anual de Evolución Tecnológica y aprobación de hitos (ADM-10·v3) | Responsable + órgano de contratación | Anual | Acta + acuerdo | 7 | 7 |
+| C6 | Tramitación y recepción de peticiones de la bolsa (ADM-3·v3, bloque 2) | Responsable del contrato | Por petición ([X; se recomienda 20]/año) | Petición + acta | 20 | 20 |
+| C7 | Cierre anual de la bolsa (ADM-3·v3) | Responsable + unidad gestora | Anual | Cuadro acumulado | 3 | 3 |
+| C8 | Comprobación del depósito de código (ADM-11·v3) | — | — | — | **0**, por marcarse NO APLICA (VI.4.3) | **0** |
+| C9 | Comprobación del acceso de los órganos de control (ADM-12·v3) | Órgano interventor | Anual | Diligencia | 2 | 2 |
+| C10 | Autorización de altas y comprobación de la declaración de sistemas de IA (ADM-13·v3) | Responsable del contrato | Anual y por alta | Autorización escrita | 2 | 3 |
+| | **Subtotal de las cláusulas administrativas, descontada C8** | | | | **59,5** | **61,5** |
+| | **Total de ejecución de este expediente (B + C)** | | | | **117,5–141,5 h/año** | **177,5–217,5 h** |
 
-A lo anterior se añaden, **fuera del cómputo anual**: 8 horas en el año del ensayo de reversibilidad; entre 20 y 40 horas en el último año por la reversión efectiva; y, **por licitación y no por año**, entre **19 y 24 horas** de la demostración funcional de ADM-9·v3 con cinco licitadores, que es la cláusula más cara del catálogo en horas municipales.
+**Aritmética de los subtotales, para que pueda rehacerse.** El subtotal técnico es el de ADM-4·v3.5 sin variación, porque las siete cláusulas técnicas aplican y DT-2·v3 y DT-3·v3 ya estaban excluidas de aquella tabla. El subtotal administrativo es el de ADM-4·v3.5 —62,5 y 64,5 horas— menos las 3 horas de C8, que aquí es cero por estar ADM-11·v3 marcada NO APLICA: 59,5 y 61,5. Total de la duración ordinaria, 58 + 59,5 = 117,5 y 82 + 59,5 = 141,5; total del primer año, 116 + 61,5 = 177,5 y 156 + 61,5 = 217,5.
 
-Cinco filas se han añadido a la tabla de ADM-4·v3.5 porque las cláusulas DT-1·v3, DT-4·v3, DT-5·v3, DT-6·v3 y el cotejo del Inventario de Componentes están marcadas aplicables en VI.4.3 y su verificación no figura en aquella tabla. Se hace constar para que la fuente única se corrija en el mismo sentido.
+**Carga de licitación, que no es anual y no se suma a la anterior** (filas A1 a A3 de ADM-4·v3.5): apreciación de las equivalencias invocadas por los licitadores (DT-0·v3), **6–18 h**; ficha por criterio y hoja de comprobación del baremo (ADM-7·v3), **3–6 h**; y demostración funcional de ADM-9·v3 con cinco licitadores, **19–24 h**, que es la cláusula más cara del catálogo en horas municipales. **Subtotal por licitación: 28–48 h.**
 
-**Las cláusulas aplicables que no generan carga anual de ejecución, y dónde se comprueban**, para que ninguna quede sin actor: DT-0·v3, ADM-6·v3 y ADM-8·v3 se verifican **una sola vez, al aprobar el pliego**, por el órgano al que corresponda el informe jurídico preceptivo; ADM-7·v3 y ADM-9·v3, **en la licitación**, por la mesa de contratación, con la carga por expediente ya indicada; y ADM-5·v3 se activa **ante cada incumplimiento**, con unas 6 horas por expediente de penalidad. Todas ellas figuran con su verificador y su periodicidad en el Anexo I.
+**Fuera del cómputo anual**, por no ser recurrentes: entre **20 y 40 horas** en el último año por la reversión efectiva; unas **6 horas** por cada expediente de penalidad (ADM-5·v3); y entre **25 y 40 horas** por cada expediente de resolución. El ensayo de reversibilidad no se suma aparte: está dentro de la fila B6.
 
-Lectura honesta de esa cifra: con [X; se recomienda 10] contratos activos bajo este catálogo, la carga anual supera las 780 horas, del orden de **0,45 efectivos a jornada completa**. Es asumible si se planifica y es inasumible si se descubre a posteriori. Crear obligaciones esenciales que después nadie verifica es peor que no crearlas: convierte cada penalidad en una discusión sobre por qué no se detectó antes.
+**Sobre las cinco verificaciones que una versión anterior de este apartado presentaba como «añadidas».** DT-1·v3, DT-4·v3, DT-5·v3, DT-6·v3 y el cotejo del Inventario de Componentes **ya figuran** en la tabla de ADM-4·v3, epígrafe 5, como filas B1, B2, B3, B4 y B6. No se añaden aquí, y no procede corregir la fuente única en ese sentido: contarlas dos veces era el error.
 
-**Consecuencia de los umbrales del §7.9.2 de la Parte I.** La carga de este contrato supera las 40 horas al año, de modo que **se requiere la conformidad expresa del servicio verificador**, que se incorpora al expediente como documento propio (VI.4.10, fila 19) y se marca en la casilla correspondiente de la ficha del Anexo II. El umbral no se recalibra por el hecho de que el primer expediente lo supere: la alternativa prevista es incorporar menos cláusulas, en los términos de la versión mínima de ADM-4·v3.5.
+**Las cláusulas aplicables que no generan carga anual de ejecución, y dónde se comprueban**, para que ninguna quede sin actor: DT-0·v3, ADM-6·v3 y ADM-8·v3 se verifican **una sola vez, al aprobar el pliego**, por el órgano al que corresponda el informe jurídico preceptivo; ADM-7·v3 y ADM-9·v3, **en la licitación**, por la mesa de contratación, con la carga por expediente ya indicada; y ADM-5·v3 se activa **ante cada incumplimiento**, con la carga por expediente ya indicada. Todas ellas figuran con su verificador y su periodicidad en el Anexo I.
+
+Lectura honesta de esa cifra: con [X; se recomienda 10] contratos activos bajo este catálogo, la carga anual está entre **1.175 y 1.415 horas**, del orden de **0,7 a 0,9 efectivos a jornada completa**, que es la misma lectura que ADM-4·v3.5 hace para el catálogo completo. Es asumible si se planifica y es inasumible si se descubre a posteriori. Crear obligaciones esenciales que después nadie verifica es peor que no crearlas: convierte cada penalidad en una discusión sobre por qué no se detectó antes.
+
+**Consecuencia de los umbrales del §7.9.2 de la Parte I.** La carga de este contrato supera las 40 horas al año —las supera con holgura incluso en el extremo más favorable de la horquilla, 117,5 h—, de modo que **se requiere la conformidad expresa del servicio verificador**, que se incorpora al expediente como documento propio (VI.4.10, fila 19) y se marca en la casilla correspondiente de la ficha del Anexo II. Esa conformidad se firma sobre la horquilla completa de 117,5 a 141,5 horas al año, no sobre su extremo inferior. El umbral no se recalibra por el hecho de que el primer expediente lo supere: la alternativa prevista es incorporar menos cláusulas, en los términos de la versión mínima de ADM-4·v3.5.
 
 #### VI.4.9 Cómo se estrena ADM-12·v3
 
@@ -5800,7 +5891,11 @@ El caso de uso y su rúbrica se recogen aquí, y no en un anexo, porque son espe
 
 **Advertencia que debe constar en el PCAP:** el resultado de la demostración no acredita solvencia y **no puede fundar por sí solo la exclusión** del licitador. El criterio valora lo descrito por escrito, no el desempeño en sala; la sesión sólo comprueba la exactitud de lo descrito, que es la función que le atribuyen el art. 145.5.c) LCSP y la cláusula ADM-9·v3. La demostración se celebra sobre un entorno de pruebas o preproducción del licitador, sin exigir instalación en el Ayuntamiento.
 
-**Sobre en que se presentan las declaraciones verificables.** Las declaraciones de la memoria técnica que hayan de comprobarse en la sesión se presentan en el **sobre de criterios sujetos a juicio de valor**, aunque el criterio que las valore sea evaluable mediante fórmula. En otro caso, la sesión no puede versar sobre ellas: ADM-9·v3.5 impone celebrarla antes de abrir el sobre de criterios evaluables por fórmula, y una mesa que lo abriera antes de tiempo incurriría en un vicio que no se retrotrae.
+**Sobre en que se presenta cada declaración, y qué se comprueba en la sesión.** Cada declaración viaja en el sobre del criterio al que sirve, sin excepción. La memoria técnica y las declaraciones que sostienen los criterios sujetos a juicio de valor —C2, C4, **D** y E— van al **sobre de criterios sujetos a juicio de valor**. Las declaraciones que sostienen criterios evaluables por fórmula —la matriz de requisitos del criterio C1, la relación de funciones del bloque B del Apéndice técnico 2 del criterio A y la relación de procesos del criterio H— van al **sobre de criterios evaluables mediante fórmulas**, con el Cuadro de Precios Unitarios y el resto de la proposición sometida a ese régimen.
+
+En consecuencia, **la sesión de este apartado versa exclusivamente sobre el criterio D**, que es el único de juicio de valor al que sirve la demostración, y se celebra antes de abrir el sobre de fórmulas (ADM-9·v3.5). La exactitud de lo declarado para C1, A y H se comprueba **después**, ya abierto y valorado ese sobre, respecto del licitador propuesto como adjudicatario y en el trámite del artículo 150.2 de la LCSP, conforme al párrafo segundo del apartado 5 de ADM-9·v3; si resulta inexacta, la puntuación se rectifica aplicando la fórmula publicada sobre los elementos acreditados y, si cambia la clasificación, se propone al siguiente licitador.
+
+**Por qué se resuelve así y no al revés.** Llevar al sobre de juicio de valor las declaraciones de C1, A y H habría puesto 20 de los 100 puntos del baremo —8 + 8 + 4, todos ellos automáticos— en manos de quien todavía tenía que valorar los 24 puntos subjetivos. Eso es lo que el artículo 26 del Real Decreto 817/2009 impide al exigir sobre independiente «del resto de la proposición», y lo que el artículo 146.2 de la LCSP ordena en cuanto al orden de valoración. El vicio se produciría en el trámite de la mesa, donde no cabe retroacción: obligaría a repetir la licitación entera. Con el reparto anterior no hay contaminación posible, y los criterios automáticos no pierden comprobación: la conservan, diferida, reglada y sobre un solo licitador.
 
 ---
 
@@ -5885,8 +5980,8 @@ Instrumentos posibles, y su precepto: **P** prescripción técnica (arts. 124 a 
 | 4 | Conformidad con el ENS en la categoría que corresponda, y en la cadena de suministro | DT-6·v3 | P + acreditación | art. 2.3 y 38.1 RD 311/2022 | Responsable de seguridad · anual | CA, S adicional |
 | 5 | Reparto de papeles proveedor / responsable del despliegue y entrega de medios para la supervisión humana | DT-1·v3 | P | Reglamento (UE) 2024/1689, en su redacción vigente | Responsable del contrato · anual | CA |
 | 6 | Régimen de decisiones automatizadas y derecho a intervención humana | DT-1·v3 | P | art. 41 Ley 40/2015; art. 22 RGPD | Órgano del informe jurídico · al aprobar | CA |
-| 7 | Interfaz normalizada para agentes: **funciones mínimas** | DT-7·v3 + ET-1 | P | art. 126.5.a) LCSP | Informática · acta de aceptación, una vez | CA |
-| 8 | Interfaz normalizada: **funciones adicionales de lista cerrada** | ADM-7·v3 criterio A | CA (fórmula) | arts. 145.6 y 145.7 LCSP | Mesa · en la licitación | P, CEE |
+| 7 | Interfaz normalizada para agentes: **funciones mínimas** del bloque A del apartado de módulos y funciones del **Apéndice técnico 2 · Exigencias tecnológicas determinadas** | DT-7·v3 + ET-1 | P | art. 126.5.a) LCSP | Informática · acta de aceptación, una vez | CA |
+| 8 | Interfaz normalizada: **funciones adicionales ofertables** del bloque B del mismo apartado del **Apéndice técnico 2 · Exigencias tecnológicas determinadas**, comprometidas por encima de las mínimas del bloque A | ADM-7·v3 criterio A | CA (fórmula) | arts. 145.6 y 145.7 LCSP | Mesa · en la licitación | P, CEE |
 | 9 | Plazo máximo de puesta en producción de la interfaz | DT-9·v3 / ET-1 | P | — | Responsable del contrato · al vencimiento | CA |
 | 10 | Plazo **ofertado** inferior al máximo | ADM-7·v3 criterio B | CA (fórmula) | art. 145 LCSP | Mesa · en la licitación | P |
 | 11 | Operación autónoma supervisada dentro de límites configurables | ET-2 | P | — | Informática · acta, una vez | CA |
@@ -6139,10 +6234,12 @@ Función: sumar **el PCAP entero** —precio incluido— y avisar antes de publi
 
 *Objeto.* Entrega de una interfaz de acceso programático que exponga de forma segura los datos y funciones de los módulos contratados a asistentes y agentes de inteligencia artificial operados bajo control del Ayuntamiento. La interfaz se define por las funciones que debe prestar y no por el protocolo que emplee; se admite cualquier protocolo abierto y documentado que satisfaga los criterios de aceptación, correspondiendo al licitador acreditar la equivalencia conforme a la cláusula DT-0·v3.
 
+*Ámbito y sede única de la relación.* Los módulos alcanzados por esta exigencia, las funciones mínimas exigidas y, en bloque separado, las funciones adicionales que pueden ofertarse se relacionan de forma cerrada y numerada en el apartado de módulos y funciones de la interfaz normalizada que encabeza este mismo Apéndice técnico. **Esa relación es la única de este pliego sobre esta interfaz**: ningún otro documento del pliego contiene una relación distinta, y el exceso que valore el pliego de cláusulas administrativas particulares se mide exclusivamente sobre ella.
+
 *Plazo.* [X; se recomienda DOCE (12)] meses desde la formalización del contrato o, si fuera posterior, desde la puesta en producción del módulo correspondiente.
 
 *Criterios de aceptación.*
-1. La interfaz expone, como mínimo, las funciones de consulta relacionadas en el anexo técnico de este pliego, sobre los módulos allí identificados. Se acredita mediante inventario de funciones expuestas y ejecución de cada una de ellas en el entorno de pruebas.
+1. La interfaz expone, como mínimo, las funciones de consulta relacionadas como **funciones mínimas** en el apartado de módulos y funciones de este Apéndice técnico, sobre los módulos allí identificados, y además las **funciones adicionales** de ese mismo apartado que el adjudicatario haya comprometido en su oferta. Se acredita mediante inventario de funciones expuestas y ejecución de cada una de ellas en el entorno de pruebas.
 2. La autenticación y la autorización se integran con el directorio corporativo del Ayuntamiento. El control de acceso se diferencia por módulo, por operación y por ámbito de datos, y distingue las operaciones de consulta de las de escritura. Se acredita creando dos perfiles con permisos distintos y comprobando que cada uno accede sólo a lo suyo.
 3. Toda consulta y toda acción realizada a través de la interfaz queda registrada con identificación del agente actuante, de la persona usuaria responsable, de la marca temporal y de los datos afectados. El registro es exportable en formato abierto y se conserva conforme a la política municipal, por un período no inferior a [X; se recomienda VEINTICUATRO (24)] meses, en coherencia con el plazo que para el mismo registro fija la cláusula DT-7·v3, apartado 3.c).
 4. La documentación técnica de la interfaz está publicada y versionada, y comprende la especificación de las funciones, el modelo de permisos, el diccionario de datos y las instrucciones de despliegue.
@@ -6193,7 +6290,7 @@ Función: sumar **el PCAP entero** —precio incluido— y avisar antes de publi
 | ET-2, criterio 4: «Las actuaciones ejecutadas son reversibles, **o consta el procedimiento documentado** para revertir sus efectos» | La alternativa hace el criterio no binario: un documento describiendo un procedimiento no acredita que la reversión funcione | Se elimina la alternativa. Se acredita revirtiendo efectivamente una operación de cada tipo en la prueba de aceptación |
 | ET-2, criterio 3: suspensión «accionable por el Ayuntamiento **sin intervención del adjudicatario**» | En una solución operada por el adjudicatario, la exigencia leída literalmente es de imposible acreditación: todo el sistema está bajo su operación | Se reformula como capacidad concreta: función accionable desde la solución por un perfil municipal, sin solicitud ni aviso previo, con efecto en un plazo máximo verificable |
 | ET-3, criterio 1: registro «**inalterable por el propio adjudicatario**» | Exige acreditar una imposibilidad absoluta sobre un sistema que el propio adjudicatario administra. Un criterio de aceptación que nadie puede acreditar no protege: restringe la concurrencia | Se sustituye por tres controles verificables: modo sólo-anexado, ausencia de función de modificación o borrado selectivo en los perfiles de administración, y entrega periódica de copia con resumen criptográfico que permite al Ayuntamiento detectar alteraciones |
-| ET-1, criterio 1: relación de módulos abierta | El ámbito universal rompe la vinculación al objeto | La relación de módulos y de funciones mínimas se publica en el anexo técnico del pliego, cerrada |
+| ET-1, criterio 1: relación de módulos abierta | El ámbito universal rompe la vinculación al objeto | La relación de módulos, de funciones mínimas y de funciones adicionales ofertables se publica cerrada y numerada en el apartado inicial del Apéndice técnico 2 · Exigencias tecnológicas determinadas, que es su **única** sede en el pliego (Anexo XXV) |
 
 #### V.A.4 Procedimiento de revisión anual
 
@@ -6229,7 +6326,7 @@ Función: evitar el pliego contradictorio. Cuando una cláusula se marca NO APLI
 | **DT-6·v3** | Acreditación de conformidad de ADM-1·v3 · umbral de activación de ADM-11·v3: **ADM-11·v3 decae por completo**, porque la categoría ALTA en disponibilidad es una de las cuatro circunstancias acumulativas de su apartado 1 y la lista tasada de servicios no es una vía alternativa · fila de penalidades · casilla de la declaración responsable |
 | **DT-7·v3** | **ET-1, ET-2 y ET-3 completas** y su transcripción en el PPT · **criterios A y B del baremo** y recomposición del baremo antes de publicar el anuncio · caso de uso de la demostración, si versa sobre la interfaz · alcance de ADM-2·v3 · filas de penalidades · lista de obligaciones esenciales de ADM-6·v3 · apartado de la declaración responsable · Plan Anual de ADM-10·v3 en lo referido a la interfaz |
 | **DT-8·v3** | Contenido del depósito de ADM-11·v3 · vinculación del plazo de garantía al **acta de reversión (DT-8·v3, apartado 8) o, en su defecto, al vencimiento del plazo previsto en dicho apartado para levantarla** · filas de penalidades · lista de esenciales · apartado de la declaración responsable · referencias de ADM-8·v3 al inventario de componentes |
-| **DT-9·v3** | **Todo el Anexo V y su transcripción** · ADM-2·v3 completa (queda sin alcance) · ADM-3·v3 en lo referido a plazos del catálogo · **criterios A y B del baremo**, en cuanto miden el exceso sobre las exigencias del Anexo V · filas de penalidades · lista de esenciales · ADM-14·v3, que sólo opera sobre capacidades no determinadas en el catálogo |
+| **DT-9·v3** | **Todo el Anexo V y su transcripción** —esto es, el apartado 2 del Apéndice técnico 2, no el apartado 1, que lo exige DT-7·v3 por sí sola— · ADM-2·v3 completa (queda sin alcance) · ADM-3·v3 en lo referido a plazos del catálogo · filas de penalidades · lista de esenciales · ADM-14·v3, que sólo opera sobre capacidades no determinadas en el catálogo. **Los criterios A y B del baremo no decaen por esta sola marca**: miden sobre la relación de módulos y funciones del apartado 1 del Apéndice técnico 2 y sobre el plazo de DT-7·v3, apartado 5, y decaen únicamente si se marca NO APLICA DT-7·v3 |
 | **ADM-1·v3** (bloque de gobernanza de IA) | Casilla de la declaración responsable sobre obtención de la certificación · fila de penalidades · cuadro de certificaciones y equivalencias del Anexo XXI. **No afecta al criterio E**, que valora el plan del contrato y no la certificación |
 | **ADM-2·v3** | ADM-3·v3 en lo referido a plazos de adaptación · filas de penalidades por incumplimiento del catálogo · lista de esenciales · hitos de ADM-10·v3 |
 | **ADM-3·v3, bloque 2** (bolsa de evolutivos) | **Criterio F del baremo** (precio unitario ponderado) y recomposición del baremo antes de publicar el anuncio · Cuadro de Precios Unitarios, salvo que se conserve para ADM-14·v3 · partida correspondiente del presupuesto base de licitación y recálculo del valor estimado |
@@ -6400,7 +6497,7 @@ En ……………………, a …… de …………………… de 20…… (f
 
 ### ANEXO X · TABLA CONSOLIDADA DE PARÁMETROS
 
-Función: que nadie tenga que abrir una consulta para cada corchete. Todo parámetro de decisión económica, de calendario y de configuración del expediente aparece aquí **con valor recomendado por defecto**, con quién lo fija y con el caso en que debe moverse; los parámetros de trámite propios de cada cláusula administrativa están en el cuadro de cierre de la Parte III, según se indica al final del apartado X.1. Un catálogo de decisiones sin valores por defecto es un catálogo de retrasos.
+Función: que nadie tenga que abrir una consulta para cada corchete de decisión económica, de calendario o de configuración del expediente. Todos ellos aparecen aquí **con valor recomendado por defecto**, con quién lo fija y con el caso en que debe moverse. **Lo que este anexo no consolida** son los plazos y umbrales de trámite interno que cada cláusula administrativa fija dentro de su propio texto de pliego: su sede es la cláusula, y allí se consultan. El apartado X.1 cierra con la relación de cuáles son y dónde están. Un catálogo de decisiones sin valores por defecto es un catálogo de retrasos.
 
 **Regla de precedencia, que es la primera que hay que leer.** Esta tabla **reproduce** los valores que fijan las cláusulas; no los decide. Ante cualquier divergencia entre una fila de este anexo y el texto de la cláusula, **manda la cláusula**, y la fila se corrige.
 
@@ -6428,7 +6525,7 @@ Función: que nadie tenga que abrir una consulta para cada corchete. Todo parám
 | 16 | Peso del bloque de IA y tecnología en el baremo | ADM-7·v3 | Órgano de contratación | **25 % del total del PCAP recomendado; 40 % límite absoluto, no superable en ningún caso** (ADM-7·v3.1.4.a) | Bajar a 15 % cuando el componente tecnológico sea accesorio. Entre el 25 % y el 40 %, motivación expresa en la memoria de criterios. Por encima del 40 %, no cabe motivación: el baremo es inválido |
 | 17 | Peso del criterio de precio | ADM-7·v3 | Órgano de contratación | **40 %** | Ajustable, con el límite del 51 % de criterios cualitativos en prestaciones de carácter intelectual (art. 145.4) |
 | 18 | Suelo del plazo puntuable de entrega de la interfaz | ADM-7·v3 criterio B | Servicio técnico | **6 meses** | Evita que la puntuación premie plazos que nadie puede cumplir |
-| 19 | Bolsa de servicios evolutivos | ADM-3·v3, bloque 2 | Órgano de contratación, previo informe de Intervención | **5 % del importe del contrato**, en horas del Cuadro de Precios Unitarios | Nunca superior al 10 %. Sólo en contratos de desarrollo o mantenimiento de aplicaciones (art. 308.3 LCSP). Computa en el presupuesto base y en el valor estimado |
+| 19 | Bolsa de servicios evolutivos | ADM-3·v3, bloque 2, apartado 5 | Órgano de contratación, previo informe de Intervención | **5 % del presupuesto base de licitación de la duración inicial, sin IVA**, en horas del Cuadro de Precios Unitarios | Nunca superior al 10 % de esa misma base. Sólo en contratos de desarrollo o mantenimiento de aplicaciones (art. 308.3 LCSP). Si el contrato prevé prórrogas, el pliego dice **expresamente** si la bolsa se dota también para cada anualidad prorrogada y por qué importe. Está **dentro** del presupuesto base de licitación y, con él, en el valor estimado |
 | 20 | Porcentaje de la modificación prevista | ADM-14·v3 | Órgano de contratación, previo informe de Intervención | **0 %: por defecto no se incorpora.** Si se incorpora: «[X, en ningún caso superior al VEINTE] por ciento», con recomendación de **10** | Sólo cuando el catálogo no cubra necesidades identificadas, exista Cuadro de Precios Unitarios y el valor estimado resultante no cruce un umbral sin que el expediente lo asuma |
 | 21 | Umbral de activación del depósito de código | ADM-11·v3 | Órgano de contratación | **Las cuatro circunstancias del apartado 1 de ADM-11·v3, de concurrencia acumulativa**: (a) categoría ALTA en la dimensión de **disponibilidad**; (b) valor estimado superior a **300.000 €**; (c) servicio de la lista tasada (padrón, tributos, recaudación, contabilidad, gestión de expedientes, sede); y (d) estudio de mercado que acredite que no hay alternativa sustituible en menos de 6 meses | **En defecto de cualquiera de ellas, la cláusula se marca NO APLICA.** No son vías alternativas. Rebajar el umbral económico exige motivación en la memoria: el depósito tiene coste y va al presupuesto base |
 | 22 | Umbral de aplicación de la demostración funcional | ADM-9·v3 | Órgano de contratación | Valor estimado igual o superior a **200.000 €** | No cabe en el procedimiento abreviado y sólo cabe en el simplificado dentro de los topes de juicio de valor |
@@ -6459,7 +6556,7 @@ Función: que nadie tenga que abrir una consulta para cada corchete. Todo parám
 | 47 | Plazo de garantía | DT-8·v3.8 | Órgano de contratación | **12 meses** desde el acta de reversión o desde el vencimiento del plazo para levantarla | Ajustar al que el PCAP fije con carácter general para el tipo de contrato |
 | 48 | Plazos de subsanación citados en los cuadros de penalidades | ADM-5·v3 y cláusulas DT | Órgano de contratación | **15 o 30 días**, según el hecho | Alinear con los del PCAP: no dejar dos plazos distintos para el mismo hecho |
 
-**Qué no está aquí.** Los parámetros propios de cada cláusula administrativa que ya llevan su valor recomendado dentro del bloque de pliego correspondiente —plazos de audiencia, de requerimiento y de subsanación de ADM-4·v3, ADM-5·v3, ADM-6·v3 y ADM-11·v3— se consultan en el cuadro de cierre de la Parte III, que es su sede. Esta tabla recoge los parámetros de decisión económica, de calendario y de configuración del expediente.
+**Qué no está aquí, y dónde está.** Los plazos y umbrales de trámite interno de las cláusulas administrativas no se consolidan en esta tabla: **su sede es el texto de pliego de la cláusula que los fija**, con su valor recomendado, y allí se consultan y se mueven. Son cuatro, y ésta es la relación completa: **audiencia previa a la imposición de una penalidad**, ADM-5·v3, apartado 4; **umbral de penalidades acumuladas que obliga a valorar expresamente la resolución**, ADM-5·v3, apartado 5; **audiencia previa a la liberación del depósito de código**, ADM-11·v3, apartado 6; y **umbrales de duración y de valor estimado por debajo de los cuales no se constituye la Comisión de Seguimiento**, ADM-4·v3, epígrafe 7. No se duplican aquí a propósito: dos redacciones del mismo plazo es el defecto que la regla de precedencia de este anexo existe para evitar. Cuando un plazo de trámite **sí** figura en la tabla anterior —el mes de subsanación previo a la calificación del incumplimiento como esencial, fila 13—, la tabla lo reproduce y no lo decide: manda la cláusula.
 
 #### X.2 Umbrales y límites legales
 
@@ -6687,6 +6784,8 @@ Función: que quien ya haya redactado pliegos con la versión 2 sepa exactamente
 **Credencial verificable e identificador descentralizado.** Formatos de acreditación de atributos y de identidad que permiten su comprobación sin consultar al emisor.
 
 **Criptoagilidad.** Capacidad de un sistema para sustituir sus algoritmos criptográficos sin rehacer la aplicación.
+
+**Deep tech.** Rótulo de uso comercial con el que se agrupan las tecnologías nacidas de avances científicos o de ingeniería todavía poco maduros en el mercado. No tiene definición normalizada ni umbral que permita decir si una solución concreta lo es. Aparece en el título de este documento porque describe la materia de la que trata, y **no genera ninguna obligación**: lo que obliga es cada cláusula, por lo que el sistema debe hacer y por cómo se comprueba que lo hace.
 
 **Depósito de código (*escrow*).** Entrega del código y de la documentación de despliegue a un tercero, que sólo los libera al beneficiario si se produce un hecho previsto en el contrato. La entrega física del código no confiere por sí sola derecho a reproducirlo: hace falta la licencia.
 
@@ -7270,12 +7369,14 @@ Función: entregar los tres documentos que la cláusula ADM-9·v3 remite al anex
 **1. Relación cerrada y numerada de elementos verificables.**
 Sólo se verificarán los elementos de esta relación, y sólo en la medida en que el licitador los haya descrito por escrito en su oferta presentada en plazo. **Lo mostrado en la sesión y no descrito en la oferta no se valorará en ningún caso. Lo descrito en la oferta y no acreditado en la sesión se puntuará con cero en el subcriterio correspondiente.**
 
-| N.º | Elemento verificable | Criterio del baremo al que sirve (código publicado en el PCAP: **P · C1 · C2 · C3 · C4 · A · B · D · E · F · H**) | Qué se considerará acreditado |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| … | | | |
+Cada elemento indica el criterio al que sirve y el **momento** de su comprobación, que depende del tipo de ese criterio: los elementos que sirven a criterios sujetos a juicio de valor se comprueban en la sesión del apartado 3; los que sirven a criterios evaluables mediante la mera aplicación de fórmulas se comprueban **después de la apertura y valoración del sobre de criterios evaluables mediante fórmulas, y sólo respecto del licitador propuesto como adjudicatario**, en el trámite del artículo 150.2 de la LCSP.
+
+| N.º | Elemento verificable | Criterio del baremo al que sirve (código publicado en el PCAP: **P · C1 · C2 · C3 · C4 · A · B · D · E · F · H**) | Tipo del criterio (juicio de valor / fórmula) y momento de la comprobación | Qué se considerará acreditado |
+|---|---|---|---|---|
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
+| … | | | | |
 
 **2. Caso de uso.**
 Idéntico para todos los licitadores, publicado con este pliego y ejecutado sobre datos ficticios o anonimizados facilitados por el Ayuntamiento.
@@ -7300,6 +7401,7 @@ d) **Incidencias:** ante una incidencia técnica no imputable al licitador se ad
 e) **Prohibición de ampliar la oferta:** no se admitirá, ni se hará constar en acta a efectos de valoración, manifestación oral alguna que amplíe, aclare, rectifique o complete la oferta escrita.
 f) **Incomparecencia:** no determina la exclusión. Los elementos declarados y no acreditados se puntúan con cero.
 g) **Deslinde:** el resultado de la demostración no acredita la solvencia técnica y **no puede fundar por sí solo la exclusión** del licitador.
+h) **Alcance de la sesión:** la sesión versa **exclusivamente sobre los elementos de la relación cerrada que sirven a criterios sujetos a juicio de valor**. Los elementos que sirven a criterios evaluables mediante fórmulas no se comprueban en ella: su exactitud se comprueba, respecto del licitador propuesto como adjudicatario, en el trámite del artículo 150.2 de la LCSP, por medios documentales y, sólo cuando el órgano de contratación motive que la documentación no resuelve la duda, mediante una sesión celebrada con este mismo guion. Si de esa comprobación resulta que una declaración no es exacta, la puntuación se rectifica aplicando la fórmula publicada sobre los elementos efectivamente acreditados.
 
 **4. Rúbrica del criterio de juicio de valor al que sirve la demostración.**
 Se valora **lo descrito en la memoria técnica presentada en plazo**. La demostración confirma o retira estos puntos; no puede añadir ninguno.
@@ -7315,7 +7417,7 @@ Se valora **lo descrito en la memoria técnica presentada en plazo**. La demostr
 **Regla de aplicación.** Los puntos asignados conforme a esta rúbrica se **retiran** en el subcriterio correspondiente respecto de cada tarea descrita y no acreditada en la sesión.
 
 **5. Matriz de declaración del licitador.**
-Se presenta cumplimentada **con la oferta**, en el sobre de criterios sujetos a juicio de valor, aunque el criterio al que sirvan sea evaluable mediante fórmula. Sin matriz cumplimentada, los elementos no se consideran declarados.
+Se presenta cumplimentada **con la oferta** y **desdoblada por sobres**: los elementos que sirven a criterios sujetos a juicio de valor, en el sobre de criterios sujetos a juicio de valor; los que sirven a criterios evaluables mediante la mera aplicación de fórmulas, en el sobre de criterios evaluables mediante fórmulas, junto con el resto de la proposición sometida a ese régimen (artículos 26 y 30.2 del Real Decreto 817/2009 y artículo 146.2 de la LCSP). Sin matriz cumplimentada, los elementos no se consideran declarados.
 
 | N.º del elemento | ¿Se declara? | Apartado y página de la memoria técnica donde se describe | Función o módulo que lo resuelve |
 |---|---|---|---|
@@ -7338,7 +7440,7 @@ De cada sesión se levanta acta escrita detallada, en el mismo acto, con el cont
 > **Observaciones del licitador, que se hacen constar a su instancia:** ……………………
 > Firmas de los asistentes y del secretario de la mesa.
 
-**7. Regla de cierre.** La valoración resultante se documenta antes de la apertura del sobre de criterios evaluables mediante fórmulas. Una demostración cuya puntuación se cierre después de conocidos los precios no admite retroacción.
+**7. Regla de cierre.** La valoración de los criterios sujetos a juicio de valor se documenta **antes** de la apertura del sobre de criterios evaluables mediante fórmulas. Una valoración de juicio de valor que se cierre después de conocidos los precios no admite retroacción. La comprobación de los elementos que sirven a criterios evaluables mediante fórmulas, practicada conforme a la letra h) del apartado 3, es posterior a esa apertura y no altera el orden de valoración: esos criterios son reglados y su puntuación resulta de aplicar la fórmula publicada a los elementos acreditados.
 :::
 
 **Notas al redactor, fuera del texto que se copia al pliego.**
@@ -7515,21 +7617,22 @@ Función: resolver el caso que el resto del documento no cubre. La tabla de corr
 
 ### ANEXO XXV · REGLA DE COMPOSICIÓN Y NUMERACIÓN DE LOS APÉNDICES TÉCNICOS DEL PLIEGO
 
-Función: evitar que tres cláusulas técnicas remitan cada una a «el apéndice de este pliego» sin que nadie diga cuántos son ni cómo se numeran. Las cláusulas DT-4·v3, DT-7·v3 y DT-9·v3 exigen cada una un apéndice distinto, y el Anexo XIX de este catálogo añade un cuarto. Un pliego con cuatro apéndices sin rotular produce remisiones que no resuelven.
+Función: evitar que tres cláusulas técnicas remitan cada una a «el apéndice de este pliego» sin que nadie diga cuántos son ni cómo se numeran. Las cláusulas DT-4·v3, DT-7·v3 y DT-9·v3 exigen apéndice, y el Anexo XIX de este catálogo añade uno más. Un pliego con apéndices sin rotular produce remisiones que no resuelven.
+
+**Una sola sede para la interfaz normalizada.** DT-7·v3 y DT-9·v3 versan sobre el mismo elemento —los módulos y las funciones de la interfaz normalizada— y comparten un **único apéndice**. La versión anterior de esta regla les daba uno a cada una, con el resultado de que un pliego montado al pie de la letra tenía **dos relaciones cerradas sobre la misma interfaz** y el criterio de adjudicación A no decía respecto de cuál se medía el exceso ofertado: indeterminación del término de comparación de un criterio automático (arts. 145.5.b y 145.5.c LCSP) y el vicio que la regla V.A.1.7 del Anexo V declara inadmisible. Los módulos, las funciones mínimas y las funciones adicionales ofertables se relacionan **exclusivamente** en el apartado inicial del Apéndice técnico 2, delante de la transcripción del Catálogo del ejercicio.
 
 **Regla de composición del PPT.** Todo pliego de prescripciones técnicas que incorpore cláusulas de este catálogo se compone de: (a) el cuerpo del pliego; (b) los apéndices técnicos que siguen, en este orden y con esta rotulación; y (c) los que el objeto del contrato exija además, numerados a continuación.
 
 | N.º | Rótulo | Contenido | Cláusula que lo exige | Se suprime si… |
 |---|---|---|---|---|
 | **Apéndice técnico 1** | **Procesos automatizables** | Lista **cerrada y numerada** de los procesos cuya automatización se exige como mínimo, y de los que pueden ofertarse por encima del mínimo, separados en dos bloques | DT-4·v3 | DT-4·v3 se marca NO APLICA |
-| **Apéndice técnico 2** | **Módulos y funciones de la interfaz normalizada** | Relación cerrada de los módulos sobre los que se expone la interfaz y de las funciones mínimas exigidas, separando las adicionales que puedan ofertarse | DT-7·v3 | DT-7·v3 se marca NO APLICA |
-| **Apéndice técnico 3** | **Exigencias tecnológicas determinadas** | Transcripción física del Catálogo de Exigencias Tecnológicas del ejercicio, con su versión y su fecha, recortado a los módulos del contrato | DT-9·v3 y Anexo V | DT-9·v3 se marca NO APLICA |
-| **Apéndice técnico 4** | **Vigencia normativa de las exigencias de este pliego** | El extracto del Anexo XIX, con su fecha de corte | DT-1·v3 | No se incorpora ninguna cláusula que distinga entre obligación legal y exigencia contractual anticipada |
+| **Apéndice técnico 2** | **Exigencias tecnológicas determinadas** | Dos apartados, en este orden: (i) relación cerrada y numerada de los módulos sobre los que se expone la interfaz, de las **funciones mínimas** exigidas y, en bloque separado, de las **funciones adicionales ofertables**, que es la única base del criterio A; y (ii) transcripción física del Catálogo de Exigencias Tecnológicas del ejercicio, con su versión y su fecha, recortado a los módulos del contrato | DT-7·v3, DT-9·v3 y Anexo V | **Ambas** se marcan NO APLICA. Si sólo se marca NO APLICA DT-7·v3, decae el apartado (i); si sólo se marca NO APLICA DT-9·v3, decae el apartado (ii). El apéndice conserva rótulo y número en los dos casos |
+| **Apéndice técnico 3** | **Vigencia normativa de las exigencias de este pliego** | El extracto del Anexo XIX, con su fecha de corte | DT-1·v3 | No se incorpora ninguna cláusula que distinga entre obligación legal y exigencia contractual anticipada |
 
 **Reglas de aplicación.**
 
 1. **Los apéndices no se renumeran al suprimir uno.** Si el Apéndice técnico 1 no procede, el pliego empieza por el 2 y lo hace constar en el índice: «Apéndice técnico 1 · No procede». Renumerar rompe todas las remisiones del cuerpo del pliego, que es exactamente el defecto que este anexo evita.
-2. **Las remisiones del cuerpo del pliego citan el rótulo completo**, no sólo el número: «el Apéndice técnico 2 · Módulos y funciones de la interfaz normalizada».
+2. **Las remisiones del cuerpo del pliego citan el rótulo completo**, no sólo el número: «el Apéndice técnico 2 · Exigencias tecnológicas determinadas». Cuando la remisión se refiera sólo a una parte del apéndice, se cita también el apartado: «el apartado de módulos y funciones de la interfaz normalizada del Apéndice técnico 2 · Exigencias tecnológicas determinadas».
 3. **Los anexos del PCAP se numeran por separado y con numeración propia del expediente.** No se emplea la numeración romana de este catálogo para los anexos de un pliego: el Anexo IX de este catálogo es la declaración de conflicto de interés y el X es la tabla de parámetros, y un redactor que siga esa remisión aterriza en el documento equivocado. En el articulado, las remisiones a anexos del pliego se escriben **«Anexo [ ] de este pliego»**, y el número lo pone el redactor del expediente.
 4. **Todo apéndice se transcribe físicamente.** Ninguno se incorpora por remisión a un documento municipal revisable.
 

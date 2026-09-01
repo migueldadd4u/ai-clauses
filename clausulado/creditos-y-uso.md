@@ -188,9 +188,12 @@ evitar:
   seguridad, órganos competentes, umbrales económicos y régimen aplicable cambian de una
   administración a otra.
 
-Quien tenga prisa, que empiece por la Parte 0, que está escrita para leerse en veinte minutos y para
-entenderse sin conocimientos previos de contratación ni de tecnología. Quien vaya a redactar un
-pliego, que lea además la Parte V y rellene la ficha de aplicabilidad antes de copiar una sola línea.
+Quien tenga veinte minutos, que lea el **resumen en dos páginas** que se publica junto a este
+documento: es el texto escrito para leerse en ese tiempo. Quien tenga una hora,
+que lea la **Parte 0** entera, que está escrita para entenderse sin conocimientos previos de
+contratación ni de tecnología; y si sólo dispone de la mitad de ese tiempo, sus apartados 0.1, 0.2 y
+0.3. Quien vaya a redactar un pliego, que lea además la Parte V y rellene la ficha de aplicabilidad
+antes de copiar una sola línea.
 
 Y una petición, que es lo único que se pide a cambio: si su administración usa este material, lo
 mejora, o pierde un recurso con él, cuéntelo. Este documento mejorará con los recursos que pierda,
