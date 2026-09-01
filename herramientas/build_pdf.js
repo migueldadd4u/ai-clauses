@@ -23,7 +23,8 @@ const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 let md = fs.readFileSync(SRC, 'utf8');
 
 /* portada */
-const corte = md.search(/^## (PARTE|ANEXO)/mi);
+// idem: la sección de autoría y declaración de uso de IA no puede quedarse fuera
+const corte = md.search(/^## (AUTORÍA|PARTE|ANEXO)/mi);
 const portadaMd = corte > 0 ? md.slice(0, corte) : '';
 const cuerpoMd = corte > 0 ? md.slice(corte) : md;
 

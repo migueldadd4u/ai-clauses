@@ -29,7 +29,10 @@ const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&
 let md = fs.readFileSync(SRC, 'utf8');
 
 // la portada (todo lo anterior al primer "## PARTE") no va a la web: ya está en la home
-const primero = md.search(/^## (PARTE|ANEXO)/mi);
+// el corte tiene que dejar dentro la sección de autoría y declaración de uso de
+// IA, que va antes de la Parte 0 y que el art. 50.5 del Reglamento (UE) 2024/1689
+// exige mostrar «de manera clara y distinguible» en la primera exposición
+const primero = md.search(/^## (AUTORÍA|PARTE|ANEXO)/mi);
 const portada = primero > 0 ? md.slice(0, primero) : '';
 md = primero > 0 ? md.slice(primero) : md;
 
