@@ -399,7 +399,7 @@ La regla no es «justificar más» una carga inasumible. Es reducir el número d
 <!-- PAGINA 18 -->
 # El piloto: cómo elegirlo y por dónde empezar
 
-La Parte VI responde a la objeción de que el catálogo es demasiado abstracto. Lo hace en dos piezas: el **método** para elegir el contrato piloto, aplicable por cualquier administración, y un **ejemplo completo trabajado sobre un expediente simulado** —municipio, objeto, cifras y fechas construidos para el ejemplo, que no corresponden a ninguna licitación real, en curso ni en preparación—.
+La Parte VI responde a la tercera dificultad del §M1.1: que el grado de abstracción es demasiado alto mientras no se vea el catálogo funcionando sobre un caso. Lo hace en dos piezas: el **método** para elegir el contrato piloto, aplicable por cualquier administración, y un **ejemplo completo trabajado sobre un expediente simulado** —municipio, objeto, cifras y fechas construidos para el ejemplo, que no corresponden a ninguna licitación real, en curso ni en preparación—.
 
 ## Qué contrato sirve de piloto
 

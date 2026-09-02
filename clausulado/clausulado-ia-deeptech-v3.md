@@ -124,13 +124,15 @@ y no expresa la posición de la Corporación. Es un trabajo profesional de las c
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
-municipal y se ha sometido por escrito a la crítica de quien tendría que aplicarlo. Esa objeción
-interna —cuatro reproches concretos, que constan literalmente en el texto, en el §M1.5 de la Parte
-IV, citados sin identificar a su autor por no ser un informe registrado— es la que ha dado forma a
-esta versión: sin ella no existirían ni la doble vía de firma de la ficha, ni la exigencia de acuerdo
-del órgano de gobierno, ni el subconjunto mínimo de seis cláusulas para un primer expediente. Ese
-contraste con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de
-un clausulado de despacho.
+municipal, y su Parte IV empieza por nombrar **las cuatro dificultades** que quienes lo han trabajado
+han observado que suceden de verdad en la contratación pública (§M1.1) — que la necesidad todavía no
+la demanda el gestor; que el seguimiento real de los contratos es escaso y sólo mira el gasto; que el
+grado de abstracción es alto; y que hay muchos actores, y no sólo propios, que no han visto antes
+estas exigencias. Esas cuatro son las que han dado forma a esta versión: sin ellas no existirían ni
+la doble vía de firma de la ficha, ni la exigencia de acuerdo del órgano de gobierno, ni el
+subconjunto mínimo de seis cláusulas para un primer expediente. Un catálogo que no las nombre las
+encontrará igualmente el día que se aplique, y eso es lo que lo distingue de un clausulado de
+despacho.
 
 **Lo que expresamente no es cierto, y conviene decirlo para que nadie lo deduzca:** ningún órgano de
 contratación, de intervención ni de asesoría jurídica de ese Ayuntamiento —ni de ningún otro— se ha
@@ -171,7 +173,7 @@ sobre en qué:
 
 | Tarea | Aportación del sistema |
 |---|---|
-| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluida la objeción interna que estaba al final de un documento de trabajo y no en ningún informe. |
+| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluidas las dificultades que estaban anotadas al final de un documento de trabajo y no en ningún informe. |
 | **Investigación jurídica** | Localizar y leer la doctrina de los tribunales administrativos de recursos contractuales, los informes de las juntas consultivas y el articulado aplicable, sobre ocho frentes en paralelo. |
 | **Verificación** | Descargar cada resolución citada y comprobar dentro del documento original que dice lo que se le atribuye. |
 | **Crítica adversarial** | Someter cada versión al criterio simulado de un tribunal administrativo de recursos contractuales, del abogado de un licitador excluido, de un órgano de control interno, de quien redacta pliegos, de un lector no experto y de un periodista, y reescribir con sus objeciones. |
@@ -355,7 +357,7 @@ Las veinticuatro cláusulas, con el instrumento único que les asigna el Anexo I
 
 **En una frase.** Es un catálogo de cláusulas ya redactadas —con su justificación, su medio de prueba, su forma de verificación y su consecuencia— del que el redactor de un pliego toma únicamente las que la necesidad de *ese* expediente justifica, y deja fuera todas las demás.
 
-Las palabras que importan son **«del que se toma lo que ese expediente necesita»**. Un catálogo no se aplica: se usa. La versión 2.0 de este documento, de junio de 2026, se autodefinía como «clausulado tipo para su incorporación transversal en los pliegos […] de cualquier licitación del Ayuntamiento, con independencia del área gestora». Esa frase ha desaparecido y no vuelve. Era, literalmente, el motivo por el que la objeción interna del §M1.5 escribió que las cláusulas «nacen a partir de unas necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo artificioso al contrato».
+Las palabras que importan son **«del que se toma lo que ese expediente necesita»**. Un catálogo no se aplica: se usa. La versión 2.0 de este documento, de junio de 2026, se autodefinía como «clausulado tipo para su incorporación transversal en los pliegos […] de cualquier licitación del Ayuntamiento, con independencia del área gestora». Esa frase ha desaparecido y no vuelve. Era, literalmente, el motivo de la primera dificultad del §M1.1: unas cláusulas que nacen de necesidades que aún no demandan los gestores acaban resultando artificiosas al contrato.
 
 #### Lo que este documento NO es
 
@@ -381,7 +383,7 @@ Las palabras que importan son **«del que se toma lo que ese expediente necesita
 
 #### Cómo está construido
 
-Cada cláusula de las Partes II (técnicas, para el PPT) y III (administrativas, para el PCAP) tiene siempre los mismos siete epígrafes, en el mismo orden: **texto para el pliego · dónde va · necesidad y norma que la impone · cómo se acredita · cómo se verifica · consecuencia del incumplimiento · cuándo NO se aplica**. El texto que se copia va dentro de un recuadro delimitado; todo lo demás queda fuera y no debe acabar nunca en un pliego. Esa separación física es la respuesta a una de las quejas de la objeción interna del §M1.5: que el grado de abstracción del documento anterior era «muy elevado».
+Cada cláusula de las Partes II (técnicas, para el PPT) y III (administrativas, para el PCAP) tiene siempre los mismos siete epígrafes, en el mismo orden: **texto para el pliego · dónde va · necesidad y norma que la impone · cómo se acredita · cómo se verifica · consecuencia del incumplimiento · cuándo NO se aplica**. El texto que se copia va dentro de un recuadro delimitado; todo lo demás queda fuera y no debe acabar nunca en un pliego. Esa separación física es parte de la respuesta a la tercera dificultad del §M1.1: el grado de abstracción del documento anterior era demasiado alto.
 
 Los códigos de cláusula del documento anterior se conservan cuando la cláusula subsiste, pero **se escriben con versión**: `DT-7·v3`, `ADM-2·v3`. Hay pliegos ya redactados que citan los códigos de la versión 2.0, y su contenido no es el mismo. La equivalencia cláusula a cláusula está en el **Anexo XII**. Qué hacer con un contrato ya formalizado con la versión 2.0 está en el **Anexo XXIV**.
 
@@ -498,7 +500,7 @@ Este apartado va en la primera parte del documento y no escondido al final, porq
 
 Sobre el alcance de esa afirmación, y vale para todas las que este documento hace en el mismo sentido: es una **afirmación negativa** y no es demostrable de forma exhaustiva. Lo que se afirma es que la búsqueda descrita, en los repositorios enumerados y a la fecha de corte indicada, no ha localizado doctrina sobre estas materias. No se afirma que no exista en ningún repositorio. Quien conozca una resolución en contrario tiene con ello un argumento, y el catálogo tiene una corrección que hacer.
 
-**No se promete capacidad de seguimiento que el Ayuntamiento no tenga.** La objeción interna que se reproduce en la Parte IV, §M1.5, advirtió que «son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en el control del gasto». La advertencia se ha incorporado como regla: **no se incorpora a un pliego ninguna cláusula cuya verificación no tenga actor municipal designado y periodicidad**, y cada cláusula de este documento declara, en su epígrafe *cómo se verifica*, la carga estimada al año. Crear obligaciones esenciales que después nadie comprueba es peor que no crearlas, y la Intervención lo hará constar.
+**No se promete capacidad de seguimiento que el Ayuntamiento no tenga.** La segunda de las dificultades del §M1.1 es que son pocos los contratos en los que se haga un seguimiento real, y el que se hace se basa casi exclusivamente en el control del gasto». La advertencia se ha incorporado como regla: **no se incorpora a un pliego ninguna cláusula cuya verificación no tenga actor municipal designado y periodicidad**, y cada cláusula de este documento declara, en su epígrafe *cómo se verifica*, la carga estimada al año. Crear obligaciones esenciales que después nadie comprueba es peor que no crearlas, y la Intervención lo hará constar.
 
 #### Lo que sí se promete
 
@@ -813,9 +815,9 @@ Tres supuestos que son mayoría en el volumen de expedientes de un ayuntamiento 
 
 ### §3. Armazón normativo de la necesidad
 
-Esta es la sección más importante del documento. Responde a la única objeción que bloquea la aprobación: *«[las cláusulas] nacen a partir de unas necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo artificioso al contrato»*.
+Esta es la sección más importante del documento. Responde a la dificultad que puede bloquear la aprobación de un expediente, la primera de las cuatro del §M1.1: unas cláusulas que nacen de necesidades que aún no demandan los gestores acaban resultando artificiosas al contrato.
 
-La objeción es correcta en el estándar y equivocada en el sujeto, y además **sólo cubre una parte del catálogo**. Las tres cosas se resuelven aquí.
+La dificultad es correcta en el estándar y equivocada en el sujeto, y además **sólo cubre una parte del catálogo**. Las tres cosas se resuelven aquí.
 
 #### 3.1 El estándar legal: qué exige exactamente la ley
 
@@ -2219,7 +2221,7 @@ El régimen de consecuencias —condición especial de ejecución, plazos, medio
 
 #### 3. Necesidad y norma que la impone
 
-El problema que esta cláusula resuelve es el que señalaron a la vez la objeción interna del §M1.5 y el asesor externo: una obligación de «mantenerse actualizado» remite a una evolución del mercado que hoy se desconoce. El licitador no puede valorarla —o encarece su oferta con una provisión de riesgo, o la ignora y discutirá su alcance en ejecución— y la Administración no puede exigirla, porque acreditar en un procedimiento contradictorio que una determinada tecnología era necesaria es una apreciación técnica que no resiste a un contratista bien asesorado.
+El problema que esta cláusula resuelve lo señalan a la vez el §M1.1 y el asesor externo: una obligación de «mantenerse actualizado» remite a una evolución del mercado que hoy se desconoce. El licitador no puede valorarla —o encarece su oferta con una provisión de riesgo, o la ignora y discutirá su alcance en ejecución— y la Administración no puede exigirla, porque acreditar en un procedimiento contradictorio que una determinada tecnología era necesaria es una apreciación técnica que no resiste a un contratista bien asesorado.
 
 El anclaje legal de la solución está en dos preceptos:
 
@@ -2763,7 +2765,7 @@ Y la otra mitad de la pregunta: **el precio no deja de ser cierto por eso**. Es 
 
 ### III.4 · ADM-4·v3 — Seguimiento: responsable del contrato, Comisión de Seguimiento y verificación anual
 
-*(Reescribe ADM-4 de v2. Aquí es donde este catálogo responde al corolario más incómodo de la objeción interna: «son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en el control del gasto, ni eficiencia, ni eficacia».)*
+*(Reescribe ADM-4 de v2. Aquí es donde este catálogo responde al corolario más incómodo de la segunda dificultad del §M1.1: son pocos los contratos en los que se haga un seguimiento real, y el que se hace mira el gasto y no la eficacia ni la eficiencia.)*
 
 #### 1. Texto para el pliego
 
@@ -3726,7 +3728,7 @@ PCAP, cláusula de condiciones especiales de ejecución, **y en el anuncio de li
 
 **Bloque complementario y acotado — art. 33.4.d) del RD 424/2017**, exclusivamente para la información sobre operaciones, saldos contables y costes del tercero en actuaciones de auditoría pública, supuesto en el que la potestad frente al contratista sólo existe si el contrato la prevé. Ese es el contenido del apartado 5, y sólo ese.
 
-**Por qué la necesidad no es artificiosa.** El art. 28.1 LCSP no dice que la necesidad la formule un gestor: dice que la naturaleza y extensión de las necesidades «deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria». Quien las determina es el órgano de contratación. Aquí, además, la necesidad se declaró por escrito desde dentro de la propia Administración municipal, en el comentario interno de junio de 2026 al clausulado de la versión 2.0. **Ese comentario no es un informe**: es un comentario incorporado al final de un documento de trabajo, y se cita sin identificar a su autor ni al órgano del que procede. Se cita como lo que es, y **entero**, incluida la parte que juega en contra: «Siendo este seguimiento parte de las obligaciones de control [del órgano de control interno] no podemos pedir que se implementen estos instrumentos; lo que sí entraría dentro de [su] ámbito sería la explotación de los datos al mismo rango que el gestor, al objeto de cumplir con [sus] obligaciones legales». Antes de aplicar el catálogo a un expediente debe recabarse un **informe firmado y fechado** que sustituya a ese comentario; mientras no exista, la memoria no puede referirse a él como informe.
+**Por qué la necesidad no es artificiosa.** El art. 28.1 LCSP no dice que la necesidad la formule un gestor: dice que la naturaleza y extensión de las necesidades «deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria». Quien las determina es el órgano de contratación. Aquí, además, la necesidad está identificada en la segunda dificultad del §M1.1, y con ella la distinción que la hace defendible: una administración no debería exigir a su contratista instrumentos de seguimiento que después no va a usar, pero sí entra de lleno en el ámbito de quien controla poder explotar los datos al mismo rango que el gestor, para cumplir con sus obligaciones legales. Esa distinción es la que sostiene el alcance de esta cláusula. Antes de aplicar el catálogo a un expediente debe recabarse de los servicios competentes el **informe firmado y fechado** que corresponda, y es ese informe el que se cita en la memoria justificativa.
 
 **Relación directa, clara y proporcional (art. 116.4.e LCSP):** directa, porque los datos cuyo acceso se exige son los generados por la propia prestación contratada; clara, porque su contenido queda determinado en la cláusula y su número acotado; proporcional, porque no impone al adjudicatario desarrollo alguno distinto de exponer, en formato reutilizable, información que ya produce y almacena para prestar el servicio.
 
@@ -4022,15 +4024,84 @@ Tres consecuencias, y las tres gobiernan todo lo que sigue.
 
 ### M1 · Necesidad e idoneidad (arts. 28.1 y 116.4 LCSP)
 
-#### M1.1 · El problema real, dicho sin rodeos
+#### M1.1 · Las cuatro dificultades que hay que vencer
 
-La objeción más seria que ha recibido este catálogo no viene de un licitador. Viene de dentro. En el comentario interno que se incorporó al final del clausulado de junio de 2026 se escribió:
+Este catálogo nace de un lema: **hacer más ágil y efectiva la contratación pública**, obligados por
+unas tecnologías que las administraciones tienen que utilizar si quieren ser eficaces y eficientes.
+Y nace también del reconocimiento de cuatro dificultades reales, que no son objeciones de nadie en
+particular: son **lo que quienes hemos trabajado en esta redacción hemos observado que sucede en la
+contratación de las administraciones públicas**. Se enuncian aquí sin suavizarlas, porque un catálogo
+que no las nombre las encontrará igualmente el día que se aplique, y entonces ya no habrá respuesta
+preparada.
 
-> «La mayor de las pegas que veo para poder aplicar estas cláusulas es que nacen a partir de unas necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo artificioso al contrato. Primero siempre surge la necesidad y las cláusulas del contrato es la forma de obligar al contratista para que satisfaga esa necesidad.»
+Las cuatro han cambiado la arquitectura del catálogo, y no sólo su redacción.
 
-Esa objeción no es de oportunidad: es, traducida al lenguaje de la ley, una objeción de art. 116.4.e) LCSP, que exige que la relación entre la necesidad y el objeto del contrato sea *«directa, clara y proporcional»*. Es también, exactamente, el motivo por el que un recurrente pediría la anulación de un pliego. Por eso se responde aquí, y se responde con instrumentos, no con retórica.
+**Primera · La necesidad todavía no la demanda el gestor.**
 
-Ese texto **no es un informe**. Es un comentario incorporado al final de un documento de trabajo, y así se cita en todo el catálogo: entero, con su naturaleza expresada y con la parte que juega en contra, en el **§M1.5**, que es la única sede de su cita completa. Las demás partes remiten a ella.
+La mayor de las pegas que podría tener este catálogo para poder aplicar estas cláusulas sería que
+nacen a partir de unas necesidades que aún no han sido demandadas suficientemente por los gestores
+pertinentes y, si no es así, no dejan de ser algo artificioso al contrato. Primero siempre surge la
+necesidad, y las cláusulas de un contrato son la forma de obligar al contratista a que satisfaga esa
+necesidad. Lo que se pretende aquí es **adelantarnos a esa necesidad**, que siendo urgente y
+existente es aún desconocida y no suficientemente valorada para gran parte de los gestores de las
+administraciones públicas.
+
+Esta dificultad no es de oportunidad: es, traducida al lenguaje de la ley, una cuestión de art.
+116.4.e) LCSP, que exige que la relación entre la necesidad y el objeto del contrato sea *«directa,
+clara y proporcional»*. Es también, exactamente, el motivo por el que un recurrente pediría la
+anulación de un pliego. Por eso se responde aquí, y se responde con instrumentos, no con retórica.
+
+**Qué se ha hecho:** los tres orígenes de necesidad del §M1.2, la **doble vía de firma** del §M1.3 y
+la regla de cierre —cláusula sin ficha firmada, NO APLICA—. Y el núcleo del catálogo pasa a exigir un
+**acuerdo del órgano de gobierno** (Anexo VIII), sin el cual no se sostiene.
+
+**Segunda · El seguimiento real de los contratos es escaso, y sólo mira el gasto.**
+
+Son pocos los contratos en los que se haga un seguimiento real, y el que se hace se basa casi
+exclusivamente en el control del gasto: ni eficacia ni eficiencia. Es justamente en ese ámbito donde
+la explotación de los datos de ejecución sería más útil. Pero hay que separar dos cosas que se
+confunden: **una administración no debería exigir a su contratista instrumentos de seguimiento que
+después no va a usar**; lo que sí entra de lleno en el ámbito de quien controla es poder **explotar
+los datos al mismo rango que el gestor**, para cumplir con sus obligaciones legales.
+
+**Qué se ha hecho:** **ADM-12·v3** está redactada exactamente sobre esa distinción — paridad de
+acceso con el gestor, sin tarificación, con diccionario de datos, en formato abierto y sostenida en
+prórrogas y en la reversión. Y **ADM-10·v3 se degrada**: deja de ser fuente autónoma de obligaciones
+esenciales, porque no debe imponerse al contratista lo que la propia casa no va a verificar. La regla
+de verificabilidad municipal está en el §M4.4.
+
+**Tercera · El grado de abstracción es demasiado alto.**
+
+Un catálogo doctrinal no se aplica solo. Mientras no se vea funcionando sobre un expediente concreto,
+sus cláusulas se leen como una declaración de intenciones, y la forma de quitarse las dudas sobre su
+aplicabilidad real es **incluirlas en alguna contratación ya prevista en la que su aplicación no
+resulte excesivamente compleja**, a modo de experimento piloto.
+
+**Qué se ha hecho:** la **Parte VI entera** — el método para elegir el contrato piloto (§VI.2.1), el
+**subconjunto mínimo de seis cláusulas** con el que empezar un primer expediente (§VI.2.2), el
+ejemplo completo trabajado sobre un expediente simulado, y el compromiso de evaluación con dos
+informes (§VI.8).
+
+**Cuarta · En la contratación hay muchos actores, y no sólo propios.**
+
+Un pliego no lo leen únicamente los servicios de la casa. Lo leen licitadores, asociaciones
+sectoriales y, si hay recurso, un tribunal. Y en su mayoría **no han visto antes estas exigencias**,
+de modo que hay que prever cómo van a reaccionar antes de publicarlas, no después.
+
+**Qué se ha hecho:** el **§M1.6**, que existe por esta razón — consulta preliminar del mercado una
+vez al año, publicación del catálogo y de su Anexo V antes de incorporarlos a ningún pliego, plazo de
+presentación por encima del mínimo legal la primera vez, y gradualidad. Con una regla de cierre: si
+el mercado no puede cumplir una exigencia en el plazo previsto, **la exigencia no entra en el pliego**.
+
+---
+
+**Una advertencia sobre el valor de esta sección, que conviene dejar escrita.** Lo anterior es el
+resultado de una deliberación entre quienes han trabajado el documento, no un informe de ningún
+órgano ni la posición de ninguna administración. **Ningún órgano de contratación, de intervención ni
+de asesoría jurídica se ha pronunciado sobre este catálogo**, y este documento no les atribuye
+posición alguna, ni a favor ni en contra. Antes de incorporar el catálogo a un expediente concreto
+debe recabarse de los servicios competentes el **informe firmado y fechado** que corresponda, y es
+ese informe —no esta sección— el que se cita en la memoria justificativa del expediente.
 
 #### M1.2 · La necesidad tiene tres orígenes posibles, y sólo uno es el gestor
 
@@ -4074,87 +4145,15 @@ Es el ejemplo trabajado de necesidad de origen normativo, y sostiene la cláusul
 
 **Advertencia de rigor, para que la cláusula no se caiga por exceso de fundamento:** el art. 33.4.d) del RD 424/2017 regula la ejecución de actuaciones de **auditoría pública** frente a **entidades auditadas** y ampara información sobre operaciones, saldos y costes del tercero. No es, por sí solo, título para exigir acceso funcional permanente a la aplicación. Por eso ADM-12·v3 se ancla en el bloque de control interno (arts. 4.3, 6.3, 6.4, 6.7, 20.3, 30.1 y 30.3 del RD 424/2017, arts. 214 y 220 a 222 TRLRHL, y DA 3.ª.3 LCSP) y cita el art. 33.4.d) sólo para lo que ese precepto ampara.
 
-#### M1.5 · La objeción interna de junio de 2026: qué es, cómo se cita y qué dice entera
-
-**Qué es, con precisión, y cómo debe citarse.** Es un **comentario interno de trabajo**, incorporado
-al final del clausulado de la versión 2.0 de junio de 2026 y completado después por escrito. **No es
-un informe**: no está registrado, no está firmado como tal y no ha seguido el circuito de un informe
-preceptivo. En consecuencia:
-
-- **No se cita como informe de ningún órgano**, ni se le atribuye a uno en un apartado y a otro en
-  otro, que es lo que hacían las versiones anteriores de esta memoria.
-- **Se cita sin identificar a su autor ni al órgano del que procede.** No es una cautela de cortesía:
-  un comentario de trabajo no registrado no compromete a nadie, y atribuirlo públicamente a un
-  servicio municipal le daría un valor institucional que no tiene. Las menciones a órganos concretos
-  que aparecían en el texto original se sustituyen por su denominación funcional entre corchetes.
-- **No procede de la unidad de contratación del Ayuntamiento**, que a la fecha de corte de este
-  documento **no se ha pronunciado** sobre este catálogo. Este documento no le atribuye posición
-  alguna, ni a favor ni en contra.
-- Y se cita **entera**, incluida la parte que juega en contra de este catálogo. Es la regla que se
-  aplica a sí mismo: la memoria no puede escoger de una objeción los trozos que le convienen.
-
-Ésta es, por tanto, la única sede de su cita completa. Todo el resto del documento remite aquí.
-
-**Primer bloque · el origen de la necesidad** (respondido en §M1.2 a §M1.6):
-
-> «La mayor de las pegas que veo para poder aplicar estas cláusulas es que nacen a partir de unas
-> necesidades que no se demandan por ninguno de los gestores y si no es así no dejan de ser algo
-> artificioso al contrato. Primero siempre surge la necesidad y las cláusulas del contrato es la
-> forma de obligar al contratista para que satisfaga esa necesidad.»
-
-**Segundo bloque · el seguimiento real y el acceso al dato** (respondido en §M4.4 y en ADM-12·v3):
-
-> «Son pocos los contratos en los que se haga un seguimiento real y este se basa exclusivamente en
-> el control del gasto, ni eficiencia, ni eficacia, es en ese ámbito en que la explotación de los
-> datos sería sumamente útil, pero siendo este seguimiento parte de las obligaciones de control
-> [del órgano de control interno] **no podemos pedir que se implementen estos instrumentos**; lo que
-> sí entraría dentro de [su] ámbito sería la explotación de los datos **al mismo rango que el
-> gestor**, al objeto de cumplir con [sus] obligaciones legales.»
-
-**Tercer bloque · la abstracción y la petición de un piloto** (respondido en toda la Parte VI):
-
-> «Me gustaría ponerlo a funcionar en algún contrato municipal a modo de experimento piloto, ya que
-> el grado de abstracción lo veo muy elevado. Y si yo lo veo así y no lejos de oponerme me gustaría
-> verlo funcionar […]. A modo de conclusión, las veo demasiado abstractas quizás porque son
-> demasiado innovadoras y creo que la mejor opción para quitarnos dudas de su aplicabilidad real
-> sería intentar incluirlas en alguna contratación de las que ahora tengamos previstas y en las que
-> su aplicación no fuera excesivamente compleja.»
-
-**Cuarto bloque · los demás actores** (respondido en el §M1.7, que se añade por esta razón):
-
-> «En la contratación hay muchos actores y no solo propios y tendría que ver cómo reaccionar ante
-> unas exigencias que casi seguro no han visto antes.»
-
-**Cómo se ha tratado esta objeción, y por qué importa decirlo.** Las cuatro partes se han incorporado
-al documento, y tres de ellas han cambiado su contenido, no su prólogo:
-
-| Bloque | Qué dice | Qué ha cambiado en el catálogo |
-|---|---|---|
-| 1 · Origen de la necesidad | Sin necesidad previa del gestor, la cláusula es artificiosa | Los tres orígenes de necesidad del §M1.2, la **doble vía de firma** del §M1.3 y la regla de cierre: cláusula sin ficha firmada, NO APLICA. El núcleo del catálogo pasa a exigir **acuerdo del órgano de gobierno** (Anexo VIII), sin el cual no se sostiene |
-| 2 · Seguimiento y dato | El seguimiento real es escaso; el órgano de control no puede imponer instrumentos, pero sí necesita el dato **al mismo rango que el gestor** | **ADM-12·v3** se redacta exactamente sobre esa frase: paridad de acceso con el gestor, sin tarificación, con diccionario de datos, en formato abierto y sostenida en prórrogas y reversión. Y **ADM-10·v3 se degrada**: deja de ser fuente autónoma de obligaciones esenciales, porque el propio objetor duda de que corresponda imponerlas |
-| 3 · Abstracción | Demasiado abstracto; pruébese en un contrato previsto y poco complejo | **Parte VI entera**: método de elección del contrato piloto (§VI.2.1), **subconjunto mínimo de seis cláusulas** para el primer expediente (§VI.2.2), ejemplo completo trabajado y compromiso de evaluación con dos informes (§VI.8) |
-| 4 · Los demás actores | Hay actores externos que no han visto antes estas exigencias | **§M1.7**, nuevo: consulta preliminar previa, plazos, aviso al mercado y regla de gradualidad |
-
-**Lo que esta objeción tiene de valioso, y conviene no maquillar.** Es la única aportación de todo el
-proyecto que ha obligado a cambiar la arquitectura del catálogo y no sólo su redacción. Un catálogo
-que sólo hubiera pasado por sus autores no tendría ni la doble vía de firma, ni el acuerdo del órgano
-de gobierno, ni el subconjunto mínimo, ni la degradación de ADM-10. Los tiene porque alguien que
-tenía que aplicarlo dijo por escrito por qué no podría.
-
-**Recomendación vinculante antes de aplicar el catálogo a un expediente:** solicítese a los servicios
-competentes un **informe firmado y fechado**, y sustitúyase en la memoria del expediente la cita de
-este comentario por la cita de ese informe. Mientras no exista, la necesidad declarada se apoya en un
-comentario de trabajo, y así debe constar.
-
-#### M1.6 · Lo que el art. 28.1 LCSP obliga a hacer, y a quién
+#### M1.5 · Lo que el art. 28.1 LCSP obliga a hacer, y a quién
 
 Art. 28.1 LCSP: *«la naturaleza y extensión de las necesidades que pretenden cubrirse mediante el contrato proyectado, así como la idoneidad de su objeto y contenido para satisfacerlas […] deben ser determinadas con precisión, dejando constancia de ello en la documentación preparatoria, antes de iniciar el procedimiento encaminado a su adjudicación.»*
 
 El precepto no dice que la necesidad la formule un gestor. Dice que el **órgano de contratación** la determine con precisión y deje constancia. Que ningún gestor haya demandado una necesidad de origen normativo no la hace artificiosa. Pero —y esto es lo que separa un argumento de un instrumento— **la frase anterior no sustituye a la ficha, ni al informe de necesidad, ni al acuerdo del órgano de gobierno**. Es una regla de interpretación; la prueba la aporta el expediente.
 
-#### M1.7 · Los demás actores: exigencias que el mercado no ha visto antes
+#### M1.6 · Los demás actores: exigencias que el mercado no ha visto antes
 
-El cuarto bloque de la objeción del §M1.5 es el que menos se responde en documentos de este tipo, y
+La cuarta dificultad del §M1.1 es la que menos se responde en documentos de este tipo, y
 es el que decide si el catálogo funciona: *«en la contratación hay muchos actores y no solo propios
 y tendría que ver cómo reaccionar ante unas exigencias que casi seguro no han visto antes»*.
 
@@ -4192,7 +4191,7 @@ las seis cláusulas del §VI.2.2, no las veintitantas del catálogo. Una exigenc
 mercado cumple construye la credibilidad del catálogo; una exigencia amplia que nadie cumple la
 destruye en el primer año, y con ella la de todo lo demás.
 
-**Y una regla de cierre, que es la que el objetor pide sin decirlo.** Si la consulta preliminar
+**Y una regla de cierre, que es la que la dificultad pide sin decirlo.** Si la consulta preliminar
 acredita que el mercado no puede cumplir una exigencia del Anexo V en el plazo previsto, **la
 exigencia no entra en el pliego**: se retira del Anexo V del ejercicio o se traslada al siguiente,
 con constancia motivada. El catálogo no se aplica contra la evidencia de mercado, y quien lo intente
@@ -4628,7 +4627,7 @@ primera página y actualizado cuando cambie, y no como modelo listo para incorpo
 | 1 | **Acuerdo del órgano de gobierno** que apruebe el plan municipal del que nace la necesidad institucional, el catálogo y el Anexo V del ejercicio, con fecha, versión y órgano | Arts. 28.1 y 116.4.e) LCSP; art. 122.4 LCSP, conforme al cual «*los contratos se ajustarán al contenido de los pliegos de cláusulas administrativas particulares, cuyas cláusulas se consideran parte integrante de los mismos*», que es lo que hace del Anexo V transcrito *lex contractus* | **Pendiente. Condición suspensiva** |
 | 2 | **Consulta preliminar del mercado publicada y contraste documentado del Anexo V** | Art. 115 LCSP; §M3 | **Pendiente. Condición suspensiva.** Sin ella, M3 afirma la neutralidad sin probarla |
 | 3 | **Declaraciones de conflicto de interés firmadas**, con nombres, incorporadas al expediente antes de la aprobación | Arts. 64 y 70 LCSP; §M7 | **Pendiente. Condición suspensiva** |
-| 4 | **Informe firmado y fechado** de los servicios competentes que sustituya al comentario interno de trabajo de junio de 2026 | §M1.5 | Pendiente. Solicitar antes de aplicar el catálogo a un expediente |
+| 4 | **Informe firmado y fechado** de los servicios competentes sobre el catálogo | §M1.1 | Pendiente. Solicitar antes de aplicar el catálogo a un expediente |
 | 5 | **Copia de cada resolución, informe y guía citada**, incorporada al expediente | §M8.3 | Pendiente. Lo que no se incorpore, se retira del texto |
 | 6 | **Cifras reales de coste** por presupuesto solicitado o consulta de mercado, sustituyendo los órdenes de magnitud del §M6.2 | Art. 100.2 LCSP | Pendiente por expediente |
 | 7 | **Certificado de crédito, fiscalización previa e informe de estabilidad presupuestaria** de cada expediente | Art. 116.3 y DA 3.ª.3 LCSP | Por expediente |
@@ -5593,15 +5592,12 @@ Todas verificadas en fuente primaria a fecha de corte **1 de septiembre de 2026*
 
 ### VI.1 Qué es esta parte y por qué existe
 
-La objeción interna que abre la Parte IV no terminaba en el origen de la necesidad. Terminaba con
-una petición concreta, y la petición era ésta: **las cláusulas se ven demasiado abstractas —quizá
-por demasiado innovadoras— y la forma de quitarse las dudas sobre su aplicabilidad real es ponerlas
-a funcionar en algún contrato de los ya previstos, en el que su aplicación no resulte excesivamente
-compleja, a modo de experimento piloto.** La cita completa y su naturaleza están en la Parte IV,
-**§M1.5**, único lugar del documento donde se reproduce entera; aquí y en el resto del catálogo se
-usa por remisión a esa cita.
+Esta parte responde a la **tercera dificultad del §M1.1**: mientras un catálogo no se vea
+funcionando sobre un expediente concreto, se lee como una declaración de intenciones, y la forma de
+quitarse las dudas sobre su aplicabilidad real es incluirlo en alguna contratación ya prevista en la
+que su aplicación no resulte excesivamente compleja, a modo de experimento piloto.
 
-Esta parte es la respuesta a esa petición, y la da en dos piezas que conviene no confundir:
+La respuesta se da en dos piezas que conviene no confundir:
 
 1. **El método para elegir el contrato piloto** (§VI.2): qué condiciones hace falta que reúna un
    expediente para ser un buen primer caso, y cuáles lo desaconsejan. Esto sí es directamente
@@ -5700,9 +5696,9 @@ del §VI.2.1 y que, por su perfil, permite ver operar la mayor parte del catálo
 
 Por qué este objeto ilustra bien el catálogo —y son, punto por punto, las condiciones del §VI.2.1:
 
-1. **La primera cláusula que se aplica es la del objetor.** La necesidad de acceso de los órganos de
-   control a los datos de ejecución (ADM-12·v3) es la única necesidad de todo este catálogo que
-   aparece declarada por escrito, y la ejecución del gasto en subvenciones es materia sobre la que
+1. **La primera cláusula que se aplica es la que da, no la que pide.** La necesidad de acceso de los
+   órganos de control a los datos de ejecución (ADM-12·v3) responde a la segunda dificultad del
+   §M1.1, y la ejecución del gasto en subvenciones es materia sobre la que
    esos órganos ejercen por ley funciones de control (art. 214 TRLRHL; arts. 4.3, 6.3, 6.7, 20 y 30
    del RD 424/2017; y, en el ámbito específico de las subvenciones, el control financiero de los
    arts. 44 y siguientes de la Ley 38/2003, General de Subvenciones). El piloto empieza dando, no
@@ -5769,7 +5765,7 @@ Necesidades identificadas en este contrato:
 | 10 | Control del uso de sistemas de IA de terceros sobre información municipal no pública | N/F | Art. 28 RGPD y deber de confidencialidad del contratista | ADM-13·v3 |
 | 11 | Evolución determinada de la solución durante la vigencia, valorable por el licitador | I/F | Acuerdo del órgano de gobierno + necesidad del servicio de no quedar con una versión congelada | ADM-2·v3 sobre el Anexo V |
 
-**Lo que hay que decir en voz alta sobre la fila 9**, porque es el punto que la objeción interna del §M1.5 señaló y el que un recurrente atacará: la necesidad de agentización **no es normativa ni funcional**. Si el expediente la justifica con un párrafo general sobre la transformación digital, es justificación estereotipada y cae. Si la justifica por remisión a un acuerdo del órgano de gobierno que aprueba un plan con objetivos y calendario, y el informe de necesidad explica por qué **este** contrato entra en ese plan, la relación con el objeto pasa a ser derivada de una política municipal aprobada. **Sin ese acuerdo previo, la recomendación de este documento es marcar la fila 9 como NO APLICA en este expediente** y contratar la solución sin ella. Es preferible un piloto que aplique nueve cláusulas bien fundadas que uno que aplique once con una sostenida por una frase.
+**Lo que hay que decir en voz alta sobre la fila 9**, porque es el punto de la primera dificultad del §M1.1 y el que un recurrente atacará: la necesidad de agentización **no es normativa ni funcional**. Si el expediente la justifica con un párrafo general sobre la transformación digital, es justificación estereotipada y cae. Si la justifica por remisión a un acuerdo del órgano de gobierno que aprueba un plan con objetivos y calendario, y el informe de necesidad explica por qué **este** contrato entra en ese plan, la relación con el objeto pasa a ser derivada de una política municipal aprobada. **Sin ese acuerdo previo, la recomendación de este documento es marcar la fila 9 como NO APLICA en este expediente** y contratar la solución sin ella. Es preferible un piloto que aplique nueve cláusulas bien fundadas que uno que aplique once con una sostenida por una frase.
 
 #### VI.4.3 Qué cláusulas aplican y cuáles no
 
@@ -6010,7 +6006,7 @@ Comprobación de los **cuatro umbrales** de la Parte V, V.4.10, con ese resultad
 
 #### VI.4.8 Quién verifica, cuándo y cuánto cuesta
 
-El comentario interno que se reproduce íntegro en la Parte IV, §M1.5, advirtió que el seguimiento real de los contratos es escaso y se limita al control del gasto. La respuesta no es prometer más seguimiento: es dimensionarlo y decir quién lo hace. **Ninguna cláusula se incorpora si su verificación no tiene actor municipal designado y periodicidad**, conforme a la regla de verificabilidad municipal enunciada en la Parte I, §7.9.
+La segunda dificultad del §M1.1 es que el seguimiento real de los contratos es escaso y se limita al control del gasto. La respuesta no es prometer más seguimiento: es dimensionarlo y decir quién lo hace. **Ninguna cláusula se incorpora si su verificación no tiene actor municipal designado y periodicidad**, conforme a la regla de verificabilidad municipal enunciada en la Parte I, §7.9.
 
 **Fuente única de la cuantificación: la tabla de ADM-4·v3, epígrafe 5.** Este apartado no estima por su cuenta y no añade ninguna fila a aquélla: **reproduce sus filas literalmente**, con su misma numeración, y se limita a suprimir las que VI.4.3 marca NO APLICA en este expediente. Si una cifra de aquí divergiera de la de allí, prevalece aquélla y ésta se corrige.
 
@@ -6184,7 +6180,7 @@ Cauces admisibles, según la situación de VI.2.3: rectificar y publicar despué
 
 ### VI.8 Compromiso de evaluación del piloto
 
-Para que el piloto sea lo que el objetor pidió —un experimento, y no una declaración de intenciones— tiene que producir datos. El servicio promotor emitirá dos informes, dirigidos al órgano de contratación y al órgano de control interno:
+Para que el piloto sea un experimento de verdad, y no una declaración de intenciones, tiene que producir datos. El servicio promotor emitirá dos informes, dirigidos al órgano de contratación y al órgano de control interno:
 
 **Informe a los 6 meses de la publicación de la licitación**, con: número de ofertas presentadas y comparación con licitaciones equivalentes anteriores del mismo objeto; consultas y aclaraciones recibidas, clasificadas por cláusula; recursos interpuestos, motivos alegados y resultado; exclusiones producidas y su causa; y tiempo real de tramitación frente al de expedientes comparables.
 

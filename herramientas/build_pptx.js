@@ -193,18 +193,18 @@ pie('Prometer que algo es inanulable destruye su credibilidad ante quien tiene q
 
 /* ---------- 9 · de dónde sale ---------- */
 nueva();
-titulo('De dónde sale: un problema real y cuatro objeciones');
-s.addText('El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026 y se sometió por escrito a la crítica de quien tendría que aplicarlo. Lo que esa crítica dijo es lo que da forma a esta versión.', {
+titulo('De dónde sale: un problema real y cuatro dificultades');
+s.addText('El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026. Su memoria empieza nombrando, sin suavizarlas, las cuatro dificultades que quienes lo han trabajado han observado que suceden en la contratación pública.', {
   x: 0.9, y: 1.55, w: 11.5, h: 0.9, fontFace: F_TXT, fontSize: 17.5, color: CARBON,
 });
 const objs = [
-  ['«Artificioso al contrato»', 'Unas cláusulas que no nacen de una necesidad demandada por nadie no obligan a nada útil.',
+  ['La necesidad no la demanda aún el gestor', 'Unas cláusulas que no nacen de una necesidad demandada por nadie no obligan a nada útil.',
    'Cada cláusula lleva el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
-  ['«El seguimiento real es escaso»', 'Y se limita al control del gasto: ni eficacia ni eficiencia.',
+  ['El seguimiento real es escaso, y sólo mira el gasto', 'Y se limita al control del gasto: ni eficacia ni eficiencia.',
    'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí ADM-12: sin tarificar, en formato abierto y con diccionario de datos.'],
-  ['«Demasiado abstracto»', 'Pruébese en una contratación ya prevista y poco compleja.',
+  ['El grado de abstracción es demasiado alto', 'Pruébese en una contratación ya prevista y poco compleja.',
    'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
-  ['«Hay actores que no lo han visto»', 'En la contratación hay muchos actores, y no sólo propios.',
+  ['Hay actores, y no sólo propios, que no lo han visto', 'Licitadores, asociaciones sectoriales y, si hay recurso, un tribunal.',
    'Consulta preliminar anual, publicación del Anexo V antes de licitar, plazo por encima del mínimo y gradualidad. Si el mercado no puede cumplirlo, la exigencia no entra en el pliego.'],
 ];
 objs.forEach((o, i) => {
@@ -213,7 +213,7 @@ objs.forEach((o, i) => {
   s.addText(o[0], { x: 1.15, y: y + 0.06, w: 3.1, h: 0.80, fontFace: F_TIT, fontSize: 14.5, bold: true, color: AZUL, valign: 'middle' });
   s.addText(o[2], { x: 4.4, y: y + 0.06, w: 7.8, h: 0.80, fontFace: F_TXT, fontSize: 12.0, color: CARBON, valign: 'middle' });
 });
-pie('Las cuatro objeciones se citan enteras y se responden dentro del documento, no en una nota al pie.');
+pie('Las cuatro se responden dentro del documento, no en una nota al pie: han cambiado su arquitectura, no su prólogo.');
 
 /* ---------- 10 · qué es y qué no es ---------- */
 nueva();
@@ -286,7 +286,7 @@ autores.forEach((a, i) => {
   s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.27, w: 11.0, h: 0.23, fontFace: F_TXT, fontSize: 10.8, color: GRIS });
   s.addText(a[2], { x: 1.3, y: y + 0.5, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 11.4, color: CARBON });
 });
-s.addText('La objeción interna de junio de 2026, con sus cuatro reproches, es la razón de ser de esta versión y está citada y respondida en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
+s.addText('Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
   x: 0.9, y: 6.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 11.0, italic: true, color: GRIS,
 });
 

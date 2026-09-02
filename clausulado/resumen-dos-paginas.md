@@ -79,14 +79,16 @@ del 1 de septiembre de 2026. Lo que no ha podido verificarse se dice expresament
 
 ## De dónde sale
 
-De un problema real de gestión municipal, y de una objeción interna que se puso por escrito y que
-no se maquilló: que unas cláusulas que no nacen de una necesidad demandada por nadie son artificiosas
-al contrato; que el seguimiento real de los contratos es escaso y quien controla necesita el dato al
-mismo rango que quien gestiona; que el nivel de abstracción era demasiado alto y había que probarlo
-en un piloto poco complejo; y que en la contratación hay actores externos que no han visto antes
-estas exigencias. **Las cuatro están citadas literalmente y respondidas dentro del documento**, y son
-la razón de que esta versión tenga doble vía de firma, acuerdo del órgano de gobierno, un
-subconjunto mínimo de seis cláusulas para empezar y un capítulo sobre la reacción del mercado.
+De un problema real de gestión municipal y de **cuatro dificultades** que quienes lo han trabajado
+han observado que suceden en la contratación pública, y que el documento nombra sin suavizarlas: que
+la necesidad todavía no la demanda el gestor, y sin ella la cláusula es artificiosa al contrato; que
+el seguimiento real de los contratos es escaso y sólo mira el gasto, cuando quien controla necesita
+el dato al mismo rango que quien gestiona; que el grado de abstracción es demasiado alto mientras no
+se vea funcionando en una contratación ya prevista y poco compleja; y que hay muchos actores, y no
+sólo propios, que no han visto antes estas exigencias. **Las cuatro se responden dentro del
+documento**, y son la razón de que esta versión tenga doble vía de firma, acuerdo del órgano de
+gobierno, un subconjunto mínimo de seis cláusulas para empezar y un capítulo sobre la reacción del
+mercado.
 
 ## Cómo debe usarse: no copie sin entender
 

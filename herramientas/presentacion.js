@@ -102,16 +102,16 @@ module.exports = [
   },
   {
     tipo: 'filas',
-    titulo: 'De dónde sale: un problema real y cuatro objeciones',
-    intro: 'El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026 y se sometió por escrito a la crítica de quien tendría que aplicarlo. Lo que esa crítica dijo es lo que da forma a esta versión.',
+    titulo: 'De dónde sale: un problema real y cuatro dificultades',
+    intro: 'El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026. Su memoria empieza nombrando, sin suavizarlas, las cuatro dificultades que quienes lo han trabajado han observado que suceden en la contratación pública.',
     alternas: true,
     filas: [
-      ['«Artificioso al contrato»', 'Cada cláusula lleva ahora el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
-      ['«El seguimiento real es escaso»', 'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí sale ADM-12: paridad de acceso, sin tarificar, en formato abierto y con diccionario de datos.'],
-      ['«Demasiado abstracto»', 'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
-      ['«Hay actores que no lo han visto antes»', 'Consulta preliminar anual, publicación del Anexo V antes de licitar, plazo por encima del mínimo y gradualidad. Si el mercado no puede cumplirlo, la exigencia no entra en el pliego.'],
+      ['La necesidad no la demanda aún el gestor', 'Cada cláusula lleva ahora el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
+      ['El seguimiento real es escaso, y sólo mira el gasto', 'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí sale ADM-12: paridad de acceso, sin tarificar, en formato abierto y con diccionario de datos.'],
+      ['El grado de abstracción es demasiado alto', 'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
+      ['Hay actores, y no sólo propios, que no lo han visto', 'Consulta preliminar anual, publicación del Anexo V antes de licitar, plazo por encima del mínimo y gradualidad. Si el mercado no puede cumplirlo, la exigencia no entra en el pliego.'],
     ],
-    pie: 'Las cuatro objeciones se citan enteras y se responden dentro del documento, no en una nota al pie.',
+    pie: 'Las cuatro se responden dentro del documento, no en una nota al pie: han cambiado su arquitectura, no su prólogo.',
   },
   {
     tipo: 'doscol',
@@ -176,7 +176,7 @@ module.exports = [
         aporte: 'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
       },
     ],
-    nota: 'La objeción interna de junio de 2026, con sus cuatro reproches, es la razón de ser de esta versión y está citada y respondida en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
+    nota: 'Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
   },
   {
     tipo: 'destacado',

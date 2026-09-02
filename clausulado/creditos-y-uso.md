@@ -100,13 +100,15 @@ y no expresa la posición de la Corporación. Es un trabajo profesional de las c
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
-municipal y se ha sometido por escrito a la crítica de quien tendría que aplicarlo. Esa objeción
-interna —cuatro reproches concretos, que constan literalmente en el texto, en el §M1.5 de la Parte
-IV, citados sin identificar a su autor por no ser un informe registrado— es la que ha dado forma a
-esta versión: sin ella no existirían ni la doble vía de firma de la ficha, ni la exigencia de acuerdo
-del órgano de gobierno, ni el subconjunto mínimo de seis cláusulas para un primer expediente. Ese
-contraste con quien tiene que redactar y fiscalizar de verdad es lo que distingue este documento de
-un clausulado de despacho.
+municipal, y su Parte IV empieza por nombrar **las cuatro dificultades** que quienes lo han trabajado
+han observado que suceden de verdad en la contratación pública (§M1.1) — que la necesidad todavía no
+la demanda el gestor; que el seguimiento real de los contratos es escaso y sólo mira el gasto; que el
+grado de abstracción es alto; y que hay muchos actores, y no sólo propios, que no han visto antes
+estas exigencias. Esas cuatro son las que han dado forma a esta versión: sin ellas no existirían ni
+la doble vía de firma de la ficha, ni la exigencia de acuerdo del órgano de gobierno, ni el
+subconjunto mínimo de seis cláusulas para un primer expediente. Un catálogo que no las nombre las
+encontrará igualmente el día que se aplique, y eso es lo que lo distingue de un clausulado de
+despacho.
 
 **Lo que expresamente no es cierto, y conviene decirlo para que nadie lo deduzca:** ningún órgano de
 contratación, de intervención ni de asesoría jurídica de ese Ayuntamiento —ni de ningún otro— se ha
@@ -147,7 +149,7 @@ sobre en qué:
 
 | Tarea | Aportación del sistema |
 |---|---|
-| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluida la objeción interna que estaba al final de un documento de trabajo y no en ningún informe. |
+| **Recuperación del material** | Reunir y cruzar dos años de conversaciones, correos y versiones documentales dispersas para reconstruir qué se había decidido, cuándo y por quién — incluidas las dificultades que estaban anotadas al final de un documento de trabajo y no en ningún informe. |
 | **Investigación jurídica** | Localizar y leer la doctrina de los tribunales administrativos de recursos contractuales, los informes de las juntas consultivas y el articulado aplicable, sobre ocho frentes en paralelo. |
 | **Verificación** | Descargar cada resolución citada y comprobar dentro del documento original que dice lo que se le atribuye. |
 | **Crítica adversarial** | Someter cada versión al criterio simulado de un tribunal administrativo de recursos contractuales, del abogado de un licitador excluido, de un órgano de control interno, de quien redacta pliegos, de un lector no experto y de un periodista, y reescribir con sus objeciones. |

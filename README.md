@@ -77,22 +77,21 @@ Todo se reconstruye desde el markdown de `clausulado/` con `make`.
 
 ## De dónde sale
 
-De un problema real de gestión municipal y de una objeción interna que se puso por escrito. El
-clausulado nació en el **Ayuntamiento de Pozuelo de Alarcón** en 2026 y se sometió por escrito a la
-crítica de quien tendría que aplicarlo. Esta versión 3.0 es la respuesta a esa crítica, que decía
-cuatro cosas:
+De un problema real de gestión municipal. El clausulado nació en el **Ayuntamiento de Pozuelo de
+Alarcón** en 2026, y su memoria justificativa (§M1.1) empieza por nombrar sin suavizarlas las
+**cuatro dificultades** que quienes lo han trabajado han observado que suceden de verdad en la
+contratación pública:
 
-1. que unas cláusulas que no nacen de una necesidad demandada por ningún gestor son **artificiosas al
-   contrato**;
-2. que el seguimiento real de los contratos es escaso y se limita al control del gasto, y que quien
-   controla no puede imponer instrumentos pero **sí necesita el dato al mismo rango que quien
-   gestiona**;
-3. que el nivel de **abstracción era demasiado alto** y había que probarlo en un contrato ya previsto
-   y poco complejo, a modo de piloto;
-4. y que en la contratación **hay actores externos** que no han visto antes estas exigencias y habría
-   que ver cómo reaccionan.
+1. que la necesidad **todavía no la demanda el gestor**, y sin ella la cláusula es artificiosa al
+   contrato;
+2. que el seguimiento real de los contratos es escaso y sólo mira el gasto, cuando quien controla
+   **necesita el dato al mismo rango que quien gestiona**;
+3. que el **grado de abstracción es demasiado alto** mientras no se vea el catálogo funcionando en
+   una contratación ya prevista y poco compleja, a modo de piloto;
+4. y que hay muchos actores, **y no sólo propios**, que no han visto antes estas exigencias y habría
+   que prever cómo reaccionan.
 
-Las cuatro están citadas literalmente y respondidas dentro del documento, no en una nota al pie. Y
+Las cuatro se responden dentro del documento, no en una nota al pie. Y
 han cambiado su arquitectura, no su prólogo: de ahí salen la doble vía de firma de la ficha, la
 exigencia de acuerdo del órgano de gobierno, el subconjunto mínimo de seis cláusulas para un primer
 expediente y el capítulo sobre la reacción del mercado.
@@ -150,8 +149,8 @@ Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.
   aportado el contraste de la práctica municipal —qué se puede exigir de verdad en un pliego y qué no
   llega a ejecutarse— y la supervisión técnica de la formulación contractual.
 
-La objeción interna de junio de 2026, con sus cuatro reproches, es la razón de ser de esta versión y
-está citada y respondida en el cuerpo del documento (Parte IV, §M1.5).
+Las **cuatro dificultades** del §M1.1 son la razón de ser de esta versión, y se responden una a una
+en el cuerpo del documento.
 
 ## Uso de inteligencia artificial
 
