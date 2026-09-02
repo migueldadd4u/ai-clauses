@@ -193,25 +193,27 @@ pie('Prometer que algo es inanulable destruye su credibilidad ante quien tiene q
 
 /* ---------- 9 · de dónde sale ---------- */
 nueva();
-titulo('De dónde sale: un ayuntamiento y tres objeciones');
-s.addText('El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026 y se sometió al criterio de su área de contratación. Lo que esa área respondió es lo que da forma a esta versión.', {
+titulo('De dónde sale: un problema real y cuatro objeciones');
+s.addText('El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026 y se sometió por escrito a la crítica de quien tendría que aplicarlo. Lo que esa crítica dijo es lo que da forma a esta versión.', {
   x: 0.9, y: 1.55, w: 11.5, h: 0.9, fontFace: F_TXT, fontSize: 17.5, color: CARBON,
 });
 const objs = [
   ['«Artificioso al contrato»', 'Unas cláusulas que no nacen de una necesidad demandada por nadie no obligan a nada útil.',
-   'Cada cláusula lleva ahora el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
-  ['«Demasiado abstracto»', 'No se sabía qué copiar al pliego y qué era explicación.',
-   'Cada cláusula tiene siete epígrafes fijos, y el texto que se copia va dentro de un recuadro. Fuera del recuadro no se copia nada.'],
-  ['«Pruébalo primero»', 'Antes de generalizarlo, aplicarlo a un contrato de verdad.',
-   'El documento incluye el caso piloto resuelto entero, con su expediente y con lo que hay que rectificar de lo ya redactado.'],
+   'Cada cláusula lleva el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
+  ['«El seguimiento real es escaso»', 'Y se limita al control del gasto: ni eficacia ni eficiencia.',
+   'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí ADM-12: sin tarificar, en formato abierto y con diccionario de datos.'],
+  ['«Demasiado abstracto»', 'Pruébese en una contratación ya prevista y poco compleja.',
+   'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
+  ['«Hay actores que no lo han visto»', 'En la contratación hay muchos actores, y no sólo propios.',
+   'Consulta preliminar anual, publicación del Anexo V antes de licitar, plazo por encima del mínimo y gradualidad. Si el mercado no puede cumplirlo, la exigencia no entra en el pliego.'],
 ];
 objs.forEach((o, i) => {
-  const y = 2.6 + i * 1.35;
-  tarjeta(0.9, y, 11.5, 1.15, i % 2 ? BLANCO : TINTE);
-  s.addText(o[0], { x: 1.15, y: y + 0.1, w: 3.0, h: 0.95, fontFace: F_TIT, fontSize: 17, bold: true, color: AZUL, valign: 'middle' });
-  s.addText(o[2], { x: 4.3, y: y + 0.1, w: 7.9, h: 0.95, fontFace: F_TXT, fontSize: 14.5, color: CARBON, valign: 'middle' });
+  const y = 2.45 + i * 1.02;   // 4 tarjetas: la última acaba en 6.43, sobre el pie de 6.55
+  tarjeta(0.9, y, 11.5, 0.92, i % 2 ? BLANCO : TINTE);
+  s.addText(o[0], { x: 1.15, y: y + 0.06, w: 3.1, h: 0.80, fontFace: F_TIT, fontSize: 14.5, bold: true, color: AZUL, valign: 'middle' });
+  s.addText(o[2], { x: 4.4, y: y + 0.06, w: 7.8, h: 0.80, fontFace: F_TXT, fontSize: 12.0, color: CARBON, valign: 'middle' });
 });
-pie('Las tres objeciones se responden dentro del documento, no en una nota al pie.');
+pie('Las cuatro objeciones se citan enteras y se responden dentro del documento, no en una nota al pie.');
 
 /* ---------- 10 · qué es y qué no es ---------- */
 nueva();
@@ -221,7 +223,7 @@ s.addText('ES', { x: 1.25, y: 2.05, w: 4.9, h: 0.5, fontFace: F_TXT, fontSize: 1
 s.addText([
   { text: 'Un catálogo de cláusulas ya redactadas, con su justificación y su medio de prueba.\n\n', options: {} },
   { text: 'Un manual de expediente: qué documento hace falta, quién lo firma y en qué orden.\n\n', options: {} },
-  { text: 'Un caso piloto resuelto de principio a fin.', options: {} },
+  { text: 'Un ejemplo completo trabajado, de principio a fin, sobre un expediente simulado.', options: {} },
 ], { x: 1.25, y: 2.6, w: 4.9, h: 3.2, fontFace: F_TXT, fontSize: 16, color: CARBON });
 
 tarjeta(6.8, 1.8, 5.6, 4.2, 'FBEEEC');
@@ -237,7 +239,7 @@ pie('Se toma lo que cada expediente necesita, y se justifica. Ésa es toda la re
 nueva();
 titulo('Qué hay publicado, y para quién');
 const docs = [
-  ['El clausulado completo', 'Catálogo, memoria justificativa para la Intervención, circuito del expediente, caso piloto y anexos con todos los modelos.', 'Quien redacta y quien fiscaliza'],
+  ['El clausulado completo', 'Catálogo, memoria justificativa para los órganos de control, circuito del expediente, ejemplo trabajado y anexos con todos los modelos.', 'Quien redacta y quien fiscaliza'],
   ['La guía municipal · 20 páginas', 'Cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer el catálogo entero.', 'Concejalía, Contratación, Intervención y TI'],
   ['El resumen y la guía de uso', 'La primera parte del documento, escrita para quien no sabe nada de contratación ni de tecnología.', 'Alcaldía, concejalías, prensa'],
   ['Esta presentación', 'El problema y la solución, sin que haga falta saber nada previo.', 'Cualquier sala'],
@@ -273,7 +275,7 @@ const autores = [
    'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
    'miguelangeldominguez.info'],
   ['Enrique Jiménez y Roberto García',
-   'Técnicos del área de contratación · Ayuntamiento de Pozuelo de Alarcón',
+   'Responsable de los contratos de innovación · Jefe de informática — Ayuntamiento de Pozuelo de Alarcón',
    'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
    ''],
 ];
@@ -284,8 +286,8 @@ autores.forEach((a, i) => {
   s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.27, w: 11.0, h: 0.23, fontFace: F_TXT, fontSize: 10.8, color: GRIS });
   s.addText(a[2], { x: 1.3, y: y + 0.5, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 11.4, color: CARBON });
 });
-s.addText('Las tres objeciones formuladas desde el área de contratación son la razón de ser de esta versión y están respondidas en el cuerpo del documento.', {
-  x: 0.9, y: 6.55, w: 11.5, h: 0.45, fontFace: F_TXT, fontSize: 11.8, italic: true, color: GRIS,
+s.addText('La objeción interna de junio de 2026, con sus cuatro reproches, es la razón de ser de esta versión y está citada y respondida en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
+  x: 0.9, y: 6.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 11.0, italic: true, color: GRIS,
 });
 
 /* ---------- 12 bis · uso de IA y condiciones de uso ---------- */
