@@ -1,0 +1,7 @@
+# OCULTO-BUSCADORES 03/09/2026 — mientras el catálogo se presenta a jurídico,
+# intervención, contratación y alcaldía, el sitio no debe aparecer en buscadores.
+# Se publica en abierto, pero no se anuncia todavía.
+# PARA VOLVER A SER INDEXABLE: borrar este fichero y quitar la meta «robots»
+# de docs/index.html, docs/prensa.html y de la plantilla de herramientas/build_web.js.
+User-agent: *
+Disallow: /
