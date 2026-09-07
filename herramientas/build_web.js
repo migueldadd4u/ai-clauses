@@ -229,4 +229,23 @@ const indice = CABEZA('Índice del documento', 'Índice completo del clausulado 
 
 fs.writeFileSync(path.join(DIR, 'indice.html'), indice);
 
+// La portada se escribe a mano, pero su fecha de actualización NO: se sella aquí
+// en cada construcción. Antes había una sola fecha —la de corte normativo— y se
+// leía como si la página llevara sin tocarse desde entonces.
+const PORTADA = path.join(RAIZ, 'docs', 'index.html');
+if (fs.existsSync(PORTADA)) {
+  const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
+    'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+  const h = new Date();
+  const hoy = `${h.getDate()} de ${meses[h.getMonth()]} de ${h.getFullYear()}`;
+  const antes = fs.readFileSync(PORTADA, 'utf8');
+  const marca = /(<!--ACTUALIZADO-->)[\s\S]*?(<!--\/ACTUALIZADO-->)/;
+  if (!marca.test(antes)) {
+    console.warn('AVISO  la portada no tiene la marca <!--ACTUALIZADO-->: su fecha se quedará vieja');
+  } else {
+    fs.writeFileSync(PORTADA, antes.replace(marca, `$1${hoy}$2`));
+    console.log(`OK  docs/index.html  ·  fecha de actualización sellada: ${hoy}`);
+  }
+}
+
 console.log(`\nOK  docs/clausulado/  ·  ${paginas.length} páginas + índice  ·  ${totalKB.toFixed(0)} KB en total`);

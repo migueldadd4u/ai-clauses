@@ -239,8 +239,15 @@ h2:hover .anchor, h3:hover .anchor, h4:hover .anchor { opacity: 1; }
 }
 .boton:hover { background: var(--acento); color: var(--fondo-2); }
 .boton.principal { background: var(--acento); color: #fff; }
-:root[data-theme="dark"] .boton.principal,
-:root:not([data-theme="light"]) .boton.principal { color: #171614; }
+/* En oscuro el acento es azul claro y el texto del botón tiene que ser oscuro.
+   OJO: esta regla vivía FUERA de su media query, y `:not([data-theme="light"])`
+   también casa cuando NO hay tema declarado —el estado por defecto—, así que en
+   claro pintaba texto casi negro sobre el azul marino del acento: contraste
+   1,56 sobre el 4,5 que exige WCAG AA. El botón principal era ilegible. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .boton.principal { color: #171614; }
+}
+:root[data-theme="dark"] .boton.principal { color: #171614; }
 .boton.principal:hover { opacity: .88; }
 
 .bloque { padding: 2.6rem 0; border-top: 1px solid var(--linea); }
@@ -358,3 +365,8 @@ main.ig #buscar {
   .paso a { max-width: none; }
   .paso a.next { text-align: left; }
 }
+
+/* Las dos fechas de la portada: la de actualización la estampa build_web.js
+   en cada construcción, para que no vuelva a quedarse vieja sin que nadie mire. */
+.fechas { font-size: .92rem; color: var(--texto-2); margin: 0 0 1rem; }
+.fechas .matiz { color: var(--texto-3); font-size: .86rem; }
