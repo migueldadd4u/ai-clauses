@@ -16,6 +16,14 @@ const path = require('path');
 const { marked } = require('marked');
 
 const RAIZ = path.resolve(__dirname, '..');
+
+// Huella del CSS para romper la caché del navegador. Sin esto, quien ya había
+// entrado seguía viendo la hoja vieja aunque el fichero publicado fuera otro:
+// fue exactamente lo que pasó con el contraste del botón, arreglado en el
+// servidor y roto en la pantalla de quien lo miraba.
+const CSS = path.join(RAIZ, 'docs', 'estilo.css');
+const HUELLA = require('crypto')
+  .createHash('sha1').update(fs.readFileSync(CSS)).digest('hex').slice(0, 8);
 const SRC = path.join(RAIZ, 'clausulado', 'clausulado-ia-deeptech-v3.md');
 const DIR = path.join(RAIZ, 'docs', 'clausulado');
 
@@ -98,7 +106,7 @@ const CABEZA = (titulo, desc, base) => `<!doctype html>
 <title>${esc(titulo)} · AI Clauses</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9878;</text></svg>">
-<link rel="stylesheet" href="${base}estilo.css">
+<link rel="stylesheet" href="${base}estilo.css?v=${HUELLA}">
 </head>
 <body class="doc">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -245,6 +253,20 @@ if (fs.existsSync(PORTADA)) {
   } else {
     fs.writeFileSync(PORTADA, antes.replace(marca, `$1${hoy}$2`));
     console.log(`OK  docs/index.html  ·  fecha de actualización sellada: ${hoy}`);
+  }
+}
+
+// La huella del CSS, también en las dos páginas escritas a mano.
+for (const nombre of ['index.html', 'prensa.html']) {
+  const p = path.join(RAIZ, 'docs', nombre);
+  if (!fs.existsSync(p)) continue;
+  const antes = fs.readFileSync(p, 'utf8');
+  const despues = antes.replace(
+    /(<link rel="stylesheet" href="estilo\.css)(\?v=[0-9a-f]+)?(">)/,
+    `$1?v=${HUELLA}$3`);
+  if (despues !== antes) {
+    fs.writeFileSync(p, despues);
+    console.log(`OK  docs/${nombre}  ·  huella de CSS: ${HUELLA}`);
   }
 }
 
