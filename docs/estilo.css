@@ -189,16 +189,18 @@ h2:hover .anchor, h3:hover .anchor, h4:hover .anchor { opacity: 1; }
 .doc hr { border: 0; border-top: 1px solid var(--linea); margin: 2.4rem 0; }
 
 /* tablas: siempre con scroll propio, nunca desbordan la página */
-.doc table {
-  width: 100%; border-collapse: collapse; margin: 0 0 1.4rem;
-  font-size: .88rem; display: block; overflow-x: auto; white-space: normal;
-}
-.doc thead { background: var(--fondo-3); }
-.doc th, .doc td {
-  border: 1px solid var(--linea); padding: .5rem .7rem;
-  text-align: left; vertical-align: top;
-}
-.doc th { font-weight: 650; color: var(--acento); font-size: .82rem; letter-spacing: .01em; }
+/* Las tablas se estilaban SÓLO dentro de .doc, que es la clase de las páginas
+   generadas del clausulado. La portada y la de prensa se escriben a mano y no la
+   llevan: sus tablas salían sin bordes, sin cabecera y sin separación de filas —
+   no parecían tablas. El estilo pasa a ser común a todo el sitio; .doc conserva
+   sólo lo suyo, el desplazamiento horizontal de las tablas jurídicas anchas. */
+table { width: 100%; border-collapse: collapse; margin: 0 0 1.4rem; font-size: .88rem; }
+thead { background: var(--fondo-3); }
+th, td { border: 1px solid var(--linea); padding: .5rem .7rem; text-align: left; vertical-align: top; }
+th { font-weight: 650; color: var(--acento); font-size: .82rem; letter-spacing: .01em; }
+tbody tr:nth-child(even) { background: var(--fondo-2); }
+
+.doc table { display: block; overflow-x: auto; white-space: normal; }
 
 /* ---------- el recuadro que importa ---------- */
 .pliego {
