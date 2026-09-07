@@ -9,16 +9,23 @@ Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026*
 
 ### Autoría
 
-**Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano · Enrique Jiménez · Roberto García**
+**Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano · Enrique Jiménez · Roberto García · Luis Llorente**
 
-**Autores y supervisores técnicos:** Enrique Jiménez, responsable de los contratos de innovación, y
-Roberto García, jefe de informática, ambos del Ayuntamiento de Pozuelo de Alarcón.
+**Autores y supervisores técnicos:** Enrique Jiménez, responsable de los contratos de innovación;
+Roberto García, jefe de informática; y Luis Llorente, jefe de negociado de sistemas de información,
+los tres del Ayuntamiento de Pozuelo de Alarcón.
+
+**Lectura crítica:** Francisco Javier Escalona Moyano, Interventor General del Ayuntamiento de
+Pozuelo de Alarcón, a título personal y con su consentimiento; su lectura no es un informe de
+fiscalización ni un pronunciamiento del órgano de control.
 
 ### Estado del documento
 
-Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**, no ha sido aprobado por ningún órgano municipal y no expresa la posición de la Corporación; ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre él. Es una propuesta técnica publicada para el debate y la reutilización. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
+Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**, no ha sido aprobado por ningún órgano municipal y no expresa la posición de la Corporación; ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre él. Es una propuesta técnica publicada para el debate y la reutilización. **Y no es sólo municipal:** está parametrizado para cualquier administración —los órganos, umbrales, categorías de seguridad y plazos son parámetros con valor recomendado, no valores fijos—, de modo que sirve igual a un ayuntamiento, a una diputación, a una comunidad autónoma o a un organismo estatal, cambiando quién firma cada cosa. Se publica con licencia CC BY 4.0 para que se copie, se adapte y se mejore. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
 
-Antes de incorporar cualquiera de sus cláusulas a un expediente deben cumplirse tres condiciones que, a la fecha de corte, siguen pendientes: acuerdo del órgano de gobierno que apruebe el plan y el catálogo anual; consulta preliminar del mercado y contraste documentado; y declaraciones de conflicto de interés firmadas. Son condiciones de **aplicación**, no de publicación.
+**Qué se puede hacer desde hoy, y qué no.** La mayoría de las cláusulas —y las de más valor económico: reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se anclan por vía **normativa** o **funcional** y **no necesitan ningún acuerdo previo**: basta motivarlas en la memoria del expediente con datos propios. Sólo las de origen **institucional**, que ninguna norma impone y ningún gestor pide, necesitan el acuerdo del órgano de gobierno, que no es un permiso sino la prueba documental de su necesidad. De las seis cláusulas del piloto mínimo, **cinco no dependen de ese acuerdo**.
+
+Lo que sí está pendiente a la fecha de corte —acuerdo del órgano de gobierno, consulta preliminar del mercado documentada y declaraciones de conflicto de interés firmadas— limita el uso de **este documento como modelo aprobado**, no la potestad de nadie para escribir buenas cláusulas en su pliego.
 
 ### Ruta rápida por perfil
 
@@ -80,8 +87,8 @@ El catálogo puede publicarse para el debate, pero no debe aplicarse mientras si
 Use este recorrido antes de abrir una ficha.
 
 1. **¿Hay sistema de información municipal o tratamiento de información municipal?** Si no lo hay, el catálogo no se aplica. En obras y concesiones sólo alcanza al componente de sistemas de información.
-2. **¿Hay pliegos propios?** Si es un contrato menor, no existe el documento contractual en el que incorporar condiciones especiales, penalidades, obligaciones esenciales o criterios. Sólo cabe la lista cerrada de exigencias normativas de la Parte V, §V.7.1.
-3. **¿Es un contrato basado en acuerdo marco o una adhesión a una central?** No pueden añadirse obligaciones que el instrumento de origen no permita. Cabe elegir opciones ya previstas, utilizar extremos expresamente abiertos o trasladar la necesidad a la siguiente licitación del acuerdo marco.
+2. **¿Hay pliegos propios?** Si el Ayuntamiento licita con pliegos propios —el caso ordinario—, **el catálogo entra entero**. En un contrato menor no hay documento contractual donde incorporar condiciones especiales, penalidades u obligaciones esenciales, pero **sí es exigible la lista cerrada de exigencias normativas** de la Parte V, §V.7.1: lo que la ley ya impone se pide igual.
+3. **¿Es un contrato basado en acuerdo marco o una adhesión a una central?** **También caben aquí**, dentro del margen que el instrumento de origen deje: elegir entre las opciones que el catálogo del acuerdo marco ya ofrezca; usar los extremos que expresamente reserve a la fase de contrato basado —incluida la nueva licitación entre adjudicatarios, cuando esté prevista—; y trasladar por escrito la necesidad al órgano titular del acuerdo marco para la siguiente licitación. Lo único vedado es añadir obligaciones que el instrumento de origen no permita.
 4. **¿Es una prórroga?** La prórroga continúa el contrato en las mismas condiciones. No introduce un Anexo V posterior ni obligaciones nuevas. Sí debe comprobarse lo ya exigible y preparar con tiempo la contratación sucesora.
 5. **¿Es un procedimiento con pliego propio y componente tecnológico?** Puede iniciarse la selección motivada, sin que el tipo o la cuantía activen por sí solos ninguna cláusula.
 

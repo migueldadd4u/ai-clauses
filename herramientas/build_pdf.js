@@ -12,6 +12,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execFileSync } = require('child_process');
+const { imprimirPdf } = require('./imprimir_pdf');
 const { marked } = require('marked');
 
 const RAIZ = path.resolve(__dirname, '..');
@@ -97,13 +98,13 @@ const html = `<!doctype html>
 fs.mkdirSync(path.dirname(TMP), { recursive: true });
 fs.writeFileSync(TMP, html);
 
-execFileSync(CHROME, [
-  '--headless', '--disable-gpu', '--no-pdf-header-footer',
-  '--virtual-time-budget=30000',
-  `--print-to-pdf=${OUT}`,
-  'file://' + TMP,
-], { stdio: 'pipe' });
-
-fs.unlinkSync(TMP);
-const kb = fs.statSync(OUT).size / 1024;
-console.log(`OK  ${path.relative(RAIZ, OUT)}  ${kb.toFixed(0)} KB  ·  ${toc.length} entradas de índice`);
+// Se imprime por el protocolo de Chrome y no con `--print-to-pdf` porque hace
+// falta NUMERAR las páginas: son 291 y hay que poder imprimirlas por tandas.
+// Ver herramientas/imprimir_pdf.js para el porqué de no usar CSS ni el flag.
+(async () => {
+  await imprimirPdf({ html: TMP, out: OUT, pie: 'AI Clauses · Cláusulas de IA y Deep Tech · v3.0' });
+  fs.unlinkSync(TMP);
+  const kb = fs.statSync(OUT).size / 1024;
+  const paginas = execFileSync('pdfinfo', [OUT], { encoding: 'utf8' }).match(/^Pages:\s+(\d+)$/m)?.[1] ?? '?';
+  console.log(`OK  ${path.relative(RAIZ, OUT)}  ${kb.toFixed(0)} KB  ·  ${paginas} páginas numeradas  ·  ${toc.length} entradas de índice`);
+})().catch(e => { console.error(e); process.exitCode = 1; });

@@ -13,11 +13,21 @@ que sigue.*
 **Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
 administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
 
-**Qué es:** un trabajo profesional de las cinco personas que lo firman, una de las cuales ejerce un
+**Qué es:** un trabajo profesional de las siete personas que lo firman, una de las cuales ejerce un
 cargo público en ese Ayuntamiento.
 
-**Qué falta para que pueda incorporarse a un expediente:** las tres condiciones suspensivas que la
-propia memoria justificativa enumera (Parte IV, §M11, filas 1 a 3).
+**Qué falta, y qué NO condiciona.** Conviene separarlo, porque se confunde. Estas tres condiciones
+limitan el uso de **este documento como modelo aprobado**; no limitan la potestad de nadie para
+escribir buenas cláusulas en su propio pliego. La mayoría del catálogo —y la de más valor económico:
+reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se ancla por vía
+**normativa** o **funcional** y **no necesita ningún acuerdo previo**: basta con motivarla en la
+memoria del expediente con datos propios. Sólo las cláusulas de origen **institucional** —aquellas
+que ninguna norma impone y ningún gestor pide— necesitan el acuerdo del órgano de gobierno, que no
+es un permiso sino su prueba documental de necesidad (§M1.2). De las seis cláusulas del subconjunto
+mínimo del §VI.2.2, **cinco no dependen de ese acuerdo**; sólo ADM-2·v3 con su Anexo V.
+
+Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa enumera (Parte IV,
+§M11, filas 1 a 3) son:
 
 | # | Condición suspensiva | Estado a 1 de septiembre de 2026 |
 |---|---|---|
@@ -26,8 +36,11 @@ propia memoria justificativa enumera (Parte IV, §M11, filas 1 a 3).
 | 3 | Declaraciones de conflicto de interés firmadas e incorporadas al expediente (arts. 64 y 70 LCSP) | **Pendiente** |
 
 Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
-debate: **no debe aplicarse en un expediente que supere el umbral del recurso especial** ni citarse
-como modelo aprobado.
+debate: **no debe citarse como modelo aprobado ni servir de aval** en un expediente que supere el
+umbral del recurso especial. Lo que sí puede hacerse desde el primer día es **usar sus soluciones de
+redacción**, sosteniendo cada exigencia en la memoria del expediente con datos propios y sin
+remitirse a este documento. Es más: el propio catálogo insiste en que una memoria que se limite a
+remitirse a él es una justificación estereotipada.
 
 **Orden entre rectificación y publicación:** la Parte VI, VI.7, adopta expresamente la regla de
 que quien adopte este catálogo ejecute las correcciones de prioridad P1 sobre sus pliegos vigentes
@@ -41,8 +54,7 @@ publicación.
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo
-conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de
-Pozuelo de Alarcón como banco de pruebas real.
+conjunto de varios meses entre siete personas, cada una desde su oficio.
 
 **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
 Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la Administración General del Estado
@@ -83,10 +95,17 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Enrique Jiménez** — responsable de los contratos de innovación, y **Roberto García** — jefe de
-informática, ambos del Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han
-aportado el contraste de la práctica municipal —qué se puede exigir de verdad en un pliego y qué no
-llega a ejecutarse— y la supervisión técnica de la formulación contractual.
+**Enrique Jiménez** — responsable de los contratos de innovación; **Roberto García** — jefe de
+informática; y **Luis Llorente** — jefe de negociado de sistemas de información, los tres del
+Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de
+la práctica municipal —qué se puede exigir de verdad en un pliego y qué no llega a ejecutarse— y la
+supervisión técnica de la formulación contractual.
+
+**Francisco Javier Escalona Moyano** — Interventor General del Ayuntamiento de Pozuelo de Alarcón.
+Leyó el borrador y devolvió por escrito la crítica más exigente que ha recibido este trabajo, la que
+está detrás de las cuatro dificultades del §M1.1 y, con ellas, de buena parte de la arquitectura del
+catálogo. Se le menciona con su consentimiento y **a título personal**: su lectura crítica no es un
+informe de fiscalización ni un pronunciamiento del órgano de control, que no se ha producido.
 
 ---
 
@@ -96,7 +115,7 @@ Conviene decirlo antes que nada, y con precisión, porque de ello depende que na
 
 **Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
 aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
-y no expresa la posición de la Corporación. Es un trabajo profesional de las cinco personas que lo
+y no expresa la posición de la Corporación. Es un trabajo profesional de las siete personas que lo
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión

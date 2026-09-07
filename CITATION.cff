@@ -23,6 +23,12 @@ authors:
   - family-names: García
     given-names: Roberto
     affiliation: Ayuntamiento de Pozuelo de Alarcón
+  - family-names: Llorente
+    given-names: Luis
+    affiliation: Ayuntamiento de Pozuelo de Alarcón
+  - family-names: Escalona Moyano
+    given-names: Francisco Javier
+    affiliation: Ayuntamiento de Pozuelo de Alarcón
 version: "3.0"
 date-released: "2026-09-01"
 license: CC-BY-4.0

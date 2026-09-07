@@ -61,6 +61,12 @@ cláusula entra en un pliego por el hecho de existir aquí. **No es un «copia y
 incorporada sin necesidad acreditada en la memoria del expediente no protege a la administración, le
 añade un motivo de recurso.
 
+**Y no es municipal.** Nace de un problema de gestión municipal, pero está **parametrizado para
+cualquier administración**: los órganos, los umbrales, las categorías de seguridad y los plazos son
+parámetros con valor recomendado, no valores fijos. Sirve igual a un ayuntamiento, a una diputación,
+a una comunidad autónoma o a un organismo estatal, cambiando quién firma cada cosa. Se publica con
+licencia CC BY 4.0 precisamente para eso: para que se copie, se adapte y se mejore.
+
 ## Qué se promete, y qué no
 
 **No se promete que ningún tribunal pueda anular nada.** No es prometible: todavía no existe doctrina
@@ -108,7 +114,7 @@ misma firmeza, no copiarlo sin entenderlo:
 **Este no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**: no ha sido aprobado por
 ningún órgano municipal ni expresa la posición de la Corporación, y ningún órgano de contratación,
 intervención o asesoría jurídica se ha pronunciado sobre él. El caso trabajado del documento extenso
-es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación. Es un trabajo profesional de las cinco
+es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación. Es un trabajo profesional de las siete
 personas que lo firman, una de las cuales ejerce un cargo público en ese Ayuntamiento. Y el propio
 documento enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de
 conflicto de interés no están firmadas—: mientras no se cumplan, es una propuesta técnica publicada
@@ -123,9 +129,12 @@ resuelve el problema de fondo. **[Miguel Ángel Domínguez Castellano](https://m
 Add4u y presidente de Alastria y del Clúster de Blockchain de la Comunidad de Madrid: la perspectiva
 de quien conoce las dos orillas, y la responsabilidad editorial de la publicación.
 
-**Autores y supervisores técnicos:** **Enrique Jiménez**, responsable de los contratos de innovación,
-y **Roberto García**, jefe de informática, ambos del Ayuntamiento de Pozuelo de Alarcón. Han aportado
-el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.
+**Autores y supervisores técnicos:** **Enrique Jiménez**, responsable de los contratos de innovación;
+**Roberto García**, jefe de informática; y **Luis Llorente**, jefe de negociado de sistemas de
+información, los tres del Ayuntamiento de Pozuelo de Alarcón. Han aportado el contraste de la
+práctica municipal y la supervisión técnica de la formulación contractual. **Francisco Javier
+Escalona Moyano**, Interventor General del mismo Ayuntamiento, aportó la lectura crítica, a título
+personal y con su consentimiento: no es un informe de fiscalización.
 
 **Uso de inteligencia artificial.** En la elaboración de este trabajo se han utilizado sistemas de
 IA: el clon digital (*second brain*) de Miguel Ángel Domínguez, determinante en la recuperación del

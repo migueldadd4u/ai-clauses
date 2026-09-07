@@ -258,7 +258,7 @@ s.addText('Todo en abierto, bajo licencia Creative Commons Attribution 4.0: se p
 /* ---------- 12 · créditos ---------- */
 nueva();
 titulo('Quién lo ha hecho');
-s.addText('Un trabajo conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.', {
+s.addText('Un trabajo conjunto de varios meses entre siete personas, cada una desde su oficio.', {
   x: 0.9, y: 1.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 16, color: CARBON,
 });
 const autores = [
@@ -274,9 +274,9 @@ const autores = [
    'CEO de Add4u · Presidente de Alastria · Presidente del Clúster de Blockchain de la Comunidad de Madrid',
    'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
    'miguelangeldominguez.info'],
-  ['Enrique Jiménez y Roberto García',
-   'Responsable de los contratos de innovación · Jefe de informática — Ayuntamiento de Pozuelo de Alarcón',
-   'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
+  ['Enrique Jiménez · Roberto García · Luis Llorente',
+   'Contratos de innovación · Jefatura de informática · Negociado de sistemas de información — Ayuntamiento de Pozuelo de Alarcón',
+   'Autores y supervisores técnicos: el contraste de la práctica municipal y la supervisión técnica de la formulación contractual. Con la lectura crítica de Francisco Javier Escalona Moyano, Interventor General, a título personal.',
    ''],
 ];
 autores.forEach((a, i) => {

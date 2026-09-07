@@ -153,9 +153,12 @@ const overflow = /data-overflow="([^"]*)"/.exec(dom)?.[1] ?? '';
 if (overflow) throw new Error(`Desbordan las páginas HTML: ${overflow}`);
 
 if (fs.existsSync(PDF)) fs.unlinkSync(PDF);
-execFileSync(CHROME, [
-  '--headless', '--disable-gpu', '--no-sandbox', '--no-pdf-header-footer',
-  '--virtual-time-budget=5000', `--print-to-pdf=${PDF}`, `file://${HTML}`,
+// Numerada, como el clausulado: se imprime en tandas y hay que saber por dónde
+// se va. La guardia de 20 páginas de abajo es la que avisa si el pie desborda.
+// Se invoca como subproceso y no como módulo porque este constructor es un
+// script plano: un `await` de primer nivel lo convertiría en módulo asíncrono.
+execFileSync(process.execPath, [
+  path.join(__dirname, 'imprimir_pdf.js'), HTML, PDF, 'AI Clauses · Guía municipal · v3.0',
 ], { stdio: 'pipe' });
 const pdfInfo = execFileSync('pdfinfo', [PDF], { encoding: 'utf8' });
 const paginasPdf = Number(/^Pages:\s+(\d+)$/m.exec(pdfInfo)?.[1]);

@@ -37,11 +37,21 @@ que sigue.*
 **Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
 administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
 
-**Qué es:** un trabajo profesional de las cinco personas que lo firman, una de las cuales ejerce un
+**Qué es:** un trabajo profesional de las siete personas que lo firman, una de las cuales ejerce un
 cargo público en ese Ayuntamiento.
 
-**Qué falta para que pueda incorporarse a un expediente:** las tres condiciones suspensivas que la
-propia memoria justificativa enumera (Parte IV, §M11, filas 1 a 3).
+**Qué falta, y qué NO condiciona.** Conviene separarlo, porque se confunde. Estas tres condiciones
+limitan el uso de **este documento como modelo aprobado**; no limitan la potestad de nadie para
+escribir buenas cláusulas en su propio pliego. La mayoría del catálogo —y la de más valor económico:
+reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se ancla por vía
+**normativa** o **funcional** y **no necesita ningún acuerdo previo**: basta con motivarla en la
+memoria del expediente con datos propios. Sólo las cláusulas de origen **institucional** —aquellas
+que ninguna norma impone y ningún gestor pide— necesitan el acuerdo del órgano de gobierno, que no
+es un permiso sino su prueba documental de necesidad (§M1.2). De las seis cláusulas del subconjunto
+mínimo del §VI.2.2, **cinco no dependen de ese acuerdo**; sólo ADM-2·v3 con su Anexo V.
+
+Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa enumera (Parte IV,
+§M11, filas 1 a 3) son:
 
 | # | Condición suspensiva | Estado a 1 de septiembre de 2026 |
 |---|---|---|
@@ -50,8 +60,11 @@ propia memoria justificativa enumera (Parte IV, §M11, filas 1 a 3).
 | 3 | Declaraciones de conflicto de interés firmadas e incorporadas al expediente (arts. 64 y 70 LCSP) | **Pendiente** |
 
 Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
-debate: **no debe aplicarse en un expediente que supere el umbral del recurso especial** ni citarse
-como modelo aprobado.
+debate: **no debe citarse como modelo aprobado ni servir de aval** en un expediente que supere el
+umbral del recurso especial. Lo que sí puede hacerse desde el primer día es **usar sus soluciones de
+redacción**, sosteniendo cada exigencia en la memoria del expediente con datos propios y sin
+remitirse a este documento. Es más: el propio catálogo insiste en que una memoria que se limite a
+remitirse a él es una justificación estereotipada.
 
 **Orden entre rectificación y publicación:** la Parte VI, VI.7, adopta expresamente la regla de
 que quien adopte este catálogo ejecute las correcciones de prioridad P1 sobre sus pliegos vigentes
@@ -65,8 +78,7 @@ publicación.
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo
-conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de
-Pozuelo de Alarcón como banco de pruebas real.
+conjunto de varios meses entre siete personas, cada una desde su oficio.
 
 **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
 Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la Administración General del Estado
@@ -107,10 +119,17 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Enrique Jiménez** — responsable de los contratos de innovación, y **Roberto García** — jefe de
-informática, ambos del Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han
-aportado el contraste de la práctica municipal —qué se puede exigir de verdad en un pliego y qué no
-llega a ejecutarse— y la supervisión técnica de la formulación contractual.
+**Enrique Jiménez** — responsable de los contratos de innovación; **Roberto García** — jefe de
+informática; y **Luis Llorente** — jefe de negociado de sistemas de información, los tres del
+Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de
+la práctica municipal —qué se puede exigir de verdad en un pliego y qué no llega a ejecutarse— y la
+supervisión técnica de la formulación contractual.
+
+**Francisco Javier Escalona Moyano** — Interventor General del Ayuntamiento de Pozuelo de Alarcón.
+Leyó el borrador y devolvió por escrito la crítica más exigente que ha recibido este trabajo, la que
+está detrás de las cuatro dificultades del §M1.1 y, con ellas, de buena parte de la arquitectura del
+catálogo. Se le menciona con su consentimiento y **a título personal**: su lectura crítica no es un
+informe de fiscalización ni un pronunciamiento del órgano de control, que no se ha producido.
 
 ---
 
@@ -120,7 +139,7 @@ Conviene decirlo antes que nada, y con precisión, porque de ello depende que na
 
 **Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
 aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
-y no expresa la posición de la Corporación. Es un trabajo profesional de las cinco personas que lo
+y no expresa la posición de la Corporación. Es un trabajo profesional de las siete personas que lo
 firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
@@ -269,7 +288,7 @@ Se declara una sola vez, aquí, y rige en todo el documento: lo que está entre 
 
 | Parte | Qué contiene | Apartados |
 |---|---|---|
-| **Parte 0 · Resumen y guía de uso** | Qué es y qué no es esto, el problema que resuelve, qué se promete y qué no, cómo se usa paso a paso, qué documentos exige el expediente y los tres casos que no cubre | 0.0 a 0.7 |
+| **Parte 0 · Resumen y guía de uso** | Qué es y qué no es esto, el problema que resuelve, qué se promete y qué no, cómo se usa paso a paso, qué documentos exige el expediente y los tres casos de alcance limitado | 0.0 a 0.7 |
 | **Parte I · Disposiciones generales y reglas de integración** | El articulado: objeto y regla de cierre, ámbito y proporcionalidad, armazón normativo de la necesidad, marco normativo, definiciones, principios, las diez reglas de integración y los parámetros. Contiene cuatro bloques transcribibles, agrupados en §4.2, §5.2 y §7.10 | §1 a §9 |
 | **Parte II · Cláusulas técnicas**, para el Pliego de Prescripciones Técnicas (**PPT**: lo que hay que hacer) | Las diez cláusulas `DT-0·v3` a `DT-9·v3`, con su texto copiable, más la tabla de dependencias, la carga de verificación y el cuadro de parámetros | II.0 a II.14 |
 | **Parte III · Cláusulas administrativas**, para el Pliego de Cláusulas Administrativas Particulares (**PCAP**: con qué reglas y con qué consecuencias) | Las catorce cláusulas `ADM-1·v3` a `ADM-14·v3`, con su texto copiable | III.1 a III.14 |
@@ -385,7 +404,7 @@ Las palabras que importan son **«del que se toma lo que ese expediente necesita
 
 Cada cláusula de las Partes II (técnicas, para el PPT) y III (administrativas, para el PCAP) tiene siempre los mismos siete epígrafes, en el mismo orden: **texto para el pliego · dónde va · necesidad y norma que la impone · cómo se acredita · cómo se verifica · consecuencia del incumplimiento · cuándo NO se aplica**. El texto que se copia va dentro de un recuadro delimitado; todo lo demás queda fuera y no debe acabar nunca en un pliego. Esa separación física es parte de la respuesta a la tercera dificultad del §M1.1: el grado de abstracción del documento anterior era demasiado alto.
 
-Los códigos de cláusula del documento anterior se conservan cuando la cláusula subsiste, pero **se escriben con versión**: `DT-7·v3`, `ADM-2·v3`. Hay pliegos ya redactados que citan los códigos de la versión 2.0, y su contenido no es el mismo. La equivalencia cláusula a cláusula está en el **Anexo XII**. Qué hacer con un contrato ya formalizado con la versión 2.0 está en el **Anexo XXIV**.
+Los códigos de cláusula del documento anterior se conservan cuando la cláusula subsiste, pero **se escriben con versión**: `DT-7·v3`, `ADM-2·v3`. Si alguna administración tuviera pliegos redactados citando los códigos de la versión 2.0, adviértase que su contenido no es el mismo. La equivalencia cláusula a cláusula está en el **Anexo XII**. Qué hacer con un contrato ya formalizado con la versión 2.0 está en el **Anexo XXIV**.
 
 #### Para quien lo copie desde otro ayuntamiento
 
@@ -629,13 +648,13 @@ La **publicación en el perfil de contratante** de la motivación de la necesida
 
 ---
 
-### 0.6 Los tres casos que este catálogo NO cubre
+### 0.6 Los tres casos con alcance limitado, y qué sí cabe en cada uno
 
-Este apartado no es un descargo: es una parte esencial de la guía. La mayor parte de los expedientes que firma un ayuntamiento no son procedimientos abiertos con pliegos propios, y si no se dice qué hacer en los otros casos, el catálogo sólo sirve para una minoría del trabajo real. Aquí se dice, caso por caso, por qué no cabe y qué se puede hacer en su lugar. **La regla está en la Parte I §2.4 y en la Parte V, V.7; la lista cerrada del contrato menor está sólo en la Parte V, V.7.1. Este apartado los explica y no los sustituye.**
+Este apartado no es un descargo: es una parte esencial de la guía. La mayor parte de los expedientes que firma un ayuntamiento no son procedimientos abiertos con pliegos propios, y si no se dice qué hacer en los otros casos, el catálogo sólo sirve para una minoría del trabajo real. **Ninguno de los tres queda fuera del catálogo: en los tres cabe algo, y en dos de ellos bastante.** Lo que cambia es el alcance, porque cambia el instrumento contractual disponible. Aquí se dice, caso por caso, hasta dónde llega y qué se puede hacer. **La regla está en la Parte I §2.4 y en la Parte V, V.7; la lista cerrada del contrato menor está sólo en la Parte V, V.7.1. Este apartado los explica y no los sustituye.**
 
 #### Caso 1 · Contratos menores
 
-**Por qué no cabe.** El contrato menor se tramita sin pliego de cláusulas administrativas particulares y sin pliego de prescripciones técnicas particulares. Este catálogo es, íntegramente, un catálogo de cláusulas de pliego: no hay documento donde copiarlas. Y aunque lo hubiera, un régimen de evolución tecnológica con comisión de seguimiento, plan anual, actas de aceptación y ensayo de reversibilidad es manifiestamente desproporcionado para un gasto de esa cuantía y duración.
+**Hasta dónde llega el catálogo aquí.** El contrato menor se tramita sin pliego de cláusulas administrativas particulares y sin pliego de prescripciones técnicas particulares. Este catálogo es, íntegramente, un catálogo de cláusulas de pliego: no hay documento donde copiarlas. Y aunque lo hubiera, un régimen de evolución tecnológica con comisión de seguimiento, plan anual, actas de aceptación y ensayo de reversibilidad es manifiestamente desproporcionado para un gasto de esa cuantía y duración.
 
 **Qué SÍ se puede hacer.** Hay una lista cerrada de exigencias que sí caben en el encargo o en la aceptación de la oferta, y ninguna más. Está en la **Parte V, V.7.1**, escrita con letras, y ése es el único sitio del documento donde está: aquí no se reproduce ni se cuenta, para que no puedan existir dos versiones ni dos recuentos de la misma lista. **La razón de que esas exigencias sí quepan sin pliego, y de que las demás no, es una sola: las de V.7.1 obligan porque las impone una norma que se aplica también al contrato menor; las cláusulas de este catálogo obligan porque están escritas en un pliego, y aquí no hay pliego.** Además, y fuera de esa lista, cabe usar el contrato menor como **prueba de concepto** para preparar la licitación siguiente, documentando lo aprendido: eso alimenta el contraste de mercado del paso previo anual.
 
@@ -646,7 +665,7 @@ Este apartado no es un descargo: es una parte esencial de la guía. La mayor par
 
 #### Caso 2 · Contratos basados en un acuerdo marco y adhesiones a centrales de compra
 
-**Por qué no cabe.** En estos casos las condiciones ya están fijadas por el acuerdo marco o por el catálogo de la central de contratación, que se licitó antes y por otro órgano. Quien se adhiere o contrata al amparo de ellos **no puede añadir obligaciones nuevas al adjudicatario**: hacerlo altera las condiciones en que se compitió y perjudica a quienes quedaron fuera. Es el caso en el que la respuesta correcta es, casi siempre, «aquí no».
+**Hasta dónde llega el catálogo aquí.** En estos casos las condiciones ya están fijadas por el acuerdo marco o por el catálogo de la central de contratación, que se licitó antes y por otro órgano. Quien se adhiere o contrata al amparo de ellos **no puede añadir obligaciones nuevas al adjudicatario**: hacerlo altera las condiciones en que se compitió y perjudica a quienes quedaron fuera. Es el caso en el que la respuesta correcta es, casi siempre, «aquí no».
 
 **Qué SÍ se puede hacer.**
 - **Elegir dentro de lo que el acuerdo marco ya ofrece.** Si el catálogo contempla módulos, niveles de servicio o funcionalidades opcionales que coincidan con lo que este catálogo persigue, se seleccionan y se motiva la elección en el expediente. Esa motivación sí es del ayuntamiento adherido.
@@ -661,7 +680,7 @@ Este apartado no es un descargo: es una parte esencial de la guía. La mayor par
 
 #### Caso 3 · Prórrogas de contratos ya en vigor
 
-**Por qué no cabe.** La prórroga es la continuación del mismo contrato en las mismas condiciones. No es el momento de introducir obligaciones nuevas: introducir una obligación nueva no es prorrogar, es **modificar**, y la modificación tiene su propio régimen y sus propios límites (arts. 203 y 204 LCSP). Presentar como prórroga lo que es una modificación es un vicio del expediente, y además coloca al Ayuntamiento en la peor posición negociadora posible, porque el adjudicatario sabe que la alternativa es quedarse sin servicio.
+**Hasta dónde llega el catálogo aquí.** La prórroga es la continuación del mismo contrato en las mismas condiciones. No es el momento de introducir obligaciones nuevas: introducir una obligación nueva no es prorrogar, es **modificar**, y la modificación tiene su propio régimen y sus propios límites (arts. 203 y 204 LCSP). Presentar como prórroga lo que es una modificación es un vicio del expediente, y además coloca al Ayuntamiento en la peor posición negociadora posible, porque el adjudicatario sabe que la alternativa es quedarse sin servicio.
 
 **Qué SÍ se puede hacer.**
 - **Ejercer lo que el contrato ya dice.** Muchas veces la obligación existe y no se ha exigido: entrega de documentación, acceso a los datos, actualización de versiones dentro del mantenimiento contratado, niveles de servicio. Antes de pedir nada nuevo, léase el contrato vigente: la primera palanca suele estar dentro.
@@ -5339,7 +5358,7 @@ La pieza 17 responde a una exigencia razonable de cualquier órgano de control: 
 
 ### V.7 · Circuitos abreviados: menores, acuerdos marco, adhesiones y contratos vivos
 
-El catálogo sólo sirve para una minoría de expedientes si no dice nada de los tres casos que más se firman. Aquí se dice.
+El catálogo sólo sirve para una minoría de expedientes si no dice nada de los tres casos que más se firman. Aquí se dice qué cabe en cada uno: algo en los tres, aunque menos que en un procedimiento abierto con pliegos propios.
 
 #### V.7.1 · Contratos menores
 
@@ -5637,10 +5656,15 @@ cuando reúne **las cinco** siguientes; si falla alguna, es mejor esperar al sig
 | 4 | **Existe mercado plural para ese objeto** | Un objeto con un solo proveedor real convierte cualquier exigencia nueva en una barrera, y el piloto acabará discutiéndose como restricción de la concurrencia en lugar de como prueba del catálogo |
 | 5 | **Está en fase de preparación, no de licitación** | Sobre un pliego ya publicado no se «corrige»: se rectifica con nueva aprobación y publicación, o se desiste (§VI.2.2). Un piloto no debería nacer con ese lastre |
 
-Lo desaconsejan, por el contrario: los contratos menores (no hay pliego donde poner el catálogo),
-los basados en acuerdo marco y las adhesiones a central de compra (las condiciones vienen dadas), y
-las prórrogas de contratos vivos (la prórroga continúa el contrato, no lo reescribe). Para esos tres
-supuestos rigen las reglas específicas de la Parte I.
+Como **primer** piloto son peores candidatos —que no es lo mismo que estar excluidos— los contratos
+menores, los basados en acuerdo marco, las adhesiones a central de compra y las prórrogas de
+contratos vivos: en todos ellos el margen del catálogo es más estrecho y el piloto probaría menos.
+Pero **ninguno queda fuera del catálogo**, y la Parte I dice de cada uno qué sí cabe: en el contrato
+menor, la lista cerrada de exigencias normativas (§V.7.1), porque lo que la ley impone se pide igual;
+en el acuerdo marco y la adhesión, elegir entre las opciones ya previstas, usar los extremos que el
+instrumento reserve a la fase de contrato basado —incluida la nueva licitación entre adjudicatarios—
+y trasladar la necesidad al órgano titular para la siguiente licitación; en la prórroga, comprobar lo
+ya exigible y preparar con tiempo la contratación sucesora.
 
 Y una recomendación que vale por las cinco condiciones juntas: **el primer piloto no debe incorporar
 el catálogo entero.** El §VI.2.2 identifica el subconjunto mínimo con el que empezar.
@@ -5714,10 +5738,10 @@ Por qué este objeto ilustra bien el catálogo —y son, punto por punto, las co
    MEDIA sin forzarla, y deja fuera del ejemplo el depósito de código, que habría desplazado la
    discusión.
 
-Lo que un piloto así **no** demuestra, y conviene decirlo antes de que lo diga otro: no demuestra
-que el catálogo funcione en contratos menores, en contratos basados en acuerdo marco o en
-adhesiones a centrales de compra, ni en prórrogas de contratos vivos. Para esos tres supuestos rigen
-las reglas específicas de la Parte I y no hay experiencia todavía.
+Lo que un piloto así **no** demuestra, y conviene decirlo antes de que lo diga otro: no mide lo que
+el catálogo rinde en contratos menores, en los basados en acuerdo marco o en adhesiones a centrales
+de compra, ni en prórrogas de contratos vivos. En todos ellos **sí cabe aplicarlo, con el alcance que
+detalla la Parte I**; lo que falta es experiencia sobre cómo se comporta ahí.
 
 ---
 

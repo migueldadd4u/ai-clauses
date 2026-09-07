@@ -149,7 +149,7 @@ module.exports = [
   {
     tipo: 'autores',
     titulo: 'Quién lo ha hecho',
-    intro: 'Un trabajo conjunto de varios meses entre cinco personas, cada una desde su oficio, con el Ayuntamiento de Pozuelo de Alarcón como banco de pruebas real.',
+    intro: 'Un trabajo conjunto de varios meses entre siete personas, cada una desde su oficio.',
     autores: [
       {
         nombre: 'Delfina Lafuente Veira',
@@ -170,10 +170,10 @@ module.exports = [
         aporte: 'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
       },
       {
-        nombre: 'Enrique Jiménez y Roberto García',
-        cargo: 'Responsable de los contratos de innovación · Jefe de informática — Ayuntamiento de Pozuelo de Alarcón',
+        nombre: 'Enrique Jiménez · Roberto García · Luis Llorente',
+        cargo: 'Contratos de innovación · Jefatura de informática · Negociado de sistemas de información — Ayuntamiento de Pozuelo de Alarcón',
         enlace: '',
-        aporte: 'Autores y supervisores técnicos: han aportado el contraste de la práctica municipal y la supervisión técnica de la formulación contractual.',
+        aporte: 'Autores y supervisores técnicos: el contraste de la práctica municipal y la supervisión técnica de la formulación contractual. Con la lectura crítica de Francisco Javier Escalona Moyano, Interventor General, a título personal.',
       },
     ],
     nota: 'Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
