@@ -192,7 +192,7 @@ function crearDocumento(bodySize) {
     },
   };
   return new Document({
-    creator: 'Delfina Lafuente Veira; José Antonio Ondiviela García; Miguel Ángel Domínguez Castellano; Enrique Jiménez; Roberto García',
+    creator: 'Delfina Lafuente Veira; José Antonio Ondiviela García; Miguel Ángel Domínguez Castellano',
     title: 'AI Clauses · resumen en dos páginas',
     description: 'Resumen ejecutivo del catálogo de cláusulas de IA y deep tech para contratación pública',
     numbering: { config: [{

@@ -17,7 +17,7 @@ lo adapte.
 
 **Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón: nada.** Este documento no es un acto
 administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación. Es un
-trabajo profesional de las siete personas que lo firman, una de las cuales ejerce un cargo público en
+trabajo profesional de las personas que lo firman, a título particular; quienes ejercen un cargo o un puesto público lo hacen a título personal en
 ese Ayuntamiento.
 
 **Qué falta para que pueda incorporarse a un expediente de contratación**, según su propia memoria
@@ -123,7 +123,7 @@ preparación.
 
 ## Quién lo ha hecho
 
-Un trabajo conjunto de varios meses entre siete personas, cada una desde su oficio.
+Un trabajo conjunto de varios meses entre varias personas, cada una desde su oficio, con tres firmantes y las aportaciones técnicas que se citan al final.
 
 - **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
   Ayuntamiento de Pozuelo de Alarcón. De ella nace el proyecto y suya es la primera redacción del
@@ -143,15 +143,9 @@ Un trabajo conjunto de varios meses entre siete personas, cada una desde su ofic
   datos como cuestión de competencia, la negativa a puntuar la tenencia previa de una tecnología
   porque premia a quien ya está dentro, y la decisión de publicarlo en abierto en lugar de
   conservarlo como activo de consultoría. Asume la responsabilidad editorial de esta publicación.
-- **Enrique Jiménez** — responsable de los contratos de innovación; **Roberto García** — jefe de
-  informática; y **Luis Llorente** — jefe de negociado de sistemas de información, los tres del
-  Ayuntamiento de Pozuelo de Alarcón; autores y supervisores técnicos. Han aportado el contraste de
-  la práctica municipal —qué se puede exigir de verdad en un pliego y qué no llega a ejecutarse— y la
-  supervisión técnica de la formulación contractual.
-- **Francisco Javier Escalona Moyano** — Interventor General del Ayuntamiento de Pozuelo de Alarcón.
-  Leyó el borrador y devolvió por escrito la crítica más exigente que ha recibido este trabajo. Se le
-  menciona con su consentimiento y a título personal: su lectura crítica no es un informe de
-  fiscalización ni un pronunciamiento del órgano de control, que no se ha producido.
+En el trabajo han colaborado además personal técnico del Ayuntamiento de Pozuelo de Alarcón, con el
+contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán en
+la siguiente versión, una vez recabado el consentimiento expreso de cada uno.
 
 Las **cuatro dificultades** del §M1.1 son la razón de ser de esta versión, y se responden una a una
 en el cuerpo del documento.

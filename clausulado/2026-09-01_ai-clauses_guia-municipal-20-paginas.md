@@ -9,15 +9,9 @@ Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026*
 
 ### Autoría
 
-**Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano · Enrique Jiménez · Roberto García · Luis Llorente**
+**Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano**
 
-**Autores y supervisores técnicos:** Enrique Jiménez, responsable de los contratos de innovación;
-Roberto García, jefe de informática; y Luis Llorente, jefe de negociado de sistemas de información,
-los tres del Ayuntamiento de Pozuelo de Alarcón.
-
-**Lectura crítica:** Francisco Javier Escalona Moyano, Interventor General del Ayuntamiento de
-Pozuelo de Alarcón, a título personal y con su consentimiento; su lectura no es un informe de
-fiscalización ni un pronunciamiento del órgano de control.
+**Otras aportaciones:** personal técnico del Ayuntamiento de Pozuelo de Alarcón, con el contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán en la siguiente versión, una vez recabado el consentimiento expreso de cada uno.
 
 ### Estado del documento
 
@@ -25,7 +19,9 @@ Este catálogo nace de un problema real de gestión municipal, pero **no es un d
 
 **Qué se puede hacer desde hoy, y qué no.** La mayoría de las cláusulas —y las de más valor económico: reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se anclan por vía **normativa** o **funcional** y **no necesitan ningún acuerdo previo**: basta motivarlas en la memoria del expediente con datos propios. Sólo las de origen **institucional**, que ninguna norma impone y ningún gestor pide, necesitan el acuerdo del órgano de gobierno, que no es un permiso sino la prueba documental de su necesidad. De las seis cláusulas del piloto mínimo, **cinco no dependen de ese acuerdo**.
 
-Lo que sí está pendiente a la fecha de corte —acuerdo del órgano de gobierno, consulta preliminar del mercado documentada y declaraciones de conflicto de interés firmadas— limita el uso de **este documento como modelo aprobado**, no la potestad de nadie para escribir buenas cláusulas en su pliego.
+Lo que sí está pendiente a la fecha de corte —acuerdo del órgano de gobierno, consulta preliminar del mercado documentada y declaraciones de conflicto de interés firmadas— limita el uso de **este documento como modelo aprobado**, no la potestad de nadie para escribir buenas cláusulas en su pliego. Y las declaraciones de conflicto de interés se firman para que nadie pueda pedir ni obtener ventaja en un pliego: **no impiden a ningún colaborador presentarse a una licitación**.
+
+**¿Y si el órgano de gobierno no aprueba nada?** Se puede hacer casi todo igual. Lo de origen normativo y funcional entra hoy, motivado con datos propios en la memoria del expediente. Lo que necesita anclaje institucional —el catálogo anual de exigencias del Anexo V— no exige un acuerdo *nuevo*: sirve cualquier plan, estrategia u ordenanza ya aprobada que fije esa política. Si no existe ninguna, caben la reanclaje por vía funcional con datos del servicio, la aprobación del Anexo V por resolución del órgano competente, o posponer esa única cláusula y aplicar el resto. Lo que no cabe es rellenar la ficha con una frase genérica: eso es justificación estereotipada. El desarrollo está en la Parte IV, §M1.2 bis.
 
 ### Ruta rápida por perfil
 

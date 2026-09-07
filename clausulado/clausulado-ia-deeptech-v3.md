@@ -9,7 +9,6 @@ y de Cláusulas Administrativas Particulares, y para su fiscalización
 
 Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano
 
-Enrique Jiménez · Roberto García — autoría y supervisión técnica
 
 Elaborado con asistencia de sistemas de inteligencia artificial. Véase la declaración
 de la primera sección, conforme al artículo 50 del Reglamento (UE) 2024/1689.
@@ -37,8 +36,9 @@ que sigue.*
 **Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
 administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
 
-**Qué es:** un trabajo profesional de las siete personas que lo firman, una de las cuales ejerce un
-cargo público en ese Ayuntamiento.
+**Qué es:** un trabajo profesional de las personas que lo firman, a título particular. Quienes de
+ellas ejercen un cargo o un puesto público lo hacen aquí a título personal, no en su condición
+oficial, y su firma no compromete a ninguna administración.
 
 **Qué falta, y qué NO condiciona.** Conviene separarlo, porque se confunde. Estas tres condiciones
 limitan el uso de **este documento como modelo aprobado**; no limitan la potestad de nadie para
@@ -59,6 +59,8 @@ Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa 
 | 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
 | 3 | Declaraciones de conflicto de interés firmadas e incorporadas al expediente (arts. 64 y 70 LCSP) | **Pendiente** |
 
+Sobre la tercera, y porque se presume lo contrario: esas declaraciones se firman para que **nadie pueda pedir ni obtener ventaja en un pliego** —ni puntuación a favor, ni requisitos escritos a su medida—. **No excluyen a ningún colaborador de presentarse a una licitación** que aplique este catálogo. El detalle, en la Parte IV, §M7.3, medida 8.
+
 Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
 debate: **no debe citarse como modelo aprobado ni servir de aval** en un expediente que supere el
 umbral del recurso especial. Lo que sí puede hacerse desde el primer día es **usar sus soluciones de
@@ -78,7 +80,7 @@ publicación.
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo
-conjunto de varios meses entre siete personas, cada una desde su oficio.
+conjunto de varios meses entre varias personas, cada una desde su oficio, con tres firmantes y las aportaciones técnicas que se citan al final.
 
 **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
 Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la Administración General del Estado
@@ -119,17 +121,12 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Enrique Jiménez** — responsable de los contratos de innovación; **Roberto García** — jefe de
-informática; y **Luis Llorente** — jefe de negociado de sistemas de información, los tres del
-Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de
-la práctica municipal —qué se puede exigir de verdad en un pliego y qué no llega a ejecutarse— y la
-supervisión técnica de la formulación contractual.
+**Otras aportaciones.** En el trabajo han colaborado personal técnico del Ayuntamiento de Pozuelo de
+Alarcón, cuya aportación —el contraste de la práctica municipal y la lectura crítica del borrador—
+está reconocida y ha cambiado el documento. Sus nombres **no se publican todavía**: se incorporarán
+en la siguiente versión, una vez recabado de cada uno el consentimiento expreso. Se hace constar aquí
+para que la omisión no se lea como que no existieron.
 
-**Francisco Javier Escalona Moyano** — Interventor General del Ayuntamiento de Pozuelo de Alarcón.
-Leyó el borrador y devolvió por escrito la crítica más exigente que ha recibido este trabajo, la que
-está detrás de las cuatro dificultades del §M1.1 y, con ellas, de buena parte de la arquitectura del
-catálogo. Se le menciona con su consentimiento y **a título personal**: su lectura crítica no es un
-informe de fiscalización ni un pronunciamiento del órgano de control, que no se ha producido.
 
 ---
 
@@ -139,8 +136,8 @@ Conviene decirlo antes que nada, y con precisión, porque de ello depende que na
 
 **Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
 aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
-y no expresa la posición de la Corporación. Es un trabajo profesional de las siete personas que lo
-firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
+y no expresa la posición de la Corporación. Es un trabajo profesional de las personas que lo firman,
+a título particular; quienes ejercen un cargo o un puesto público lo hacen aquí a título personal.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
 municipal, y su Parte IV empieza por nombrar **las cuatro dificultades** que quienes lo han trabajado
@@ -4140,6 +4137,56 @@ La premisa «primero surge la necesidad [del gestor] y luego la cláusula» es c
 
 Con ese acuerdo, el Informe de Necesidad de cada expediente no invoca un documento técnico de una concejalía: invoca una política municipal aprobada, y la relación con el objeto del contrato pasa a ser derivada de ella. **Sin ese acuerdo, el Anexo V describe lo que el mercado vende, no lo que el Ayuntamiento necesita**, y la ficha de cada expediente se acabará rellenando con el mismo párrafo, que es la definición de justificación estereotipada. El modelo de acuerdo figura en el **Anexo VIII**, y el modelo de resolución de aprobación anual del Anexo V del ejercicio, en el **Anexo XV**.
 
+#### M1.2 bis · Y si el órgano de gobierno no aprueba nada
+
+Es la pregunta que hace cualquiera que tenga que aplicar esto de verdad, y merece respuesta directa
+en vez de una remisión: **¿y si el ayuntamiento no quiere aprobar ninguna política digital, pero sí
+quiere usar el catálogo y poner exigencias tecnológicas?**
+
+La respuesta corta: **se puede hacer casi todo, y lo que no, tiene tres salidas antes de renunciar.**
+
+**Primero, lo que no depende de nadie.** Todo lo de origen normativo o funcional entra hoy, motivado
+en la memoria del expediente con datos propios. Es la mayor parte del catálogo y la de más valor
+económico: reversibilidad, propiedad intelectual y licencia mínima, acceso de los órganos de control
+al dato, ENS bien redactado, equivalencia y prueba, penalidades tipificadas. De las seis cláusulas
+del subconjunto mínimo del §VI.2.2, **cinco** se sostienen así.
+
+**Segundo, lo que sí necesita anclaje institucional** —el catálogo anual de exigencias tecnológicas
+del Anexo V y la interfaz de acceso para agentes más allá del control interno— no exige
+necesariamente un acuerdo *nuevo*. Exige **un acto de la administración, con rango suficiente, que
+fije esa política**. Antes de pedir uno, búsquese si ya existe:
+
+| Si el ayuntamiento ya tiene… | Sirve como anclaje si… |
+|---|---|
+| Un plan o estrategia de digitalización, transformación digital o administración electrónica aprobado | Contiene objetivos de interoperabilidad, automatización o soberanía del dato a los que la exigencia pueda reconducirse |
+| Una ordenanza de administración electrónica | Prevé la relación por medios electrónicos y la interoperabilidad de sus sistemas |
+| Un plan de gobierno abierto, de datos abiertos o una estrategia de ciudad | Fija compromisos de publicación, reutilización o explotación del dato |
+| Un acuerdo de adhesión a un marco supramunicipal (ENS, ENI, plan autonómico) | El compromiso alcanza a los sistemas objeto del contrato |
+
+En ese caso la ficha del Anexo II no invoca un documento técnico de una concejalía: **invoca una
+política ya aprobada**, y el §M1.2.c) queda satisfecho sin volver a la Junta.
+
+**Tercero, si no existe nada de eso**, quedan tres caminos, en este orden:
+
+1. **Reanclar por vía funcional lo que se pueda.** Muchas exigencias que parecen institucionales lo
+   dejan de ser en cuanto el gestor pone datos encima: número de peticiones al año y plazo medio de
+   respuesta actual, coste estimado del cambio de proveedor, horas dedicadas a una tramitación. El
+   §M1.2.b) es una vía tan legítima como el acuerdo, y a menudo más sólida ante un tribunal, porque
+   la necesidad se acredita con hechos del propio servicio y no con una declaración de intenciones.
+2. **Aprobar el Anexo V del ejercicio por resolución del órgano competente**, sin plan municipal
+   previo, motivándola en la memoria y publicándola con su contraste de mercado (Anexo XV). Es menos
+   sólido que un acuerdo de gobierno —lo dice el §M8— pero es un acto administrativo con
+   responsable, y sostiene la exigencia mientras nadie lo recurra.
+3. **Y si tampoco eso**: incorpórese el subconjunto mínimo sin ADM-2·v3 y déjese constancia en la
+   memoria de que la exigencia tecnológica se pospone por falta de anclaje. Es preferible un
+   expediente con cinco cláusulas defendibles que uno con seis y una recurrible.
+
+**Lo que no se debe hacer, y es la tentación.** Incorporar el Anexo V igualmente, rellenando la ficha
+con una frase genérica del tipo «conviene que las aplicaciones municipales sean interoperables con
+agentes de inteligencia artificial». Ese párrafo se repite idéntico en todos los expedientes, y es la
+definición de justificación estereotipada que un tribunal rechaza. Sin anclaje, la cláusula no se
+disfraza: se pospone.
+
 #### M1.3 · Doble vía de firma de la ficha
 
 De lo anterior se sigue una regla operativa que resuelve una contradicción que el catálogo arrastraba: no se puede exigir que **el gestor** firme fichas de necesidades que no son suyas.
@@ -4475,7 +4522,7 @@ Este catálogo ha sido elaborado con asesoramiento externo de personas y entidad
 5. **Abstención en los procedimientos derivados.** Ninguno de los asesores externos que han participado en la elaboración de este catálogo puede formar parte de mesas de contratación, comités de expertos ni intervenir en la valoración de ofertas de los expedientes que lo apliquen. Constancia en cada expediente.
 6. **Publicación íntegra y anticipada del catálogo en abierto.** Es, materialmente, la medida más eficaz del art. 70: toda la información de la que dispusieron quienes asesoraron está a disposición de todo el mercado, con antelación a cualquier licitación y sin necesidad de solicitarla. La asimetría informativa que el art. 70 quiere corregir queda eliminada por publicación. Adviértase el límite de esta medida, para que no se le atribuya más de lo que hace: elimina la ventaja informativa, **no neutraliza el interés económico de quien asesora o firma**. Eso sólo lo neutralizan las declaraciones firmadas del Anexo IX y la autolimitación de la medida 8.
 7. **Consulta preliminar del mercado publicada y abierta** (art. 115 LCSP, §M3.2), con anuncio en el perfil de contratante y publicación del informe de conclusiones, de modo que cualquier operador pueda aportar en las mismas condiciones.
-8. **Autolimitación recomendada.** Se recomienda al órgano de contratación acordar que los asesores externos y las entidades en que participen se abstengan de licitar, por sí o en unión temporal, en los expedientes que apliquen este catálogo durante [X; se recomienda 12] meses desde su aprobación. Es una medida voluntaria y desproporcionada en sentido estricto —la ley no la exige—, pero es la única que elimina el riesgo en lugar de gestionarlo.
+8. **Lo que la declaración NO hace: limitar el derecho a licitar.** Conviene decirlo expresamente, porque se presume lo contrario. Las declaraciones del Anexo IX se firman para que **nadie pueda pedir, ni obtener, ventaja en un pliego** —ni puntuación a favor, ni requisitos escritos a su medida—, y para que el conflicto esté sobre la mesa antes de que nadie tenga que preguntarlo. **No excluyen a ningún colaborador de presentarse a una licitación que aplique este catálogo**, ni por sí ni en unión temporal de empresas. Una autolimitación de ese alcance no la exige la ley, restringiría la concurrencia que este catálogo quiere ensanchar y castigaría precisamente a quien ha puesto su conocimiento en abierto. Lo que sí se exige es lo de los puntos 2, 4 y 10: que ninguna exigencia esté escrita para favorecer a nadie, que no se puntúe la tenencia previa y que conste quién propuso cada cosa.
 9. **Si pese a lo anterior alguno concurriera**, se aplicará el régimen del art. 70 LCSP en sus propios términos: puesta a disposición de todos los licitadores de la información intercambiada y de la que se derive de la participación previa, plazos suficientes para la presentación de ofertas y, **antes de cualquier exclusión, audiencia al interesado** para que acredite que su participación no falsea la competencia. La exclusión es el último recurso, no el primero.
 10. **Trazabilidad de la autoría.** Cuando una previsión del catálogo se refiera a una tecnología en la que un interviniente tenga interés declarado, se hará constar en el expediente quién la propuso.
 11. **Revisión previa por los órganos de control con el conflicto ya sobre la mesa**: informe jurídico y nota de fiscalización se emiten conociendo esta declaración, no después.

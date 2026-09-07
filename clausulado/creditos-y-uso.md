@@ -13,8 +13,9 @@ que sigue.*
 **Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
 administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
 
-**Qué es:** un trabajo profesional de las siete personas que lo firman, una de las cuales ejerce un
-cargo público en ese Ayuntamiento.
+**Qué es:** un trabajo profesional de las personas que lo firman, a título particular. Quienes de
+ellas ejercen un cargo o un puesto público lo hacen aquí a título personal, no en su condición
+oficial, y su firma no compromete a ninguna administración.
 
 **Qué falta, y qué NO condiciona.** Conviene separarlo, porque se confunde. Estas tres condiciones
 limitan el uso de **este documento como modelo aprobado**; no limitan la potestad de nadie para
@@ -35,6 +36,8 @@ Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa 
 | 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
 | 3 | Declaraciones de conflicto de interés firmadas e incorporadas al expediente (arts. 64 y 70 LCSP) | **Pendiente** |
 
+Sobre la tercera, y porque se presume lo contrario: esas declaraciones se firman para que **nadie pueda pedir ni obtener ventaja en un pliego** —ni puntuación a favor, ni requisitos escritos a su medida—. **No excluyen a ningún colaborador de presentarse a una licitación** que aplique este catálogo. El detalle, en la Parte IV, §M7.3, medida 8.
+
 Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
 debate: **no debe citarse como modelo aprobado ni servir de aval** en un expediente que supere el
 umbral del recurso especial. Lo que sí puede hacerse desde el primer día es **usar sus soluciones de
@@ -54,7 +57,7 @@ publicación.
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo
-conjunto de varios meses entre siete personas, cada una desde su oficio.
+conjunto de varios meses entre varias personas, cada una desde su oficio, con tres firmantes y las aportaciones técnicas que se citan al final.
 
 **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
 Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la Administración General del Estado
@@ -95,17 +98,12 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Enrique Jiménez** — responsable de los contratos de innovación; **Roberto García** — jefe de
-informática; y **Luis Llorente** — jefe de negociado de sistemas de información, los tres del
-Ayuntamiento de Pozuelo de Alarcón; **autores y supervisores técnicos**. Han aportado el contraste de
-la práctica municipal —qué se puede exigir de verdad en un pliego y qué no llega a ejecutarse— y la
-supervisión técnica de la formulación contractual.
+**Otras aportaciones.** En el trabajo han colaborado personal técnico del Ayuntamiento de Pozuelo de
+Alarcón, cuya aportación —el contraste de la práctica municipal y la lectura crítica del borrador—
+está reconocida y ha cambiado el documento. Sus nombres **no se publican todavía**: se incorporarán
+en la siguiente versión, una vez recabado de cada uno el consentimiento expreso. Se hace constar aquí
+para que la omisión no se lea como que no existieron.
 
-**Francisco Javier Escalona Moyano** — Interventor General del Ayuntamiento de Pozuelo de Alarcón.
-Leyó el borrador y devolvió por escrito la crítica más exigente que ha recibido este trabajo, la que
-está detrás de las cuatro dificultades del §M1.1 y, con ellas, de buena parte de la arquitectura del
-catálogo. Se le menciona con su consentimiento y **a título personal**: su lectura crítica no es un
-informe de fiscalización ni un pronunciamiento del órgano de control, que no se ha producido.
 
 ---
 
@@ -115,8 +113,8 @@ Conviene decirlo antes que nada, y con precisión, porque de ello depende que na
 
 **Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
 aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
-y no expresa la posición de la Corporación. Es un trabajo profesional de las siete personas que lo
-firman, una de las cuales ejerce un cargo público en ese Ayuntamiento.
+y no expresa la posición de la Corporación. Es un trabajo profesional de las personas que lo firman,
+a título particular; quienes ejercen un cargo o un puesto público lo hacen aquí a título personal.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
 municipal, y su Parte IV empieza por nombrar **las cuatro dificultades** que quienes lo han trabajado

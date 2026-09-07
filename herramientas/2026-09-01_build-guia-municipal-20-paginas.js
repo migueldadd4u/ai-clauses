@@ -300,7 +300,7 @@ for (const pagina of paginas) {
 }
 
 const doc = new Document({
-  creator: 'Delfina Lafuente Veira; José Antonio Ondiviela García; Miguel Ángel Domínguez Castellano; Enrique Jiménez; Roberto García',
+  creator: 'Delfina Lafuente Veira; José Antonio Ondiviela García; Miguel Ángel Domínguez Castellano',
   title: 'AI Clauses · Guía municipal de decisión y aplicación',
   description: 'Guía ejecutiva de 20 páginas para revisar el catálogo de cláusulas de IA y deep tech',
   numbering: {
