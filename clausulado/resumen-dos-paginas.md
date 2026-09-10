@@ -1,6 +1,7 @@
 # Un contrato público de tecnología dura años. La tecnología que compra, no.
 
-**Cláusulas de IA y deep tech para pliegos de contratación pública · resumen en dos páginas**
+**Cláusulas de IA y deep tech para pliegos de contratación pública — y, como consecuencia de
+redactarlas, un manual de tramitación conforme a la Ley 9/2017 · resumen en dos páginas**
 
 ## El problema
 
@@ -55,6 +56,13 @@ licitación: eso premia al proveedor que ya está dentro, y la propia ley lo dec
 **Es un catálogo** de cláusulas ya redactadas, cada una con su justificación, su medio de prueba, su
 forma de verificación y su consecuencia; con la memoria justificativa, el circuito completo del
 expediente, un caso piloto resuelto entero y los modelos que hacen falta.
+
+**Y es, además, un manual de tramitación.** Para redactar estas cláusulas hubo que escribir entero el
+circuito del expediente que las sostiene —los veintiún documentos, quién firma cada uno y en qué
+orden—, y ese circuito no tiene nada de específico de la IA: sirve igual para cualquier otra cláusula
+que quiera incorporarse a un pliego conforme a la Ley 9/2017. Quien venga a por cláusulas de IA
+empieza por la Parte 0 y sigue por las Partes II y III; quien venga a tramitar bien un expediente va
+directo a la Parte V y al ejemplo completo de la Parte VI.
 
 **No es una norma**: no obliga a nadie por sí mismo. **No es de aplicación automática**: ninguna
 cláusula entra en un pliego por el hecho de existir aquí. **No es un «copia y pega»**: una cláusula
@@ -116,7 +124,7 @@ misma firmeza, no copiarlo sin entenderlo:
 
 ## Un aviso, antes de citarlo
 
-**Este no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**: no ha sido aprobado por
+**Este no es un documento oficial de ninguna administración**: no ha sido aprobado por
 ningún órgano municipal ni expresa la posición de la Corporación, y ningún órgano de contratación,
 intervención o asesoría jurídica se ha pronunciado sobre él. El caso trabajado del documento extenso
 es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación. Es un trabajo profesional de las personas
@@ -128,16 +136,19 @@ para el debate, no un instrumento listo para meter en un expediente.
 
 ## Quién lo ha hecho
 
-**[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)**, Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento
-de Pozuelo de Alarcón: de ella nace el proyecto y suya es la primera redacción. **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)**,
-profesor e investigador de la Universidad Francisco de Vitoria: la mirada del mercado y la idea que
-resuelve el problema de fondo. **[Miguel Ángel Domínguez Castellano](https://miguelangeldominguez.info)**, CEO de
-Add4u y presidente de Alastria y del Clúster de Blockchain de la Comunidad de Madrid: la perspectiva
-de quien conoce las dos orillas, y la responsabilidad editorial de la publicación.
+**[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)**, profesor e investigador de la
+Universidad Francisco de Vitoria: la mirada del mercado y la idea que resuelve el problema de fondo.
+**[Miguel Ángel Domínguez Castellano](https://miguelangeldominguez.info)**, CEO de Add4u y presidente
+de Alastria y del Clúster de Blockchain de la Comunidad de Madrid: la perspectiva de quien conoce las
+dos orillas, y la responsabilidad editorial de la publicación. **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)**,
+Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento de Pozuelo de Alarcón,
+**co-impulsora del proyecto**: de ella nace, suya es la pregunta de partida y suya la primera
+redacción. Firma a título personal.
 
-**Otras aportaciones.** Han colaborado personal técnico del Ayuntamiento de Pozuelo de Alarcón, con
-el contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán
-en la siguiente versión, una vez recabado el consentimiento expreso de cada uno.
+**Reconocimiento a los servicios técnicos municipales.** El contraste con la práctica real de la
+contratación y la lectura crítica de los borradores son suyos, y han cambiado el documento. Se
+reconoce de forma colectiva y deliberada: se hizo en el ejercicio de sus funciones y en beneficio del
+interés general.
 
 **Uso de inteligencia artificial.** En la elaboración de este trabajo se han utilizado sistemas de
 IA: el clon digital (*second brain*) de Miguel Ángel Domínguez, determinante en la recuperación del

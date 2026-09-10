@@ -8,10 +8,10 @@ que sigue.*
 
 ---
 
-### Estado de este documento a 1 de septiembre de 2026
+### Estado de este documento a 10 de septiembre de 2026
 
-**Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón:** nada. Este documento no es un acto
-administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación.
+**Qué ha aprobado alguna administración:** nada. Este documento no es un acto administrativo, no ha
+sido aprobado por ningún órgano de ninguna entidad pública y no vincula a ninguna Corporación.
 
 **Qué es:** un trabajo profesional de las personas que lo firman, a título particular. Quienes de
 ellas ejercen un cargo o un puesto público lo hacen aquí a título personal, no en su condición
@@ -30,7 +30,7 @@ mínimo del §VI.2.2, **cinco no dependen de ese acuerdo**; sólo ADM-2·v3 con 
 Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa enumera (Parte IV,
 §M11, filas 1 a 3) son:
 
-| # | Condición suspensiva | Estado a 1 de septiembre de 2026 |
+| # | Condición suspensiva | Estado a 10 de septiembre de 2026 |
 |---|---|---|
 | 1 | Acuerdo del órgano de gobierno que apruebe el plan municipal, el catálogo y el Anexo V del ejercicio | **Pendiente** |
 | 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
@@ -54,21 +54,42 @@ publicación.
 
 ---
 
+### Cómo nace este catálogo
+
+En el marco de las funciones de análisis y mejora continua de los procedimientos de contratación
+pública, los servicios técnicos municipales de una entidad local pusieron de manifiesto la necesidad
+de disponer de criterios y cláusulas específicas que permitieran abordar los retos derivados de la
+rápida evolución de las tecnologías de inteligencia artificial y de su creciente incidencia en la
+ejecución de los contratos públicos.
+
+Esas necesidades fueron trasladadas a la Concejalía competente, que constató la conveniencia de
+promover herramientas de apoyo capaces de incorporar garantías jurídicas, técnicas y de gobernanza a
+los futuros pliegos, especialmente en los ámbitos afectados por el uso directo o indirecto de
+soluciones basadas en inteligencia artificial. Para dar respuesta a esa necesidad, la Concejalía
+solicitó la colaboración de dos profesionales externos con experiencia acreditada en tecnologías
+emergentes: un profesor universitario especializado en innovación tecnológica y un experto en
+inteligencia artificial, blockchain y ecosistemas digitales.
+
+**La participación de ambos ha sido enteramente altruista**: sin contraprestación económica alguna,
+sin vinculación contractual con la Administración y sin ánimo de lucro. La elaboración de este
+documento no genera obligación económica para ninguna administración, ni derecho de explotación o
+exclusividad a favor de sus autores.
+
+El resultado es un catálogo de cláusulas tipo de **carácter orientativo**, concebido como instrumento
+de apoyo para redactar y revisar pliegos y contratos administrativos. Es una labor de recopilación,
+análisis, adaptación y sistematización de criterios, buenas prácticas y conocimientos técnicos y
+jurídicos ya existentes en el ámbito de la contratación pública y las tecnologías digitales, sin que
+resulte posible ni necesario identificar individualmente el origen de cada formulación, y sin
+perjuicio de los derechos de propiedad intelectual que pudieran corresponder a terceros sobre obras
+o contenidos específicamente protegidos.
+
+---
+
 ### Quién ha hecho este trabajo
 
 Este documento no es la aportación de un autor a un texto ajeno. Es el resultado de un trabajo
-conjunto de varios meses entre varias personas, cada una desde su oficio, con tres firmantes y las aportaciones técnicas que se citan al final.
-
-**[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
-Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la Administración General del Estado
-durante casi cuatro décadas antes de asumir la delegación.
-*Trayectoria oficial: https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira*
-
-Es de quien nace el proyecto. Suya es la pregunta de partida —por qué un ayuntamiento tiene que
-comprar dos veces la misma tecnología— y suya es la primera redacción del clausulado. Ha sido además
-quien lo ha sometido al contraste que ningún documento de consultoría recibe: ponerlo delante de
-quienes tendrían que aplicarlo, aguantar sus objeciones sin defenderse, y traerlas de vuelta
-enteras. La versión que se publica existe porque ella hizo eso.
+conjunto de varios meses entre varias personas, cada una desde su oficio, con las firmas que constan
+a continuación y el reconocimiento colectivo que se recoge al final.
 
 **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e
 investigador de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades
@@ -98,11 +119,25 @@ resistencia a puntuar la tenencia previa de una tecnología —que premia al que
 decisión de publicarlo todo en abierto en lugar de conservarlo como activo de consultoría. Asume
 además la responsabilidad editorial de esta publicación.
 
-**Otras aportaciones.** En el trabajo han colaborado personal técnico del Ayuntamiento de Pozuelo de
-Alarcón, cuya aportación —el contraste de la práctica municipal y la lectura crítica del borrador—
-está reconocida y ha cambiado el documento. Sus nombres **no se publican todavía**: se incorporarán
-en la siguiente versión, una vez recabado de cada uno el consentimiento expreso. Se hace constar aquí
-para que la omisión no se lea como que no existieron.
+**[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — **co-impulsora del proyecto.** Concejal de Administración Digital,
+Calidad e Innovación del Ayuntamiento de Pozuelo de Alarcón. Funcionaria de carrera de la
+Administración General del Estado durante casi cuatro décadas antes de asumir la delegación. Firma
+aquí a título personal: su firma no compromete a ninguna administración.
+*Trayectoria oficial: https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira*
+
+Es de quien nace el proyecto. Suya es la pregunta de partida —por qué una administración tiene que
+comprar dos veces la misma tecnología— y suya es la primera redacción del clausulado. Ha sido además
+quien lo ha sometido al contraste que ningún documento de consultoría recibe: ponerlo delante de
+quienes tendrían que aplicarlo, aguantar sus objeciones sin defenderse, y traerlas de vuelta
+enteras. La versión que se publica existe porque ella hizo eso.
+
+**Reconocimiento a los servicios técnicos municipales.** Este catálogo no habría tomado esta forma
+sin el trabajo de los servicios técnicos municipales de la entidad de la que nace: suyos son el
+contraste con la práctica real de la contratación y la lectura crítica de los borradores, y ambos han
+cambiado el documento. Su aportación se reconoce aquí **de forma colectiva y deliberada**: se hizo en
+el ejercicio de sus funciones y en beneficio del interés general, y ninguno de ellos tiene por qué
+aparecer citado a título individual en un documento que se publica en abierto. La omisión de sus
+nombres no significa que no existieran; significa exactamente lo contrario.
 
 
 ---
@@ -111,10 +146,11 @@ para que la omisión no se lea como que no existieron.
 
 Conviene decirlo antes que nada, y con precisión, porque de ello depende que nadie lo cite mal:
 
-**Este documento no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón.** No ha sido
-aprobado por ningún órgano municipal, no vincula al Ayuntamiento, no forma parte de ningún expediente
-y no expresa la posición de la Corporación. Es un trabajo profesional de las personas que lo firman,
-a título particular; quienes ejercen un cargo o un puesto público lo hacen aquí a título personal.
+**Este documento no es un documento oficial de ninguna administración.** No ha sido aprobado por
+ningún órgano municipal, autonómico ni estatal, no vincula a ninguna entidad, no forma parte de
+ningún expediente y no expresa la posición de ninguna Corporación. Es un trabajo profesional de las
+personas que lo firman, a título particular; quienes ejercen un cargo o un puesto público lo hacen
+aquí a título personal.
 
 **Lo que sí es cierto, y es lo que le da valor:** el clausulado nace de un problema real de gestión
 municipal, y su Parte IV empieza por nombrar **las cuatro dificultades** que quienes lo han trabajado
@@ -128,7 +164,7 @@ encontrará igualmente el día que se aplique, y eso es lo que lo distingue de u
 despacho.
 
 **Lo que expresamente no es cierto, y conviene decirlo para que nadie lo deduzca:** ningún órgano de
-contratación, de intervención ni de asesoría jurídica de ese Ayuntamiento —ni de ningún otro— se ha
+contratación, de intervención ni de asesoría jurídica de ninguna administración se ha
 pronunciado sobre este catálogo. Este documento no les atribuye posición alguna, ni a favor ni en
 contra, y el ejemplo trabajado de la Parte VI es un **expediente simulado** que no corresponde a
 ninguna licitación real, en curso o en preparación.
@@ -226,3 +262,29 @@ antes de copiar una sola línea.
 Y una petición, que es lo único que se pide a cambio: si su administración usa este material, lo
 mejora, o pierde un recurso con él, cuéntelo. Este documento mejorará con los recursos que pierda,
 y no hay otra forma de que mejore.
+
+---
+
+### Licencia, copia y mejora
+
+Este material se publica bajo **[Creative Commons Reconocimiento 4.0 Internacional (CC BY
+4.0)](https://creativecommons.org/licenses/by/4.0/deed.es)**. En términos prácticos: puede copiarlo,
+adaptarlo, traducirlo, incorporarlo a sus pliegos y usarlo con fines comerciales, sin pedir permiso a
+nadie y sin pagar nada. **La única condición es citar la procedencia.** No hay que compartir las
+modificaciones bajo la misma licencia, no hay que avisar de su uso y no hay que pedir autorización
+para adaptarlo.
+
+**Y puede mejorarlo sin permiso de nadie.** El proyecto vive en un repositorio abierto
+([github.com/migueldadd4u/ai-clauses](https://github.com/migueldadd4u/ai-clauses)) con dos vías, y
+conviene entender la diferencia porque son la razón de publicarlo así:
+
+- **Proponer un cambio a este documento** (una *pull request*): usted propone una redacción distinta
+  y quien mantiene el proyecto la acepta o no. Si la acepta, entra en el documento que todo el mundo
+  lee, con su autoría. Es la vía que interesa: quien redacta pliegos todos los días sabe cosas que
+  este catálogo no sabe.
+- **Hacer su propia versión** (un *fork*): se lleva el documento entero a un repositorio suyo y hace
+  con él lo que quiera, sin pedir permiso ni dar explicaciones. Esa versión es suya y sólo suya, y
+  **los firmantes de este documento no responden de lo que diga**.
+
+Las propuestas de cambio se revisan con un criterio único: que la redacción resista mejor un recurso
+que la que hay. Las condiciones detalladas, en el archivo `CONTRIBUTING.md` del repositorio.

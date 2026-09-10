@@ -11,14 +11,26 @@ clausulado.
 Aquí está el texto completo, en abierto, para que cualquier administración lo copie, lo recorte y
 lo adapte.
 
+**Y, de propina, un manual de tramitación.** Para poder redactar estas cláusulas hubo que escribir
+entero el circuito del expediente que las sostiene: los veintiún documentos, quién firma cada uno y
+en qué orden. Ese circuito **no tiene nada de específico de la inteligencia artificial**: sirve igual
+para cualquier otra cláusula que quiera incorporarse a un pliego conforme a la Ley 9/2017.
+
+**Dos puertas de entrada.** El documento es uno solo y se lee de dos maneras:
+
+| A qué viene | Por dónde entrar |
+|---|---|
+| A por **cláusulas de IA** | Parte 0 (se entiende sin saber nada previo) → Parte II (técnicas, PPT) y Parte III (administrativas, PCAP) |
+| A **tramitar bien un expediente**, con IA o sin ella | Parte V (el circuito completo, documento a documento) → Parte VI (ese circuito recorrido entero sobre un expediente simulado) |
+
 ---
 
-## Estado de este documento a 1 de septiembre de 2026
+## Estado de este documento a 10 de septiembre de 2026
 
-**Qué ha aprobado el Ayuntamiento de Pozuelo de Alarcón: nada.** Este documento no es un acto
-administrativo, no ha sido aprobado por ningún órgano municipal y no vincula a la Corporación. Es un
-trabajo profesional de las personas que lo firman, a título particular; quienes ejercen un cargo o un puesto público lo hacen a título personal en
-ese Ayuntamiento.
+**Qué ha aprobado alguna administración: nada.** Este documento no es un acto administrativo, no ha
+sido aprobado por ningún órgano de ninguna entidad pública y no vincula a ninguna Corporación. Es un
+trabajo profesional de las personas que lo firman, a título particular; quienes ejercen un cargo o un
+puesto público lo hacen aquí a título personal.
 
 **Qué falta para que pueda incorporarse a un expediente de contratación**, según su propia memoria
 justificativa (Parte IV, §M11):
@@ -77,8 +89,8 @@ Todo se reconstruye desde el markdown de `clausulado/` con `make`.
 
 ## De dónde sale
 
-De un problema real de gestión municipal. El clausulado nació en el **Ayuntamiento de Pozuelo de
-Alarcón** en 2026, y su memoria justificativa (§M1.1) empieza por nombrar sin suavizarlas las
+De un problema real de gestión municipal, planteado en 2026 dentro de una entidad local. Su memoria
+justificativa (§M1.1) empieza por nombrar sin suavizarlas las
 **cuatro dificultades** que quienes lo han trabajado han observado que suceden de verdad en la
 contratación pública:
 
@@ -123,12 +135,8 @@ preparación.
 
 ## Quién lo ha hecho
 
-Un trabajo conjunto de varios meses entre varias personas, cada una desde su oficio, con tres firmantes y las aportaciones técnicas que se citan al final.
+Un trabajo conjunto de varios meses entre varias personas, cada una desde su oficio, con las firmas que constan a continuación y el reconocimiento colectivo que se recoge al final.
 
-- **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — Concejal de Administración Digital, Calidad e Innovación del
-  Ayuntamiento de Pozuelo de Alarcón. De ella nace el proyecto y suya es la primera redacción del
-  clausulado. Y suyo es el mérito menos visible: haberlo puesto delante de quienes tendrían que
-  aplicarlo y haber traído sus objeciones de vuelta enteras.
 - **[Dr. José Antonio Ondiviela García](https://www.ufv.es/una-nueva-definicion-para-las-ciudades-que-transformaran-el-mundo-noticias-actualidad/)** — Profesor de la Escuela Politécnica Superior e investigador
   de la Universidad Francisco de Vitoria, donde dirige el Observatorio Mundial de Ciudades Atractivas.
   Aportó la mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará
@@ -143,9 +151,17 @@ Un trabajo conjunto de varios meses entre varias personas, cada una desde su ofi
   datos como cuestión de competencia, la negativa a puntuar la tenencia previa de una tecnología
   porque premia a quien ya está dentro, y la decisión de publicarlo en abierto en lugar de
   conservarlo como activo de consultoría. Asume la responsabilidad editorial de esta publicación.
-En el trabajo han colaborado además personal técnico del Ayuntamiento de Pozuelo de Alarcón, con el
-contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán en
-la siguiente versión, una vez recabado el consentimiento expreso de cada uno.
+- **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — **Co-impulsora del proyecto.** Concejal de Administración
+  Digital, Calidad e Innovación del Ayuntamiento de Pozuelo de Alarcón; firma a título personal. De
+  ella nace el proyecto y suya es la primera redacción del clausulado. Y suyo es el mérito menos
+  visible: haberlo puesto delante de quienes tendrían que aplicarlo y haber traído sus objeciones de
+  vuelta enteras.
+
+**Reconocimiento a los servicios técnicos municipales.** El contraste con la práctica real de la
+contratación y la lectura crítica de los borradores son suyos, y han cambiado el documento. Se
+reconoce aquí de forma colectiva y deliberada: se hizo en el ejercicio de sus funciones y en
+beneficio del interés general, y ninguno de ellos tiene por qué figurar a título individual en un
+documento publicado en abierto.
 
 Las **cuatro dificultades** del §M1.1 son la razón de ser de esta versión, y se responden una a una
 en el cuerpo del documento.

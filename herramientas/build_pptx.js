@@ -194,7 +194,7 @@ pie('Prometer que algo es inanulable destruye su credibilidad ante quien tiene q
 /* ---------- 9 · de dónde sale ---------- */
 nueva();
 titulo('De dónde sale: un problema real y cuatro dificultades');
-s.addText('El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026. Su memoria empieza nombrando, sin suavizarlas, las cuatro dificultades que quienes lo han trabajado han observado que suceden en la contratación pública.', {
+s.addText('El clausulado nació en 2026 de un problema real de gestión dentro de una entidad local. Su memoria empieza nombrando, sin suavizarlas, las cuatro dificultades que quienes lo han trabajado han observado que suceden en la contratación pública.', {
   x: 0.9, y: 1.55, w: 11.5, h: 0.9, fontFace: F_TXT, fontSize: 17.5, color: CARBON,
 });
 const objs = [
@@ -243,13 +243,14 @@ const docs = [
   ['La guía municipal · 20 páginas', 'Cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer el catálogo entero.', 'Concejalía, Contratación, Intervención y TI'],
   ['El resumen y la guía de uso', 'La primera parte del documento, escrita para quien no sabe nada de contratación ni de tecnología.', 'Alcaldía, concejalías, prensa'],
   ['Esta presentación', 'El problema y la solución, sin que haga falta saber nada previo.', 'Cualquier sala'],
+  ['Y dentro, un manual de tramitación', 'La Parte V es el circuito completo del expediente —los veintiún documentos, quién firma cada uno y en qué orden— y no tiene nada de específico de la IA.', 'Quien tramita expedientes'],
 ];
 docs.forEach((d, i) => {
-  const y = 1.55 + i * 1.25;
-  tarjeta(0.9, y, 11.5, 1.08, TINTE);
-  s.addText(d[0], { x: 1.2, y: y + 0.12, w: 3.4, h: 0.84, fontFace: F_TIT, fontSize: 16.5, bold: true, color: AZUL, valign: 'middle' });
-  s.addText(d[1], { x: 4.7, y: y + 0.12, w: 5.4, h: 0.84, fontFace: F_TXT, fontSize: 12.8, color: CARBON, valign: 'middle' });
-  s.addText(d[2], { x: 10.2, y: y + 0.12, w: 2.0, h: 0.84, fontFace: F_TXT, fontSize: 11.2, italic: true, color: GRIS, valign: 'middle' });
+  const y = 1.5 + i * 1.02;
+  tarjeta(0.9, y, 11.5, 0.9, TINTE);
+  s.addText(d[0], { x: 1.2, y: y + 0.08, w: 3.4, h: 0.74, fontFace: F_TIT, fontSize: 15, bold: true, color: AZUL, valign: 'middle' });
+  s.addText(d[1], { x: 4.7, y: y + 0.08, w: 5.4, h: 0.74, fontFace: F_TXT, fontSize: 11.6, color: CARBON, valign: 'middle' });
+  s.addText(d[2], { x: 10.2, y: y + 0.08, w: 2.0, h: 0.74, fontFace: F_TXT, fontSize: 10.5, italic: true, color: GRIS, valign: 'middle' });
 });
 s.addText('Todo en abierto, bajo licencia Creative Commons Attribution 4.0: se puede copiar, adaptar y usar con cualquier finalidad, citando la autoría.', {
   x: 0.9, y: 6.65, w: 11.5, h: 0.45, fontFace: F_TXT, fontSize: 13.5, color: CARBON,
@@ -258,14 +259,10 @@ s.addText('Todo en abierto, bajo licencia Creative Commons Attribution 4.0: se p
 /* ---------- 12 · créditos ---------- */
 nueva();
 titulo('Quién lo ha hecho');
-s.addText('Un trabajo conjunto de varios meses: tres firmantes y las aportaciones técnicas que se citan al final.', {
+s.addText('Un trabajo conjunto de varios meses, con el reconocimiento colectivo que se recoge al final.', {
   x: 0.9, y: 1.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 16, color: CARBON,
 });
 const autores = [
-  ['Delfina Lafuente Veira',
-   'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón',
-   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
-   'pozuelodealarcon.org'],
   ['Dr. José Antonio Ondiviela García',
    'Profesor e investigador de la Escuela Politécnica Superior · Universidad Francisco de Vitoria',
    'La mirada del mercado: qué se le puede pedir de verdad a un fabricante de software y qué hará que no se presente. Suya es la idea que resuelve el problema de fondo.',
@@ -274,10 +271,10 @@ const autores = [
    'CEO de Add4u · Presidente de Alastria · Presidente del Clúster de Blockchain de la Comunidad de Madrid',
    'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
    'miguelangeldominguez.info'],
-  ['Otras aportaciones',
-   'Personal técnico del Ayuntamiento de Pozuelo de Alarcón',
-   'El contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán en la siguiente versión, con su consentimiento expreso.',
-   ''],
+  ['Delfina Lafuente Veira — co-impulsora del proyecto',
+   'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón · a título personal',
+   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
+   'pozuelodealarcon.org'],
 ];
 autores.forEach((a, i) => {
   const y = 2.15 + i * 1.06;
@@ -286,7 +283,7 @@ autores.forEach((a, i) => {
   s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.27, w: 11.0, h: 0.23, fontFace: F_TXT, fontSize: 10.8, color: GRIS });
   s.addText(a[2], { x: 1.3, y: y + 0.5, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 11.4, color: CARBON });
 });
-s.addText('Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
+s.addText('El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se reconocen de forma colectiva y deliberada. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
   x: 0.9, y: 6.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 11.0, italic: true, color: GRIS,
 });
 

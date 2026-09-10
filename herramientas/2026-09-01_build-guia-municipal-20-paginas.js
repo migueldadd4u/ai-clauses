@@ -78,8 +78,6 @@ const html = `<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- OCULTO-BUSCADORES 03/09/2026 · no se anuncia todavía. Quitar esta línea y docs/robots.txt para que vuelva a indexarse. -->
-<meta name="robots" content="noindex, nofollow">
 <title>AI Clauses · Guía municipal de decisión y aplicación · 20 páginas</title>
 <meta name="description" content="Guía de 20 páginas para decidir, motivar, seleccionar, copiar y verificar cláusulas de IA y deep tech en la contratación pública.">
 <link rel="canonical" href="https://migueldadd4u.github.io/ai-clauses/${NOMBRE}.html">

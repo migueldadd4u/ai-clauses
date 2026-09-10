@@ -7,9 +7,6 @@ message: >-
   y no es asesoramiento legal.
 type: dataset
 authors:
-  - family-names: Lafuente Veira
-    given-names: Delfina
-    affiliation: Ayuntamiento de Pozuelo de Alarcón
   - family-names: Ondiviela García
     given-names: José Antonio
     name-suffix: Dr.
@@ -17,8 +14,11 @@ authors:
   - family-names: Domínguez Castellano
     given-names: Miguel Ángel
     affiliation: Add4u
+  - family-names: Lafuente Veira
+    given-names: Delfina
+    affiliation: Ayuntamiento de Pozuelo de Alarcón
 version: "3.0"
-date-released: "2026-09-01"
+date-released: "2026-09-10"
 license: CC-BY-4.0
 keywords:
   - contratación pública
@@ -32,9 +32,10 @@ abstract: >-
   cláusulas administrativas particulares, con la memoria justificativa, el
   circuito del expediente, un ejemplo completo trabajado sobre un expediente
   simulado y veinticinco anexos con los modelos. Nace de un problema real de
-  gestión municipal en el Ayuntamiento de Pozuelo de Alarcón y de las cuatro
-  dificultades que quienes lo han trabajado han observado que suceden en la
-  contratación pública, enunciadas y respondidas en su memoria justificativa.
-  No es un documento oficial de ese Ayuntamiento ni ha sido aprobado por ningún
-  órgano municipal, y ningún órgano de contratación, intervención o asesoría
-  jurídica se ha pronunciado sobre él.
+  gestión municipal y de las cuatro dificultades que quienes lo han trabajado
+  han observado que suceden en la contratación pública, enunciadas y respondidas
+  en su memoria justificativa. Funciona a la vez como catálogo de cláusulas y
+  como manual de tramitación conforme a la Ley 9/2017. No es un documento
+  oficial de ninguna administración ni ha sido aprobado por ningún órgano
+  público, y ningún órgano de contratación, intervención o asesoría jurídica se
+  ha pronunciado sobre él.

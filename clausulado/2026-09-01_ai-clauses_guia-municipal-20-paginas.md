@@ -3,19 +3,21 @@
 
 ## Guía municipal de decisión y aplicación
 
-**Cómo elegir, motivar, copiar y verificar cláusulas de inteligencia artificial y deep tech en contratación pública**
+**Cómo elegir, motivar, copiar y verificar cláusulas de inteligencia artificial y deep tech en contratación pública — y, de paso, cómo tramitar el expediente que las sostiene**
+
+> **Dos puertas de entrada.** Esto nació como catálogo de cláusulas de IA, pero para redactarlas hubo que escribir entero el circuito del expediente: los veintiún documentos, quién firma cada uno y en qué orden. Ese circuito no tiene nada de específico de la IA y sirve para cualquier otra cláusula conforme a la Ley 9/2017. Quien venga a por cláusulas de IA lea esta guía de principio a fin; quien venga a tramitar bien un expediente vaya a la Parte V del clausulado y al ejemplo completo de la Parte VI.
 
 Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026**
 
 ### Autoría
 
-**Delfina Lafuente Veira · Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano**
+**Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano**, firmantes · **Delfina Lafuente Veira**, Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento de Pozuelo de Alarcón, **co-impulsora del proyecto**, a título personal.
 
-**Otras aportaciones:** personal técnico del Ayuntamiento de Pozuelo de Alarcón, con el contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán en la siguiente versión, una vez recabado el consentimiento expreso de cada uno.
+**Reconocimiento a los servicios técnicos municipales:** suyos son el contraste con la práctica real de la contratación y la lectura crítica de los borradores, y han cambiado el documento. Se reconoce de forma colectiva y deliberada.
 
 ### Estado del documento
 
-Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial del Ayuntamiento de Pozuelo de Alarcón**, no ha sido aprobado por ningún órgano municipal y no expresa la posición de la Corporación; ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre él. Es una propuesta técnica publicada para el debate y la reutilización. **Y no es sólo municipal:** está parametrizado para cualquier administración —los órganos, umbrales, categorías de seguridad y plazos son parámetros con valor recomendado, no valores fijos—, de modo que sirve igual a un ayuntamiento, a una diputación, a una comunidad autónoma o a un organismo estatal, cambiando quién firma cada cosa. Se publica con licencia CC BY 4.0 para que se copie, se adapte y se mejore. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
+Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial de ninguna administración**, no ha sido aprobado por ningún órgano municipal, autonómico ni estatal y no expresa la posición de ninguna Corporación; ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre él. Es una propuesta técnica publicada para el debate y la reutilización. **Y no es sólo municipal:** está parametrizado para cualquier administración —los órganos, umbrales, categorías de seguridad y plazos son parámetros con valor recomendado, no valores fijos—, de modo que sirve igual a un ayuntamiento, a una diputación, a una comunidad autónoma o a un organismo estatal, cambiando quién firma cada cosa. Se publica con licencia CC BY 4.0 para que se copie, se adapte y se mejore. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
 
 **Qué se puede hacer desde hoy, y qué no.** La mayoría de las cláusulas —y las de más valor económico: reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se anclan por vía **normativa** o **funcional** y **no necesitan ningún acuerdo previo**: basta motivarlas en la memoria del expediente con datos propios. Sólo las de origen **institucional**, que ninguna norma impone y ningún gestor pide, necesitan el acuerdo del órgano de gobierno, que no es un permiso sino la prueba documental de su necesidad. De las seis cláusulas del piloto mínimo, **cinco no dependen de ese acuerdo**.
 

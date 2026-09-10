@@ -103,7 +103,7 @@ module.exports = [
   {
     tipo: 'filas',
     titulo: 'De dónde sale: un problema real y cuatro dificultades',
-    intro: 'El clausulado nació en el Ayuntamiento de Pozuelo de Alarcón en 2026. Su memoria empieza nombrando, sin suavizarlas, las cuatro dificultades que quienes lo han trabajado han observado que suceden en la contratación pública.',
+    intro: 'El clausulado nació en 2026 de un problema real de gestión dentro de una entidad local. Su memoria empieza nombrando, sin suavizarlas, las cuatro dificultades que quienes lo han trabajado han observado que suceden en la contratación pública.',
     alternas: true,
     filas: [
       ['La necesidad no la demanda aún el gestor', 'Cada cláusula lleva ahora el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
@@ -143,20 +143,15 @@ module.exports = [
       ['La guía municipal · 20 páginas', 'Cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer el catálogo entero.', 'Concejalía, Contratación, Intervención y TI'],
       ['El resumen y la guía de uso', 'La primera parte del documento, escrita para quien no sabe nada de contratación ni de tecnología.', 'Alcaldía, concejalías, prensa'],
       ['Esta presentación', 'El problema y la solución, sin que haga falta saber nada previo.', 'Cualquier sala'],
+      ['Y dentro del clausulado, un manual de tramitación', 'La Parte V es el circuito completo del expediente —los veintiún documentos, quién firma cada uno y en qué orden— y no tiene nada de específico de la IA: sirve para cualquier cláusula conforme a la Ley 9/2017.', 'Quien tramita expedientes'],
     ],
     cierre: 'Todo en abierto, bajo licencia Creative Commons Attribution 4.0: se puede copiar, adaptar y usar con cualquier finalidad, citando la autoría.',
   },
   {
     tipo: 'autores',
     titulo: 'Quién lo ha hecho',
-    intro: 'Un trabajo conjunto de varios meses: tres firmantes y las aportaciones técnicas que se citan al final.',
+    intro: 'Un trabajo conjunto de varios meses, con el reconocimiento colectivo que se recoge al final.',
     autores: [
-      {
-        nombre: 'Delfina Lafuente Veira',
-        cargo: 'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón',
-        enlace: 'pozuelodealarcon.org',
-        aporte: 'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
-      },
       {
         nombre: 'Dr. José Antonio Ondiviela García',
         cargo: 'Profesor e investigador de la Escuela Politécnica Superior · Universidad Francisco de Vitoria',
@@ -170,13 +165,13 @@ module.exports = [
         aporte: 'La perspectiva de quien conoce las dos orillas: la de quien redacta pliegos y la de quien se presenta a ellos. Asume la responsabilidad editorial de la publicación.',
       },
       {
-        nombre: 'Otras aportaciones',
-        cargo: 'Personal técnico del Ayuntamiento de Pozuelo de Alarcón',
-        enlace: '',
-        aporte: 'El contraste de la práctica municipal y la lectura crítica del borrador. Sus nombres se incorporarán en la siguiente versión, con su consentimiento expreso.',
+        nombre: 'Delfina Lafuente Veira — co-impulsora del proyecto',
+        cargo: 'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón · a título personal',
+        enlace: 'pozuelodealarcon.org',
+        aporte: 'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
       },
     ],
-    nota: 'Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
+    nota: 'El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se reconocen de forma colectiva y deliberada. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
   },
   {
     tipo: 'destacado',
