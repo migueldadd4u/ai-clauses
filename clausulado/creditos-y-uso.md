@@ -143,6 +143,46 @@ Se dice aquí para que se sepa hacia dónde va esto, y con tres precisiones: esa
 **trabajo distinto** de este catálogo, se firmará por separado y **nada de lo que aquí se afirma
 depende de ella**; y se hará **desligada de cualquier administración**.
 
+---
+
+### Hacia dónde va esto: por qué habrá una publicación académica
+
+Escribir este catálogo ha dejado a la vista algo más grande que el catálogo, y conviene decirlo
+aquí, donde se declara todo lo demás.
+
+**La contratación pública es la principal forma en que el sector público gasta el dinero de todos.**
+No es un procedimiento administrativo entre otros: una vez dentro de una administración, casi nadie
+ejecuta el trabajo —se gestiona quién lo ejecuta—. Un ayuntamiento no tiene programadores: contrata
+empresas que programan. De modo que **la eficiencia de la contratación es, en buena medida, la
+eficiencia del sector público entero**, y lo que se pierde ahí no se recupera en ningún otro sitio.
+
+**Y hay una frase que se repite y que este trabajo desmiente:** «es que no hay recursos». La dicen,
+por igual y con distinto acento, quien gobierna, quien está en la oposición, quien propone subir
+impuestos y quien se manifiesta para pedir que se gaste más. Todos coinciden en el diagnóstico, y el
+diagnóstico está mal. **Recursos hay. Lo que falla es la gestión eficiente de esos recursos.** Ésa es
+la tesis de la publicación, y la razón de hacerla: porque mientras el problema se llame «falta de
+recursos», la solución que se busca es siempre más dinero, y no es ahí donde está.
+
+Lo que este catálogo demuestra en pequeño —que un contrato mal construido paga dos veces la misma
+tecnología, deja cautiva a la administración y decide la licitación siguiente antes de publicarla—
+es un caso particular de eso. La publicación llevará el argumento a donde este documento no llega:
+
+- **cómo se gestionan mejor los recursos públicos**, más allá de la redacción de una cláusula;
+- **qué permite hoy la tecnología** que hace cinco años no permitía —supervisión y análisis del dato
+  en tiempo real, asistentes con memoria del expediente— y que cambia lo que es razonable exigir;
+- y **el código abierto como política de compra pública**: que miles de entidades locales no tengan
+  que contratar por separado, y pagar por separado, exactamente la misma pieza de software, pudiendo
+  compartirla y mejorarla entre todas. Este catálogo se publica así a propósito: es la primera
+  aplicación de lo que la publicación defenderá.
+
+**Por qué se dice aquí y no se guarda.** Porque quien lea este catálogo tiene derecho a saber qué
+persigue quien lo escribe. No hay ánimo de lucro, no hay encargo detrás y no se pide nada a cambio:
+lo que hay es la convicción de que esto se puede hacer mejor, y la intención de sostenerla con un
+trabajo académico que resista el contraste. Si esa publicación termina existiendo, se firmará por
+separado y no cambiará ni una línea de lo que aquí se afirma.
+
+---
+
 **Reconocimiento a los servicios técnicos municipales.** Este catálogo no habría tomado esta forma
 sin el trabajo de los servicios técnicos municipales de la entidad de la que nace: suyos son el
 contraste con la práctica real de la contratación y la lectura crítica de los borradores, y ambos han
