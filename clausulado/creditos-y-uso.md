@@ -131,6 +131,18 @@ quien lo ha sometido al contraste que ningún documento de consultoría recibe: 
 quienes tendrían que aplicarlo, aguantar sus objeciones sin defenderse, y traerlas de vuelta
 enteras. La versión que se publica existe porque ella hizo eso.
 
+**Y quien viene después: [Luis Garvía Vega](https://www.linkedin.com/in/garvia/)** — doctor en
+Finanzas y director del Máster en Gestión de Riesgos Financieros de ICADE (Universidad Pontificia
+Comillas). No ha participado en este catálogo. Se incorpora al proyecto para preparar, junto con
+José Antonio Ondiviela, una **publicación académica** sobre lo que este trabajo ha dejado ver: que
+**no es un problema de falta de recursos, sino de gestión eficiente de los recursos**, y que la
+eficiencia de la contratación pública condiciona la del conjunto del sector público. Delfina Lafuente
+y Miguel Ángel Domínguez, que no son académicos, colaborarán en ella aportando el caso y la práctica.
+
+Se dice aquí para que se sepa hacia dónde va esto, y con tres precisiones: esa publicación es un
+**trabajo distinto** de este catálogo, se firmará por separado y **nada de lo que aquí se afirma
+depende de ella**; y se hará **desligada de cualquier administración**.
+
 **Reconocimiento a los servicios técnicos municipales.** Este catálogo no habría tomado esta forma
 sin el trabajo de los servicios técnicos municipales de la entidad de la que nace: suyos son el
 contraste con la práctica real de la contratación y la lectura crítica de los borradores, y ambos han
