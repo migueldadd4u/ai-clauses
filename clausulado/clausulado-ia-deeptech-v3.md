@@ -198,6 +198,24 @@ es un caso particular de eso. La publicación llevará el argumento a donde este
   compartirla y mejorarla entre todas. Este catálogo se publica así a propósito: es la primera
   aplicación de lo que la publicación defenderá.
 
+**El objetivo declarado, en una frase.** Que mejorar la eficiencia del sector público a través de
+mejores prácticas de contratación sirva para mejorar la situación del país y de Europa. Descansa
+sobre tres ideas, que la publicación desarrollará y este catálogo sólo roza:
+
+- **Soberanía tecnológica.** Que una administración pueda decidir sobre sus datos, sus desarrollos y
+  su capacidad de cambiar de proveedor, en lugar de que lo decida por ella el contrato que firmó.
+- **Usar de verdad la tecnología disponible** para los problemas grandes —los que hoy se responden
+  con más presupuesto y más plantilla—, en lugar de comprar en 2026 lo que ya era el estado del arte
+  en 2021.
+- **Atacar la ineficiencia que ya existe**, hoy, con los recursos que ya hay, que es donde está el
+  dinero que se pierde sin que nadie lo contabilice como pérdida.
+
+Conviene una precisión, porque afecta a cómo debe leerse el articulado: **eso es el objetivo de la
+publicación, no una exigencia de este catálogo**. Ninguna cláusula de las que siguen impone una
+tecnología, una red ni una infraestructura concretas —el articulado lo prohíbe expresamente y esa
+prohibición se explica en la Parte IV, §M7.3—. La soberanía tecnológica se busca aquí por la vía que
+no distorsiona la competencia: propiedad de los datos, reversibilidad y salida ordenada.
+
 **Por qué se dice aquí y no se guarda.** Porque quien lea este catálogo tiene derecho a saber qué
 persigue quien lo escribe. No hay ánimo de lucro, no hay encargo detrás y no se pide nada a cambio:
 lo que hay es la convicción de que esto se puede hacer mejor, y la intención de sostenerla con un
