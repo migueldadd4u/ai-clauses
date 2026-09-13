@@ -59,6 +59,16 @@ Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa 
 | 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
 | 3 | Declaraciones de conflicto de interés firmadas e incorporadas al expediente (arts. 64 y 70 LCSP) | **Pendiente** |
 
+**Sobre la primera, y porque condiciona menos de lo que parece:** el acuerdo del órgano de gobierno
+describe la situación ideal —que cada entidad cuente con su política digital anual y con su catálogo
+anual de exigencias, con el Anexo V actualizado—, pero **no es indispensable para aplicar este
+clausulado**. Cuando no exista esa política, o el Anexo V no se haya revisado, las exigencias
+tecnológicas que el contrato vaya a necesitar durante su vida pueden determinarse al redactar el
+pliego e incorporarse **como anexo del propio contrato**, sin citar este catálogo ni una política que
+no exista. Lo que desaparece entonces no es la exigencia, sino la remisión: la necesidad se motiva
+igualmente en la memoria del expediente, con datos propios. El desarrollo está en la Parte IV,
+§M1.2 bis.
+
 Sobre la tercera, y porque se presume lo contrario: esas declaraciones se firman para que **nadie pueda pedir ni obtener ventaja en un pliego** —ni puntuación a favor, ni requisitos escritos a su medida—. **No excluyen a ningún colaborador de presentarse a una licitación** que aplique este catálogo. El detalle, en la Parte IV, §M7.3, medida 8.
 
 Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
@@ -150,9 +160,9 @@ aquí a título personal: su firma no compromete a ninguna administración.
 
 Es de quien nace el proyecto. Suya es la pregunta de partida —por qué una administración tiene que
 comprar dos veces la misma tecnología— y suya es la primera redacción del clausulado. Ha sido además
-quien lo ha sometido al contraste que ningún documento de consultoría recibe: ponerlo delante de
-quienes tendrían que aplicarlo, aguantar sus objeciones sin defenderse, y traerlas de vuelta
-enteras. La versión que se publica existe porque ella hizo eso.
+quien lo ha sometido al contraste que ningún documento de consultoría recibe: escuchar a quienes
+conocen la práctica real de la contratación y recoger sus aportaciones íntegras, también las que
+obligaban a rehacer lo ya escrito. La versión que se publica existe porque ella hizo eso.
 
 **Y quien viene después: [Luis Garvía Vega](https://www.linkedin.com/in/garvia/)** — doctor en
 Finanzas y director del Máster en Gestión de Riesgos Financieros de ICADE (Universidad Pontificia
@@ -227,10 +237,13 @@ separado y no cambiará ni una línea de lo que aquí se afirma.
 **Reconocimiento a los servicios técnicos municipales.** Este catálogo no habría tomado esta forma
 sin el trabajo de los servicios técnicos municipales de la entidad de la que nace: suyos son el
 contraste con la práctica real de la contratación y la lectura crítica de los borradores, y ambos han
-cambiado el documento. Su aportación se reconoce aquí **de forma colectiva y deliberada**: se hizo en
-el ejercicio de sus funciones y en beneficio del interés general, y ninguno de ellos tiene por qué
-aparecer citado a título individual en un documento que se publica en abierto. La omisión de sus
-nombres no significa que no existieran; significa exactamente lo contrario.
+cambiado el documento. Se les reconoce aquí, de forma colectiva, el poner de manifiesto la necesidad
+de abordar de forma concreta la dificultad de recoger en un pliego la acelerada evolución de las
+tecnologías de inteligencia artificial. Sus aportaciones han sido voluntarias, desinteresadas y
+orientadas al interés general, destinadas a facilitar a las Administraciones Públicas la
+incorporación de mecanismos contractuales adecuados para afrontar los desafíos presentes y futuros
+derivados de dichas tecnologías. La omisión de sus nombres no significa que no existieran; significa
+exactamente lo contrario.
 
 
 ---

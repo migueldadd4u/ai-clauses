@@ -168,10 +168,10 @@ module.exports = [
         nombre: 'Delfina Lafuente Veira — co-impulsora del proyecto',
         cargo: 'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón · a título personal',
         enlace: 'pozuelodealarcon.org',
-        aporte: 'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
+        aporte: 'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: escuchar a quienes conocen la práctica real de la contratación y recoger sus aportaciones íntegras, también las que obligaban a rehacer lo ya escrito.',
       },
     ],
-    nota: 'El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se reconocen de forma colectiva y deliberada. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
+    nota: 'El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se les reconoce de forma colectiva: sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
   },
   {
     tipo: 'destacado',

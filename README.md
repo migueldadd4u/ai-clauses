@@ -154,14 +154,16 @@ Un trabajo conjunto de varios meses entre varias personas, cada una desde su ofi
 - **[Delfina Lafuente Veira](https://www.pozuelodealarcon.org/tu-ayuntamiento/organizacion-municipal/trayectoria-profesional-delfina-lafuente-veira)** — **Co-impulsora del proyecto.** Concejal de Administración
   Digital, Calidad e Innovación del Ayuntamiento de Pozuelo de Alarcón; firma a título personal. De
   ella nace el proyecto y suya es la primera redacción del clausulado. Y suyo es el mérito menos
-  visible: haberlo puesto delante de quienes tendrían que aplicarlo y haber traído sus objeciones de
-  vuelta enteras.
+  visible: escuchar a quienes conocen la práctica real de la contratación y recoger sus aportaciones
+  íntegras, también las que obligaban a rehacer lo ya escrito.
 
 **Reconocimiento a los servicios técnicos municipales.** El contraste con la práctica real de la
-contratación y la lectura crítica de los borradores son suyos, y han cambiado el documento. Se
-reconoce aquí de forma colectiva y deliberada: se hizo en el ejercicio de sus funciones y en
-beneficio del interés general, y ninguno de ellos tiene por qué figurar a título individual en un
-documento publicado en abierto.
+contratación y la lectura crítica de los borradores son suyos, y han cambiado el documento. Se les
+reconoce aquí, de forma colectiva, el poner de manifiesto la necesidad de abordar de forma concreta
+la dificultad de recoger en un pliego la acelerada evolución de las tecnologías de inteligencia
+artificial. Sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general,
+destinadas a facilitar a las Administraciones Públicas la incorporación de mecanismos contractuales
+adecuados para afrontar los desafíos presentes y futuros derivados de dichas tecnologías.
 
 Las **cuatro dificultades** del §M1.1 son la razón de ser de esta versión, y se responden una a una
 en el cuerpo del documento.

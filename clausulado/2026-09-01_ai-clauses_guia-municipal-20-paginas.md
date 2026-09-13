@@ -13,7 +13,7 @@ Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026*
 
 **Dr. José Antonio Ondiviela García · Miguel Ángel Domínguez Castellano**, firmantes · **Delfina Lafuente Veira**, Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento de Pozuelo de Alarcón, **co-impulsora del proyecto**, a título personal.
 
-**Reconocimiento a los servicios técnicos municipales:** suyos son el contraste con la práctica real de la contratación y la lectura crítica de los borradores, y han cambiado el documento. Se reconoce de forma colectiva y deliberada.
+**Reconocimiento a los servicios técnicos municipales:** suyos son el contraste con la práctica real de la contratación y la lectura crítica de los borradores, y han cambiado el documento. Se les reconoce, de forma colectiva, el poner de manifiesto la necesidad de recoger en un pliego la acelerada evolución de las tecnologías de inteligencia artificial; sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general.
 
 ### Estado del documento
 

@@ -146,9 +146,10 @@ Concejal de Administración Digital, Calidad e Innovación del Ayuntamiento de P
 redacción. Firma a título personal.
 
 **Reconocimiento a los servicios técnicos municipales.** El contraste con la práctica real de la
-contratación y la lectura crítica de los borradores son suyos, y han cambiado el documento. Se
-reconoce de forma colectiva y deliberada: se hizo en el ejercicio de sus funciones y en beneficio del
-interés general.
+contratación y la lectura crítica de los borradores son suyos, y han cambiado el documento. Se les
+reconoce, de forma colectiva, el poner de manifiesto la necesidad de recoger en un pliego la
+acelerada evolución de las tecnologías de inteligencia artificial; sus aportaciones han sido
+voluntarias, desinteresadas y orientadas al interés general.
 
 **Uso de inteligencia artificial.** En la elaboración de este trabajo se han utilizado sistemas de
 IA: el clon digital (*second brain*) de Miguel Ángel Domínguez, determinante en la recuperación del

@@ -273,7 +273,7 @@ const autores = [
    'miguelangeldominguez.info'],
   ['Delfina Lafuente Veira — co-impulsora del proyecto',
    'Concejal de Administración Digital, Calidad e Innovación · Ayuntamiento de Pozuelo de Alarcón · a título personal',
-   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: llevarlo a los servicios de contratación y jurídicos de su propio ayuntamiento y traer sus objeciones de vuelta enteras.',
+   'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: escuchar a quienes conocen la práctica real de la contratación y recoger sus aportaciones íntegras, también las que obligaban a rehacer lo ya escrito.',
    'pozuelodealarcon.org'],
 ];
 autores.forEach((a, i) => {
@@ -283,7 +283,7 @@ autores.forEach((a, i) => {
   s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.27, w: 11.0, h: 0.23, fontFace: F_TXT, fontSize: 10.8, color: GRIS });
   s.addText(a[2], { x: 1.3, y: y + 0.5, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 11.4, color: CARBON });
 });
-s.addText('El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se reconocen de forma colectiva y deliberada. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
+s.addText('El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se les reconoce de forma colectiva: sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
   x: 0.9, y: 6.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 11.0, italic: true, color: GRIS,
 });
 
