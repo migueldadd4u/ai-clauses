@@ -14,6 +14,12 @@
  *
  * que se renderizan como recuadro sombreado con borde, para que quien redacta un
  * pliego vea de un vistazo qué se copia y qué es comentario.
+ *
+ * El markdown de origen trae los párrafos partidos en líneas de ~100 caracteres.
+ * Una línea NO es un párrafo: se cosen hasta el siguiente corte real y se emite
+ * UN Paragraph por párrafo. Los cortes están documentados más abajo, en el bloque
+ * «dónde corta un párrafo»: tocarlos sin recorrer antes el markdown entero es la
+ * forma más rápida de partir un pliego por la mitad o de fundir dos apartados.
  */
 const fs = require('fs');
 const {
@@ -31,6 +37,37 @@ const VERDE = '2E6B3E';
 const SERIF = 'Georgia';
 const SANS = 'Calibri';
 const MONO = 'Consolas';
+
+/* ---------- dónde corta un párrafo ----------
+   Los párrafos del markdown vienen partidos en líneas de ~100 caracteres: una
+   línea NO es un párrafo, y hay que coserlas hasta el siguiente corte real.
+   Pero no todo lo que va pegado al texto anterior es continuación. Éstos son
+   los cortes que markdown NO reconoce —los trata como continuación, y por eso
+   en el PDF salen corridos— y que aquí sí se respetan, porque un pliego se lee
+   apartado por apartado y un formulario se copia con sus renglones:
+
+     ENUMERADO   a)  (i)  L1.  G11.  B.1)   -> cada apartado, su párrafo
+     CASILLA     ☐                          -> cada casilla, su renglón
+     ROTULO      **Rótulo:**  *(nota)*      -> rótulo o nota al margen, PERO
+                 sólo cuando la línea anterior cierra frase: si no, es una
+                 negrita a principio de renglón dentro de un párrafo partido
+                 («... se ancla por vía» / «**normativa** o **funcional** ...»)
+     FORMULARIO  línea con relleno «……»     -> renglón de formulario
+     MODELO      ---- INICIO/FIN DEL MODELO ----  -> dentro no se cose nada: el
+                 salto de línea ES el contenido y el bloque se copia tal cual
+
+   Todo lo demás se cose. La lista no es una corazonada: sale de recorrer el
+   markdown entero y revisar una a una las líneas que el arreglo iba a coser.
+   Si el catálogo estrena una forma de enumerar, hay que añadirla aquí. */
+const ENUMERADO   = /^(\(?[a-z]{1,3}\)|[A-Z]{1,3}\.?\d{1,3}[.)])\s/;
+const CASILLA     = /^☐/;
+const ROTULO      = /^(\*\*|\*\()/;
+const CIERRA_FRASE = /([.!?…]|\*\*)["»)\]]?$/;
+const FORMULARIO  = /…\s*…/;
+const MODELO_INI  = /^-{3,}\s*INICIO DEL MODELO/i;
+const MODELO_FIN  = /^-{3,}\s*FIN DEL MODELO/i;
+const abreParrafo = (l, previa) =>
+  ENUMERADO.test(l) || CASILLA.test(l) || (ROTULO.test(l) && CIERRA_FRASE.test(previa || ''));
 
 const src = process.argv[2];
 const out = process.argv[3] || src.replace(/\.md$/, '.docx');
@@ -111,19 +148,49 @@ function pliegoBox(body) {
   }));
   let tableBuf = [];
   const flush = () => { if (tableBuf.length) { inner.push(buildTable(tableBuf)); inner.push(new Paragraph({ spacing: { after: 80 }, children: [] })); tableBuf = []; } };
-  for (const l of body) {
-    const t = l.trim();
-    if (/^\|.*\|$/.test(t)) { if (!/^\|[\s:|-]+\|$/.test(t)) tableBuf.push(splitRow(t)); continue; }
-    flush();
-    if (!t) { continue; }
-    if (/^[-*]\s+/.test(t)) {
-      inner.push(new Paragraph({ bullet: { level: 0 }, spacing: { after: 60, line: 264 }, children: runs(t.replace(/^[-*]\s+/, ''), { font: SERIF, size: 20 }) }));
-    } else if (/^\d+\.\s+/.test(t)) {
-      inner.push(new Paragraph({ numbering: { reference: 'num', level: 0 }, spacing: { after: 60, line: 264 }, children: runs(t.replace(/^\d+\.\s+/, ''), { font: SERIF, size: 20 }) }));
+  // mismo acumulador que en el cuerpo: dentro del recuadro el markdown viene
+  // igual de partido, y un párrafo del pliego roto en tres es peor todavía
+  let parrafo = null;
+  let enModelo = false;
+  const vaciar = () => {
+    if (!parrafo) return;
+    const t = parrafo.lineas.join(' ').replace(/\s+/g, ' ').trim();
+    if (parrafo.tipo === 'vineta') {
+      inner.push(new Paragraph({ bullet: { level: 0 }, spacing: { after: 60, line: 264 }, children: runs(t, { font: SERIF, size: 20 }) }));
+    } else if (parrafo.tipo === 'numerada') {
+      inner.push(new Paragraph({ numbering: { reference: 'num', level: 0 }, spacing: { after: 60, line: 264 }, children: runs(t, { font: SERIF, size: 20 }) }));
     } else {
       inner.push(new Paragraph({ spacing: { after: 100, line: 264 }, children: runs(t, { font: SERIF, size: 20 }) }));
     }
+    parrafo = null;
+  };
+  for (const l of body) {
+    const t = l.trim();
+    if (MODELO_INI.test(t) || MODELO_FIN.test(t)) {
+      vaciar(); flush();
+      enModelo = MODELO_INI.test(t);
+      inner.push(new Paragraph({ spacing: { after: 100, line: 264 }, children: runs(t, { font: SERIF, size: 20 }) }));
+      continue;
+    }
+    if (/^\|.*\|$/.test(t)) { vaciar(); if (!/^\|[\s:|-]+\|$/.test(t)) tableBuf.push(splitRow(t)); continue; }
+    flush();
+    if (!t) { vaciar(); continue; }
+    if (/^[-*]\s+/.test(t)) {
+      vaciar(); parrafo = { tipo: 'vineta', lineas: [t.replace(/^[-*]\s+/, '')] };
+    } else if (/^\d+\.\s+/.test(t)) {
+      vaciar(); parrafo = { tipo: 'numerada', lineas: [t.replace(/^\d+\.\s+/, '')] };
+    } else if (enModelo || FORMULARIO.test(t)) {
+      // renglón de formulario: se copia con su salto de línea, no se cose
+      vaciar(); parrafo = { tipo: 'texto', lineas: [t] }; vaciar();
+    } else if (abreParrafo(t, parrafo && parrafo.lineas[parrafo.lineas.length - 1])) {
+      vaciar(); parrafo = { tipo: 'texto', lineas: [t] };
+    } else if (parrafo) {
+      parrafo.lineas.push(t);                       // continuación: se cose
+    } else {
+      parrafo = { tipo: 'texto', lineas: [t] };
+    }
   }
+  vaciar();
   flush();
   return new Table({
     width: { size: 100, type: WidthType.PERCENTAGE },
@@ -151,26 +218,39 @@ let i = 0;
 
 // Portada: todo lo anterior al primer "---" en línea sola.
 children.push(new Paragraph({ spacing: { before: 2200 }, children: [] }));
+// también en la portada: dos líneas de la misma frase son UN párrafo centrado,
+// no dos bloques separados por un hueco a mitad de oración
+let portada = [];
+const vaciarPortada = () => {
+  if (!portada.length) return;
+  children.push(new Paragraph({
+    alignment: AlignmentType.CENTER, spacing: { after: 140 },
+    children: runs(portada.join(' ').replace(/\s+/g, ' ').trim(), { font: SANS, size: 20, color: GRIS }),
+  }));
+  portada = [];
+};
 while (i < lines.length && lines[i].trim() !== '---') {
   const l = lines[i].trim();
   if (l.startsWith('# ')) {
+    vaciarPortada();
     children.push(new Paragraph({
       alignment: AlignmentType.CENTER, spacing: { after: 240 },
       children: [new TextRun({ text: l.slice(2), bold: true, size: 60, color: AZUL, font: SERIF })],
     }));
   } else if (l.startsWith('## ')) {
+    vaciarPortada();
     children.push(new Paragraph({
       alignment: AlignmentType.CENTER, spacing: { after: 900 },
       children: [new TextRun({ text: l.slice(3), size: 28, color: GRIS, font: SERIF, italics: true })],
     }));
   } else if (l) {
-    children.push(new Paragraph({
-      alignment: AlignmentType.CENTER, spacing: { after: 140 },
-      children: runs(l, { font: SANS, size: 20, color: GRIS }),
-    }));
+    portada.push(l);
+  } else {
+    vaciarPortada();
   }
   i++;
 }
+vaciarPortada();
 i++; // salta el ---
 
 // Índice automático
@@ -191,12 +271,75 @@ const flushTable = () => {
   }
 };
 
+/* El párrafo en construcción. Aquí está el arreglo: el markdown de origen trae
+   los párrafos partidos en líneas de ~100 caracteres, y emitir un Paragraph por
+   línea rompía el texto cada cien caracteres en las 294 páginas del Word. Se
+   acumulan las líneas y se emite UN Paragraph por párrafo del markdown, unido
+   con espacio. De regalo se arregla la **negrita** abierta en una línea y
+   cerrada en la siguiente, que salía con los asteriscos a la vista porque
+   runs() nunca llegaba a ver el marcador de cierre. */
+let parrafo = null;            // { tipo: 'texto'|'vineta'|'numerada'|'cita', nivel, lineas }
+let enCodigo = false;          // dentro de un cerco ``` ... ```
+
+let enModelo = false;          // dentro de ---- INICIO/FIN DEL MODELO ----
+
+const vaciarParrafo = () => {
+  if (!parrafo) return;
+  const t = parrafo.lineas.join(' ').replace(/\s+/g, ' ').trim();
+  if (parrafo.tipo === 'vineta') {
+    children.push(new Paragraph({
+      bullet: { level: parrafo.nivel },
+      spacing: { after: 70, line: 268 },
+      children: runs(t, { font: SANS, size: 21 }),
+    }));
+  } else if (parrafo.tipo === 'numerada') {
+    children.push(new Paragraph({
+      numbering: { reference: 'num', level: 0 },
+      spacing: { after: 70, line: 268 },
+      children: runs(t, { font: SANS, size: 21 }),
+    }));
+  } else if (parrafo.tipo === 'cita') {
+    children.push(new Paragraph({
+      spacing: { after: 140, line: 264 }, indent: { left: 400 },
+      border: { left: { style: BorderStyle.SINGLE, size: 12, color: 'BFBFBF', space: 8 } },
+      children: runs(t, { font: SERIF, size: 20, italics: true, color: GRIS }),
+    }));
+  } else {
+    children.push(P(t, { after: 140 }));
+  }
+  parrafo = null;
+};
+const abrirParrafo = (tipo, texto, nivel = 0) => { vaciarParrafo(); parrafo = { tipo, nivel, lineas: [texto] }; };
+
 for (; i < lines.length; i++) {
   const raw = lines[i];
   const l = raw.trim();
 
+  // cerco de código: dentro NO se cose nada, la partición en líneas ES el
+  // contenido (la fórmula del valor estimado se lee sumando por líneas)
+  if (/^```/.test(l)) { vaciarParrafo(); flushTable(); enCodigo = !enCodigo; continue; }
+  if (enCodigo) {
+    children.push(new Paragraph({
+      spacing: { after: 0, line: 240 }, indent: { left: 300 },
+      children: [new TextRun({ text: raw.replace(/\s+$/, '').replace(/^ +/, m2 => '\u00A0'.repeat(m2.length)), font: MONO, size: 18, color: '2F5496' })],
+    }));
+    continue;
+  }
+
+  // delimitadores ---- INICIO/FIN DEL MODELO ----: son la convención declarada
+  // del documento («lo que está entre esas dos líneas se copia»), y dentro de
+  // ellos los renglones se respetan uno a uno
+  if (MODELO_INI.test(l) || MODELO_FIN.test(l)) {
+    vaciarParrafo();
+    flushTable();
+    enModelo = MODELO_INI.test(l);
+    children.push(P(l, { after: 140 }));
+    continue;
+  }
+
   // bloque :::pliego
   if (/^:::\s*pliego/i.test(l)) {
+    vaciarParrafo();
     flushTable();
     const body = [];
     i++;
@@ -209,17 +352,19 @@ for (; i < lines.length; i++) {
   // tabla
   if (/^\|.*\|$/.test(l)) {
     if (/^\|[\s:|-]+\|$/.test(l)) continue;   // separador
+    vaciarParrafo();
     tableBuf.push(splitRow(l));
     continue;
   }
   flushTable();
 
-  if (!l) continue;
+  if (!l) { vaciarParrafo(); continue; }
 
-  if (l === '---') { children.push(new Paragraph({ spacing: { before: 120, after: 200 }, border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: 'D0D0D0' } }, children: [] })); continue; }
+  if (l === '---') { vaciarParrafo(); children.push(new Paragraph({ spacing: { before: 120, after: 200 }, border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: 'D0D0D0' } }, children: [] })); continue; }
 
   let m;
   if ((m = /^(#{2,5})\s+(.*)$/.exec(l))) {
+    vaciarParrafo();
     const lvl = m[1].length;                       // 2..5
     const sizes = { 2: 34, 3: 26, 4: 22, 5: 20 };
     const heading = { 2: HeadingLevel.HEADING_1, 3: HeadingLevel.HEADING_2, 4: HeadingLevel.HEADING_3, 5: HeadingLevel.HEADING_4 }[lvl];
@@ -235,35 +380,40 @@ for (; i < lines.length; i++) {
     continue;
   }
 
-  if (/^>\s?/.test(l)) {
-    children.push(new Paragraph({
-      spacing: { after: 140, line: 264 }, indent: { left: 400 },
-      border: { left: { style: BorderStyle.SINGLE, size: 12, color: 'BFBFBF', space: 8 } },
-      children: runs(l.replace(/^>\s?/, ''), { font: SERIF, size: 20, italics: true, color: GRIS }),
-    }));
+  if (/^>/.test(l)) {
+    const t = l.replace(/^>\s?/, '');
+    // un «>» a solas separa dos párrafos dentro de la misma cita
+    if (!t) { vaciarParrafo(); continue; }
+    // una viñeta dentro de la cita abre bloque propio; el texto corrido continúa
+    if (parrafo && parrafo.tipo === 'cita' && !/^([-*]\s|\d+\.\s)/.test(t)) parrafo.lineas.push(t);
+    else abrirParrafo('cita', t);
     continue;
   }
 
   if (/^[-*]\s+/.test(l)) {
-    children.push(new Paragraph({
-      bullet: { level: (raw.match(/^\s*/)[0].length >= 2) ? 1 : 0 },
-      spacing: { after: 70, line: 268 },
-      children: runs(l.replace(/^[-*]\s+/, ''), { font: SANS, size: 21 }),
-    }));
+    abrirParrafo('vineta', l.replace(/^[-*]\s+/, ''), (raw.match(/^\s*/)[0].length >= 2) ? 1 : 0);
     continue;
   }
 
   if (/^\d+\.\s+/.test(l)) {
-    children.push(new Paragraph({
-      numbering: { reference: 'num', level: 0 },
-      spacing: { after: 70, line: 268 },
-      children: runs(l.replace(/^\d+\.\s+/, ''), { font: SANS, size: 21 }),
-    }));
+    abrirParrafo('numerada', l.replace(/^\d+\.\s+/, ''));
     continue;
   }
 
-  children.push(P(l, { after: 140 }));
+  // renglón de formulario, o cualquier línea dentro de un ---- MODELO ----:
+  // el salto de línea es contenido, se emite tal cual
+  if (enModelo || FORMULARIO.test(l)) { vaciarParrafo(); children.push(P(l, { after: 140 })); continue; }
+
+  // apartado «a)», casilla «☐», y rótulo «**...**» o nota «*(...)*» cuando la
+  // línea anterior cierra frase: párrafo propio
+  if (abreParrafo(l, parrafo && parrafo.lineas[parrafo.lineas.length - 1])) { abrirParrafo('texto', l); continue; }
+
+  // texto corrido: continúa el párrafo, la viñeta, la numeración o la cita
+  // que estuviera abierta. Éste es el caso que antes emitía un Paragraph suelto.
+  if (parrafo) parrafo.lineas.push(l);
+  else parrafo = { tipo: 'texto', nivel: 0, lineas: [l] };
 }
+vaciarParrafo();
 flushTable();
 
 const doc = new Document({
