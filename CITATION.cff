@@ -17,8 +17,8 @@ authors:
   - family-names: Lafuente Veira
     given-names: Delfina
     affiliation: Ayuntamiento de Pozuelo de Alarcón
-version: "3.0"
-date-released: "2026-09-10"
+version: "4.0"
+date-released: "2026-10-15"
 license: CC-BY-4.0
 keywords:
   - contratación pública
@@ -31,7 +31,7 @@ abstract: >-
   para su incorporación motivada a los pliegos de prescripciones técnicas y de
   cláusulas administrativas particulares, con la memoria justificativa, el
   circuito del expediente, un ejemplo completo trabajado sobre un expediente
-  simulado y veinticinco anexos con los modelos. Nace de un problema real de
+  simulado y veintiséis anexos con los modelos. Nace de un problema real de
   gestión municipal y de las cuatro dificultades que quienes lo han trabajado
   han observado que suceden en la contratación pública, enunciadas y respondidas
   en su memoria justificativa. Funciona a la vez como catálogo de cláusulas y

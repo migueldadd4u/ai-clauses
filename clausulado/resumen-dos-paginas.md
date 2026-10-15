@@ -102,12 +102,12 @@ De un problema real de gestión municipal y de **cuatro dificultades** que quien
 han observado que suceden en la contratación pública, y que el documento nombra sin suavizarlas: que
 la necesidad todavía no la demanda el gestor, y sin ella la cláusula es artificiosa al contrato; que
 el seguimiento real de los contratos es escaso y sólo mira el gasto, cuando quien controla necesita
-el dato al mismo rango que quien gestiona; que el grado de abstracción es demasiado alto mientras no
+acceso propio al dato de ejecución, sin depender del proveedor; que el grado de abstracción es demasiado alto mientras no
 se vea funcionando en una contratación ya prevista y poco compleja; y que hay muchos actores, y no
 sólo propios, que no han visto antes estas exigencias. **Las cuatro se responden dentro del
 documento**, y son la razón de que esta versión tenga doble vía de firma, acuerdo del órgano de
-gobierno, un subconjunto mínimo de seis cláusulas para empezar y un capítulo sobre la reacción del
-mercado.
+gobierno, un subconjunto mínimo de seis cláusulas para empezar, siete si intervienen sistemas de
+inteligencia artificial, y un capítulo sobre la reacción del mercado.
 
 ## Cómo debe usarse: no copie sin entender
 
@@ -115,7 +115,8 @@ Se publica **tal cual (*as is*)**, sin garantía de ningún tipo. No es asesoram
 a los informes preceptivos de ninguna administración. Se recomienda su lectura y su uso — y con la
 misma firmeza, no copiarlo sin entenderlo:
 
-- Una cláusula copiada **sin necesidad acreditada** añade un motivo de recurso. La justificación no
+- Una cláusula copiada **sin justificar en ese expediente su necesidad, su proporcionalidad y su
+  vinculación con el objeto del contrato** añade un motivo de recurso. La justificación no
   vive en el catálogo, vive en la memoria del expediente, y no se puede completar después.
 - Una exigencia copiada **sin contrastar con el mercado** no es más ambiciosa: es más restrictiva.
 - Una obligación copiada **sin nadie que la verifique** es peor que no tenerla.
@@ -126,13 +127,13 @@ misma firmeza, no copiarlo sin entenderlo:
 
 **Este no es un documento oficial de ninguna administración**: no ha sido aprobado por
 ningún órgano municipal ni expresa la posición de la Corporación, y ningún órgano de contratación,
-intervención o asesoría jurídica se ha pronunciado sobre él. El caso trabajado del documento extenso
+intervención o asesoría jurídica ha emitido informe sobre él ni lo ha aprobado. El caso trabajado del documento extenso
 es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación. Es un trabajo profesional de las personas
 que lo firman, a título particular; quienes ejercen un cargo o un puesto público lo hacen aquí a
 título personal. Y el propio
 documento enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de
 conflicto de interés no están firmadas—: mientras no se cumplan, es una propuesta técnica publicada
-para el debate, no un instrumento listo para meter en un expediente.
+en abierto, con su texto definitivo, y no un instrumento listo para meter en un expediente.
 
 ## Quién lo ha hecho
 
@@ -158,5 +159,5 @@ Se declara aunque el artículo 50.4 del Reglamento (UE) 2024/1689 exima de hacer
 humana y responsabilidad editorial, porque un documento que exige transparencia de IA no puede
 ocultarla en sí mismo. Las decisiones y la responsabilidad son de las personas que lo firman.
 
-**Documento completo, presentación y modelos:** github.com/migueldadd4u/ai-clauses ·
-Licencia Creative Commons Attribution 4.0 · Versión 3.0, septiembre de 2026
+**Documento completo, pliegos de referencia, presentación y modelos:** migueldadd4u.github.io/ai-clauses ·
+Licencia Creative Commons Attribution 4.0 · Versión 4.0, definitiva, octubre de 2026

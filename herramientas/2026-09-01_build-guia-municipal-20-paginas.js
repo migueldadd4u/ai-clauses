@@ -70,7 +70,7 @@ const htmlPaginas = paginas.map(({ numero, contenido }) => `
 <section class="pagina" aria-label="Página ${numero} de 20">
   <div class="cabecera"><span>AI CLAUSES</span><span>GUÍA MUNICIPAL DE DECISIÓN Y APLICACIÓN</span></div>
   <article class="contenido">${marked.parse(contenido)}</article>
-  <div class="pie"><a href="clausulado/indice.html">Abrir el catálogo completo</a><span>Página ${numero} de 20</span></div>
+  <div class="pie"><a href="https://migueldadd4u.github.io/ai-clauses/clausulado/indice.html">Abrir el catálogo completo</a><span>Página ${numero} de 20</span></div>
 </section>`).join('\n');
 
 const html = `<!doctype html>
@@ -156,7 +156,7 @@ if (fs.existsSync(PDF)) fs.unlinkSync(PDF);
 // Se invoca como subproceso y no como módulo porque este constructor es un
 // script plano: un `await` de primer nivel lo convertiría en módulo asíncrono.
 execFileSync(process.execPath, [
-  path.join(__dirname, 'imprimir_pdf.js'), HTML, PDF, 'AI Clauses · Guía municipal · v3.0',
+  path.join(__dirname, 'imprimir_pdf.js'), HTML, PDF, 'AI Clauses · Guía municipal · v4.0',
 ], { stdio: 'pipe' });
 const pdfInfo = execFileSync('pdfinfo', [PDF], { encoding: 'utf8' });
 const paginasPdf = Number(/^Pages:\s+(\d+)$/m.exec(pdfInfo)?.[1]);

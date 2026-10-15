@@ -7,7 +7,7 @@
 
 > **Dos puertas de entrada.** Esto nació como catálogo de cláusulas de IA, pero para redactarlas hubo que escribir entero el circuito del expediente: los veintiún documentos, quién firma cada uno y en qué orden. Ese circuito no tiene nada de específico de la IA y sirve para cualquier otra cláusula conforme a la Ley 9/2017. Quien venga a por cláusulas de IA lea esta guía de principio a fin; quien venga a tramitar bien un expediente vaya a la Parte V del clausulado y al ejemplo completo de la Parte VI.
 
-Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026**
+Versión 4.0, definitiva · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026**, con la actualización de 15 de octubre de 2026
 
 ### Autoría
 
@@ -17,9 +17,9 @@ Versión 3.0 · Fecha de corte normativa y doctrinal: **1 de septiembre de 2026*
 
 ### Estado del documento
 
-Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial de ninguna administración**, no ha sido aprobado por ningún órgano municipal, autonómico ni estatal y no expresa la posición de ninguna Corporación; ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre él. Es una propuesta técnica publicada para el debate y la reutilización. **Y no es sólo municipal:** está parametrizado para cualquier administración —los órganos, umbrales, categorías de seguridad y plazos son parámetros con valor recomendado, no valores fijos—, de modo que sirve igual a un ayuntamiento, a una diputación, a una comunidad autónoma o a un organismo estatal, cambiando quién firma cada cosa. Se publica con licencia CC BY 4.0 para que se copie, se adapte y se mejore. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
+Este catálogo nace de un problema real de gestión municipal, pero **no es un documento oficial de ninguna administración**, no ha sido aprobado por ningún órgano municipal, autonómico ni estatal y no expresa la posición de ninguna Corporación; ningún órgano de contratación, intervención o asesoría jurídica ha emitido informe sobre él ni lo ha aprobado. Es una propuesta técnica publicada en abierto, con su texto definitivo en esta versión 4.0, para su reutilización. **Y no es sólo municipal:** está parametrizado para cualquier administración —los órganos, umbrales, categorías de seguridad y plazos son parámetros con valor recomendado, no valores fijos—, de modo que sirve igual a un ayuntamiento, a una diputación, a una comunidad autónoma o a un organismo estatal, cambiando quién firma cada cosa. Se publica con licencia CC BY 4.0 para que se copie, se adapte y se mejore. El caso trabajado de la Parte VI es un **expediente simulado**: no corresponde a ninguna licitación real, en curso ni en preparación, y sus cifras están construidas para el ejemplo.
 
-**Qué se puede hacer desde hoy, y qué no.** La mayoría de las cláusulas —y las de más valor económico: reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se anclan por vía **normativa** o **funcional** y **no necesitan ningún acuerdo previo**: basta motivarlas en la memoria del expediente con datos propios. Sólo las de origen **institucional**, que ninguna norma impone y ningún gestor pide, necesitan el acuerdo del órgano de gobierno, que no es un permiso sino la prueba documental de su necesidad. De las seis cláusulas del piloto mínimo, **cinco no dependen de ese acuerdo**.
+**Qué se puede hacer desde hoy, y qué no.** La mayoría de las cláusulas —y las de más valor económico: reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se anclan por vía **normativa** o **funcional** y **no necesitan ningún acuerdo previo**: basta motivarlas en la memoria del expediente con datos propios. Sólo las de origen **institucional**, que ninguna norma impone y ningún gestor pide, necesitan el acuerdo del órgano de gobierno, que no es un permiso sino la prueba documental de su necesidad. Del piloto mínimo —seis cláusulas, siete con DT‑1 si intervienen sistemas de IA—, **sólo ADM‑2 con su Anexo V depende de ese acuerdo**, y con él la DT‑7 que arrastra el Anexo V del catálogo.
 
 Lo que sí está pendiente a la fecha de corte —acuerdo del órgano de gobierno, consulta preliminar del mercado documentada y declaraciones de conflicto de interés firmadas— limita el uso de **este documento como modelo aprobado**, no la potestad de nadie para escribir buenas cláusulas en su pliego. Y las declaraciones de conflicto de interés se firman para que nadie pueda pedir ni obtener ventaja en un pliego: **no impiden a ningún colaborador presentarse a una licitación**.
 
@@ -76,7 +76,7 @@ Cada exigencia debe tener un origen de necesidad identificado; un único instrum
 
 No se promete que ningún tribunal pueda anular un pliego. A la fecha de corte no consta doctrina específica sobre varias de estas figuras. El primer recurso sobre ellas creará precedente. La defensa reside en la motivación y en el expediente, no en una garantía editorial.
 
-El catálogo puede publicarse para el debate, pero no debe aplicarse mientras sigan pendientes el acuerdo institucional, la consulta preliminar del mercado y las declaraciones de conflicto de interés. Publicar no es aplicar.
+El catálogo puede publicarse, pero no debe aplicarse mientras sigan pendientes el acuerdo institucional, la consulta preliminar del mercado y las declaraciones de conflicto de interés. Publicar no es aplicar.
 
 **Fuentes completas:** Parte 0, §§0.1 y 0.3; Parte I, §§1.2–1.4 y 7.8; Parte IV, §§M8 y M11; Anexo VI.
 <!-- PAGINA 4 -->
@@ -140,7 +140,7 @@ El catálogo separa la gobernanza anual del trabajo de cada contrato. La primera
 
 ## Tres condiciones pendientes
 
-A 1 de septiembre de 2026 siguen pendientes: el acuerdo del órgano de gobierno; la consulta preliminar y el contraste documentado del Anexo V; y las declaraciones de conflicto de interés firmadas. Mientras falten, el catálogo puede difundirse y debatirse, pero sus cláusulas no deben incorporarse a un expediente.
+A 15 de octubre de 2026 siguen pendientes: el acuerdo del órgano de gobierno; la consulta preliminar y el contraste documentado del Anexo V; y las declaraciones de conflicto de interés firmadas. Mientras falten, el catálogo no debe citarse como modelo ni servir de aval en un expediente; sus soluciones de redacción sí pueden usarse, motivadas con datos propios.
 
 La revisión anual no cambia contratos vivos. Cada PPT transcribe físicamente la versión del Anexo V que le corresponde; esa versión queda cerrada durante el contrato y sus prórrogas.
 
@@ -187,7 +187,7 @@ DT‑2 y DT‑3 son **NO APLICA por defecto**. ADM‑9, ADM‑11 y ADM‑14 sól
 2. Asignar a cada una un único instrumento mediante el Anexo I.
 3. Aplicar el nivel como orientación y comprobar las condiciones particulares.
 4. Rellenar las seis casillas del Anexo II y estimar la carga por puesto.
-5. Confirmar que el Ayuntamiento puede verificar lo elegido. A partir de 20 horas anuales se revisa o agrupa la carga; por encima de 40 se exige conformidad expresa del servicio verificador.
+5. Confirmar que el Ayuntamiento puede verificar lo elegido. Por encima de 20 horas anuales se revisa o agrupa la carga; por encima de 40 se exige conformidad expresa del servicio verificador.
 6. Ejecutar el Anexo VI para retirar todas las menciones dependientes de lo descartado.
 
 Resultado correcto no significa «más cláusulas». Cuatro obligaciones comprobadas valen más que doce declaradas y toleradas. Si no hay actor, periodicidad o documento, la cláusula no entra.
@@ -412,7 +412,7 @@ Cinco condiciones, y si falla alguna conviene esperar al siguiente: hay un usuar
 
 ## El subconjunto mínimo: seis cláusulas, no veinticuatro
 
-Un primer expediente no incorpora el catálogo entero. Incorpora seis cláusulas que se sostienen solas y producen resultado verificable en el primer año: **ADM‑12** (acceso de los órganos de control al dato: empezar dando, no pidiendo), **DT‑0** (equivalencia y prueba: quita barreras, no las pone), **DT‑6** (ENS en la categoría que corresponda: obligación ya existente, bien redactada), **ADM‑8** (propiedad intelectual y licencia mínima: lo que no se pone no se recupera), **ADM‑2 con su Anexo V** (el núcleo, y sólo si el Anexo V está aprobado y publicado antes) y **ADM‑5** en lo que corresponda a las anteriores. Todo lo demás espera al informe de evaluación.
+Un primer expediente no incorpora el catálogo entero. Incorpora seis cláusulas que producen resultado verificable en el primer año: **ADM‑12** (acceso de los órganos de control al dato: empezar dando, no pidiendo), **DT‑0** (equivalencia y prueba: quita barreras, no las pone), **DT‑6** (ENS en la categoría que corresponda: obligación ya existente, bien redactada), **ADM‑8** (propiedad intelectual y licencia mínima: lo que no se pone no se recupera), **ADM‑2 con su Anexo V** (el núcleo, y sólo si el Anexo V está aprobado y publicado antes) y **ADM‑5** en lo que corresponda a las anteriores. Si en el contrato intervienen sistemas de inteligencia artificial, se suma **DT‑1**, al menos en su inventario y en el reparto de papeles. Con el Anexo V del propio catálogo entra también **DT‑7**, porque sus tres exigencias dependen de ella. Verificarlo cuesta entre 20 y 24 horas al año y entre 44 y 60 el primer año, sin DT‑1 ni DT‑7 (cálculo y sumandos en ADM‑4, epígrafe 5). Todo lo demás espera al informe de evaluación.
 
 ## Decisiones previas del ejemplo trabajado
 
@@ -424,7 +424,7 @@ Un primer expediente no incorpora el catálogo entero. Incorpora seis cláusulas
 
 ## Resultado de la ficha trabajada
 
-De 24 cláusulas, **17 se aplican sin condición**, **3 quedan condicionadas** al acuerdo del órgano de gobierno —DT‑7, DT‑9 y, con ellas, ADM‑2— y **4 se marcan NO APLICA**: DT‑2, DT‑3, ADM‑11 y ADM‑14.
+De 24 cláusulas, **16 se aplican sin condición**, **4 quedan condicionadas** al acuerdo del órgano de gobierno —DT‑7, DT‑9 y, con ellas, ADM‑2 y ADM‑10— y **4 se marcan NO APLICA**: DT‑2, DT‑3, ADM‑11 y ADM‑14.
 
 La interfaz para agentes no se presenta como necesidad normativa ni pedida por el gestor. Es institucional y cae si no existe el acuerdo previo. ADM‑11 queda fuera porque la disponibilidad propuesta es MEDIA y sus cuatro condiciones son acumulativas. ADM‑14 queda fuera porque el Anexo V y la bolsa ya cubren la evolución prevista.
 
@@ -449,7 +449,7 @@ La sesión funcional verifica sólo D, antes de abrir fórmulas. C1, A y H se co
 
 ## Carga y realidad operativa
 
-En el caso trabajado, la licitación requiere entre **33 y 53 horas** municipales. La ejecución exige entre **177,5 y 217,5 horas** el primer año y entre **117,5 y 141,5 horas/año** después. Al superar 40 horas, la conformidad expresa del servicio verificador es obligatoria.
+En el caso trabajado, la licitación requiere entre **33 y 53 horas** municipales. La ejecución exige entre **193,5 y 237,5 horas** el primer año y entre **128,5 y 144,5 horas/año** después, contados los apartados 11 a 13 de DT‑1. Al superar 40 horas, la conformidad expresa del servicio verificador es obligatoria.
 
 ## Rectificar y aprender
 
@@ -459,11 +459,11 @@ El piloto se evalúa con dos informes: a los seis meses de publicar, concurrenci
 
 **Fuentes completas:** Parte VI, §§VI.4.6–VI.4.10 y VI.5–VI.8; Anexos IV, XVII, XVIII y XX.
 <!-- PAGINA 20 -->
-# Los 25 anexos: caja de herramientas
+# Los 26 anexos: caja de herramientas
 
 ## Para decidir y motivar
 
-**I** Cuadro Maestro · **II** Ficha de Aplicabilidad · **III** Informe de necesidad · **IV** Ficha por criterio y comprobación del baremo · **VIII** Acuerdo del órgano de gobierno · **IX** Conflicto de interés · **XXII** Consulta preliminar · **XXIII** Prestaciones intelectuales.
+**I** Cuadro Maestro · **II** Ficha de Aplicabilidad · **III** Informe de necesidad · **IV** Ficha por criterio y comprobación del baremo · **VIII** Acuerdo del órgano de gobierno · **IX** Conflicto de interés · **XXII** Consulta preliminar · **XXIII** Prestaciones intelectuales · **XXVI** Matriz de riesgos.
 
 ## Para redactar la licitación
 
@@ -487,4 +487,4 @@ El piloto se evalúa con dos informes: a los seis meses de publicar, concurrenci
 
 El documento completo es la fuente jurídica y técnica. Esta guía explica cómo navegarlo; no sustituye sus cláusulas, sus anexos ni los informes preceptivos. Se publica bajo **CC BY 4.0**, con cita de autoría y sin garantía. Antes de reutilizarlo, compruebe versión, fecha de corte, umbrales y estado de las tres condiciones de aplicación.
 
-**Fuentes completas:** Parte 0, §0.0; Parte V, §§V.8–V.10; Parte VII, Anexos I–XXV; autoría y condiciones de uso.
+**Fuentes completas:** Parte 0, §0.0; Parte V, §§V.8–V.10; Parte VII, Anexos I–XXVI; autoría y condiciones de uso.

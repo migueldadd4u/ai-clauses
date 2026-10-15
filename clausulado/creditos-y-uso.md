@@ -8,7 +8,7 @@ que sigue.*
 
 ---
 
-### Estado de este documento a 10 de septiembre de 2026
+### Estado de este documento a 15 de octubre de 2026 · versión 4.0, definitiva
 
 **Qué ha aprobado alguna administración:** nada. Este documento no es un acto administrativo, no ha
 sido aprobado por ningún órgano de ninguna entidad pública y no vincula a ninguna Corporación.
@@ -25,12 +25,14 @@ reversibilidad, propiedad intelectual, acceso al dato, ENS bien redactado— se 
 memoria del expediente con datos propios. Sólo las cláusulas de origen **institucional** —aquellas
 que ninguna norma impone y ningún gestor pide— necesitan el acuerdo del órgano de gobierno, que no
 es un permiso sino su prueba documental de necesidad (§M1.2). De las seis cláusulas del subconjunto
-mínimo del §VI.2.2, **cinco no dependen de ese acuerdo**; sólo ADM-2·v3 con su Anexo V.
+mínimo del §VI.2.2 —siete, con DT-1·v3, cuando intervengan sistemas de inteligencia artificial—,
+**sólo ADM-2·v3 con su Anexo V depende de ese acuerdo**, y con él la DT-7·v3 que arrastra el Anexo V
+de este catálogo.
 
 Dicho eso, las tres condiciones suspensivas que la propia memoria justificativa enumera (Parte IV,
 §M11, filas 1 a 3) son:
 
-| # | Condición suspensiva | Estado a 10 de septiembre de 2026 |
+| # | Condición suspensiva | Estado a 15 de octubre de 2026 |
 |---|---|---|
 | 1 | Acuerdo del órgano de gobierno que apruebe el plan municipal, el catálogo y el Anexo V del ejercicio | **Pendiente** |
 | 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
@@ -48,9 +50,10 @@ igualmente en la memoria del expediente, con datos propios. El desarrollo está 
 
 Sobre la tercera, y porque se presume lo contrario: esas declaraciones se firman para que **nadie pueda pedir ni obtener ventaja en un pliego** —ni puntuación a favor, ni requisitos escritos a su medida—. **No excluyen a ningún colaborador de presentarse a una licitación** que aplique este catálogo. El detalle, en la Parte IV, §M7.3, medida 8.
 
-Mientras las tres no consten cumplidas, este catálogo es una propuesta técnica publicada para el
-debate: **no debe citarse como modelo aprobado ni servir de aval** en un expediente que supere el
-umbral del recurso especial. Lo que sí puede hacerse desde el primer día es **usar sus soluciones de
+**Definitiva no es aprobada.** La versión 4.0 cierra el texto: no se seguirá corrigiendo por rondas y
+lo que venga después será una versión nueva, con su número. Mientras las tres condiciones no consten
+cumplidas, este catálogo **no debe citarse como modelo aprobado ni servir de aval** en ningún expediente, y menos aún
+en uno que supere el umbral del recurso especial. Lo que sí puede hacerse desde el primer día es **usar sus soluciones de
 redacción**, sosteniendo cada exigencia en la memoria del expediente con datos propios y sin
 remitirse a este documento. Es más: el propio catálogo insiste en que una memoria que se limite a
 remitirse a él es una justificación estereotipada.
@@ -144,70 +147,11 @@ obligaban a rehacer lo ya escrito. La versión que se publica existe porque ella
 **Y quien viene después: [Luis Garvía Vega](https://www.linkedin.com/in/garvia/)** — doctor en
 Finanzas y director del Máster en Gestión de Riesgos Financieros de ICADE (Universidad Pontificia
 Comillas). No ha participado en este catálogo. Se incorpora al proyecto para preparar, junto con
-José Antonio Ondiviela, una **publicación académica** sobre lo que este trabajo ha dejado ver: que
-**no es un problema de falta de recursos, sino de gestión eficiente de los recursos**, y que la
-eficiencia de la contratación pública condiciona la del conjunto del sector público. Delfina Lafuente
-y Miguel Ángel Domínguez, que no son académicos, colaborarán en ella aportando el caso y la práctica.
+José Antonio Ondiviela, una **publicación académica** sobre la eficiencia de la contratación pública,
+en la que Delfina Lafuente y Miguel Ángel Domínguez colaborarán aportando el caso y la práctica.
 
-Se dice aquí para que se sepa hacia dónde va esto, y con tres precisiones: esa publicación es un
-**trabajo distinto** de este catálogo, se firmará por separado y **nada de lo que aquí se afirma
-depende de ella**; y se hará **desligada de cualquier administración**.
-
----
-
-### Hacia dónde va esto: por qué habrá una publicación académica
-
-Escribir este catálogo ha dejado a la vista algo más grande que el catálogo, y conviene decirlo
-aquí, donde se declara todo lo demás.
-
-**La contratación pública es la principal forma en que el sector público gasta el dinero de todos.**
-No es un procedimiento administrativo entre otros: una vez dentro de una administración, casi nadie
-ejecuta el trabajo —se gestiona quién lo ejecuta—. Un ayuntamiento no tiene programadores: contrata
-empresas que programan. De modo que **la eficiencia de la contratación es, en buena medida, la
-eficiencia del sector público entero**, y lo que se pierde ahí no se recupera en ningún otro sitio.
-
-**Y hay una frase que se repite y que este trabajo desmiente:** «es que no hay recursos». La dicen,
-por igual y con distinto acento, quien gobierna, quien está en la oposición, quien propone subir
-impuestos y quien se manifiesta para pedir que se gaste más. Todos coinciden en el diagnóstico, y el
-diagnóstico está mal. **Recursos hay. Lo que falla es la gestión eficiente de esos recursos.** Ésa es
-la tesis de la publicación, y la razón de hacerla: porque mientras el problema se llame «falta de
-recursos», la solución que se busca es siempre más dinero, y no es ahí donde está.
-
-Lo que este catálogo demuestra en pequeño —que un contrato mal construido paga dos veces la misma
-tecnología, deja cautiva a la administración y decide la licitación siguiente antes de publicarla—
-es un caso particular de eso. La publicación llevará el argumento a donde este documento no llega:
-
-- **cómo se gestionan mejor los recursos públicos**, más allá de la redacción de una cláusula;
-- **qué permite hoy la tecnología** que hace cinco años no permitía —supervisión y análisis del dato
-  en tiempo real, asistentes con memoria del expediente— y que cambia lo que es razonable exigir;
-- y **el código abierto como política de compra pública**: que miles de entidades locales no tengan
-  que contratar por separado, y pagar por separado, exactamente la misma pieza de software, pudiendo
-  compartirla y mejorarla entre todas. Este catálogo se publica así a propósito: es la primera
-  aplicación de lo que la publicación defenderá.
-
-**El objetivo declarado, en una frase.** Que mejorar la eficiencia del sector público a través de
-mejores prácticas de contratación sirva para mejorar la situación del país y de Europa. Descansa
-sobre tres ideas, que la publicación desarrollará y este catálogo sólo roza:
-
-- **Soberanía tecnológica.** Que una administración pueda decidir sobre sus datos, sus desarrollos y
-  su capacidad de cambiar de proveedor, en lugar de que lo decida por ella el contrato que firmó.
-- **Usar de verdad la tecnología disponible** para los problemas grandes —los que hoy se responden
-  con más presupuesto y más plantilla—, en lugar de comprar en 2026 lo que ya era el estado del arte
-  en 2021.
-- **Atacar la ineficiencia que ya existe**, hoy, con los recursos que ya hay, que es donde está el
-  dinero que se pierde sin que nadie lo contabilice como pérdida.
-
-Conviene una precisión, porque afecta a cómo debe leerse el articulado: **eso es el objetivo de la
-publicación, no una exigencia de este catálogo**. Ninguna cláusula de las que siguen impone una
-tecnología, una red ni una infraestructura concretas —el articulado lo prohíbe expresamente y esa
-prohibición se explica en la Parte IV, §M7.3—. La soberanía tecnológica se busca aquí por la vía que
-no distorsiona la competencia: propiedad de los datos, reversibilidad y salida ordenada.
-
-**Por qué se dice aquí y no se guarda.** Porque quien lea este catálogo tiene derecho a saber qué
-persigue quien lo escribe. No hay ánimo de lucro, no hay encargo detrás y no se pide nada a cambio:
-lo que hay es la convicción de que esto se puede hacer mejor, y la intención de sostenerla con un
-trabajo académico que resista el contraste. Si esa publicación termina existiendo, se firmará por
-separado y no cambiará ni una línea de lo que aquí se afirma.
+Esa publicación es un **trabajo distinto** de este catálogo, se firmará por separado y **nada de lo
+que aquí se afirma depende de ella**; y se hará **desligada de cualquier administración**.
 
 ---
 
@@ -242,21 +186,22 @@ la demanda el gestor; que el seguimiento real de los contratos es escaso y sólo
 grado de abstracción es alto; y que hay muchos actores, y no sólo propios, que no han visto antes
 estas exigencias. Esas cuatro son las que han dado forma a esta versión: sin ellas no existirían ni
 la doble vía de firma de la ficha, ni la exigencia de acuerdo del órgano de gobierno, ni el
-subconjunto mínimo de seis cláusulas para un primer expediente. Un catálogo que no las nombre las
+subconjunto mínimo de seis cláusulas —siete si intervienen sistemas de inteligencia artificial— para
+un primer expediente. Un catálogo que no las nombre las
 encontrará igualmente el día que se aplique, y eso es lo que lo distingue de un clausulado de
 despacho.
 
 **Lo que expresamente no es cierto, y conviene decirlo para que nadie lo deduzca:** ningún órgano de
-contratación, de intervención ni de asesoría jurídica de ninguna administración se ha
-pronunciado sobre este catálogo. Este documento no les atribuye posición alguna, ni a favor ni en
+contratación, de intervención ni de asesoría jurídica de ninguna administración ha emitido
+informe sobre este catálogo ni lo ha aprobado. Este documento no les atribuye posición alguna, ni a favor ni en
 contra, y el ejemplo trabajado de la Parte VI es un **expediente simulado** que no corresponde a
 ninguna licitación real, en curso o en preparación.
 
 **Y lo que está pendiente, dicho por el propio documento:** la memoria justificativa de la Parte IV
 enumera las condiciones que aún no se cumplen —entre ellas, que las declaraciones de conflicto de
 interés no están firmadas y que el contraste de mercado no se ha realizado—. Mientras no se cumplan,
-el catálogo es una propuesta técnica publicada para el debate, no un instrumento listo para
-incorporarse a un expediente sin más trámite.
+el catálogo es una propuesta técnica publicada en abierto, con su texto definitivo, y no un
+instrumento listo para incorporarse a un expediente sin más trámite.
 
 Quien informe sobre este trabajo hará bien en no escribir que un ayuntamiento ha aprobado nada.
 

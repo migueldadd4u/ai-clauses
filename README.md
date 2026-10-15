@@ -23,9 +23,18 @@ para cualquier otra cláusula que quiera incorporarse a un pliego conforme a la 
 | A por **cláusulas de IA** | Parte 0 (se entiende sin saber nada previo) → Parte II (técnicas, PPT) y Parte III (administrativas, PCAP) |
 | A **tramitar bien un expediente**, con IA o sin ella | Parte V (el circuito completo, documento a documento) → Parte VI (ese circuito recorrido entero sobre un expediente simulado) |
 
+**Qué trae la versión 4.0, definitiva.** Pliegos de referencia para cuatro perfiles de contrato (SaaS,
+mantenimiento de aplicaciones, desarrollo a medida y plataformas críticas); el encaje con el proyecto
+de Ley de la Administración Digital e Inteligencia Artificial de la Comunidad de Madrid (PL-11/2026),
+siempre como proyecto; un solo mínimo para empezar, con sus horas; penalidades por niveles de
+servicio; una matriz de doce riesgos (Anexo XXVI), y la regla de que cada cláusula exige su
+justificación individualizada. Todo en [`docs/complementarios/`](https://migueldadd4u.github.io/ai-clauses/complementarios/index.html)
+y en la Parte 0, §0.8, del clausulado. **Definitiva no es aprobada**: el texto queda cerrado y ningún
+órgano lo ha aprobado.
+
 ---
 
-## Estado de este documento a 10 de septiembre de 2026
+## Estado de este documento a 15 de octubre de 2026 · versión 4.0, definitiva
 
 **Qué ha aprobado alguna administración: nada.** Este documento no es un acto administrativo, no ha
 sido aprobado por ningún órgano de ninguna entidad pública y no vincula a ninguna Corporación. Es un
@@ -41,8 +50,8 @@ justificativa (Parte IV, §M11):
 | 2 | Consulta preliminar del mercado publicada y contraste documentado del Anexo V (art. 115 LCSP) | **Pendiente** |
 | 3 | Declaraciones de conflicto de interés firmadas e incorporadas (arts. 64 y 70 LCSP) | **Pendiente** |
 
-Son condiciones **de aplicación, no de publicación**: se publica para el debate, y no como modelo
-listo para meter en un expediente. Publicar en abierto y por anticipado es, de hecho, una de las
+Son condiciones **de aplicación, no de publicación**: se publica en abierto, con su texto definitivo, y no como
+modelo listo para meter en un expediente. Publicar en abierto y por anticipado es, de hecho, una de las
 medidas del artículo 70 LCSP que el propio documento adopta, porque pone a disposición de todo el
 mercado la misma información de la que dispusieron quienes lo elaboraron.
 
@@ -80,8 +89,8 @@ Lo que sí está diseñado, y se puede comprobar cláusula por cláusula:
 | Documento | Para quién | Formato |
 |---|---|---|
 | **Resumen en dos páginas** | Lo más que va a leer casi nadie, y por eso lo primero que conviene leer. El problema, la solución, qué se promete y cómo debe usarse. Sin conocimientos previos. | [PDF](docs/descargas/resumen-dos-paginas.pdf) · [Word](docs/descargas/resumen-dos-paginas.docx) |
-| **Guía municipal de decisión y aplicación · 20 páginas** | Concejalías, contratación, Intervención y TI. Explica cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer las 289 páginas del catálogo. | [Web](docs/2026-09-01_ai-clauses_guia-municipal-20-paginas.html) · [PDF](docs/descargas/2026-09-01_ai-clauses_guia-municipal-20-paginas.pdf) · [Word](docs/descargas/2026-09-01_ai-clauses_guia-municipal-20-paginas.docx) |
-| **Clausulado completo v3.0** | El texto entero: catálogo de cláusulas, memoria justificativa para los órganos de control, circuito del expediente, ejemplo completo trabajado y anexos con todos los modelos. | [Web](https://migueldadd4u.github.io/ai-clauses/clausulado/indice.html) · [PDF](docs/descargas/clausulado-ia-deeptech-v3.pdf) · [Word](docs/descargas/clausulado-ia-deeptech-v3.docx) |
+| **Guía municipal de decisión y aplicación · 20 páginas** | Concejalías, contratación, Intervención y TI. Explica cómo decidir, motivar, seleccionar, copiar y verificar sin recorrer las más de trescientas páginas del catálogo. | [Web](docs/2026-09-01_ai-clauses_guia-municipal-20-paginas.html) · [PDF](docs/descargas/2026-09-01_ai-clauses_guia-municipal-20-paginas.pdf) · [Word](docs/descargas/2026-09-01_ai-clauses_guia-municipal-20-paginas.docx) |
+| **Clausulado completo v4.0** | El texto entero: catálogo de cláusulas, memoria justificativa para los órganos de control, circuito del expediente, ejemplo completo trabajado y anexos con todos los modelos. | [Web](https://migueldadd4u.github.io/ai-clauses/clausulado/indice.html) · [PDF](docs/descargas/clausulado-ia-deeptech-v4.pdf) · [Word](docs/descargas/clausulado-ia-deeptech-v4.docx) |
 | **Resumen y guía de uso** (Parte 0 del clausulado) | Alcaldía, concejalías y cualquiera que no sea experto en contratación ni en tecnología. Se lee en veinte minutos. | Dentro del clausulado |
 | **Presentación** | Para explicarlo en una sala, incluidas salas donde nadie es técnico. | [PDF](docs/descargas/presentacion-ai-clauses.pdf) · [PowerPoint](docs/descargas/presentacion-ai-clauses.pptx) |
 
@@ -97,7 +106,7 @@ contratación pública:
 1. que la necesidad **todavía no la demanda el gestor**, y sin ella la cláusula es artificiosa al
    contrato;
 2. que el seguimiento real de los contratos es escaso y sólo mira el gasto, cuando quien controla
-   **necesita el dato al mismo rango que quien gestiona**;
+   **necesita acceso propio al dato de ejecución, sin depender del proveedor**;
 3. que el **grado de abstracción es demasiado alto** mientras no se vea el catálogo funcionando en
    una contratación ya prevista y poco compleja, a modo de piloto;
 4. y que hay muchos actores, **y no sólo propios**, que no han visto antes estas exigencias y habría
@@ -123,12 +132,12 @@ expediente y el capítulo sobre la reacción del mercado.
 ## Lo que sí le da valor
 
 Que no es un clausulado de despacho. Nace de un problema real de gestión y se ha sometido por escrito
-a la crítica de quien tiene que redactar y fiscalizar pliegos de verdad; esa objeción consta
-literalmente en el texto —citada sin identificar a su autor, por no ser un informe registrado— y es
-la que ha dado forma a esta versión.
+a la crítica de quien tiene que redactar y fiscalizar pliegos de verdad. Esa crítica ha dado forma al
+texto: la memoria justificativa empieza por las cuatro dificultades que de verdad impiden aplicar un
+catálogo así, enunciadas como lo observado por quienes lo han redactado y sin atribuirlas a nadie.
 
 Y una precisión que conviene hacer expresamente: **ningún órgano de contratación, de intervención ni
-de asesoría jurídica se ha pronunciado sobre este catálogo.** Este documento no les atribuye posición
+de asesoría jurídica ha emitido informe sobre este catálogo ni lo ha aprobado.** Este documento no les atribuye posición
 alguna. El caso trabajado de la Parte VI es un **expediente simulado**, con municipio, objeto y
 cifras construidos para el ejemplo: no corresponde a ninguna licitación real, en curso ni en
 preparación.
@@ -235,10 +244,11 @@ Todo sale de los ficheros markdown de `clausulado/`. Para regenerar el Word, el 
 presentación y la web:
 
 ```bash
-make
+make            # construye todo y, al final, comprueba que lo construido es publicable
+make comprobar  # sólo la comprobación
 ```
 
-Necesita Node con los paquetes `docx`, `pptxgenjs` y `marked`, y Google Chrome (los PDF se generan
+Necesita Node con los paquetes `docx`, `pptxgenjs` y `marked` (las versiones con que se construyó la 4.0, en `package.json`: `npm install`), y Google Chrome (los PDF se generan
 desde HTML con Chrome headless, no convirtiendo el Word: las conversiones de Word, Pages y Keynote
 rompían los recuadros y el texto extraíble).
 

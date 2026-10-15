@@ -18,7 +18,7 @@ const { marked } = require('marked');
 const RAIZ = path.resolve(__dirname, '..');
 const SRC = path.join(RAIZ, 'clausulado', 'clausulado-ia-deeptech-v3.md');
 const TMP = path.join(RAIZ, 'docs', 'descargas', '.imprimir.html');
-const OUT = path.join(RAIZ, 'docs', 'descargas', 'clausulado-ia-deeptech-v3.pdf');
+const OUT = path.join(RAIZ, 'docs', 'descargas', 'clausulado-ia-deeptech-v4.pdf');
 const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 
 let md = fs.readFileSync(SRC, 'utf8');
@@ -102,7 +102,7 @@ fs.writeFileSync(TMP, html);
 // falta NUMERAR las páginas: son 291 y hay que poder imprimirlas por tandas.
 // Ver herramientas/imprimir_pdf.js para el porqué de no usar CSS ni el flag.
 (async () => {
-  await imprimirPdf({ html: TMP, out: OUT, pie: 'AI Clauses · Cláusulas de IA y Deep Tech · v3.0' });
+  await imprimirPdf({ html: TMP, out: OUT, pie: 'AI Clauses · Cláusulas de IA y Deep Tech · v4.0' });
   fs.unlinkSync(TMP);
   const kb = fs.statSync(OUT).size / 1024;
   const paginas = execFileSync('pdfinfo', [OUT], { encoding: 'utf8' }).match(/^Pages:\s+(\d+)$/m)?.[1] ?? '?';

@@ -16,7 +16,7 @@ module.exports = [
     titulo: 'Un contrato público de tecnología dura años.\nLa tecnología que compra, no.',
     subtitulo: 'Cláusulas de inteligencia artificial y deep tech para pliegos de contratación pública',
     autores: 'Delfina Lafuente Veira  ·  Dr. José Antonio Ondiviela García  ·  Miguel Ángel Domínguez Castellano',
-    pie: 'Versión 3.0 · septiembre de 2026 · publicado en abierto bajo licencia CC BY 4.0',
+    pie: 'Versión 4.0, definitiva —no aprobada por ningún órgano— · octubre de 2026 · publicada en abierto bajo licencia CC BY 4.0',
   },
   {
     tipo: 'frase',
@@ -107,7 +107,7 @@ module.exports = [
     alternas: true,
     filas: [
       ['La necesidad no la demanda aún el gestor', 'Cada cláusula lleva ahora el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
-      ['El seguimiento real es escaso, y sólo mira el gasto', 'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí sale ADM-12: paridad de acceso, sin tarificar, en formato abierto y con diccionario de datos.'],
+      ['El seguimiento real es escaso, y sólo mira el gasto', 'Quien controla no puede imponer instrumentos, pero sí necesita acceso propio al dato de ejecución, sin depender del proveedor. De ahí sale ADM-12: accesos de consulta incluidos en el precio, sin tarificar, en formato abierto y con diccionario de datos.'],
       ['El grado de abstracción es demasiado alto', 'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
       ['Hay actores, y no sólo propios, que no lo han visto', 'Consulta preliminar anual, publicación del Anexo V antes de licitar, plazo por encima del mínimo y gradualidad. Si el mercado no puede cumplirlo, la exigencia no entra en el pliego.'],
     ],
@@ -171,7 +171,7 @@ module.exports = [
         aporte: 'De ella nace el proyecto y suya es la primera redacción. Y suyo es el mérito menos visible: escuchar a quienes conocen la práctica real de la contratación y recoger sus aportaciones íntegras, también las que obligaban a rehacer lo ya escrito.',
       },
     ],
-    nota: 'El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se les reconoce de forma colectiva: sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.',
+    nota: 'El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se les reconoce de forma colectiva: sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica ha emitido informe sobre el catálogo ni lo ha aprobado.',
   },
   {
     tipo: 'destacado',
@@ -190,7 +190,7 @@ module.exports = [
     tipo: 'cierre',
     titulo: 'Una licitación que dura años\nya no se puede sacar como se sacaba antes.',
     texto: 'El clausulado completo, los modelos y esta presentación están publicados en abierto.',
-    enlace: 'github.com/migueldadd4u/ai-clauses',
+    enlace: 'migueldadd4u.github.io/ai-clauses',
     pie: 'No es asesoramiento legal. Su incorporación a un expediente concreto exige el análisis, la adaptación y los informes preceptivos de cada administración.',
   },
 ];

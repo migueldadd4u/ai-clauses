@@ -20,7 +20,9 @@ const OUT = path.join(RAIZ, 'docs', 'descargas', 'resumen-dos-paginas.pdf');
 const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 
 const md = fs.readFileSync(SRC, 'utf8');
-const cuerpo = marked.parse(md, { mangle: false, headerIds: false });
+// la dirección de la web no se parte con guion: partida, «miguel‐ dadd4u» no se puede teclear
+const cuerpo = marked.parse(md, { mangle: false, headerIds: false })
+  .replace(/migueldadd4u\.github\.io\/ai-clauses/g, '<span class="url">$&</span>');
 
 const htmlCon = pt => `<!doctype html><html lang="es"><head><meta charset="utf-8">
 <title>AI Clauses · resumen en dos páginas</title>
@@ -32,6 +34,8 @@ const htmlCon = pt => `<!doctype html><html lang="es"><head><meta charset="utf-8
     font-size: ${pt}pt; line-height: 1.38; color: #22201d;
     column-count: 2; column-gap: .75cm; column-fill: auto;
     text-align: justify; hyphens: auto;
+  }
+  .url { hyphens: none; white-space: nowrap;
   }
   h1 {
     column-span: all; font-family: Georgia, serif; font-size: ${(pt * 2).toFixed(1)}pt;

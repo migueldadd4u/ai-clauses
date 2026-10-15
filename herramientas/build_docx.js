@@ -419,7 +419,7 @@ flushTable();
 const doc = new Document({
   creator: 'Miguel Ángel Domínguez Castellano',
   title: 'Cláusulas de IA y Deep Tech para la contratación pública',
-  description: 'Clausulado tipo, versión 3.0',
+  description: 'Catálogo de cláusulas, versión 4.0',
   numbering: {
     config: [{
       reference: 'num',
@@ -444,7 +444,7 @@ const doc = new Document({
           alignment: AlignmentType.RIGHT,
           spacing: { after: 200 },
           border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: 'D0D0D0', space: 4 } },
-          children: [new TextRun({ text: 'Cláusulas de IA y Deep Tech · versión 3.0', size: 16, color: GRIS, font: SANS })],
+          children: [new TextRun({ text: 'Cláusulas de IA y Deep Tech · versión 4.0', size: 16, color: GRIS, font: SANS })],
         })],
       }),
     },

@@ -54,7 +54,7 @@ s.addText('Cláusulas de inteligencia artificial y deep tech para pliegos de con
 });
 s.addShape(p.ShapeType.line, { x: 0.9, y: 5.5, w: 2.2, h: 0, line: { color: GRIS_CL, width: 1.5 } });
 s.addText('Delfina Lafuente Veira  ·  Dr. José Antonio Ondiviela García  ·  Miguel Ángel Domínguez Castellano', { x: 0.9, y: 5.75, w: 11.5, h: 0.4, fontFace: F_TXT, fontSize: 15, color: BLANCO });
-s.addText('Versión 3.0 · septiembre de 2026 · publicado en abierto bajo licencia CC BY 4.0', {
+s.addText('Versión 4.0, definitiva —no aprobada por ningún órgano— · octubre de 2026 · publicada en abierto bajo licencia CC BY 4.0', {
   x: 0.9, y: 6.15, w: 11.5, h: 0.4, fontFace: F_TXT, fontSize: 13, color: GRIS_CL,
 });
 
@@ -201,7 +201,7 @@ const objs = [
   ['La necesidad no la demanda aún el gestor', 'Unas cláusulas que no nacen de una necesidad demandada por nadie no obligan a nada útil.',
    'Cada cláusula lleva el origen de su necesidad: una norma, el servicio gestor, o un acuerdo del órgano de gobierno. Lo que no tiene ninguno de los tres, no entra.'],
   ['El seguimiento real es escaso, y sólo mira el gasto', 'Y se limita al control del gasto: ni eficacia ni eficiencia.',
-   'Quien controla no puede imponer instrumentos, pero sí necesita el dato al mismo rango que quien gestiona. De ahí ADM-12: sin tarificar, en formato abierto y con diccionario de datos.'],
+   'Quien controla no puede imponer instrumentos, pero sí necesita acceso propio al dato de ejecución, sin depender del proveedor. De ahí ADM-12: sin tarificar, en formato abierto y con diccionario de datos.'],
   ['El grado de abstracción es demasiado alto', 'Pruébese en una contratación ya prevista y poco compleja.',
    'Método para elegir el contrato piloto, y un subconjunto mínimo de seis cláusulas para empezar. El catálogo entero no entra en el primer expediente.'],
   ['Hay actores, y no sólo propios, que no lo han visto', 'Licitadores, asociaciones sectoriales y, si hay recurso, un tribunal.',
@@ -283,7 +283,7 @@ autores.forEach((a, i) => {
   s.addText(a[1] + (a[3] ? '  ·  ' + a[3] : ''), { x: 1.3, y: y + 0.27, w: 11.0, h: 0.23, fontFace: F_TXT, fontSize: 10.8, color: GRIS });
   s.addText(a[2], { x: 1.3, y: y + 0.5, w: 11.0, h: 0.4, fontFace: F_TXT, fontSize: 11.4, color: CARBON });
 });
-s.addText('El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se les reconoce de forma colectiva: sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica se ha pronunciado sobre el catálogo.', {
+s.addText('El contraste con la práctica real de la contratación y la lectura crítica de los borradores son de los servicios técnicos municipales, y se les reconoce de forma colectiva: sus aportaciones han sido voluntarias, desinteresadas y orientadas al interés general. Las cuatro dificultades del §M1.1 son la razón de ser de esta versión y se responden una a una en el cuerpo del documento. Ningún órgano de contratación, intervención o asesoría jurídica ha emitido informe sobre el catálogo ni lo ha aprobado.', {
   x: 0.9, y: 6.5, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 11.0, italic: true, color: GRIS,
 });
 
@@ -317,7 +317,7 @@ s.addText('Una licitación que dura años\nya no se puede sacar como se sacaba a
 s.addText('El clausulado completo, los modelos y esta presentación están publicados en abierto.', {
   x: 0.9, y: 4.6, w: 11.5, h: 0.5, fontFace: F_TXT, fontSize: 18, color: GRIS_CL,
 });
-s.addText('github.com/migueldadd4u/ai-clauses', {
+s.addText('migueldadd4u.github.io/ai-clauses', {
   x: 0.9, y: 5.2, w: 11.5, h: 0.6, fontFace: F_TXT, fontSize: 22, bold: true, color: BLANCO,
 });
 s.addText('No es asesoramiento legal. Su incorporación a un expediente concreto exige el análisis, la adaptación y los informes preceptivos de cada administración.', {

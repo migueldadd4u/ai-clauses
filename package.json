@@ -1,0 +1,21 @@
+{
+  "name": "ai-clauses",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Generadores del catálogo AI Clauses. Versiones con las que se construyó la 4.0 (15/10/2026); se instalan con npm install y el Makefile las encuentra por NODE_PATH.",
+  "license": "CC-BY-4.0",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "construir": "make",
+    "comprobar": "bash herramientas/comprobar_publicable.sh"
+  },
+  "dependencies": {
+    "docx": "9.7.1",
+    "marked": "18.0.11",
+    "pptxgenjs": "4.0.1"
+  },
+  "notas": {
+    "chrome": "Los PDF se imprimen con Google Chrome por su protocolo de depuración (herramientas/imprimir_pdf.js); la 4.0 se construyó con Chrome 155 en macOS, en /Applications/Google Chrome.app.",
+    "pdftotext": "build_resumen.js y comprobar_publicable.sh usan pdftotext y pdfinfo (poppler)."
+  }
+}

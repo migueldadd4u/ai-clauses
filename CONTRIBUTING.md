@@ -13,9 +13,9 @@ en el documento que lee todo el mundo, con su autoría.
 **Cómo se hace, sin saber de Git:** en GitHub, abra el fichero que quiera cambiar, pulse el lápiz
 (*Edit this file*), escriba su propuesta y pulse *Propose changes*. GitHub crea la propuesta sola.
 
-**Qué se cambia y qué no.** El texto vive en `_trabajo/v3_parte*.md` y en `clausulado/`. Los ficheros
+**Qué se cambia y qué no.** El texto vive en `clausulado/partes/v3_parte*.md` (las ocho partes del catálogo), en `clausulado/*.md` y en `clausulado/complementarios/*.md`. Los ficheros
 de `docs/` y de `clausulado/clausulado-ia-deeptech-v3.md` se **generan** con `make`: si edita ahí, su
-cambio se perderá en la siguiente construcción. Ante la duda, proponga sobre `_trabajo/v3_parte*.md`
+cambio se perderá en la siguiente construcción. Ante la duda, proponga sobre `clausulado/partes/v3_parte*.md`
 y ya se regenera lo demás.
 
 **El criterio de aceptación es uno solo:** que la redacción propuesta **resista mejor un recurso** que

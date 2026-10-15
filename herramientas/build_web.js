@@ -178,7 +178,7 @@ paginas.forEach((p, i) => {
       ${ant ? `<a class="prev" href="${ant.archivo}"><span>Anterior</span>${esc(ant.titulo.replace(/\*\*/g, ''))}</a>` : '<span></span>'}
       ${sig ? `<a class="next" href="${sig.archivo}"><span>Siguiente</span>${esc(sig.titulo.replace(/\*\*/g, ''))}</a>` : '<span></span>'}
     </nav>
-    <p class="pie-doc">Versión 3.0 · referencias verificadas a 1 de septiembre de 2026 ·
+    <p class="pie-doc">Versión 4.0, definitiva · referencias verificadas a 1 de septiembre de 2026, con la actualización de 15 de octubre de 2026 ·
     <a href="indice.html">índice del documento</a> ·
     <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a></p>
   </main>
@@ -204,7 +204,7 @@ const indice = CABEZA('Índice del documento', 'Índice completo del clausulado 
   + `
 <main id="contenido" class="ig">
   <h1>Cláusulas de Inteligencia Artificial y Deep&nbsp;Tech</h1>
-  <p class="ig-sub-t">Catálogo de cláusulas para pliegos de contratación pública · versión 3.0</p>
+  <p class="ig-sub-t">Catálogo de cláusulas para pliegos de contratación pública · versión 4.0, definitiva</p>
   <p class="ig-int">${(portada.match(/Elaborado por.*/) || [''])[0]}</p>
   <input id="buscar" type="search" placeholder="Buscar en el índice…" aria-label="Buscar en el índice">
   <div id="listado">
